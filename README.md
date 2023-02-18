@@ -47,4 +47,4 @@ You may use design principles of this lirbrary to run your own private network, 
 This is a live copy of Open Constitution. Documentation changes made to this library are auto-synced on this public repo.
 
 [**Executive Council**](foundation/executive-council.md)
-{% endhint %}
+
