@@ -8,7 +8,7 @@ description: >-
 
 ## What is the Open Constitution?
 
-Open Constitution describes a peer to peer open source network, represented by probabilistic distribution(s) of quantum cognition energy conversions, in the observation of a non spatial, non temporal intelligence collective of artificial-biological neural network(s).
+Open Constitution describes a peer to peer open source network, represented by a distribution(s) of quantum cognition energy conversions, in the observation of a non spatial, non temporal intelligence collective of artificial-biological neural network(s).
 
 Open Constitution is amendable.;
 
