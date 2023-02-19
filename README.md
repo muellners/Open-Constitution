@@ -8,15 +8,15 @@ description: >-
 
 ## What is the Open Constitution?
 
-Open Constitution describes a peer to peer open source network, represented by a distribution(s) of quantum cognition energy conversions, in the observation of a non spatial, non temporal intelligence collective of artificial-biological neural network(s).
+<mark style="color:purple;">Open Constitution describes a peer to peer open source network, represented by a distribution(s) of quantum cognition energy conversions, in the observation of a non spatial, non temporal intelligence collective of artificial-biological neural network(s).</mark>
 
-Open Constitution is amendable.;
+<mark style="color:purple;">Open Constitution is amendable.;</mark>
 
 **Natural and electronic persons can amend Open Constitution articles.**
 
 **Natural persons affiliated to legal bodies in the Open Constitution network can also amend the Open Constitution articles.**
 
-The source code of Open Constitution governance protocols are released and reduced to practice, using Open Constitution license.
+<mark style="color:green;">The source code of Open Constitution governance protocols are released and reduced to practice, using Open Constitution license.</mark>
 
 Read \[[Open Source Policy](open-source-policies/open-source-usage-and-delivery-policies.md)]
 
@@ -29,7 +29,9 @@ Open Constitution initiative operates across different regions of the world, on 
 
 These public facing policy "instruments" and guidelines are based on active harmonization of open governance laws, as articulated in this Open Constitution, including but not limited to bylaws and local statutes for the local communities of Open Constitution to fully address Local jurisdictions and Information Technology Acts, Cyber Security Laws, Legal Contract Binding Acts, Business Laws.
 
-This content along with internal technical systems, tools and resources, our technical workflows make the whole Open Constitution AI based governance protocols.
+
+
+This literature is a library of articles/documents/instruments for open source governance of a human-machine network on Internet. This library is used in active deployment of technical systems and Open Constitution AI based governance protocols, based on the Articles listed in this library. &#x20;
 {% endhint %}
 
 Open Constitution goes through amendments all the time. Open Constitution defines several covenants and articles of association for its citizens.&#x20;
