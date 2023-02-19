@@ -42,4 +42,6 @@ We are running a global association of open source intelligence and Intellectual
 
 You may use design principles of this library to run your own private network, node or a community. You can use the content, by simply attributing to the Open Constitution license.
 
+[https://github.com/muellners/Open-Constitution](https://github.com/muellners/Open-Constitution)
+
 [**Executive Council**](foundation/executive-council.md)
