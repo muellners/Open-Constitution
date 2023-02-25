@@ -117,5 +117,4 @@
 
 ## Outreach
 
-* [📽 Open Podcast](outreach/open-podcast.md)
 * [™ Brand Usage Policy](outreach/brand-usage-policy.md)

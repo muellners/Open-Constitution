@@ -45,7 +45,7 @@ Media CWC is an independent group of volunteers from the Foundation's open commu
 1. <mark style="color:blue;">Maintain and promote Foundation's advocacy</mark>
 2. <mark style="color:blue;">Maintain and promote Foundation's Public Forums, compliant to best practices and standards of freedom of network for Open Constitution citizens.</mark>
 3. <mark style="color:blue;">Maintain a Fact Finding and Fact check group to suppress misinformation and disseminate fact checked literature for Foundation's subscribed citizens.</mark>
-4. <mark style="color:blue;">Maintain and promote Foundation's public affairs assets and properties like Press Releases,</mark> [<mark style="color:blue;">Open Podcast</mark>](../../outreach/open-podcast.md)<mark style="color:blue;">,</mark> [<mark style="color:blue;">Open Research</mark>](broken-reference) <mark style="color:blue;">portal, social media assets.</mark>
+4. <mark style="color:blue;">Maintain and promote Foundation's public affairs assets and properties like Press Releases,</mark> [<mark style="color:blue;">Open Podcast</mark>](broken-reference)<mark style="color:blue;">,</mark> [<mark style="color:blue;">Open Research</mark>](broken-reference) <mark style="color:blue;">portal, social media assets.</mark>
 5. <mark style="color:blue;">File Observations on Foundation's Trademark Infringement to Steward Groups.</mark>
 6. <mark style="color:blue;">Ensure Steward Group maintains Foundation's IT infrastructure and assist in provisioning communication and broadcasting resources to Foundation's citizens.</mark>
 7. <mark style="color:blue;">Media CWC participates in content moderation on Foundation's public channels.</mark>
