@@ -6,8 +6,6 @@ description: >-
 
 # 👮♀ Data Protection
 
-**UPDATED 27th Nov 2022**
-
 ## Data Management: transparency and control
 
 We are an open engineering based global community. Transparency to the processing and control of our member space data is paramount to us.&#x20;
@@ -200,14 +198,21 @@ It is important to note that when members from your organisation sign up indepen
 Asia Pacific (Singapore), Asia Pacific (Sydney), Europe (Frankfurt), US East (N. Virginia), US West (Oregon)
 {% endhint %}
 
-### Research Resources for community references:
+### Relevant LEGAL Resources for community references:
 
-1. [Legal Text of EU's GDPR:](https://gdpr-info.eu)
-2. [A good read on a guide for open source communities.](https://www.linuxfoundation.org/wp-content/uploads/lf\_gdpr\_052418.pdf) (Citation: Linux Foundation)
-3. [Another relevant read](https://www.privacypolicies.com/blog/gdpr-open-source-projects/)&#x20;
-4. [Danish Data Protection Act(in English)](https://www.datatilsynet.dk/media/7753/danish-data-protection-act.pdf)&#x20;
-5. [List of Authorities in your local jurisdiction to contact and complain when any Foundation's members or global citizens privacy rights are encroached. ](https://edpb.europa.eu/about-edpb/about-edpb/members\_en)
-6. [PROPOSED LEGISLATION: THE DIGITAL PERSONAL DATA PROTECTION BILL, 2022, India](https://www.meity.gov.in/writereaddata/files/The%20Digital%20Personal%20Data%20Protection%20Bill%2C%202022.pdf)\
+EU: [Legal Text of EU's GDPR:](https://gdpr-info.eu)
+
+DENMARK: [Danish Data Protection Act(in English)](https://www.datatilsynet.dk/media/7753/danish-data-protection-act.pdf)&#x20;
+
+INDIA: [PROPOSED LEGISLATION: THE DIGITAL PERSONAL DATA PROTECTION BILL, 2022, India](https://www.meity.gov.in/writereaddata/files/The%20Digital%20Personal%20Data%20Protection%20Bill%2C%202022.pdf)
+
+### Grievance Panels or Data Protection Authorities:
+
+(in jurisdictions where network's collective sentience data is hosted)
+
+INDIA: [https://gac.gov.in](https://gac.gov.in)
+
+EU: [List of Authorities in your local jurisdiction to contact and complain when any Foundation's members or global citizens privacy rights are encroached. ](https://edpb.europa.eu/about-edpb/about-edpb/members\_en) \
 
 
 **READ THE** [**FULL TEXT OF THE DATA PROTECTION NOTICE HERE**](notice-data-processing-and-control.md)**:**
