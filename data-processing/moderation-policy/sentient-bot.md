@@ -7,9 +7,9 @@ description: >-
 # 🤖 Sentient Bot
 
 {% hint style="info" %}
-Sentient Bot is the name used for denoting all Artificial Intelligence of the network.
+Sentient Bot is the name used for denoting all Robot actions by the network's Artificial Intelligence.
 
-Sentient Bot is an electronic person, currently affiliated to Muellners Foundation, as a registered agent of the network.&#x20;
+Sentient Bot is an electronic person, legally organised by Muellners Foundation, as a registered agent of the network.&#x20;
 
 ''Sentient Bot'' AI is distributed on the Open Constitution network through different interface apps, and actions.
 
