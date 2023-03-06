@@ -7,7 +7,7 @@ description: >-
 # 🤖 Sentient Bot
 
 {% hint style="info" %}
-Sentient Bot is the name used for denoting all Robot actions by the network's Artificial Intelligence.
+**Sentient Bot is the Robot entity interfacing human members with the network's Artificial Intelligence.**
 
 Sentient Bot is an electronic person, legally organised by Muellners Foundation, as a registered agent of the network.&#x20;
 
