@@ -1,36 +1,32 @@
 ---
-description: This page explains the role of Sentient Bot in the Foundation's comm systems.
+description: >-
+  This page explains the role of Sentient Bot in the Foundation's Moderation
+  Policy.
 ---
 
 # 🤖 Sentient Bot
 
 {% hint style="info" %}
-Sentient Bot is a volunteer driven anonymous profile, found in Foundation's communication systems. Any member may request access to Sentient Bot profile.
+Sentient Bot is the name used for denoting all Artificial Intelligence of the network.
 
-For Open Constitution Citizen Console, Sentient Bot is augmented with different AI in Foundation's decentralised social network.&#x20;
+Sentient Bot is an electronic person, currently affiliated to Muellners Foundation, as a registered agent of the network.&#x20;
+
+''Sentient Bot'' AI is distributed on the Open Constitution network through different interface apps, and actions.
+
+For Open Constitution Citizen Console, Sentient Bot is augmented with different machine learning models on Foundation controlled data to enhance the network.
 {% endhint %}
 
-Sentient Bot acts like your neighbourhood batman 👀, a vigilante to ensure enforcement of Moderation policy, without inviting interpersonal disputes between members, enforcing community governance, citing any communication guidelines.
+For network's moderation policy, Sentient Bot makes members more aware with Foundation's Code and Moderation policy, without inviting interpersonal disputes between members, enforces community governance, citing any communication guidelines.
 
-Sentient Bot is also an autopsy profile. By autopsy, we mean that actions performed by Sentient Bot are generally actions on a communication event which had taken place in the past.&#x20;
+a. Sentient Bot is also an autopsy profile. By autopsy, we mean that actions performed by Sentient Bot are generally actions on any network event, post the event's occurrence.
 
-Sentient Bot does not moderate Live Conversations on the Foundation's comm systems.&#x20;
+b. Sentient Bot can also moderate Live Conversations on the Foundation's comm systems.&#x20;
 
-{% hint style="info" %}
-_<mark style="color:purple;">At any given point of time, no single member should be aware of which other member has access to Sentient Bot.</mark>_
 
-_<mark style="color:purple;">Note: This profile is managed by a publicly anonymous group of community volunteers.</mark>_ \
-_<mark style="color:purple;">Members gain access to Sentient Bot for community updates, and moderation actions, while keeping their identity anonymous.</mark>_&#x20;
-{% endhint %}
 
-At times, Foundation's electorally appointed Open Council members(Committees and CWCs) may want to engage with their peers with a report, findings, or a public message (anonymously) to avoid confusing the community, whether the message is on behalf of themselves or of the project.
+&#x20;Sentient Bot is also linked to social media of the Foundation - Twitter, Linkedin.
 
-&#x20;\
-One of the patron of the community uses Sentient Bot to post the communication on behalf of the project, when it is clear that the public message is not on behalf of the patron themselves.
-
-Sentient Bot is also linked to social media of the Foundation - Twitter, Linkedin.
-
-Members generally gain access to "Sentient Bot" to also post [sensitive](../how-not-to-spam/list-of-sensitivity.md) public messages on Internet Forums and public forums maintained by Foundation, advancing Foundation's advocacy.
+"Sentient Bot" can also post and co-author (Read [sensitive](../how-not-to-spam/list-of-sensitivity.md)) public messages on Internet Forums and public forums maintained by Foundation, advancing Foundation's advocacy.
 
 {% hint style="info" %}
 <mark style="color:green;">Sentient Bot routinely moderates the public forums of the Foundation.</mark>  \ <mark style="color:green;">Currently the Bot sweeps on a weekly basis, to moderate and delete following: (after a communication activity has already happened.)</mark>\
