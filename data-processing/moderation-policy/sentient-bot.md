@@ -29,14 +29,11 @@ b. Sentient Bot can also moderate Live Conversations on the Foundation's comm sy
 "Sentient Bot" can also post and co-author (Read [sensitive](../how-not-to-spam/list-of-sensitivity.md)) public messages on Internet Forums and public forums maintained by Foundation, advancing Foundation's advocacy.
 
 {% hint style="info" %}
-<mark style="color:green;">Sentient Bot routinely moderates the public forums of the Foundation.</mark>  \ <mark style="color:green;">Currently the Bot sweeps on a weekly basis, to moderate and delete following: (after a communication activity has already happened.)</mark>\
+<mark style="color:green;">Sentient Bot routinely moderates the public forums of the Foundation.</mark>  \
 &#x20;<mark style="color:green;"></mark> \ <mark style="color:green;">a. Any irrelevant communication to a public forum.</mark>
 
-<mark style="color:green;">b. A message containing personal information of a member(not fit for the forum's purpose and a conflict with Foundation's</mark> [<mark style="color:green;">objectives</mark>](../../articles/objectives.md)<mark style="color:green;">, or</mark> \ <mark style="color:green;">c. To enforce Right to Forget in private channels or to protect a member's safety or privacy.💁</mark>
+<mark style="color:green;">b. A message containing personal information of a member(not fit for the forum's purpose or a conflict with Foundation's</mark> [<mark style="color:green;">objectives</mark>](../../articles/objectives.md)<mark style="color:green;">, or</mark> \ <mark style="color:green;">c. To enforce Right to Forget in private channels or to protect a member's safety or privacy.💁</mark>
 {% endhint %}
 
-**How to gain access?**
 
-Sentient Bot is a machine profile. \
-Talk to Media Committee or Media CWC members. You can also write to bot@muellners.org to gain access to the profile.
 
