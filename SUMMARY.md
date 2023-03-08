@@ -96,6 +96,7 @@
   * [🤖 Sentient Bot](data-processing/moderation-policy/sentient-bot.md)
 * [🧘♀ Data Processing Agreement](data-processing/data-processing-agreement.md)
 * [👮♀ Data Protection](data-processing/data-protection/README.md)
+  * [Notice: Data Residency Security Policy](data-processing/data-protection/notice-data-residency-security-policy.md)
   * [🌎 Notice: Emeritus Citizen](data-processing/data-protection/notice-emeritus-citizen.md)
   * [🌐 Notice:Data Processing and control](data-processing/data-protection/notice-data-processing-and-control.md)
   * [Notice: Data Residency Control](data-processing/data-protection/notice-data-residency-control.md)
