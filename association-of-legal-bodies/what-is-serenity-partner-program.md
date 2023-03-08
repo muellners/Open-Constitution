@@ -1,11 +1,12 @@
 ---
 description: >-
-  This page explains the Muellners Foundation's "Open Constitution" Partner
-  Program for institutions, organisations, and how to adopt the underlying
-  articles of associations.
+  This section lists the Articles of Association for legal bodies on the Open
+  Constitution network.
 ---
 
-# 🏅 What is Open Constitution for legal bodies?
+# 🏅 Open Constitution Network for legal bodies
+
+This page explains the "Open Constitution" Network Access for institutions, organisations through Network tenancy.
 
 Creation of an Open source advanced intelligence network and democratizing digital public goods and services is an ecosystem driven play.&#x20;
 
