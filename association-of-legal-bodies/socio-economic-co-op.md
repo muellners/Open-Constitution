@@ -8,9 +8,9 @@ description: >-
 
 <mark style="color:red;">**Notice:**</mark> Muellners Foundation invites groups of peoples: legal bodies such as:&#x20;
 
-Not for profit companies, voluntary associations, Co-operatives, MSME unions, Trade Unions, across the world to get enrolled into the Open Constitution Partner Program.&#x20;
+Not for profit companies, voluntary associations, Co-operatives, MSME unions, Trade Unions, across the world to get enrolled into the Open Constitution Network Tenancy.&#x20;
 
-These partners are also elgible to qualify as ["Fiscal Hosts"](broken-reference) for the Foundation.
+Approved and activated Tenants are also elgible to qualify as ["Fiscal Hosts"](broken-reference) for the Foundation.
 
 {% hint style="info" %}
 <mark style="color:purple;">Read about Eligibility and Benefits in the</mark> [<mark style="color:purple;">**Open Bank Knowledge Base.**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/pages/37421057/Association+Tenancy)<mark style="color:purple;">****</mark>

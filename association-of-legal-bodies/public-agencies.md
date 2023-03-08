@@ -6,7 +6,7 @@ description: >-
 
 # 📔 Public Agencies
 
-<mark style="color:red;">**Notice:**</mark> Muellners Foundation invites groups of peoples: public agencies, such as Government and Inter government agencies, Ministries, Financial Supervisory Authorities, and regulatory bodies, Police Administration, Civic Agencies, Municipal bodies, Water and Sanitation Agencies, who are active Identity services providers, regulated within the local law and to be empanelled on the Open Constitution Partner Program.
+<mark style="color:red;">**Notice:**</mark> Muellners Foundation invites groups of peoples: public agencies, such as Government and Inter government agencies, Ministries, Financial Supervisory Authorities, and regulatory bodies, Police Administration, Civic Agencies, Municipal bodies, Water and Sanitation Agencies, who are active Identity services providers, regulated within the local law and to be empanelled on the Open Constitution Network Tenancy.
 
 
 

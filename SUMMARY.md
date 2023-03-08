@@ -98,6 +98,7 @@
 * [👮♀ Data Protection](data-processing/data-protection/README.md)
   * [🌎 Notice: Emeritus Citizen](data-processing/data-protection/notice-emeritus-citizen.md)
   * [🌐 Notice:Data Processing and control](data-processing/data-protection/notice-data-processing-and-control.md)
+  * [Notice: Data Residency Control](data-processing/data-protection/notice-data-residency-control.md)
 * [🔐 Data Security & Handling Agreement](data-processing/data-security-and-handling-agreement.md)
 * [☮ How not to Spam?](data-processing/how-not-to-spam/README.md)
   * [👊 List of Sensitivity](data-processing/how-not-to-spam/list-of-sensitivity.md)

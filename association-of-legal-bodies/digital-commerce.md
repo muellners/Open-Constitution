@@ -6,7 +6,7 @@ description: >-
 
 # 🤝 Digital Commerce
 
-<mark style="color:red;">**Notice:**</mark> Muellners Foundation invites groups of peoples: legal bodies such as digital commerce businesses, digital payment services providers, who are active financial services providers, regulated within the local law and those who enable one or more fintech service(s) to be empanelled on the Open Constitution Partner Program.
+<mark style="color:red;">**Notice:**</mark> Muellners Foundation invites groups of peoples: legal bodies such as digital commerce businesses, digital payment services providers, who are active financial services providers, regulated within the local law and those who enable one or more fintech service(s) to be empanelled on the Open Constitution Network Tenancy.
 
 {% hint style="info" %}
 <mark style="color:purple;">Read about  Eligibility and Benefits in the</mark> [<mark style="color:purple;">**Open Bank Knowledge Base.**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/pages/36798563/Digital+Commerce+Companies)<mark style="color:purple;">****</mark>

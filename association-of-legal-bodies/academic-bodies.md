@@ -6,9 +6,7 @@ description: >-
 
 # 📚 Academic Bodies
 
-<mark style="color:red;">**Notice:**</mark> Muellners Foundation invites groups of peoples: public and private academic institutions and education agencies, such as University, Student Unions, who are active educational services providers, regulated within the local law and to be empanelled on the Open Constitution Partner Program.
-
-
+<mark style="color:red;">**Notice:**</mark> Muellners Foundation invites groups of peoples: public and private academic institutions and education agencies, such as University, Student Unions, who are active educational services providers, regulated within the local law and to be empanelled on the Open Constitution Network Tenancy.
 
 {% hint style="info" %}
 <mark style="color:purple;">Read about  Eligibility and Benefits in the</mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark> [<mark style="color:purple;">**Open Bank Knowledge Base.**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/pages/37453839/Academic+Bodies)<mark style="color:purple;">****</mark>
