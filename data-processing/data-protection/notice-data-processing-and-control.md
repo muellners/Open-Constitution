@@ -1,11 +1,10 @@
 ---
 description: >-
-  This page displays the notice for data processing and control of member data
-  in the context of the subscribed membership activity in open source
-  communities of the Muellners Foundation.
+  This page displays the notice for data processing and control on the Open
+  Constitution network.
 ---
 
-# 🌐 Notice:Data Processing and control
+# 🌐 Notice:Data Processing and Control
 
 **UPDATED 27th Nov 2022**
 
