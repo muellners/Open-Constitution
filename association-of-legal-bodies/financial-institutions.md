@@ -149,7 +149,7 @@ If the convention took place outside the Foundation’s communications infrastru
 {% hint style="info" %}
 <mark style="color:red;">**NOTICE:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> [<mark style="color:red;">APPLY FOR ORG TENANCY</mark>](https://www.open-bank.org/organization-tenancy-open-constitution/)<mark style="color:red;"></mark>
 
-<mark style="color:red;">Wiki: How to Apply</mark>
+<mark style="color:red;">****</mark>[<mark style="color:red;">**Wiki: How to Apply**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/overview) <mark style="color:red;">****</mark>&#x20;
 
 ****
 {% endhint %}
