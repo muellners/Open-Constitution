@@ -6,27 +6,31 @@ description: >-
 
 # 🏅 Open Constitution Network for legal bodies
 
-This page explains the "Open Constitution" Network Access for institutions, organisations through Network tenancy.
+**This page explains the "Open Constitution" Network Access for institutions, organisations**(collectively referred to as ''Org Member'' or ''Tenant'' in this literature) **through Network tenancy.**
 
-Creation of an Open source advanced intelligence network and democratizing digital public goods and services is an ecosystem driven play.&#x20;
+OC Network ecosystem fosters:
 
-Therefore, we welcome and invite strategic partnerships with different academic and non academic institutions, for profit and non for profit companies, a group of scientists and engineers (voluntarily organised as a group), online forums and open source communities.
+Creation of an Open source advanced intelligence network and&#x20;
+
+Democratizing digital public goods and services &#x20;
+
+Therefore, the network welcomes and invites strategic partnerships with different academic and non academic institutions, for profit and non for profit companies, a group of scientists and engineers (voluntarily organised as a group), online forums and open source communities.
 
 {% hint style="info" %}
 \
 **Open Governance via Open Constitution acts as a global governance for quasi co-operative model of decentralised community, with Independent jurisdiction based Fiscal hosts.**\
 ****\
-****The Open Governance derived from this Open Constitution Governance System, governs the 'Open Constitution' Partner Program.&#x20;
+****The Open Governance derived from this Open Constitution Governance System, governs the 'Open Constitution' Network Tenancy.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:green;">Open source contributions contemplated in the partner program on an open source initiative of the Foundation are of mutual interest and benefit to the Foundation and to the partner, and furthers the research objectives of Foundation in a manner, consistent with its status as a non-profit and should derive benefits for both the Company, the Foundation & Foundation’s vision.</mark>
+<mark style="color:green;">Open source contributions contemplated in the Network Tenancy on an open source initiative of the Foundation are of mutual interest and benefit to the Foundation and to the Org member, and furthers the research objectives of Foundation in a manner, consistent with its status as a non-profit and should derive benefits for both the Company, the Foundation & Foundation’s vision.</mark>
 {% endhint %}
 
 {% hint style="info" %}
-_<mark style="color:red;">Partner Program gives the partners the opportunity to avail the benefits of the Open Source Development Program initiated bythe Muellners Foundation by participating in the Foundation’s Open Source Development Roadmap in order to benchmark partner’s industry standard use case of financial services, social services and green initiative</mark>_<mark style="color:red;">s.</mark>
+_<mark style="color:red;">OC Network Tenancy gives the Org Members/Tenants the opportunity to avail the benefits of the Open Source Ecosystem by participating in the Foundation’s Open Source Development Roadmap in order to benchmark tenant’s industry standard use case of financial services, social services and green initiative</mark>_<mark style="color:red;">s.</mark>
 
-<mark style="color:red;"></mark>\ <mark style="color:red;"></mark>_<mark style="color:green;">Partner Progam gives the partners the opportunity to jointly develop open source intellectual property</mark> <mark style="color:green;"></mark><mark style="color:green;">**for the greater good of the humankind.**</mark>_&#x20;
+<mark style="color:red;"></mark>\ <mark style="color:red;"></mark>_<mark style="color:green;">Network Tenancy gives the tenants the opportunity to jointly develop open source intellectual property</mark> <mark style="color:green;"></mark><mark style="color:green;">**for the greater good of the humankind.**</mark>_&#x20;
 
 ### ****
 {% endhint %}
@@ -101,7 +105,9 @@ _<mark style="color:purple;">**Eligibility:**</mark> <mark style="color:purple;"
 Digital companies across the world**, who are active financial services providers, enablers of financial services through a fintech, Research and Development, or technical services.**&#x20;
 
 {% hint style="info" %}
-<mark style="color:red;">**NOTICE:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> [<mark style="color:red;">**Read more on how to add your organisation in Open Constitution.**</mark>](https://docs.muellnersfoundation.info/serenity-partner-program/join-program)<mark style="color:red;">****</mark>
+<mark style="color:red;">**NOTICE:**</mark> <mark style="color:red;"></mark><mark style="color:red;">The Articles of Association are distilled to practices, automation and Artificial Intelligence events on the Open Constitution network.</mark>&#x20;
+
+Read More on How to Activate Org Tenancy in the knowledge base of <mark style="color:blue;"><mark style="color:red;">****<mark style="color:red;"></mark> [<mark style="color:blue;"><mark style="color:red;">**Open bank here**<mark style="color:red;"></mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/overview)<mark style="color:blue;">**.**</mark>
 
 Also, <mark style="color:red;"></mark> Read **** [**Digital Services Credits**](digital-service-credits.md)****
 
