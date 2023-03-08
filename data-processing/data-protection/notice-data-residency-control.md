@@ -6,8 +6,8 @@ description: >-
 
 # Notice: Data Residency Control
 
-| _**Network Site**_                                    | _**Accessibility**_ | _**AWS regions**_           |
-| ----------------------------------------------------- | ------------------- | --------------------------- |
-| Confluenceopenconstitution.atlassian.net              | Global              | Europe (Ireland) and 1 more |
-| Jira Service Managementopenconstitution.atlassian.net | Global              | Europe (Ireland) and 1 more |
-| Jira Softwareopenconstitution.atlassian.net           | Global              | Europe (Ireland) and 1 more |
+| _**Network Site**_                    | _**Accessibility**_ | _**AWS regions**_                       |
+| ------------------------------------- | ------------------- | --------------------------------------- |
+| Knowledge Base                        | Global              | Europe (Ireland) and Europe (Frankfurt) |
+| Foundation Service Management Portals | Global              | Europe (Ireland) and Europe (Frankfurt) |
+| Project Collaboration Resources       | Global              | Europe (Ireland) and Europe (Frankfurt) |
