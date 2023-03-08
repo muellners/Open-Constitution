@@ -1,7 +1,7 @@
 ---
 description: >-
   This page explains articles for empanelment of Digital services companies to
-  Open Constitution Partner Directory.
+  Open Constitution Network Tenancy.
 ---
 
 # 📚 Digital Services Companies
@@ -9,7 +9,7 @@ description: >-
 <mark style="color:red;">**Notice:**</mark> Muellners Foundation invites groups of peoples: public and private technology companies, such as Robotics, AI, Data Science, RnD, Technical Assistance companies who are active technology and research services providers, regulated within the local law and to be empanelled on the Open Constitution Partner Program.
 
 {% hint style="info" %}
-<mark style="color:purple;">Read about  Eligibility and Benefits in the Open Bank Knowledge Base.</mark>
+<mark style="color:purple;">Read about  Eligibility and Benefits in the</mark> [<mark style="color:purple;">**Open Bank Knowledge Base.**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/pages/36798570/Technology+Companies)<mark style="color:purple;">****</mark>
 {% endhint %}
 
 ## Governing Articles:
@@ -148,6 +148,8 @@ If the convention took place outside the Foundation’s communications infrastru
 
 {% hint style="info" %}
 <mark style="color:red;">**NOTICE:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> [<mark style="color:red;">APPLY FOR ORG TENANCY</mark>](https://www.open-bank.org/organization-tenancy-open-constitution/)<mark style="color:red;"></mark>
+
+<mark style="color:red;">****</mark>[<mark style="color:red;">**Guide: How to Apply**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/overview)<mark style="color:red;">****</mark>
 
 ****
 {% endhint %}

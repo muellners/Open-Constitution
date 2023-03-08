@@ -1,7 +1,7 @@
 ---
 description: >-
   This page explains articles for empanelment of Socio-economic co-operative
-  unions(Co-op) to Open Constitution Network Directory.
+  unions(Co-op) to Open Constitution Network Tenancy.
 ---
 
 # 🧑🤝🧑 Socio-economic Co-op
@@ -13,7 +13,7 @@ Not for profit companies, voluntary associations, Co-operatives, MSME unions, Tr
 These partners are also elgible to qualify as ["Fiscal Hosts"](broken-reference) for the Foundation.
 
 {% hint style="info" %}
-<mark style="color:purple;">Read about Eligibility and Benefits in the Open Bank Knowledge Base.</mark>
+<mark style="color:purple;">Read about Eligibility and Benefits in the</mark> [<mark style="color:purple;">**Open Bank Knowledge Base.**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/pages/37421057/Association+Tenancy)<mark style="color:purple;">****</mark>
 {% endhint %}
 
 ## Governing Articles:
@@ -151,9 +151,9 @@ _If the ORG member body is found convicted of criminal, civil and financial crim
 If the convention took place outside the Foundation’s communications infrastructure, then the meeting minutes must be brought back to the notice of the Executive Council.&#x20;
 
 {% hint style="info" %}
-<mark style="color:red;">**NOTICE:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> [<mark style="color:red;">APPLY FOR ORG TENANCY</mark>](https://www.open-bank.org/organization-tenancy-open-constitution/)<mark style="color:red;"></mark>
+<mark style="color:red;">**NOTICE:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> [<mark style="color:red;">APPLY FOR ORG TENANC</mark><mark style="color:red;">**Y**</mark>](https://www.open-bank.org/organization-tenancy-open-constitution/)<mark style="color:red;">****</mark>
 
-****
+<mark style="color:red;">****</mark>[<mark style="color:red;">**Guide: How to Apply**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/overview)<mark style="color:red;">****</mark>
 {% endhint %}
 
 Custodian: [**Executive Council**](../foundation/executive-council.md)&#x20;

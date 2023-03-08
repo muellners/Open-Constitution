@@ -1,7 +1,7 @@
 ---
 description: >-
   This page explains articles for empanelment of Financial Institutions(FI) to
-  Open Constitution Network Tenancy Directory.
+  Open Constitution Network Tenancy.
 ---
 
 # 🏦 Financial Institutions

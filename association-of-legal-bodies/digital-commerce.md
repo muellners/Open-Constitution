@@ -1,7 +1,7 @@
 ---
 description: >-
   This page explains articles for empanelment of Digital Commerce businesses to
-  Open Constitution Partner Directory.
+  Open Constitution Network Tenancy.
 ---
 
 # 🤝 Digital Commerce
@@ -9,7 +9,7 @@ description: >-
 <mark style="color:red;">**Notice:**</mark> Muellners Foundation invites groups of peoples: legal bodies such as digital commerce businesses, digital payment services providers, who are active financial services providers, regulated within the local law and those who enable one or more fintech service(s) to be empanelled on the Open Constitution Partner Program.
 
 {% hint style="info" %}
-<mark style="color:purple;">Read about  Eligibility and Benefits in the Open Bank Knowledge Base.</mark>
+<mark style="color:purple;">Read about  Eligibility and Benefits in the</mark> [<mark style="color:purple;">**Open Bank Knowledge Base.**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/pages/36798563/Digital+Commerce+Companies)<mark style="color:purple;">****</mark>
 {% endhint %}
 
 ## Governing Articles:
@@ -147,9 +147,9 @@ _If the ORG member body is found convicted of criminal, civil and financial crim
 If the convention took place outside the Foundation’s communications infrastructure, then the meeting minutes must be brought back to the notice of the Executive Council.&#x20;
 
 {% hint style="info" %}
-<mark style="color:red;">**NOTICE:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> [<mark style="color:red;">APPLY FOR ORG TENANCY</mark>](https://www.open-bank.org/organization-tenancy-open-constitution/)<mark style="color:red;"></mark>
+<mark style="color:red;">**NOTICE:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> [<mark style="color:red;">APPLY FOR ORG TENANC</mark><mark style="color:red;">**Y**</mark>](https://www.open-bank.org/organization-tenancy-open-constitution/)<mark style="color:red;">****</mark>
 
-****
+<mark style="color:red;">****</mark>[<mark style="color:red;">**Guide: How to Apply**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/overview)<mark style="color:red;">****</mark>
 {% endhint %}
 
 Custodian: [**Executive Council**](../foundation/executive-council.md)&#x20;

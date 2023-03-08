@@ -1,7 +1,7 @@
 ---
 description: >-
   This page explains articles for empanelment of Public Agencies to Open
-  Constitution Partner Directory.
+  Constitution Network Tenancy for public agency individual access keys.
 ---
 
 # 📔 Public Agencies
@@ -11,7 +11,7 @@ description: >-
 
 
 {% hint style="info" %}
-<mark style="color:purple;">Read about Eligibility and Benefits in the Open Bank Knowledge Base.</mark>
+<mark style="color:purple;">Read about Eligibility and Benefits in the</mark> [<mark style="color:purple;">Open Bank Knowledge Base.</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/pages/36995172/Public+Agency+Access)<mark style="color:purple;"></mark>
 
 _<mark style="color:purple;">**NOTICE: EXCEPTION: In certain cases, Network is required to share access to Public Agencies, when a legal data disclosure request is received.**</mark>_&#x20;
 {% endhint %}
@@ -152,6 +152,8 @@ If the convention took place outside the Foundation’s communications infrastru
 
 {% hint style="info" %}
 <mark style="color:red;">**NOTICE:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> [<mark style="color:red;">APPLY FOR</mark> ](https://www.open-bank.org/organization-tenancy-open-constitution/)<mark style="color:red;"></mark>[<mark style="color:red;">PUBLIC AGENCY ACCESS</mark>](https://www.open-bank.org/public-agency-access-open-constitution-network/)<mark style="color:red;"></mark>
+
+<mark style="color:red;">****</mark>[<mark style="color:red;">**Guide: How to Apply**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/overview)<mark style="color:red;">****</mark>
 
 ****
 {% endhint %}

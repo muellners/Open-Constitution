@@ -1,7 +1,7 @@
 ---
 description: >-
   This page explains articles for empanelment of Academic Bodies to Open
-  Constitution Partner Directory.
+  Constitution Network Tenancy.
 ---
 
 # 📚 Academic Bodies
@@ -11,7 +11,7 @@ description: >-
 
 
 {% hint style="info" %}
-<mark style="color:purple;">**Read about  Eligibility and Benefits in the Open Bank Knowledge Base.**</mark>
+<mark style="color:purple;">Read about  Eligibility and Benefits in the</mark> <mark style="color:purple;"></mark><mark style="color:purple;">****</mark> [<mark style="color:purple;">**Open Bank Knowledge Base.**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/pages/37453839/Academic+Bodies)<mark style="color:purple;">****</mark>
 {% endhint %}
 
 ## Governing Articles:
@@ -150,6 +150,8 @@ If the convention took place outside the Foundation’s communications infrastru
 
 {% hint style="info" %}
 <mark style="color:red;">**NOTICE:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> [<mark style="color:red;">APPLY FOR ORG TENANCY</mark>](https://www.open-bank.org/organization-tenancy-open-constitution/)<mark style="color:red;"></mark>
+
+<mark style="color:red;">****</mark>[<mark style="color:red;">**Guide: How to Apply**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/overview)<mark style="color:red;">****</mark>
 
 ****
 {% endhint %}
