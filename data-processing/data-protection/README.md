@@ -129,9 +129,9 @@ If any member wishes to complain about privacy violation or any other code of co
 
 Read about [Moderation Guidelines](../moderation-policy/) here.
 
-Read about [How not to spam](../how-not-to-spam/) public forums of Muellners Foundation here.
+Read about [How not to spam](../moderation-policy/how-not-to-spam/) public forums of Muellners Foundation here.
 
-Read the list of [Sensitivity](../how-not-to-spam/list-of-sensitivity.md) here.
+Read the list of [Sensitivity](../moderation-policy/how-not-to-spam/list-of-sensitivity.md) here.
 
 ## Data Management: transparency and control
 

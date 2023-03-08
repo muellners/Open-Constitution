@@ -90,19 +90,19 @@
 * [🍪 Cookie Policy](privacy/cookie-policy.md)
 * [🔏 Privacy Policy/Notice](privacy/privacy-policy.md)
 
-## Data Processing Policies <a href="#data-processing" id="data-processing"></a>
+## Data Residency Policies <a href="#data-processing" id="data-processing"></a>
 
 * [🤚 Moderation Policy](data-processing/moderation-policy/README.md)
   * [🤖 Sentient Bot](data-processing/moderation-policy/sentient-bot.md)
-* [🧘♀ Data Processing Agreement](data-processing/data-processing-agreement.md)
+  * [☮ How not to Spam?](data-processing/moderation-policy/how-not-to-spam/README.md)
+    * [👊 List of Sensitivity](data-processing/moderation-policy/how-not-to-spam/list-of-sensitivity.md)
 * [👮♀ Data Protection](data-processing/data-protection/README.md)
-  * [🔏 Notice: Data Residency Security and Control Policy](data-processing/data-protection/notice-data-residency-security-and-control-policy.md)
-  * [🌎 Notice: Emeritus Citizen](data-processing/data-protection/notice-emeritus-citizen.md)
   * [🌐 Notice:Data Processing and Control](data-processing/data-protection/notice-data-processing-and-control.md)
-  * [🪅 Notice: Data Residency Hosting and Control Policy](data-processing/data-protection/notice-data-residency-hosting-and-control-policy.md)
+  * [🔏 Notice: Data Residency Security and Control Policy](data-processing/data-protection/notice-data-residency-security-policy.md)
+  * [🪅 Notice: Data Residency Hosting and Control Policy](data-processing/data-protection/notice-data-residency-control.md)
+  * [🌎 Notice: Emeritus Citizen](data-processing/data-protection/notice-emeritus-citizen.md)
 * [🔐 Data Security & Handling Agreement](data-processing/data-security-and-handling-agreement.md)
-* [☮ How not to Spam?](data-processing/how-not-to-spam/README.md)
-  * [👊 List of Sensitivity](data-processing/how-not-to-spam/list-of-sensitivity.md)
+* [🧘♀ Data Processing Agreement](data-processing/data-processing-agreement.md)
 
 ## Open Source Policies
 

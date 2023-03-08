@@ -26,7 +26,7 @@ b. Sentient Bot can also moderate Live Conversations on the Foundation's comm sy
 
 &#x20;Sentient Bot is also linked to social media of the Foundation - Twitter, Linkedin.
 
-"Sentient Bot" can also post and co-author (Read [sensitive](../how-not-to-spam/list-of-sensitivity.md)) public messages on Internet Forums and public forums maintained by Foundation, advancing Foundation's advocacy.
+"Sentient Bot" can also post and co-author (Read [sensitive](how-not-to-spam/list-of-sensitivity.md)) public messages on Internet Forums and public forums maintained by Foundation, advancing Foundation's advocacy.
 
 {% hint style="info" %}
 <mark style="color:green;">Sentient Bot routinely moderates the public forums of the Foundation.</mark>  \

@@ -13,8 +13,8 @@ Following guidelines shall be observed by members, to avoid spam, hate messages,
 This applies to text messages, video, audio feeds in the Foundation's communications system & other Internet based forums of the Foundation (both public and private communications between peers).
 
 1. Use a more positive and assertive tone in your posts.
-2. When making a reference to any human, including a person outside the Foundation's current [membership](../../foundation/citizenship/) purview, members shall cite a public facing record from a verifiable source of information. &#x20;
-3. Members shall not use Foundation's space or forums to advocate their religious and political beliefs. A general debate or discussion should be welcome in the Foundation's community, within the Foundation's [guiding principles](../../guiding-principles.md) and [Code](../../charters/code-of-conduct.md).&#x20;
+2. When making a reference to any human, including a person outside the Foundation's current [membership](../../../foundation/citizenship/) purview, members shall cite a public facing record from a verifiable source of information. &#x20;
+3. Members shall not use Foundation's space or forums to advocate their religious and political beliefs. A general debate or discussion should be welcome in the Foundation's community, within the Foundation's [guiding principles](../../../guiding-principles.md) and [Code](../../../charters/code-of-conduct.md).&#x20;
 4. A member shall post open and empathetic messages. A member should strive to cite a public facing information, to create visibility and clarity on what the member is wishing to express within the community. A member shall not post a speculative message on any public forum of the Foundation.
 5. A member shall not characterize or refer to another peer directly or indirectly, with any adjective on a public forum of the Foundation.&#x20;
 6. A good idea is to be responsible with the use of words, in a multi time zone and multi cultural global community.
@@ -36,7 +36,7 @@ c. To protect privacy of the human and maintain a neutral sensitivity towards th
 
 8\. Members shall assert their views in a parliamentary manner.
 
-9\. A member shall not post any messages about their own "For Profit" work, and if a member is asked to stop by the Moderators, then the member shall stop. Please read about the [Self and Peer Review](../../charters/open-governance/peer-review.md) here.
+9\. A member shall not post any messages about their own "For Profit" work, and if a member is asked to stop by the Moderators, then the member shall stop. Please read about the [Self and Peer Review](../../../charters/open-governance/peer-review.md) here.
 
 Community members may introduce their initatives to their peers and it shall then be the peers who may introduce the initiatives upon their own review. A member should refrain from posting about their own "for profit" activity, on the public forums of the Muellners Foundation.
 
@@ -52,7 +52,7 @@ Members shall always strive to cover opposing views in their arguments to avoid 
 
 While these are loosely defined guidelines, and are regularly updated, Foundation's volunteers shall moderate the community conversations.&#x20;
 
-Please read Foundation's [Moderation Guidelines](../moderation-policy/) here.
+Please read Foundation's [Moderation Guidelines](../) here.
 
 [Spamming](https://en.wikipedia.org/wiki/Spamming)(in this article) encompasses all forms of communications taking place on the public forums of the Foundation, not just text messages.
 

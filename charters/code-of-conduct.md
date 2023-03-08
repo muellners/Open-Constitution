@@ -117,7 +117,7 @@ For your own responses which may be off topic, please mention that you are devia
 
 **8**. For topics that are listed sensitive, be exponentially dispassionate and exponentially empathetic. Think well before placing your words and posting messages on these subjects.\
 These topics could include sexuality, violence, international issues, human crises, animal and environmental issues, family matters, disability, psychological issues and several other areas.\
-Read the [list of Sensitivity](../data-processing/how-not-to-spam/list-of-sensitivity.md) here.
+Read the [list of Sensitivity](../data-processing/moderation-policy/how-not-to-spam/list-of-sensitivity.md) here.
 
 **9.** Substantiate your qualitative information with quantitative information or qualifying data wherever necessary and wherever you can.
 
@@ -203,7 +203,7 @@ Message retention and deletion policy is by default set at 1 day for all Direct 
 **More relevant pages:**\
 ****<mark style="color:purple;">a. Read about how the community ambassadors manage the safety and privacy of members w.r.t subscribed membership activity. Read</mark> [<mark style="color:purple;">Moderation Policy</mark>](../data-processing/moderation-policy/)<mark style="color:purple;"></mark>
 
-<mark style="color:purple;">b. Please read about</mark> [<mark style="color:purple;">How not to spam</mark>](../data-processing/how-not-to-spam/) <mark style="color:purple;">Foundation's public forums.</mark>
+<mark style="color:purple;">b. Please read about</mark> [<mark style="color:purple;">How not to spam</mark>](../data-processing/moderation-policy/how-not-to-spam/) <mark style="color:purple;">Foundation's public forums.</mark>
 
 <mark style="color:purple;">c. Read more on</mark> [<mark style="color:purple;">Self and Peer Review.</mark>](open-governance/peer-review.md)<mark style="color:purple;"></mark>
 

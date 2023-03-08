@@ -4,7 +4,7 @@ description: >-
   network on its Assets.
 ---
 
-# 🪅 Notice: Data Residency Control
+# 🪅 Notice: Data Residency Hosting and Control Policy
 
 | _**Network Site**_                    | _**Accessibility**_ | _**AWS regions**_                       |
 | ------------------------------------- | ------------------- | --------------------------------------- |
