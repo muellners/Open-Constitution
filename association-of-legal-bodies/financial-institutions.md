@@ -9,7 +9,7 @@ description: >-
 <mark style="color:red;">**Notice:**</mark> Muellners Foundation invites groups of peoples: legal bodies such as Banks, International Financial Institutions, Multi-lateral development banks, Central Banks, who are active financial services providers, regulated within the local law and those who enable one or more fintech service(s) to be empanelled on the Open Constitution Network Tenancy Registry.
 
 {% hint style="info" %}
-<mark style="color:purple;">Read about Eligibility and Benefits in the Open Bank Knowledge Base.</mark>
+<mark style="color:purple;">Read about Eligibility and Benefits in th</mark><mark style="color:purple;">**e**</mark> [<mark style="color:purple;">**Open Bank Knowledge Base.**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/pages/36896848/Financial+Institutions+Tenancy)<mark style="color:purple;">****</mark>
 {% endhint %}
 
 ## Governing Articles:
