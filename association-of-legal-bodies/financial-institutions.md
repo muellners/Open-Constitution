@@ -9,34 +9,8 @@ description: >-
 <mark style="color:red;">**Notice:**</mark> Muellners Foundation invites groups of peoples: legal bodies such as Banks, International Financial Institutions, Multi-lateral development banks, Central Banks, who are active financial services providers, regulated within the local law and those who enable one or more fintech service(s) to be empanelled on the Open Constitution Network Tenancy Registry.
 
 {% hint style="info" %}
-<mark style="color:purple;">**Fiscal Eligibility:**</mark>&#x20;
-
-<mark style="color:purple;">a. FI with operational one or more financial service(s).</mark>
-
-<mark style="color:purple;">b. Loan Portfolio> EUR 100 mil</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**OR**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Asset under management(AUM) Book Size> EUR 500 mil</mark>&#x20;
-
-<mark style="color:purple;">**Viability Requirements:**</mark>
-
-<mark style="color:green;">**a.**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> <mark style="color:green;"></mark> <mark style="color:green;"></mark><mark style="color:green;">**A public Open Source Policy:**</mark> <mark style="color:green;"></mark><mark style="color:green;">FI with more than 50% of technology stack powered or pledged to be powered with open source technology</mark><mark style="color:green;">**.**</mark>
-
-<mark style="color:green;">**b. An active Cloud Infrastructure Strategy.**</mark>
-
-<mark style="color:green;">**c. A Public Business Continuity Plan, Disaster Management and Recovery Policy.**</mark>
-
-<mark style="color:green;">**d. A Public Pledge of Action against Climate Change and a policy for Diversity, Equity and Inclusion**</mark> <mark style="color:green;"></mark><mark style="color:green;">in</mark> <mark style="color:green;"></mark><mark style="color:green;">****</mark> <mark style="color:green;"></mark><mark style="color:green;">FI's workspace</mark><mark style="color:green;">**.**</mark>
-
-<mark style="color:green;">****</mark>
+<mark style="color:purple;">Read about Eligibility and Benefits in the Open Bank Knowledge Base.</mark>
 {% endhint %}
-
-## Benefits of Association:
-
-_This membership has been designed so that Org Member bodies can avail following benefits:_
-
-1. Increased representation in open source product lifecycle of the core financial technology stack of FI's financial access programs.
-2. Reduced regulatory burdens of labour, tax, digital services legislation in International national recruitment(s), human capital and Intellectual Property conflicts.&#x20;
-3. Scale FI's financial access agenda with a financial technology stack(Foundation maintained digital public services on the Open Constitution Network).
-4. Avail benefits from Foundation's open governance layer into FI's case study of financial services use case.
-5. Active participation in Feedback lifecycle to Foundation's Open Research with a verified Open Access to Foundation's digital public resource.
 
 ## Governing Articles:
 
@@ -174,6 +148,8 @@ If the convention took place outside the Foundation’s communications infrastru
 
 {% hint style="info" %}
 <mark style="color:red;">**NOTICE:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> [<mark style="color:red;">APPLY FOR ORG TENANCY</mark>](https://www.open-bank.org/organization-tenancy-open-constitution/)<mark style="color:red;"></mark>
+
+<mark style="color:red;">Wiki: How to Apply</mark>
 
 ****
 {% endhint %}

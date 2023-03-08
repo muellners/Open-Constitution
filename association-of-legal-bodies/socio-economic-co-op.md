@@ -13,34 +13,8 @@ Not for profit companies, voluntary associations, Co-operatives, MSME unions, Tr
 These partners are also elgible to qualify as ["Fiscal Hosts"](broken-reference) for the Foundation.
 
 {% hint style="info" %}
-<mark style="color:purple;">**Eligibility:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">A duly recognised and registered Non for profit company with a focus on financial inclusion, social inclusion, and climate protection activities.</mark>
-
-<mark style="color:purple;">The co-operatives organisation</mark> are active financial services providers, regulated within the local law and those who enable one or more fintech service(s) to be empanelled on the Open Constitution Partner Program.
-
-<mark style="color:purple;">**Viability Requirements:**</mark>
-
-<mark style="color:green;">**a.**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> <mark style="color:green;"></mark> <mark style="color:green;"></mark><mark style="color:green;">**A public Open Source Policy:**</mark> <mark style="color:green;"></mark><mark style="color:green;">with more than 50% of technology stack powered or pledged to be powered with open source technology</mark><mark style="color:green;">**.**</mark>
-
-<mark style="color:green;">**b. An active Cloud Infrastructure Strategy.**</mark>
-
-<mark style="color:green;">**c. A Public Business Continuity Plan, Disaster Management and Recovery Policy.**</mark>
-
-<mark style="color:green;">**d. A Public Pledge of Action against Climate Change and a policy for Diversity, Equity and Inclusion**</mark> <mark style="color:green;"></mark><mark style="color:green;">in</mark> <mark style="color:green;"></mark><mark style="color:green;">**Co-op**</mark><mark style="color:green;">'s workspace</mark><mark style="color:green;">**.**</mark>
+<mark style="color:purple;">Read about Eligibility and Benefits in the Open Bank Knowledge Base.</mark>
 {% endhint %}
-
-
-
-> ## Benefits of Association:
->
-> _This membership has been designed so that Partner member bodies can avail following benefits:_
->
-> 1. Increased representation in open source product lifecycle of the core financial technology stack of a co-operative's financial access program.
-> 2. Reduced regulatory burdens of labour, tax, digital services legislation in cross national recruitment(s), human capital and Intellectual Property conflicts.&#x20;
-> 3. Quick scale on co-op's financial access agenda with a financial technology stack (Foundation maintained digital public services and Open Constitution partner ecosystem).
-> 4. Avail benefits from Foundation's open governance layer into co-op's case study of financial services use case.
-> 5. Active participation in Feedback lifecycle to Foundation's Open Research with a verified Open Access to Foundation's digital public resources.
-
-
 
 ## Governing Articles:
 

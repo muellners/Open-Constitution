@@ -11,27 +11,10 @@ description: >-
 
 
 {% hint style="info" %}
-_<mark style="color:purple;">**Eligibility:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">A government or inter government agency of a UN member state which is not sanctioned by any of the United Nation's Agencies such as FATF, World Bank or United Nations Security Council.</mark>_
+<mark style="color:purple;">Read about Eligibility and Benefits in the Open Bank Knowledge Base.</mark>
 
-<mark style="color:purple;">**Viability Requirements:**</mark>
-
-<mark style="color:green;">**a.**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> <mark style="color:green;"></mark> <mark style="color:green;"></mark><mark style="color:green;">**A public Open Source Policy:**</mark> <mark style="color:green;"></mark><mark style="color:green;">with more than 50% of technology stack powered or pledged to be powered with open source technology</mark><mark style="color:green;">**.**</mark>
-
-<mark style="color:green;">**b. An active Cloud Infrastructure Strategy.**</mark>
-
-<mark style="color:green;">**c. A Public Business Continuity Plan, Disaster Management and Recovery Policy.**</mark>
-
-<mark style="color:green;">**d. A Public Pledge of Action against Climate Change and a policy for Diversity, Equity and Inclusion**</mark> <mark style="color:green;"></mark><mark style="color:green;">in</mark> <mark style="color:green;"></mark><mark style="color:green;">**Public Agency**</mark><mark style="color:green;">'s workspace</mark><mark style="color:green;">**.**</mark>
+_<mark style="color:purple;">**NOTICE: EXCEPTION: In certain cases, Network is required to share access to Public Agencies, when a legal data disclosure request is received.**</mark>_&#x20;
 {% endhint %}
-
-## Benefits of Association:
-
-_This membership has been designed so that Partner member bodies can avail following benefits:_
-
-1. Increased representation of member bodies and bureaucratic functionary members in open source product lifecycle(s).
-2. Reduced regulatory burdens of labour, tax, digital services legislation in cross national human capital and Intellectual Property conflicts.&#x20;
-3. Avail benefits from Foundation's open governance layer into your _**e-governance case study**_ and enhanced skill development of members.
-4. Active participation in Feedback lifecycle to Foundation's Open Research with a verified Open Access to Foundation's digital public resource.
 
 ## Governing Articles:
 
