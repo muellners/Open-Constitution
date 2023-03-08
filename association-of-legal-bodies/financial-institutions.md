@@ -173,11 +173,7 @@ _If the ORG member body is found convicted of criminal, civil and financial crim
 If the convention took place outside the Foundation’s communications infrastructure, then the meeting minutes must be brought back to the notice of the Executive Council.&#x20;
 
 {% hint style="info" %}
-<mark style="color:red;">**NOTICE:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> [<mark style="color:red;">**Read more on how to add your organisation in**</mark> ](https://docs.muellnersfoundation.info/serenity-partner-program/join-program)<mark style="color:red;">**Open Constitution**</mark>[<mark style="color:red;">**.**</mark>](https://docs.muellnersfoundation.info/serenity-partner-program/join-program)<mark style="color:red;">****</mark>
-
-Also, <mark style="color:red;"></mark> Read **** [**Digital Services Credits**](digital-service-credits.md)****
-
-&#x20;**** [**Premium Benefits**](https://docs.muellnersfoundation.info/serenity-partner-program/premium-benefits)****
+<mark style="color:red;">**NOTICE:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> [<mark style="color:red;">APPLY FOR ORG TENANCY</mark>](https://www.open-bank.org/organization-tenancy-open-constitution/)<mark style="color:red;"></mark>
 
 ****
 {% endhint %}
