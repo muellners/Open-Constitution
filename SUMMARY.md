@@ -87,7 +87,7 @@
 
 ## Privacy Compliance <a href="#privacy" id="privacy"></a>
 
-* [🍪 Cookie Policy](privacy/cookie-policy/README.md)
+* [🍪 Cookie Policy](privacy/cookie-policy.md)
   * [🍪 Property specific Cookie List](privacy/cookie-policy/property-specific-cookie-list.md)
 * [🔏 Privacy Policy/Notice](privacy/privacy-policy.md)
 

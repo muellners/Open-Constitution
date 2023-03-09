@@ -422,3 +422,7 @@ If you have questions or comments about this policy, you may contact our Legal H
 _If you are a resident in the Republic of India, the "data controller" of your personal information is Muellner Internet Pvt Ltd, India, the principal data processor legal entity, affiliated to Muellners Foundation._   &#x20;
 
 If you have questions or comments about this policy, you may contact our Legal Helpdesk,  please raise a ticket at [Open Constitution Help Center](https://openconstitution.atlassian.net/servicedesk/customer/portals).
+
+
+
+Read [Property Specific Cookies Description and List](cookie-policy/property-specific-cookie-list.md)
