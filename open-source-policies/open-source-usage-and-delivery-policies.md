@@ -6,7 +6,7 @@ description: >-
 
 # 🆓 Open Source Policy
 
-(<mark style="color:red;">Note for editors: This page and policy is scheduled to be updated upon the public release of MF license.)</mark>
+(<mark style="color:red;">Note for editors: This page and policy is scheduled to be updated upon the public release of Open Constitution digital license registry.)</mark>
 
 **UPDATED 6th Jan 2023**
 
@@ -35,16 +35,16 @@ _Some services may simply be part of third party maintained distributions, licen
 ### A. List of open source projects:
 
 _**A1. Supported/Assessed Third party Open Source Projects: (Since 2019)**_\
-_****<mark style="color:purple;">Note for editors to this section: Only those projects are listed below where Foundation maintains a Dedicated and Managed Services (post incubation stage)</mark>_
+_<mark style="color:purple;">Note for editors to this section: Only those projects are listed below where Foundation maintains a Dedicated and Managed Services (post incubation stage)</mark>_
 
 | Third Party Project   |                                                              Governing License and Maintainer                                                              | Governing License for Foundation's Contributions |
 | --------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 | Apache Fineract       | <p><a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a><br><br><a href="https://www.apache.org">Apache Software Foundation</a></p> |             Open Constitution License            |
 | Mifos X Community App |       <p><a href="https://www.mozilla.org/en-US/MPL/2.0/">Mozilla Public License</a><br><br><a href="https://mifos.org">Mifos Foundation</a><br></p>       |             Open Constitution License            |
-| Wordpress             |                                      GNU GPL v2 or later; __ [WordPress Foundation](https://wordpressfoundation.org/)                                      |                        N/a                       |
+| Wordpress             |                                        GNU GPL v2 or later; [WordPress Foundation](https://wordpressfoundation.org/)                                       |                        N/a                       |
 | WooCommerce           |                                                      GNU GPL v3, [Autommatic](https://automattic.com)                                                      |                        N/a                       |
 
-_**A2. Foundation maintained open source projects:**                                                                                                      <mark style="color:purple;">(Note for editors to this section: List only those projects below which are post incubation stage.)</mark>  ****_&#x20;
+_**A2. Foundation maintained open source projects:**                                                                                                      <mark style="color:purple;">(Note for editors to this section: List only those projects below which are post incubation stage.)</mark> _&#x20;
 
 | Project                                                                                                        | Governing License(s)                                                                  | OC License Compatibility with         | Project Governing Body                                         |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------- | -------------------------------------------------------------- |
@@ -88,7 +88,7 @@ In application level, source code changes including system re-engineering, funct
 
 Creating and publishing documentation such as research papers, white papers on a part or whole of an OSS projects(both engineered or re engineered) including but not limited to technical architectural diagrams, workflow diagrams, generic business logic documentation, wiki, support forum documentation, assist documentation, helpbook etc.
 
-**WORK 3: **_**Derivative Documentation on**_** Foundation supported FOSS project**_**:**_** **&#x20;
+**WORK 3: **_**Derivative Documentation on**_** Foundation supported FOSS project**_**:**_&#x20;
 
 Creating and publishing baseline documentation on independently engineered components of  including but not limited to wiki, support forum documentation, technical architectural diagrams, assist documentation, helpbook etc.
 
@@ -97,7 +97,7 @@ Creating and publishing baseline documentation on independently engineered compo
 {% hint style="info" %}
 <mark style="color:green;">This policy and its contents apply to following participants and stakeholders:</mark>
 
-<mark style="color:green;"></mark>
+
 
 1. <mark style="color:green;">Employees, Independent Contractors and service providers to the Open Constitution and its constituent registered agents or Fiscal Host bodies - including but not limited to Research and Development team, system engineers, Management, DevOps engineers, Product engineers and Researchers.</mark>
 2. <mark style="color:green;">Natural persons who are Foundation's naturalised citizens, including but not limited to individual contributors, Learn fellowship members, Ambassador Council members, Fellowship Grant Recipients, officers and electoral appointees to the Open Constitution bodies e.g C.W.C, Open Council bodies, Board and Board committees.</mark>
