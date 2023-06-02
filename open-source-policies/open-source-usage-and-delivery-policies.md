@@ -8,7 +8,7 @@ description: >-
 
 (<mark style="color:red;">Note for editors: This page and policy is scheduled to be updated upon the public release of Open Constitution digital license registry.)</mark>
 
-**UPDATED 6th Jan 2023**
+**UPDATED 2nd May 2023**
 
 
 
@@ -16,7 +16,7 @@ description: >-
 >
 > Natural Persons, and
 >
-> Natural Persons affiliated to Legal Bodies, which are part of Open Constitution Partner Program.
+> Natural Persons affiliated to Legal Bodies, which are part of Open Constitution Network Tenancy.
 >
 > ''Third Party'' here means an affiliated object of observation, maintained by a Legal Body, outside the ownership control of Open Constitution and its constituent fiscal host bodies e.g Muellners Foundation.
 >
@@ -46,14 +46,7 @@ _<mark style="color:purple;">Note for editors to this section: Only those projec
 
 _**A2. Foundation maintained open source projects:**                                                                                                      <mark style="color:purple;">(Note for editors to this section: List only those projects below which are post incubation stage.)</mark> _&#x20;
 
-| Project                                                                                                        | Governing License(s)                                                                  | OC License Compatibility with         | Project Governing Body                                         |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------- | -------------------------------------------------------------- |
-| [Finscale](open-source-usage-and-delivery-policies.md#g.-rules-governing-direct-delivery-of-work) Distribution | Open Constitution License                                                             | Apache 2.0, Mozilla Public License    | Finscale CWC                                                   |
-| [Open Podcast](https://www.muellners.org/openpodcast/)                                                         | Open Constitution License                                                             | Creative Commons                      | Media Council                                                  |
-| Fineract Support Wiki                                                                                          | [Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/legalcode)  | donated to Apache Software Foundation | [Finscale CWC](../foundation/steering-council/finscale-cwc.md) |
-| [Second.Exchange](https://second.exchange)                                                                     | Cynsar Foundation                                                                     |                                       | Project CWC                                                    |
-| [Open Research](https://research.muellners.org)                                                                | Open Constitution License                                                             | Creative Commons                      | Steering Council                                               |
-| [Social Credits Marketplace](https://muellners.biz)                                                            | <p>Open Constitution License<br></p>                                                  | GNU GPL                               | Treasury Council                                               |
+<table><thead><tr><th width="163">Project</th><th>Governing License(s)</th><th width="174">OC License Compatibility with</th><th>Project Governing Body</th></tr></thead><tbody><tr><td><a href="open-source-usage-and-delivery-policies.md#g.-rules-governing-direct-delivery-of-work">Finscale</a> Distribution</td><td>Open Constitution License</td><td>Apache 2.0, Mozilla Public License </td><td>Finscale CWC</td></tr><tr><td><a href="https://www.muellners.org/openpodcast/">Open Podcast</a></td><td>Open Constitution License </td><td>Creative Commons</td><td>Media Council</td></tr><tr><td>Fineract Support Wiki</td><td><a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons License</a> </td><td>donated to Apache Software Foundation</td><td><a href="../foundation/steering-council/finscale-cwc.md">Finscale CWC</a></td></tr><tr><td><a href="https://second.exchange">Second.Exchange</a></td><td>Cynsar Foundation</td><td></td><td>Project CWC</td></tr><tr><td><a href="https://research.muellners.org">Open Research</a></td><td>Open Constitution License</td><td>Creative Commons</td><td>Steering Council</td></tr><tr><td><a href="https://muellners.biz">Social Credits Marketplace</a></td><td>Open Constitution License<br></td><td>GNU GPL</td><td>Treasury Council</td></tr></tbody></table>
 
 
 

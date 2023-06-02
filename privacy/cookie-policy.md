@@ -39,6 +39,8 @@ When you visit our website(s) and services, including connected third party serv
 [https://open-bank.org](https://open-bank.org), and any subdomains thereof\
 [https://bitrupee.net](https://bitrupee.net), and any subdomains thereof
 
+[https://openbounty.net](https://openbounty.net/), and any subdomains thereof
+
 https://muellnersfoundation.net and any subdomains thereof
 
 https://muellnersfoundation.org and any subdomains thereof
@@ -320,7 +322,7 @@ Below listed cookies based on use of Cloudflare cookies on our Sites and service
 | Type:       | server\_cookie                                                                                                                                                                         |
 | Expires in: | 30 days                                                                                                                                                                                |
 
-****\
+\
 **ANALYTICS COOKIES:**
 ----------------------
 
@@ -336,7 +338,7 @@ These cookies collect information that is used either in aggregate form to help 
 >
 > * **Third Party Analytics**. Through Google Analytics in order to collect and analyze information about the use of the Services and report on activities and trends. This service may also collect information regarding the use of other sites, apps and online resources. You can learn about Google's practices on the [Google website](https://policies.google.com/technologies/partner-sites). See further details below on how to manage these cookies.
 
-****
+
 
 **\_\_hstc**
 
