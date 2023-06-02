@@ -24,18 +24,18 @@ b. Privacy Controls and triggers on Member's space such as 2 Factor login authen
 1. <mark style="color:purple;">Public & Private channels on Foundation's Slack Memberspace</mark>
 2. <mark style="color:purple;">Foundation's Discord Server</mark>
 3. <mark style="color:purple;">Private and Public Mailing Lists of Foundation’s projects</mark>
-4. <mark style="color:purple;"></mark>[<mark style="color:purple;">Linkedin Page - Muellners Foundation</mark>](https://www.linkedin.com/company/muellnersfoundation)<mark style="color:purple;">**,**</mark> [<mark style="color:purple;">**Linked based Newsletter**</mark>](https://www.linkedin.com/newsletters/open-newsletter-6923175534113746944/)<mark style="color:purple;">**, Linked based groups -**</mark> [<mark style="color:purple;">**Open Source Community**</mark>](https://www.linkedin.com/groups/12455196/)<mark style="color:purple;">****</mark>
-5. <mark style="color:purple;">****</mark>[<mark style="color:purple;">**Twitter - Muellners Foundation**</mark>](http://twitter.com/muellnersorg/)<mark style="color:purple;">****</mark>
+4. [<mark style="color:purple;">Linkedin Page - Muellners Foundation</mark>](https://www.linkedin.com/company/muellnersfoundation)<mark style="color:purple;">**,**</mark> [<mark style="color:purple;">**Linked based Newsletter**</mark>](https://www.linkedin.com/newsletters/open-newsletter-6923175534113746944/)<mark style="color:purple;">**, Linked based groups -**</mark> [<mark style="color:purple;">**Open Source Community**</mark>](https://www.linkedin.com/groups/12455196/)
+5. [<mark style="color:purple;">**Twitter - Muellners Foundation**</mark>](http://twitter.com/muellnersorg/)
 6. <mark style="color:purple;">Open Constitution Member Console</mark>
-7. <mark style="color:purple;">****</mark>[<mark style="color:purple;">**Open Podcast**</mark>](https://www.muellners.org/openpodcast/) <mark style="color:purple;">Channels of Foundation</mark>
+7. [<mark style="color:purple;">**Open Podcast**</mark>](https://www.muellners.org/openpodcast/) <mark style="color:purple;">Channels of Foundation</mark>
 8. <mark style="color:purple;">Decentralised Comm Network and Content Delivery Network of Foundation -</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Second.Exchange**</mark>
-9. <mark style="color:purple;">****</mark>[<mark style="color:purple;">**Public Discourse Forum**</mark>](https://muellners.discourse.group)<mark style="color:purple;">****</mark>
+9. [<mark style="color:purple;">**Public Discourse Forum**</mark>](https://muellners.discourse.group)
 10. <mark style="color:purple;">Project and Topic based Telegram broadcast forums, maintained by Council & Committees of Open Constitution</mark><mark style="color:purple;">**.**</mark>
-11. <mark style="color:purple;">****</mark>[<mark style="color:purple;">**Open Bulletin**</mark>](https://www.muellnersfoundation.net/)<mark style="color:purple;">****</mark>
-12. <mark style="color:purple;">**Foundation's Open Engineering Work Management - all urls starting from**</mark> [<mark style="color:purple;">**https://muellnersorg.atlassian.net**</mark>](https://muellnersorg.atlassian.net)<mark style="color:purple;">****</mark>
+11. [<mark style="color:purple;">**Open Bulletin**</mark>](https://www.muellnersfoundation.net/)
+12. <mark style="color:purple;">**Foundation's Open Engineering Work Management - all urls starting from**</mark> [<mark style="color:purple;">**https://muellnersorg.atlassian.net**</mark>](https://muellnersorg.atlassian.net)
 13. <mark style="color:purple;">**Foundation's public repository, Github Actions**</mark>
 
-<mark style="color:purple;"><mark style="color:red;">****<mark style="color:red;"></mark>
+
 {% endhint %}
 
 Website(s) and services, including connected third party services;
@@ -58,15 +58,18 @@ Website(s) and services, including connected third party services;
 
     [https://bitrupee.net](https://bitrupee.net), and any subdomains thereof
 
-    https://muellnersfoundation.net and any subdomains thereof
+[https://openbounty.net](https://openbounty.net/), and any subdomains thereof
 
-    https://muellnersfoundation.org and any subdomains thereof
+https://muellnersfoundation.net and any subdomains thereof
 
-    https://muellnersfoundation.info and any subdomains thereof&#x20;
+https://muellnersfoundation.org and any subdomains thereof
 
-    https://opensource.exchange and any subdomains thereof&#x20;
+https://muellnersfoundation.info and any subdomains thereof&#x20;
 
-    https://openconstitution.ai and any subdomains thereof&#x20;
+https://opensource.exchange and any subdomains thereof&#x20;
+
+https://openconstitution.ai and any subdomains thereof&#x20;
+
 * [ ] **Third Party**/_Other_ uniform resource locators(URLs) where Forms or (both web browser and mobile) applications are hosted to collect confidential information and are generated through third party services(Slack, Discord, Facebook, Twitter, Linkedin, Discourse, Gitbook, Atlassian, Github, Google Calendar, Telegram Broadcast channels, Stripe), either directly shared to you by the Muellners on its own or public platforms of communication &#x20;
 
 
@@ -157,7 +160,7 @@ For the purposes of this policy; What does “**processing**” mean?&#x20;
 
 **Foundation uses following criteria(s) as the lawful bases for processing its member’s data:**
 
-a. **** Consent - the member has freely permitted Foundation to process their data. The consents are digitally recorded e.g when a member joins Foundation slack or discord server, or signs up on a web url which takes the member to Foundation’s communication systems.&#x20;
+a. Consent - the member has freely permitted Foundation to process their data. The consents are digitally recorded e.g when a member joins Foundation slack or discord server, or signs up on a web url which takes the member to Foundation’s communication systems.&#x20;
 
 b. Contract - member has voluntarily signed up and joined the membership space, and Foundation needs to process their data to carry out and maintain subscribed membership activities, within the Foundation’s guidelines.&#x20;
 

@@ -43,6 +43,8 @@ When you visit our website(s) and services, including connected third party serv
 
 [https://bitrupee.net](https://bitrupee.net), and any subdomains thereof
 
+[https://openbounty.net](https://openbounty.net/), and any subdomains thereof
+
 https://muellnersfoundation.net and any subdomains thereof
 
 https://muellnersfoundation.org and any subdomains thereof
@@ -127,7 +129,7 @@ This privacy policy applies to all information collected through our website and
 
 **Personal information you disclose to us**&#x20;
 
-_**In Short:**_** ** _We collect personal information(at times Non public personal information - NPPIs) that you provide to us such as_&#x20;
+_**In Short:**_ _We collect personal information(at times Non public personal information - NPPIs) that you provide to us such as_&#x20;
 
 _name, address, contact information, passwords and security data, payment information, and social media login data._ &#x20;
 
@@ -147,7 +149,7 @@ All personal information that you provide to us must be true, complete and accur
 
 **Information automatically collected**&#x20;
 
-_**In Short:**_** ** _Some information – such as IP address and/or browser and device characteristics – is collected automatically when you visit our Sites or Apps._
+_**In Short:**_ _Some information – such as IP address and/or browser and device characteristics – is collected automatically when you visit our Sites or Apps._
 
 We automatically collect certain information when you visit, use or navigate the Sites or Apps. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Sites or Apps and other technical information. This information is primarily needed to maintain the security and operation of our Sites or Apps, and for our internal analytics and reporting purposes.&#x20;
 
@@ -155,7 +157,7 @@ Like many businesses, we also collect information through cookies and similar te
 
 **Information collected through our Apps**&#x20;
 
-_**In Short:**_** ** _We may collect information regarding your geo-location, mobile device, and Facebook permissions when you use our apps._
+_**In Short:**_ _We may collect information regarding your geo-location, mobile device, and Facebook permissions when you use our apps._
 
 If you use our Apps, we may also collect the following information:  &#x20;
 
@@ -231,7 +233,7 @@ More specifically, we may need to process your data or share your personal infor
 * **Other Users.** When you share personal information (for example, by posting comments, contributions or other content to the Sites or Apps) or otherwise interact with public areas of the Sites or Apps, such personal information may be viewed by all users and may be publicly distributed outside the Sites or Apps in perpetuity. If you interact with other users of our Sites or Apps and register through a social network (such as Facebook), your contacts on the social network will see your name, profile photo, and descriptions of your activity. Similarly, other users will be able to view descriptions of your activity, communicate with you within our Sites or Apps, and view your profile.    &#x20;
 
 **4. WHO WILL YOUR INFORMATION BE SHARED WITH?** \
-_**In Short:**_**  ** _We only share information with the following third parties._    We only share and disclose your information with the following third parties. We have categorized each party so that you may be easily understand the purpose of our data collection and processing practices. If we have processed your data based on your consent and you wish to revoke your consent, please contact us. &#x20;
+_**In Short:**_** ** _We only share information with the following third parties._    We only share and disclose your information with the following third parties. We have categorized each party so that you may be easily understand the purpose of our data collection and processing practices. If we have processed your data based on your consent and you wish to revoke your consent, please contact us. &#x20;
 
 * **Advertising, Direct Marketing, and Lead Generation**\
   Google AdSense
