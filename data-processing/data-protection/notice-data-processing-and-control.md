@@ -64,7 +64,7 @@ For the purposes of this Privacy Policy:
 
 <mark style="color:purple;">Public group at https://www.linkedin.com/groups/12455196/</mark>&#x20;
 
-<mark style="color:purple;">Newsletter at</mark> [<mark style="color:purple;">https://www.linkedin.com/newsletters/open-newsletter-6923175534113746944/</mark>](https://www.linkedin.com/newsletters/open-newsletter-6923175534113746944/)<mark style="color:purple;"></mark>
+<mark style="color:purple;">Newsletter at</mark> [<mark style="color:purple;">https://www.linkedin.com/newsletters/open-newsletter-6923175534113746944/</mark>](https://www.linkedin.com/newsletters/open-newsletter-6923175534113746944/)
 
 <mark style="color:purple;">b.7 Our community’s social media channel at</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Twitter**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">https://twitter.com/muellnersorg</mark>&#x20;
 
@@ -74,12 +74,13 @@ For the purposes of this Privacy Policy:
 
 <mark style="color:purple;">b.10</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Google Workspace Account and Google Identity Provider**</mark>
 
-<mark style="color:purple;">****</mark>\ <mark style="color:purple;">****</mark><mark style="color:purple;">b.11 Project and Topic based Telegram broadcast forums, maintained by Council & Committees of Open Constitution</mark><mark style="color:purple;">**.**</mark>
+\
+<mark style="color:purple;">b.11 Project and Topic based Telegram broadcast forums, maintained by Council & Committees of Open Constitution</mark><mark style="color:purple;">**.**</mark>
 
 <mark style="color:purple;">b.12 Docusign web and mobile application, maintained by Foundation.</mark>
 
 <mark style="color:purple;">b.13 Foundation's Salesforce Lightning, Non for Profit Success Cloud instance</mark>\
-****
+
 
 
 {% endhint %}
@@ -105,6 +106,8 @@ Website(s) and services, including connected third party services;
 
 [https://open-bank.org](https://open-bank.org), and any subdomains thereof\
 [https://bitrupee.net](https://bitrupee.net), and any subdomains thereof
+
+[https://openbounty.net](https://openbounty.net/), and any subdomains thereof
 
 https://muellnersfoundation.net and any subdomains thereof
 

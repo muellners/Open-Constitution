@@ -18,7 +18,7 @@
 * [🤝 Citizenship](foundation/citizenship/README.md)
   * [🧗 Local Citizen](foundation/citizenship/local-citizen.md)
   * [🙋 Global Citizen](foundation/citizenship/global-citizen.md)
-  * [👩🎨 👩🎨 Subscription Registry](foundation/citizenship/subscription-registry.md)
+  * [👩🎨 Subscription Registry](foundation/citizenship/subscription-registry.md)
   * [🙅 Beneficiary Registry](foundation/citizenship/beneficiary-registry.md)
   * [🤹 Emeritus Citizen](foundation/citizenship/emeritus-citizen.md)
 * [🏨 Election Council](foundation/election-council.md)
