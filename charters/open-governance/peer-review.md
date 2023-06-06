@@ -32,4 +32,4 @@ Open Constitution initiatives are peer reviewed.
 
 Whenever in doubt regarding a decision making exercise, a peer review shall be the taken as a preferred choice of decision making. \
 \
-**Custodian:** [**Executive Council**](../../foundation/executive-council.md)****
+**Custodian:** [**Executive Council**](../../foundation/executive-council.md)

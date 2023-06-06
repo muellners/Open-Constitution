@@ -8,7 +8,7 @@ These are the guiding principles for all the natural persons, legal persons(bodi
 
 > **Read about Humans** (_Homo sapiens_) who are the most abundant and widespread [species](https://en.wikipedia.org/wiki/Species) of [primate](https://en.wikipedia.org/wiki/Primate), characterized by [bipedalism](https://en.wikipedia.org/wiki/Bipedality) and large, complex [brains](https://en.wikipedia.org/wiki/Brain). They are intelligent, capable of [episodic memory](https://en.wikipedia.org/wiki/Episodic\_memory#In\_animals), have flexible facial expressions, [self-awareness](https://en.wikipedia.org/wiki/Self-awareness) and a [theory of mind](https://en.wikipedia.org/wiki/Theory\_of\_mind).&#x20;
 >
-> <mark style="color:red;">****</mark>
+>
 
 ## **I. Conservation of human Sentience by Observation and Protection of Human Rights**
 
@@ -43,7 +43,7 @@ These are the guiding principles for all the natural persons, legal persons(bodi
 
 <mark style="color:red;">Members advocate breaking down prevalent systematic racism, organised by individuals, or group of individuals, with the help of public policy reforms and e governance based inclusion.</mark>
 
-<mark style="color:red;"></mark>
+
 
 <mark style="color:red;">**Culturism:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Members do not endorse culturism, and instead advocate multi-culturism in an open minded, higher intelligence human society.</mark>
 
@@ -51,7 +51,8 @@ These are the guiding principles for all the natural persons, legal persons(bodi
 
 <mark style="color:red;">All diverse ethnic heritage endowed in the present human society</mark><mark style="color:red;">**,**</mark> <mark style="color:red;"></mark><mark style="color:red;">are fundamental to humankind and sentience of human life.</mark>&#x20;
 
-<mark style="color:red;">Members respect all diverse cultural identities.</mark>\ <mark style="color:red;"></mark>
+<mark style="color:red;">Members respect all diverse cultural identities.</mark>\
+
 {% endhint %}
 
 {% hint style="info" %}
@@ -76,7 +77,7 @@ Members base their work against racial discrimination from the “The Declaratio
 
 <mark style="color:green;">Members support and advocate Internet Freedom public policy and assists National Data Protection Authorities in conserving citizen privacy, over the Internet.</mark>
 
-<mark style="color:green;">****</mark>
+
 {% endhint %}
 
 ## **III. Gender Identity:**
@@ -84,11 +85,13 @@ Members base their work against racial discrimination from the “The Declaratio
 {% hint style="info" %}
 <mark style="color:green;">**🏳️‍🌈Gender:**</mark> <mark style="color:green;"></mark><mark style="color:green;">All human beings are free to represent themselves with any gender identity.</mark>  \ <mark style="color:green;">Members support a non-binary position on human gender identity.</mark>
 
-&#x20;<mark style="color:green;"></mark>&#x20;
+&#x20;
 
-<mark style="color:green;">Members work towards a world where humans</mark> <mark style="color:green;"></mark><mark style="color:green;">**who have diverse gender identities,**</mark>** **<mark style="color:red;">****</mark>** **<mark style="color:green;">**and expressions**</mark> <mark style="color:green;"></mark><mark style="color:green;">have equal access to opportunities and preservation of their human rights.</mark>&#x20;
+<mark style="color:green;">Members work towards a world where humans</mark> <mark style="color:green;"></mark><mark style="color:green;">**who have diverse gender identities,**</mark> <mark style="color:green;">**and expressions**</mark> <mark style="color:green;"></mark><mark style="color:green;">have equal access to opportunities and preservation of their human rights.</mark>&#x20;
 
-<mark style="color:green;">Members respect diverse experiences, identities, knowledge and strengths of every human, whether based on biological differences or cultural and social diversity.</mark>\ <mark style="color:green;"></mark>\ <mark style="color:green;"></mark>[Read more on relevant gender studies literature here](https://www.digest.ugent.be).
+<mark style="color:green;">Members respect diverse experiences, identities, knowledge and strengths of every human, whether based on biological differences or cultural and social diversity.</mark>\
+\
+[Read more on relevant gender studies literature here](https://www.digest.ugent.be).
 {% endhint %}
 
 ## **IV. Sexual Identity:**
@@ -96,7 +99,9 @@ Members base their work against racial discrimination from the “The Declaratio
 {% hint style="info" %}
 <mark style="color:green;">**🏳️‍🌈Sexual Orientation:**</mark> <mark style="color:green;"></mark><mark style="color:green;">No human should be subjected to any sexual identity based exclusion.</mark> \ <mark style="color:green;">Members believe that all human beings have the freedom to express their sexual orientation, without fear of hostility.</mark>
 
-<mark style="color:green;">Members support and promote equity for all human beings, and conserves freedom of those who identify with any sexual orientation.</mark> \ <mark style="color:green;">****</mark>\ <mark style="color:green;">****</mark>****[Read more here.](https://www.ohchr.org/EN/Issues/LGBTI/Pages/UNResolutions.aspx)&#x20;
+<mark style="color:green;">Members support and promote equity for all human beings, and conserves freedom of those who identify with any sexual orientation.</mark> \
+\
+[Read more here.](https://www.ohchr.org/EN/Issues/LGBTI/Pages/UNResolutions.aspx)&#x20;
 {% endhint %}
 
 >
@@ -117,7 +122,7 @@ Every human being should respect another fellow being’s **religious identity, 
 
 _Foundation is a non religious organisation and therefore promotes a healthy and open dialogue on subjects of theology, amongst citizen(s) practicing different and diverse religious identities._&#x20;
 
-__
+
 {% endhint %}
 
 ## **VI. Planetary Governance System:**
@@ -127,7 +132,9 @@ __
 
 <mark style="color:red;">The Foundation is an apolitical organisation and does not hold any bias, with or against political groups.</mark>&#x20;
 
-<mark style="color:red;">Foundation members support and debate on reforming public policies. which informs Foundation's open research and development, and steer socially inclusive product engineering.</mark>\ <mark style="color:red;"></mark>\ <mark style="color:red;"></mark><mark style="color:red;">**We do not support political groups on the planet that disrespect or do not recognize universal human rights.**</mark>
+<mark style="color:red;">Foundation members support and debate on reforming public policies. which informs Foundation's open research and development, and steer socially inclusive product engineering.</mark>\
+\
+<mark style="color:red;">**We do not support political groups on the planet that disrespect or do not recognize universal human rights.**</mark>
 {% endhint %}
 
 <mark style="color:green;">**Censorship:**</mark>
@@ -171,7 +178,9 @@ Read [UN Security Council Resolutions here](https://www.un.org/securitycouncil/c
 {% hint style="info" %}
 <mark style="color:green;">Not only adverse climate change is real but we are working towards reversing it by supporting green initiatives and carbon neutrality.</mark>&#x20;
 
-<mark style="color:green;">Members support research and development, across a spectrum of different technologies to support an ecologically stable planet earth.</mark> \ <mark style="color:green;"></mark>\ <mark style="color:green;"></mark>**Biodiversity:** M_embers encourage, and support enriching biodiversity and assert its role in restoring ecological balance on the planet.🌲🌳🍄💐_
+<mark style="color:green;">Members support research and development, across a spectrum of different technologies to support an ecologically stable planet earth.</mark> \
+\
+**Biodiversity:** M_embers encourage, and support enriching biodiversity and assert its role in restoring ecological balance on the planet.🌲🌳🍄💐_
 
 _**Open Constitution promotes reforms towards setting up a global governance system for stabilizing planet's ecological equilibrium.**_
 {% endhint %}
@@ -181,7 +190,7 @@ _**Open Constitution promotes reforms towards setting up a global governance sys
 
 Members assert and advocate research and development, humanitarian aid actions against the air pollution crisis (<mark style="color:purple;">**Global Air Pollution Crisis)**</mark>&#x20;
 
-<mark style="color:purple;">**Planet Earth's Water is a global shared resource.**</mark> <mark style="color:purple;"></mark><mark style="color:purple;"></mark>&#x20;
+<mark style="color:purple;">**Planet Earth's Water is a global shared resource.**</mark>&#x20;
 
 Members support and assert that all humans have a right to clean drinking water.&#x20;
 
@@ -219,7 +228,7 @@ Members base their research and development work from the The Convention on Biol
 
 <mark style="color:purple;">**Migration across the planet:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Members support protection of internally displaced people (IDPs), refugees and asylum-seekers - humans that fear persecution, conflict, violence, or other circumstances that have seriously disturbed public life, and who, as a result, require protection.</mark>
 
-<mark style="color:purple;">****</mark>
+
 {% endhint %}
 
 ## **X. Earth's Digital Public Goods Infrastructure :**
@@ -229,11 +238,11 @@ Members base their research and development work from the The Convention on Biol
 
 <mark style="color:purple;">We promote open sourcing any research & development for the greater good of human society. We promote open sourcing technology in all sectors.</mark>&#x20;
 
-<mark style="color:purple;"></mark>\ <mark style="color:purple;">For the welfare of human society, Muellners Foundation members support relinquishing business models in global markets which are locked in closed source technologies.</mark> &#x20;
+\ <mark style="color:purple;">For the welfare of human society, Muellners Foundation members support relinquishing business models in global markets which are locked in closed source technologies.</mark> &#x20;
 
 <mark style="color:purple;">Foundation encourages industry to non aggress and non assert patents and reinvent their business models in fast emerging global data economy.</mark>
 
-<mark style="color:purple;"></mark>
+
 {% endhint %}
 
 {% hint style="info" %}
@@ -271,7 +280,7 @@ Read about [Hubble Telescope](https://hubblesite.org), an international co-opera
 
 Read more about Project [CERN](https://home.cern).
 
-<mark style="color:purple;"></mark>
+
 {% endhint %}
 
 ## **XII. Public Interest Disclosures:**
@@ -282,4 +291,4 @@ Read more about Project [CERN](https://home.cern).
 
 Read more on what [citizenship](foundation/citizenship/) mean.
 
-**Custodian:** [**Executive Council**](foundation/executive-council.md)****
+**Custodian:** [**Executive Council**](foundation/executive-council.md)

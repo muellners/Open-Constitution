@@ -17,7 +17,8 @@ description: >-
 
 <mark style="color:green;">Fiscal Hosts also maintain local membership and beneficiary citizen registry.</mark> \ <mark style="color:green;">Fiscal Hosts maintain Foundation's compliance with local business laws, besides holding trust and fund on behalf of Muellners Foundation.</mark>
 
-<mark style="color:green;"></mark>\ <mark style="color:green;"></mark><mark style="color:blue;">Fiscal Host Legal Bodies and their members continue to independently work on the local advocacy of Foundation's guiding principles.</mark>&#x20;
+\
+<mark style="color:blue;">Fiscal Host Legal Bodies and their members continue to independently work on the local advocacy of Foundation's guiding principles.</mark>&#x20;
 
 <mark style="color:green;">Each Fiscal Host appoints an Independent Board themselves, which also represents the local community of Foundation.</mark>&#x20;
 
@@ -25,7 +26,7 @@ description: >-
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:red;">💁Muellners Foundation screens Fiscal hosts, with independent and autonomous dilligence, before a nomination and subsequent appointment is filed on Open Constitution Governance System.</mark>  <mark style="color:green;"></mark>&#x20;
+<mark style="color:red;">💁Muellners Foundation screens Fiscal hosts, with independent and autonomous dilligence, before a nomination and subsequent appointment is filed on Open Constitution Governance System.</mark> &#x20;
 
 <mark style="color:blue;">Muellners Foundation also periodically reviews the Fiscal Hosts' local compliance with the help of periodical audits(annual audits).</mark>&#x20;
 
@@ -42,6 +43,5 @@ description: >-
 <mark style="color:purple;">Read</mark> [<mark style="color:blue;">**community guidelines**</mark>](https://docs.muellnersfoundation.info/fiscal-host-node/introduction) <mark style="color:purple;">on nominating and appointing a Fiscal Hoist/node on the Open Constitution network.</mark>
 {% endhint %}
 
-<mark style="color:red;"></mark>
 
-<mark style="color:red;"></mark>
+

@@ -16,10 +16,10 @@ description: >-
 
 <mark style="color:purple;">Open Bank CWC plays an important role in shaping the community's opinion and position of advisory, which the Foundation takes on public interest issues across the Banking Financial Services and Insurances(BFSI), Internet and Data laws.</mark>&#x20;
 
-<mark style="color:purple;">****</mark>
+
 {% endhint %}
 
-_****_
+
 
 {% hint style="info" %}
 _<mark style="color:blue;">**Members with the following background generally constitute Open Bank CWC:**</mark>_
@@ -31,7 +31,7 @@ _<mark style="color:blue;">**Members with the following background generally con
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:green;">Open Bank CWC is an</mark> <mark style="color:green;"></mark><mark style="color:green;">****</mark> [<mark style="color:green;">**Independent CWC**</mark>](../core-working-committee/independent-cwcs.md)<mark style="color:green;">**,**</mark> <mark style="color:green;"></mark><mark style="color:green;">a group of volunteers from the Foundation's open community.</mark>&#x20;
+<mark style="color:green;">Open Bank CWC is an</mark> [<mark style="color:green;">**Independent CWC**</mark>](../core-working-committee/independent-cwcs.md)<mark style="color:green;">**,**</mark> <mark style="color:green;"></mark><mark style="color:green;">a group of volunteers from the Foundation's open community.</mark>&#x20;
 
 <mark style="color:green;">Read on what role an Independent CWC plays in Foundation's community.</mark>
 
@@ -40,7 +40,9 @@ _<mark style="color:blue;">**Members with the following background generally con
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:purple;">****</mark>[<mark style="color:purple;">**FILE YOUR NOMINATION NOW**</mark>](https://share.hsforms.com/1Tl1NczJOTwWoM6n4BZRU-g3xaqh)<mark style="color:purple;">****</mark>\ <mark style="color:purple;">****</mark>\ <mark style="color:purple;">****</mark><mark style="color:purple;">Members should publish their queries on the private Mailing List: info@muellners.org for any information, before filing supporting documents for their nomination in Open Constitution governance systems.</mark>
+[<mark style="color:purple;">**FILE YOUR NOMINATION NOW**</mark>](https://share.hsforms.com/1Tl1NczJOTwWoM6n4BZRU-g3xaqh)\
+\
+<mark style="color:purple;">Members should publish their queries on the private Mailing List: info@muellners.org for any information, before filing supporting documents for their nomination in Open Constitution governance systems.</mark>
 {% endhint %}
 
 {% hint style="info" %}
@@ -50,7 +52,8 @@ _<mark style="color:blue;">**Members with the following background generally con
 2. <mark style="color:blue;">Assist Legal Committee, Regulations Committee and Steward Groups or other constitutional bodies of the Foundation in preparing, filing and executing legal actions on behalf of the Foundation's citizens.</mark>&#x20;
 3. <mark style="color:blue;">Open Bank CWC closely works with community members for protection of their data privacy rights, suggestions for best practices and standards on dynamic regulations in both local and global jurisdictions.</mark>&#x20;
 4. <mark style="color:blue;">Open Bank CWC empowers regulatory advice to governmental and inter governmental monetary agencies, in the form of Open Research and public discussion papers. Members from the Open Bank CWC drafts public discussion papers and release them on the Foundation's Open Research portal.</mark>
-5. <mark style="color:blue;">Open Bank CWC empowers Foundation's position of advisory on the public interest litigations, relevant to securities exchanges, blockchain, digital currencies, inter bank messaging systems, financial crimes etc.</mark>  \ <mark style="color:blue;"></mark>
+5. <mark style="color:blue;">Open Bank CWC empowers Foundation's position of advisory on the public interest litigations, relevant to securities exchanges, blockchain, digital currencies, inter bank messaging systems, financial crimes etc.</mark>  \
+
 {% endhint %}
 
-**Custodian:** [**Executive Committee**](../executive-council.md)****
+**Custodian:** [**Executive Committee**](../executive-council.md)

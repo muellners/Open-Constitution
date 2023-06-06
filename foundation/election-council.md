@@ -24,4 +24,4 @@ It is also the organizing body for affairs related to Elections in the Foundatio
 3. [Open Governance](../charters/open-governance/)
 {% endhint %}
 
-Custodian: [**Election Council**](election-council.md)****
+Custodian: [**Election Council**](election-council.md)

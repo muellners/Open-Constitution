@@ -47,8 +47,8 @@ _Wherever possible, Articles have hints mentioned (just like this box), where ad
 
 _Terms and headings used have meanings derived from the Glossary._
 
-__\
-__Read more on [Citizenship](../../foundation/citizenship/).&#x20;
+\
+Read more on [Citizenship](../../foundation/citizenship/).&#x20;
 
 Read more on [Fiscal Host](../../fiscal-hosts/fiscal-hosts.md).
 
@@ -73,9 +73,10 @@ Please read the **LIVE** public facing record of the Global Statutes in the next
 
 {% hint style="info" %}
 * [ ] <mark style="color:purple;">Global Statutes were under Public Review(Request for Comments) from Feb 16, 2022 to March 16, 2022.</mark>&#x20;
-* [ ] <mark style="color:purple;">Global Statutes were under Public Review(Request for Comments) from Dec 9, 2022 to Dec, 23, 2022 for an effective date of Dec 23, 2022.(extended to Dec 31st, 2022)</mark> <mark style="color:red;"></mark>&#x20;
+* [ ] <mark style="color:purple;">Global Statutes were under Public Review(Request for Comments) from Dec 9, 2022 to Dec, 23, 2022 for an effective date of Dec 23, 2022.(extended to Dec 31st, 2022)</mark>&#x20;
 
-<mark style="color:purple;">Check this relevant link for any General public discussions.</mark>\ <mark style="color:purple;"></mark>[<mark style="color:purple;">https://muellners.discourse.group/t/public-discussion-and-suggestions-on-global-statutes/30</mark>](https://muellners.discourse.group/t/public-discussion-and-suggestions-on-global-statutes/30)<mark style="color:purple;"></mark>
+<mark style="color:purple;">Check this relevant link for any General public discussions.</mark>\
+[<mark style="color:purple;">https://muellners.discourse.group/t/public-discussion-and-suggestions-on-global-statutes/30</mark>](https://muellners.discourse.group/t/public-discussion-and-suggestions-on-global-statutes/30)
 {% endhint %}
 
 **Custodian:** [**Independent Board**](../../charters/independent-board.md)**, Muellners Foundation, Denmark**\

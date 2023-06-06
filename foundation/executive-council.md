@@ -6,7 +6,7 @@ description: >-
 
 # 🕵♀ Executive Council
 
-Executive Council members plays a vital role in executing **governance** of **** Foundation's initiatives.
+Executive Council members plays a vital role in executing **governance** of Foundation's initiatives.
 
 Some examples are below:&#x20;
 
@@ -21,7 +21,7 @@ Some examples are below:&#x20;
 {% hint style="info" %}
 <mark style="color:green;">**Executive Committee is an apex constitutional body and is constituted from the Foundation's Open Council and the member's appointment is an electoral process.**</mark>
 
-<mark style="color:green;">**Appointment to Executive Committee is conducted after every two years though a General election.**</mark>  <mark style="color:green;"></mark> <mark style="color:green;"></mark><mark style="color:green;"></mark>&#x20;
+<mark style="color:green;">**Appointment to Executive Committee is conducted after every two years though a General election.**</mark>  <mark style="color:green;"></mark>&#x20;
 {% endhint %}
 
 >
@@ -65,7 +65,7 @@ b. Council Committees act as counsel to the Chancellor, well within each committ
 c. A Chancellor is impeachable and if the Executive Committee decides then a Vice Chancellor may also be appointed**.** &#x20;
 {% endhint %}
 
-****
+
 
 {% hint style="info" %}
 <mark style="color:purple;">**Following are the causes that the Executive Council commits to:**</mark>
@@ -83,6 +83,6 @@ c. A Chancellor is impeachable and if the Executive Committee decides then a Vic
 <mark style="color:purple;">f. Welcome advise on Foundation's direction in the form of Advisory Council.</mark>
 {% endhint %}
 
-&#x20;__&#x20;
+&#x20;
 
-**Custodian:** [**Election Council**](election-council.md)****
+**Custodian:** [**Election Council**](election-council.md)

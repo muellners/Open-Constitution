@@ -41,7 +41,7 @@ Open Tribunal of the Foundation is an _independent, autonomous, and self organis
 
 <mark style="color:green;">The Tribunal members shall follow Foundation's</mark> [<mark style="color:green;">guiding principles</mark>](../guiding-principles.md) <mark style="color:green;">in resolving disputes.</mark>
 
-<mark style="color:green;"></mark>
+
 
 Each case logged on Open Constitution Governance System and accepted by the Open Tribunal is generally accompanied by a public facing Observation Report, upon the closure of the case.
 
@@ -73,15 +73,15 @@ _3. <mark style="color:green;">A case processing fees should also be collected f
 
 _<mark style="color:purple;">Depending on whether a fee is applicable, case processing fee is to be deposited in Foundation's Fiscal Accounts immediately, prior to acceptance of the case by the Open Tribunal.</mark>_
 
-**D. Case Processing Time:** Open Tribunal **** conducts a hearing where all disputing parties are heard.&#x20;
+**D. Case Processing Time:** Open Tribunal conducts a hearing where all disputing parties are heard.&#x20;
 
 <mark style="color:green;">There is no fixed processing time</mark>, however, once an Open Tribunal is constituted and a case is logged on the _Open Constitution_ registry, hearings should commence within a period of 30 days. &#x20;
 
 <mark style="color:purple;">**E. Binding and Non Binding resolution:**</mark>&#x20;
 
-_<mark style="color:purple;"></mark>_
 
-_<mark style="color:purple;">**E1.**</mark> <mark style="color:purple;"></mark><mark style="color:purple;"></mark>_ <mark style="color:purple;"></mark><mark style="color:purple;">**For Foundation's project,**</mark><mark style="color:purple;">** **</mark>_<mark style="color:purple;">**i.e a commercial activity undertaken or controlled by the Foundation:**</mark>_
+
+_<mark style="color:purple;">**E1.**</mark>_ <mark style="color:purple;">**For Foundation's project,**</mark><mark style="color:purple;">** **</mark>_<mark style="color:purple;">**i.e a commercial activity undertaken or controlled by the Foundation:**</mark>_
 
 _<mark style="color:purple;">Depending on the applicable business laws of local jurisdictions, relevant to the case, and structural integrity of the associated local as well as international arbitration laws</mark>_<mark style="color:purple;">**,**</mark> <mark style="color:purple;"></mark>_<mark style="color:purple;">Open Tribunal processes a binding resolution.</mark>_
 
@@ -103,7 +103,7 @@ _<mark style="color:purple;">Depending on the applicable business laws of local 
 
 <mark style="color:green;">Generally, Open Council members participate and constitute the Open Tribunal.</mark>&#x20;
 
-<mark style="color:green;">Members from the Councils:</mark> [<mark style="color:green;">Advisory</mark>](advisory-council.md) <mark style="color:green;"></mark> [<mark style="color:green;">Ethics</mark>](ethics-council.md)<mark style="color:green;">,</mark> [<mark style="color:green;">Observation</mark>](observers-council.md)<mark style="color:green;">,</mark> [<mark style="color:green;">Legal</mark>](legal-council/) <mark style="color:green;">and</mark> [<mark style="color:green;">Regulations</mark>](regulations-council/) <mark style="color:green;">Council often constitute an Open Tribunal.</mark>
+<mark style="color:green;">Members from the Councils:</mark> [<mark style="color:green;">Advisory</mark>](advisory-council.md) [<mark style="color:green;">Ethics</mark>](ethics-council.md)<mark style="color:green;">,</mark> [<mark style="color:green;">Observation</mark>](observers-council.md)<mark style="color:green;">,</mark> [<mark style="color:green;">Legal</mark>](legal-council/) <mark style="color:green;">and</mark> [<mark style="color:green;">Regulations</mark>](regulations-council/) <mark style="color:green;">Council often constitute an Open Tribunal.</mark>
 
 _<mark style="color:purple;">Members from the Observation Council often constitute an Open Tribunal registered for a dispute between two independent Open Constitution Partner Program participants. Read more on the role of</mark>_ [_<mark style="color:purple;">**Observer Co**</mark>_](observers-council.md#role-of-observer-committee-members-in-open-tribunal-for-arbitrations-between-disputing-participants)_<mark style="color:purple;">**uncil**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">in arbitration proceedings between Open Constitution partner bodies.</mark>_
 
@@ -114,4 +114,4 @@ a. Members from other Open Council bodies may also be elected to an Open Tribuna
 b. Members from other Councils - [Ambassador Council](ambassador-council.md) or [Election Council](election-council.md) may also constitute an Open Tribunal.
 {% endhint %}
 
-**Custodian:** [**Election Council**](election-council.md)****
+**Custodian:** [**Election Council**](election-council.md)

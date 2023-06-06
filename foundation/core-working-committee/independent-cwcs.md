@@ -31,7 +31,7 @@ Open Council body ratifies community proposals from Independent CWCs and decides
 {% hint style="info" %}
 **Escalation Matrix: "Right to be Heard"**
 
-In the case, where Independent **** CWC and their Open Council body have a difference in the opinion on a critical issue, and their Open Council body has rejected the counsel of CWC(within guideline 6), CWC can escalate the subject to the mailing list of the Observers Council.&#x20;
+In the case, where Independent CWC and their Open Council body have a difference in the opinion on a critical issue, and their Open Council body has rejected the counsel of CWC(within guideline 6), CWC can escalate the subject to the mailing list of the Observers Council.&#x20;
 
 Note: The Observers Council members are also humans. They may not have a fitting solution to the issue. In this case, CWC is always free to hold a community referendum on the issue.&#x20;
 {% endhint %}
@@ -63,11 +63,11 @@ CWC members represent the Foundation's initiatives in industry events and activi
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:purple;">****</mark>[<mark style="color:purple;">**FILE YOUR NOMINATION NOW**</mark>](https://share.hsforms.com/1Tl1NczJOTwWoM6n4BZRU-g3xaqh)<mark style="color:purple;">****</mark>
+[<mark style="color:purple;">**FILE YOUR NOMINATION NOW**</mark>](https://share.hsforms.com/1Tl1NczJOTwWoM6n4BZRU-g3xaqh)
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:purple;"></mark>
+
 
 1. _<mark style="color:purple;">Independent CWC</mark>_ <mark style="color:purple;"></mark><mark style="color:purple;">membership is a democratically elected position in the Foundation's Open Council.</mark>
 2. _<mark style="color:purple;">Independent CWC</mark>_ <mark style="color:purple;"></mark><mark style="color:purple;">appointment is a voluntary membership and invites an active contribution in the Foundation's Legal, Regulations, Media, and Executive Council activities to support Foundation's objectives.</mark>
@@ -79,4 +79,4 @@ CWC members represent the Foundation's initiatives in industry events and activi
 8. <mark style="color:purple;">The Council resolution for Removal is further voted by the community referendum to remove a member from a CWC.</mark>
 {% endhint %}
 
-**Custodian:** [**Executive Council**](../executive-council.md)****
+**Custodian:** [**Executive Council**](../executive-council.md)

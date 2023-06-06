@@ -25,11 +25,13 @@ In the case of deletion of public messages, the moderation group should delete m
 2\. If a member incidentally(not once but through a span of time) violate the [Guiding Principles](../../guiding-principles.md) and the [Code of Conduct](../../charters/code-of-conduct.md).
 
 {% hint style="info" %}
-<mark style="color:purple;">Foundation's community advocates that - "We shall build tolerance in our community." When members expression violate the Guiding principles or the Code of Conduct, Open Constitution's Moderation bots are activated by default.</mark>  \ <mark style="color:purple;">Foundation's communications system also has privacy drivers to ensure member safety.</mark>\ <mark style="color:purple;"></mark>\ <mark style="color:purple;">A single message should not be construed as a member's violation of community guidelines. Rather habituality should be seen as a measure for Code violations.</mark>
+<mark style="color:purple;">Foundation's community advocates that - "We shall build tolerance in our community." When members expression violate the Guiding principles or the Code of Conduct, Open Constitution's Moderation bots are activated by default.</mark>  \ <mark style="color:purple;">Foundation's communications system also has privacy drivers to ensure member safety.</mark>\
+\ <mark style="color:purple;">A single message should not be construed as a member's violation of community guidelines. Rather habituality should be seen as a measure for Code violations.</mark>
 
 <mark style="color:purple;">Therefore, moderators should look for a continous period of time(a minimum of 7 days) to establish whether a member violated the community code or not.</mark>&#x20;
 
-<mark style="color:purple;">Read more about</mark> [<mark style="color:purple;">Sentient Bot</mark>](sentient-bot.md)<mark style="color:purple;">, which runs a moderation sweep every week.</mark>  \ <mark style="color:purple;"></mark>
+<mark style="color:purple;">Read more about</mark> [<mark style="color:purple;">Sentient Bot</mark>](sentient-bot.md)<mark style="color:purple;">, which runs a moderation sweep every week.</mark>  \
+
 {% endhint %}
 
 3\. When a member has requested deletion of their expressions and Media Committee has reviewed the request.
@@ -49,9 +51,9 @@ Generally, each public channel has a Moderator/Ambassador who politely flags any
 Each moderation follows an escalation, which you can also read about in [Code of Conduct](../../charters/code-of-conduct.md).
 
 **Who are the Moderators?**\
-****They can be Media Committee members, Media CWC members, or Steering and CWC members of other committees of the Foundation.
+They can be Media Committee members, Media CWC members, or Steering and CWC members of other committees of the Foundation.
 
-****\
+\
 **Approach to Escalation:**
 
 {% hint style="info" %}

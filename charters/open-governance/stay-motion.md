@@ -29,7 +29,8 @@ Decisions may also require customary reviews within the same electoral period.
 
 <mark style="color:green;">b. When "Privilege Motion" has been applied(on a decisions which required immediate processing or those requiring emergency attention i.e change requests which received a</mark> <mark style="color:green;"></mark><mark style="color:green;">**Privilege Motion**</mark><mark style="color:green;">.</mark>
 
-<mark style="color:green;"></mark>\ <mark style="color:green;"></mark><mark style="color:purple;">Decisions are logged on the Open Constitution Governance System, with the Stay Motion Protocol.</mark>
+\
+<mark style="color:purple;">Decisions are logged on the Open Constitution Governance System, with the Stay Motion Protocol.</mark>
 {% endhint %}
 
-**Custodian:** [**Executive Council**](../../foundation/executive-council.md)****
+**Custodian:** [**Executive Council**](../../foundation/executive-council.md)

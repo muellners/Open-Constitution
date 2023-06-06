@@ -18,4 +18,4 @@ If you are an individual member, with a keen interest in attaining a [Council me
 
 
 
-**Custodian:** [**Independent Board**](../../charters/independent-board.md)****
+**Custodian:** [**Independent Board**](../../charters/independent-board.md)

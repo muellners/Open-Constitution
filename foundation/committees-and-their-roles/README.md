@@ -13,7 +13,7 @@ _<mark style="color:purple;">In the Open Council, representatives of different C
 
 {% endhint %}
 
-**The Open Council **_****_** ensures **_**safe, secure and transparent**_** ** [**Open Governance**](../../charters/open-governance/)**, maintenance of the Foundation's "**[**Objectives**](../../articles/objectives.md)**" and public facing documentation of "Project" roadmaps.**
+**The Open Council** **ensures **_**safe, secure and transparent**_ [**Open Governance**](../../charters/open-governance/)**, maintenance of the Foundation's "**[**Objectives**](../../articles/objectives.md)**" and public facing documentation of "Project" roadmaps.**
 
 Open Council members come from diverse fields and sectors and are elected to the Council.&#x20;
 
@@ -26,7 +26,7 @@ Open Council members come from diverse fields and sectors and are elected to the
 {% hint style="info" %}
 <mark style="color:purple;">**Open Council**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">is foremost constituted of the following Councils:</mark>
 
-<mark style="color:purple;"></mark>
+
 
 1. <mark style="color:purple;">Advisory Council</mark>&#x20;
 2. <mark style="color:purple;">Steering Council</mark>
@@ -100,8 +100,8 @@ An independent and autonomous Open Tribunal.
 
 {% endhint %}
 
-****
 
-**Custodian:** [**Election Council**](../election-council.md)****
+
+**Custodian:** [**Election Council**](../election-council.md)
 
 \

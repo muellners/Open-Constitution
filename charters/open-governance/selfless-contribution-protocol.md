@@ -19,7 +19,7 @@ _Selfless contribution_ consensus is applied to a project motion, for a designat
 {% hint style="info" %}
 <mark style="color:purple;">Selfless contribution is designed for open governance which is contextual to</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**a single constitutional body or single-project or single-program**</mark><mark style="color:purple;">.</mark>
 
-_<mark style="color:purple;"></mark>_
+
 {% endhint %}
 
 {% hint style="info" %}
@@ -27,7 +27,9 @@ _<mark style="color:purple;"></mark>_
 
 <mark style="color:green;">Selfless contribution should not be applied to constitutional bodies which require immediate</mark> <mark style="color:red;">**emergency attention**</mark> <mark style="color:green;">i.e proposals or change requests which have already received a</mark> [<mark style="color:green;">Privilege Motion</mark>](privilege-motion.md)<mark style="color:green;">.</mark>&#x20;
 
-<mark style="color:green;">Selfless contribution Protocol is generally applied by Council or Committee Chairs who have a strong reason to do so.</mark> \ <mark style="color:green;"></mark>\ <mark style="color:green;"></mark><mark style="color:purple;">Decisions are logged on the Open Constitution Governance System, with the Selfless contribution Protocol.</mark>
+<mark style="color:green;">Selfless contribution Protocol is generally applied by Council or Committee Chairs who have a strong reason to do so.</mark> \
+\
+<mark style="color:purple;">Decisions are logged on the Open Constitution Governance System, with the Selfless contribution Protocol.</mark>
 {% endhint %}
 
-**Custodian:** [**Executive Council**](../../foundation/executive-council.md)****
+**Custodian:** [**Executive Council**](../../foundation/executive-council.md)

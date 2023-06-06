@@ -22,4 +22,4 @@ Each Council's Privilege Motion is designed such that diversity and representati
 <mark style="color:green;">An example of Privilege Motion is when a</mark> [<mark style="color:green;">Project CWC</mark>](../../foundation/core-working-committee/project-cwcs.md) <mark style="color:green;">chair member decides to apply it for an emergency action on a project.</mark>&#x20;
 {% endhint %}
 
-&#x20;**Custodian:** [**Executive Council**](../../foundation/executive-council.md)****
+&#x20;**Custodian:** [**Executive Council**](../../foundation/executive-council.md)

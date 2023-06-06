@@ -4,7 +4,7 @@ description: >-
   Protest" community consensus protocol.
 ---
 
-# 🙋♀ Protest Protocol
+# 🙋♀ 🙋♀ Protest Protocol
 
 Open Constitution provides grounds for a fundamental _**"Right to Protest".**_&#x20;
 
@@ -18,7 +18,8 @@ Member(s) may feel that they did not receive enough representation from the elec
 1. <mark style="color:purple;">Member has floated a community proposal.</mark> &#x20;
 2. <mark style="color:purple;">The community proposal was subscribed by the</mark> [<mark style="color:purple;">Project CWC</mark>](../../foundation/core-working-committee/project-cwcs.md)<mark style="color:purple;">.</mark>
 3. &#x20;<mark style="color:purple;">Community Proposal was subsequently rejected by the Project CWC and adequate reasons were supplied on rejection of the proposal.</mark>
-4. <mark style="color:purple;">Community Proposal is "Inactive" and associated change request is currently at "Rejected" state.</mark>\ <mark style="color:purple;"></mark>\ <mark style="color:purple;">If the members feels that their community proposal did not receive a representation and then a member can activate "Right to Protest".</mark>
+4. <mark style="color:purple;">Community Proposal is "Inactive" and associated change request is currently at "Rejected" state.</mark>\
+   \ <mark style="color:purple;">If the members feels that their community proposal did not receive a representation and then a member can activate "Right to Protest".</mark>
 5. <mark style="color:purple;">For a "Right to Protest" to qualify for logging on Open Constitution Public Ledger, the change request should not be "Expired". Member(s) explicitly waive the "Right to protest" once the state of change request turns "Expired".</mark>&#x20;
 6. <mark style="color:purple;">To activate "Protest", atleast two members are required to cosign a protest.</mark>
 {% endhint %}
@@ -30,7 +31,7 @@ Member(s) may feel that they did not receive enough representation from the elec
 
 <mark style="color:red;">Steering Council then signs the "Protest" ticket and decides on the issue with unanimous</mark> [<mark style="color:red;">Committee Vote</mark>](../open-ballot/committee-vote.md)<mark style="color:red;">.</mark>
 
-<mark style="color:red;">During the "Protest",</mark> [<mark style="color:red;">**Stay Motion**</mark>](stay-motion.md) <mark style="color:red;">****</mark> <mark style="color:red;"></mark><mark style="color:red;">may or may not be applied to the Project.</mark>
+<mark style="color:red;">During the "Protest",</mark> [<mark style="color:red;">**Stay Motion**</mark>](stay-motion.md) <mark style="color:red;">may or may not be applied to the Project.</mark>
 
 <mark style="color:green;">If the protesting member(s) do not find merits in the unanimous decision of the Steering</mark> [<mark style="color:green;">Committee Vote</mark>](../open-ballot/committee-vote.md)<mark style="color:green;">, member(s) may then take the subject to the Observation Council's Appeals mechanism.</mark>
 
@@ -43,4 +44,4 @@ This community consensus protocol is designed to activate a member or a group of
 _Community is built on citizen goodwill. Only initiate "Right to Protest" in extreme circumstances._
 {% endhint %}
 
-&#x20;**Custodian:** [**Executive Council**](../../foundation/executive-council.md)****
+&#x20;**Custodian:** [**Executive Council**](../../foundation/executive-council.md)

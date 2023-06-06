@@ -9,19 +9,21 @@ description: >-
 {% hint style="info" %}
 
 
-<mark style="color:green;">Ambassador Council is an autonomous body in the Muellners Foundation's global community. It is a standalone and independent Council with its own powers of constitutional governance.</mark> \ <mark style="color:green;"></mark>
+<mark style="color:green;">Ambassador Council is an autonomous body in the Muellners Foundation's global community. It is a standalone and independent Council with its own powers of constitutional governance.</mark> \
+
 
 <mark style="color:green;">💁Open Council focuses on Foundation's governance and Ambassador Council promotes Foundation's philosophy and values in general public.</mark>
 
-<mark style="color:green;">****</mark>
+
 
 <mark style="color:green;">**Ambassador Council has two bodies:**</mark> \ <mark style="color:green;">**a. Youth Wing**</mark>
 
 <mark style="color:green;">**b. General Wing**</mark>
 
-<mark style="color:green;"></mark>\ <mark style="color:green;"></mark><mark style="color:green;">**The primary function and role of the Ambassador Council is to vocalise, and promote Muellners Foundation's public message, statements and public policy advocacy on issues of global interest, within the Foundation's guiding principles.**</mark>&#x20;
+\
+<mark style="color:green;">**The primary function and role of the Ambassador Council is to vocalise, and promote Muellners Foundation's public message, statements and public policy advocacy on issues of global interest, within the Foundation's guiding principles.**</mark>&#x20;
 
-<mark style="color:purple;"></mark>
+
 {% endhint %}
 
 {% hint style="info" %}
@@ -29,23 +31,24 @@ description: >-
 
 <mark style="color:purple;">Members (between the human age of 18-25) shall comprise the</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Youth Wing**</mark><mark style="color:purple;">:</mark>
 
-<mark style="color:purple;">Note: Age as on the date of member's nomination (to the Ambassador Council) shall be below 25.</mark> \ <mark style="color:purple;"></mark>
+<mark style="color:purple;">Note: Age as on the date of member's nomination (to the Ambassador Council) shall be below 25.</mark> \
+
 
 <mark style="color:purple;">a. Student leaders affiliated to academia e.g Entrepreneurship Development Cells, Student Representation Bodies in Universities e.g Student Boards</mark>&#x20;
 
 <mark style="color:purple;">b. Student members from Learn fellowship alum network, and with a distinguished community engagement.</mark>
 
-<mark style="color:purple;"></mark>
+
 
 <mark style="color:blue;">**General Wing:**</mark>&#x20;
 
-<mark style="color:blue;"></mark>
+
 
 <mark style="color:blue;">**a. Members who are above the human age of 25, shall be nominated to constitute the General Wing.**</mark>\ <mark style="color:blue;">b. Members should not be currently serving to any of the Open Council Committee for a nomination to the Ambassador Council.</mark>&#x20;
 
 <mark style="color:blue;">Therefore, only non Open Council members are nominated to this wing.</mark>
 
-<mark style="color:purple;"></mark>
+
 
 <mark style="color:purple;">Foundation's</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Ambassador Council**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">shall be free and independent to create, constitute and govern themselves with this Open Constitution.</mark>
 {% endhint %}
@@ -112,9 +115,14 @@ A Council Resolution <mark style="color:green;">**"Vote IN"**</mark> is then sch
 {% hint style="info" %}
 <mark style="color:green;">**Electoral Process for "Vote IN" is conditional to a quorum.**</mark>&#x20;
 
-<mark style="color:purple;">****</mark>\ <mark style="color:purple;">****</mark><mark style="color:green;">**a.**</mark> <mark style="color:green;"></mark><mark style="color:green;">Quorum is achieved when a minimum of half</mark> <mark style="color:green;"></mark><mark style="color:green;">****</mark> <mark style="color:green;"></mark><mark style="color:green;">of all the Ambassador Council members, participate in the Council Resolution - "Vote IN".</mark>\ <mark style="color:green;"></mark><mark style="color:green;">**b.**</mark> <mark style="color:green;"></mark><mark style="color:green;">A decision is received in favour of the Council Resolution - "Vote IN", when majority of all the participating members of the Ambassador Council, vote "+1".</mark>\ <mark style="color:green;"></mark>\ <mark style="color:green;">E.g: Let's say there are 21 Ambassador Council members.</mark>&#x20;
+\
+<mark style="color:green;">**a.**</mark> <mark style="color:green;"></mark><mark style="color:green;">Quorum is achieved when a minimum of half</mark> <mark style="color:green;">of all the Ambassador Council members, participate in the Council Resolution - "Vote IN".</mark>\
+<mark style="color:green;">**b.**</mark> <mark style="color:green;"></mark><mark style="color:green;">A decision is received in favour of the Council Resolution - "Vote IN", when majority of all the participating members of the Ambassador Council, vote "+1".</mark>\
+\ <mark style="color:green;">E.g: Let's say there are 21 Ambassador Council members.</mark>&#x20;
 
-<mark style="color:green;">Atleast 11 members shall participate in the Council Resolution for the "Vote IN" to achieve quorum. This is the qualifying state for the Council Resolution to be logged on Open Constitution public ledger.</mark>\ <mark style="color:green;">For the appointment to be electorally approved, the "Vote IN" should receive atleast half of the total votes(required for quorum), in the favour of this Council Resolution.</mark>\ <mark style="color:green;"></mark>\ <mark style="color:green;"></mark>_<mark style="color:green;">So, in this example, six (+1) votes of the participating 11 Ambassador Council members will do the job.</mark>_<mark style="color:green;">😒</mark> &#x20;
+<mark style="color:green;">Atleast 11 members shall participate in the Council Resolution for the "Vote IN" to achieve quorum. This is the qualifying state for the Council Resolution to be logged on Open Constitution public ledger.</mark>\ <mark style="color:green;">For the appointment to be electorally approved, the "Vote IN" should receive atleast half of the total votes(required for quorum), in the favour of this Council Resolution.</mark>\
+\
+_<mark style="color:green;">So, in this example, six (+1) votes of the participating 11 Ambassador Council members will do the job.</mark>_<mark style="color:green;">😒</mark> &#x20;
 {% endhint %}
 
 6.4 Appointment to the Ambassador Council is published on the public facing records of the Muellners Foundation and members are encouraged to link public affiliations to the Foundation.
@@ -128,10 +136,14 @@ A Council Resolution <mark style="color:green;">**"Vote IN"**</mark> is then sch
 
 {% hint style="info" %}
 <mark style="color:red;">**Electoral Process for "Vote OUT" is conditional to a quorum.**</mark>\
-****\
-****<mark style="color:red;">**a.**</mark> <mark style="color:red;"></mark><mark style="color:red;">Quorum is achieved when a minimum of half</mark> <mark style="color:red;"></mark><mark style="color:red;">****</mark> <mark style="color:red;"></mark><mark style="color:red;">of all the Ambassador Council members  participate in the Council Resolution "</mark><mark style="color:red;">**Vote OUT**</mark><mark style="color:red;">".</mark>\ <mark style="color:red;"></mark><mark style="color:red;">**b.**</mark> <mark style="color:red;"></mark><mark style="color:red;">A decision is received in favour of the "</mark><mark style="color:red;">**Vote OUT**</mark><mark style="color:red;">", when majority of all the participating members of the Ambassador Council, vote "+1".</mark>\ <mark style="color:red;"></mark>\ <mark style="color:red;">E.g: Let's say there are 21 Ambassador Council members.</mark>&#x20;
+\
+<mark style="color:red;">**a.**</mark> <mark style="color:red;"></mark><mark style="color:red;">Quorum is achieved when a minimum of half</mark> <mark style="color:red;">of all the Ambassador Council members  participate in the Council Resolution "</mark><mark style="color:red;">**Vote OUT**</mark><mark style="color:red;">".</mark>\
+<mark style="color:red;">**b.**</mark> <mark style="color:red;"></mark><mark style="color:red;">A decision is received in favour of the "</mark><mark style="color:red;">**Vote OUT**</mark><mark style="color:red;">", when majority of all the participating members of the Ambassador Council, vote "+1".</mark>\
+\ <mark style="color:red;">E.g: Let's say there are 21 Ambassador Council members.</mark>&#x20;
 
-<mark style="color:red;">Atleast 11 members shall participate in the Council Resolution for "Vote OUT" to achieve quorum. This is the qualifying state for the Council Resolution to be locked on Open Constitution public ledger.</mark>\ <mark style="color:red;">For the removal to be electorally approved for next stage, the</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Vote OUT"**</mark> <mark style="color:red;"></mark><mark style="color:red;">should receive at least half of the total votes(required for quorum), in the favour of this Council Resolution.</mark>\ <mark style="color:red;"></mark>\ <mark style="color:red;"></mark>_<mark style="color:red;">So, in this example, six (+1) votes of the participating 11 Ambassador Council members will do the job.</mark>_<mark style="color:red;">😒</mark> &#x20;
+<mark style="color:red;">Atleast 11 members shall participate in the Council Resolution for "Vote OUT" to achieve quorum. This is the qualifying state for the Council Resolution to be locked on Open Constitution public ledger.</mark>\ <mark style="color:red;">For the removal to be electorally approved for next stage, the</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Vote OUT"**</mark> <mark style="color:red;"></mark><mark style="color:red;">should receive at least half of the total votes(required for quorum), in the favour of this Council Resolution.</mark>\
+\
+_<mark style="color:red;">So, in this example, six (+1) votes of the participating 11 Ambassador Council members will do the job.</mark>_<mark style="color:red;">😒</mark> &#x20;
 {% endhint %}
 
 A strong reason for violation of Muellners Foundation’s governing policies and directives must be provided by member(s) initiating the resolution, to support the Ambassador Council resolution “Vote OUT”.&#x20;
@@ -143,11 +155,12 @@ A strong reason for violation of Muellners Foundation’s governing policies and
 
 <mark style="color:purple;">Quorum on the Community Referendum for the Council Resolution - "Vote Out" is achieved when 33% (more than 1/3rd) of all the voluntarily organised subscribed members participate. Of the minimum participating members, the Community Referendum stands as</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Decided**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">when majority of the quorum populace votes in favour of the stated Council resolution “Vote OUT”.</mark>
 
-<mark style="color:purple;">E.g: Let's say there are</mark> <mark style="color:purple;"></mark><mark style="color:purple;"><mark style="color:red;"><mark style="color:red;"></mark> <mark style="color:purple;"></mark><mark style="color:purple;">1000</mark> <mark style="color:purple;"></mark><mark style="color:purple;"><mark style="color:red;"><mark style="color:red;"></mark> <mark style="color:purple;"></mark><mark style="color:purple;">Foundation members.</mark> <mark style="color:purple;"></mark><mark style="color:purple;"><mark style="color:red;"><mark style="color:red;"></mark>&#x20;
+<mark style="color:purple;">E.g: Let's say there are</mark> <mark style="color:purple;">1000</mark> <mark style="color:purple;">Foundation members.</mark>&#x20;
 
 
 
-<mark style="color:red;">A minimum of 333 members are required to participate in the Community Referendum to achieve quorum.</mark> \ <mark style="color:red;">The decision of the Community Referendum depends on a majority(167/333) in favour of, or against the subject of the Referendum.</mark> \ <mark style="color:purple;"></mark><mark style="color:green;">This is the qualifying state for the Referendum to get locked on Open Constitution public ledger.</mark>
+<mark style="color:red;">A minimum of 333 members are required to participate in the Community Referendum to achieve quorum.</mark> \ <mark style="color:red;">The decision of the Community Referendum depends on a majority(167/333) in favour of, or against the subject of the Referendum.</mark> \
+<mark style="color:green;">This is the qualifying state for the Referendum to get locked on Open Constitution public ledger.</mark>
 {% endhint %}
 
 **Resignation:**&#x20;
@@ -179,5 +192,5 @@ If the meeting took place outside the Foundation’s communications infrastructu
 <mark style="color:purple;">Prior to a nomination and receiving a passed</mark> <mark style="color:green;">**Council Resolution "Vote IN",**</mark> <mark style="color:purple;">candidates to Ambassador Council should file their supporting documents to Open Constitution Membership Registry. A private link is generated by Open Constitution system.</mark>
 {% endhint %}
 
-**Custodian:** [**Election Council**](election-council.md)****
+**Custodian:** [**Election Council**](election-council.md)
 

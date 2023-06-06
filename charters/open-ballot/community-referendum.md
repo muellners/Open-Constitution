@@ -29,10 +29,11 @@ _<mark style="color:purple;">Open Constitution</mark>_<mark style="color:purple;
 
 <mark style="color:purple;">Quorum on the Community Referendum for a Motion is achieved when 33% (more than 1/3rd) of all the voluntarily organised subscribed members participate. Of the minimum participating members, the Community Referendum stands as</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Decided**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">when majority of the quorum populace votes in favour of the Motion.</mark>
 
-<mark style="color:purple;">E.g: Let's say there are</mark> <mark style="color:purple;"></mark><mark style="color:purple;"><mark style="color:red;"><mark style="color:red;"></mark> <mark style="color:purple;"></mark><mark style="color:purple;">1000</mark> <mark style="color:purple;"></mark><mark style="color:purple;"><mark style="color:red;"><mark style="color:red;"></mark> <mark style="color:purple;"></mark><mark style="color:purple;">Foundation members.</mark> <mark style="color:purple;"></mark><mark style="color:purple;"><mark style="color:red;"><mark style="color:red;"></mark>&#x20;
+<mark style="color:purple;">E.g: Let's say there are</mark> <mark style="color:purple;">1000</mark> <mark style="color:purple;">Foundation members.</mark>&#x20;
 
 
 
-<mark style="color:red;">A minimum of 333 members are required to participate in the Community Referendum to achieve quorum.</mark> \ <mark style="color:red;">The decision of the Community Referendum depends on a majority(167/333) in favour of, or against the subject of the Referendum.</mark> \ <mark style="color:purple;"></mark><mark style="color:green;">This is the qualifying state for the Referendum to get locked on</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Open Constitution</mark>_ <mark style="color:green;"></mark><mark style="color:green;">public ledger.</mark>
+<mark style="color:red;">A minimum of 333 members are required to participate in the Community Referendum to achieve quorum.</mark> \ <mark style="color:red;">The decision of the Community Referendum depends on a majority(167/333) in favour of, or against the subject of the Referendum.</mark> \
+<mark style="color:green;">This is the qualifying state for the Referendum to get locked on</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Open Constitution</mark>_ <mark style="color:green;"></mark><mark style="color:green;">public ledger.</mark>
 {% endhint %}
 

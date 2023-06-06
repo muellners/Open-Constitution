@@ -11,7 +11,7 @@ description: >-
 
 
 {% hint style="info" %}
-<mark style="color:purple;">Read about Eligibility and Benefits in the</mark> [<mark style="color:purple;">Open Bank Knowledge Base.</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/pages/36995172/Public+Agency+Access)<mark style="color:purple;"></mark>
+<mark style="color:purple;">Read about Eligibility and Benefits in the</mark> [<mark style="color:purple;">Open Bank Knowledge Base.</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/pages/36995172/Public+Agency+Access)
 
 _<mark style="color:purple;">**NOTICE: EXCEPTION: In certain cases, Network is required to share access to Public Agencies, when a legal data disclosure request is received.**</mark>_&#x20;
 {% endhint %}
@@ -151,11 +151,11 @@ _If the ORG member body is found convicted of criminal, civil and financial crim
 If the convention took place outside the Foundation’s communications infrastructure, then the meeting minutes must be brought back to the notice of the Executive Council.&#x20;
 
 {% hint style="info" %}
-<mark style="color:red;">**NOTICE:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> [<mark style="color:red;">APPLY FOR</mark> ](https://www.open-bank.org/organization-tenancy-open-constitution/)<mark style="color:red;"></mark>[<mark style="color:red;">PUBLIC AGENCY ACCESS</mark>](https://www.open-bank.org/public-agency-access-open-constitution-network/)<mark style="color:red;"></mark>
+<mark style="color:red;">**NOTICE:**</mark> [<mark style="color:red;">APPLY FOR</mark> ](https://www.open-bank.org/organization-tenancy-open-constitution/)[<mark style="color:red;">PUBLIC AGENCY ACCESS</mark>](https://www.open-bank.org/public-agency-access-open-constitution-network/)
 
-<mark style="color:red;">****</mark>[<mark style="color:red;">**Guide: How to Apply**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/overview)<mark style="color:red;">****</mark>
+[<mark style="color:red;">**Guide: How to Apply**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/overview)
 
-****
+
 {% endhint %}
 
 Custodian: [**Executive Council**](../foundation/executive-council.md)&#x20;

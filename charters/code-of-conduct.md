@@ -27,7 +27,7 @@ Members of fiscal hosts, volunteers and community members, and members from Open
 
 **Citizen resources are listed here:**
 
-****[**https://openconstitution.muellners.org**](https://openconstitution.muellners.org)****
+[**https://openconstitution.muellners.org**](https://openconstitution.muellners.org)
 {% endhint %}
 
 _Note: Linkedin, Twitter and Telegram are official broadcasting platforms, currently managed by several admins-spokesperson(s) of the Foundation, from the electorally appointed Council and Committees._
@@ -54,7 +54,7 @@ To avoid conflict of interests, an Open Council member or a Core Working Committ
 _Any member appointed to a constitutional body of the Foundation, is an individual contributor, as far as the scope of public discussions and project related discussions, in the Foundation's public forums._
 
 {% hint style="info" %}
-<mark style="color:green;">**Note:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Members who join the open community as part of Open Constitution partner program, also abide by these guidelines, in addition to</mark> [<mark style="color:green;">**community guidelines(listed here)**</mark>](https://docs.muellnersfoundation.info/serenity-partner-program/how-to-be-a-serenity-partner)<mark style="color:green;">****</mark>
+<mark style="color:green;">**Note:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Members who join the open community as part of Open Constitution partner program, also abide by these guidelines, in addition to</mark> [<mark style="color:green;">**community guidelines(listed here)**</mark>](https://docs.muellnersfoundation.info/serenity-partner-program/how-to-be-a-serenity-partner)
 
 <mark style="color:green;">A member affiliated to an Open Constitution partner is an independent subscribed member of the Foundation's open source community.</mark> &#x20;
 {% endhint %}
@@ -67,14 +67,16 @@ _Any member appointed to a constitutional body of the Foundation, is an individu
 
 Media Council is the custodian of these guidelines and is responsible for introducing new proposals based on the recommendations from the members and following a general consensus in the community. \
 While these are not ultimate, please ensure that you are voluntarily following these guidelines and flag anything in communication which are against these guidelines.\
-<mark style="color:green;">**We are a safe and inclusive open community, and therefore continuous feedback on these guidelines is welcome.**</mark> \ <mark style="color:green;">****</mark>\ <mark style="color:green;">****</mark>**How to propose changes?** \
+<mark style="color:green;">**We are a safe and inclusive open community, and therefore continuous feedback on these guidelines is welcome.**</mark> \
+\
+**How to propose changes?** \
 Upon building a community consensus on the change, any change request to these guidelines is peer reviewed by another member and added with a finalized language by the Media Council. \
 Clue: In case, a member does not have Foundation email and subsequent gitbook access, they are welcome to join with their personal email(with which they have subscribed to Foundation's membership). \
 Members can also request for a Foundation's Google Workspace from the Media Committee members.
 
 Read more on [Open Access](open-access-charter.md) levels.
 
-<mark style="color:red;">For details, read</mark> [<mark style="color:red;">**How to Change?**</mark>](../readme/amendments.md)<mark style="color:red;">****</mark>
+<mark style="color:red;">For details, read</mark> [<mark style="color:red;">**How to Change?**</mark>](../readme/amendments.md)
 {% endhint %}
 
 ## These are the Community Guidelines:
@@ -82,9 +84,10 @@ Read more on [Open Access](open-access-charter.md) levels.
 {% hint style="info" %}
 <mark style="color:green;">**1.**</mark> <mark style="color:green;"></mark><mark style="color:green;">Be dispassionate in the choice of words, in a community discussion over a topic. Your interest or bias can be communicated without strong passionate words.</mark>&#x20;
 
-<mark style="color:green;">Apply the same to the views of your peers, which you oppose or disagree with.</mark> <mark style="color:green;"></mark><mark style="color:green;">****</mark> <mark style="color:green;"></mark><mark style="color:green;">Respect fellow human beings and talk to them as if you would like to be talked to yourself.</mark>&#x20;
+<mark style="color:green;">Apply the same to the views of your peers, which you oppose or disagree with.</mark> <mark style="color:green;">Respect fellow human beings and talk to them as if you would like to be talked to yourself.</mark>&#x20;
 
-<mark style="color:green;">Using slangs or adjectives for fellow community members, is generally not seen well in the global, multi cultural environment of the Foundation.</mark>\ <mark style="color:green;"></mark>\ <mark style="color:green;">Whenever using an adjective for your peers, always make sure to add the exact reference for the use of the adjective.</mark>
+<mark style="color:green;">Using slangs or adjectives for fellow community members, is generally not seen well in the global, multi cultural environment of the Foundation.</mark>\
+\ <mark style="color:green;">Whenever using an adjective for your peers, always make sure to add the exact reference for the use of the adjective.</mark>
 {% endhint %}
 
 **2.** Avoid name calling of community members, national leaders, groups of people or any specific individual.
@@ -155,7 +158,7 @@ Members should generally avoid heated arguments with their peers and almost alwa
 
 {% hint style="info" %}
 <mark style="color:red;">**Step 1:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Community Ambassadors/Moderators: In a scenario, where a member has noticed violation of these guidelines, they shall bring it to the notice of the public channel’s moderator with the message: Notice and serial number of the Code.</mark> \
-****<mark style="color:red;">E.g Notice 11 with a tag to the moderator of the public channel or private channels. For reporting violations in a Direct Message, it is recommended to write to the Media Committee, rather than confronting your peer with the Notice of violation.</mark>
+<mark style="color:red;">E.g Notice 11 with a tag to the moderator of the public channel or private channels. For reporting violations in a Direct Message, it is recommended to write to the Media Committee, rather than confronting your peer with the Notice of violation.</mark>
 
 <mark style="color:red;">**Step 2:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Media Council: In case the moderator of the channel is unable to respond appropriately to member’s satisfaction, the member is encouraged to contact the Media Council on its mailing list.</mark>
 
@@ -201,13 +204,13 @@ Message retention and deletion policy is by default set at 1 day for all Direct 
 
 {% hint style="info" %}
 **More relevant pages:**\
-****<mark style="color:purple;">a. Read about how the community ambassadors manage the safety and privacy of members w.r.t subscribed membership activity. Read</mark> [<mark style="color:purple;">Moderation Policy</mark>](../data-processing/moderation-policy/)<mark style="color:purple;"></mark>
+<mark style="color:purple;">a. Read about how the community ambassadors manage the safety and privacy of members w.r.t subscribed membership activity. Read</mark> [<mark style="color:purple;">Moderation Policy</mark>](../data-processing/moderation-policy/)
 
 <mark style="color:purple;">b. Please read about</mark> [<mark style="color:purple;">How not to spam</mark>](../data-processing/moderation-policy/how-not-to-spam/) <mark style="color:purple;">Foundation's public forums.</mark>
 
-<mark style="color:purple;">c. Read more on</mark> [<mark style="color:purple;">Self and Peer Review.</mark>](open-governance/peer-review.md)<mark style="color:purple;"></mark>
+<mark style="color:purple;">c. Read more on</mark> [<mark style="color:purple;">Self and Peer Review.</mark>](open-governance/peer-review.md)
 
-<mark style="color:purple;"></mark>
+
 {% endhint %}
 
-**Custodian:** [**Media Council**](../foundation/media-council/)****
+**Custodian:** [**Media Council**](../foundation/media-council/)

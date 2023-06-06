@@ -25,15 +25,15 @@ Open Constitution CWC comprises of an active group of members working with the o
 
 <mark style="color:green;">Open Constitution CWC independently manages the project affairs working guidelines for digital resources and infrastructure.</mark>
 
-<mark style="color:green;"></mark>\ <mark style="color:green;">Read on How to Join Open Constitution CWC</mark> [<mark style="color:green;">here</mark>](../core-working-committee/project-cwcs.md) <mark style="color:green;">and what role a Project CWC plays in Foundation's community.</mark>\ <mark style="color:green;">Read</mark> [<mark style="color:green;">CWC Nominations Guide</mark>](broken-reference) <mark style="color:green;">for Project CWCs.</mark>\
+\ <mark style="color:green;">Read on How to Join Open Constitution CWC</mark> [<mark style="color:green;">here</mark>](../core-working-committee/project-cwcs.md) <mark style="color:green;">and what role a Project CWC plays in Foundation's community.</mark>\ <mark style="color:green;">Read</mark> [<mark style="color:green;">CWC Nominations Guide</mark>](broken-reference) <mark style="color:green;">for Project CWCs.</mark>\
 
 {% endhint %}
 
 {% hint style="info" %}
-[<mark style="color:purple;">**FILE YOUR NOMINATION NOW**</mark>](https://share.hsforms.com/1o5rrkcr3SIuK3qtBiL\_NQQ3xaqh)<mark style="color:purple;">****</mark>
+[<mark style="color:purple;">**FILE YOUR NOMINATION NOW**</mark>](https://share.hsforms.com/1o5rrkcr3SIuK3qtBiL\_NQQ3xaqh)
 {% endhint %}
 
-**Custodian:** [**Steering Council**](./)****
+**Custodian:** [**Steering Council**](./)
 
 
 

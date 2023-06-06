@@ -33,10 +33,10 @@ Finscale CWC comprises of an active group of members working with the open sourc
 {% endhint %}
 
 {% hint style="info" %}
-[<mark style="color:purple;">**FILE YOUR NOMINATION NOW**</mark>](https://share.hsforms.com/1o5rrkcr3SIuK3qtBiL\_NQQ3xaqh)<mark style="color:purple;">****</mark>
+[<mark style="color:purple;">**FILE YOUR NOMINATION NOW**</mark>](https://share.hsforms.com/1o5rrkcr3SIuK3qtBiL\_NQQ3xaqh)
 {% endhint %}
 
-**Custodian:** [**Steering Council**](./)****
+**Custodian:** [**Steering Council**](./)
 
 
 

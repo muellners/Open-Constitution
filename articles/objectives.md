@@ -42,12 +42,12 @@ _<mark style="color:purple;">IV  Public Interest and public policy advisory</mar
 
 {% hint style="info" %}
 _<mark style="color:purple;">V  International Legal and human rights instruments</mark>_\
-_<mark style="color:purple;"></mark>_
+
 
 * To promote, advocate harmonizing international social, economic and cultural affairs in order to support global development of human rights on planet earth, with the proclamation of observing public trust in publicly auditable social, civil or economic jurisdictional stakeholders.
 {% endhint %}
 
-****
 
-**Custodian:** [**Executive Council**](../foundation/executive-council.md)****
+
+**Custodian:** [**Executive Council**](../foundation/executive-council.md)
 

@@ -16,7 +16,7 @@ description: >-
 
 &#x20;      **Register a** [**Guest Account**](https://open-bank.org)**.**&#x20;
 
-****
+
 
 3. **CITIZENSHIP:** If you have made up your mind to join the Open Constitution as an e resident, you shall activate [E Residency](https://www.muellners.org/e-residency/)**.** \
 
@@ -25,9 +25,9 @@ description: >-
 
 **Create Account at** [**Open Bank Portal**](https://www.open-bank.org/my-account/) **on the network.**
 
-Read [**Knowledge Base**](https://openconstitution.atlassian.net/wiki/spaces/ER1/overview)****
+Read [**Knowledge Base**](https://openconstitution.atlassian.net/wiki/spaces/ER1/overview)
 {% endhint %}
 
-****
 
-**Custodian:** [**Executive Council**](../foundation/executive-council.md)****
+
+**Custodian:** [**Executive Council**](../foundation/executive-council.md)

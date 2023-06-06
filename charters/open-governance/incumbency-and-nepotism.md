@@ -21,4 +21,4 @@ Any member shall not promote their related family members to the electoral seats
 
 Therefore members shall take extra precautions in nominating proposals or candidatures to Open Council & its memberships.
 
-**Custodian:** [**Executive Council**](../../foundation/executive-council.md)****
+**Custodian:** [**Executive Council**](../../foundation/executive-council.md)

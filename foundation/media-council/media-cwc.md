@@ -11,7 +11,7 @@ Media CWC is an independent group of volunteers from the Foundation's open commu
 {% hint style="info" %}
 **Members with the following background generally constitute Media CWC:**
 
-****
+
 
 * Members with an active media/journalism/research practice.
 * Members with a communications research background - corporate, business, Internet based media companies, newspapers.
@@ -19,7 +19,7 @@ Media CWC is an independent group of volunteers from the Foundation's open commu
 
 
 
-&#x20;****&#x20;
+&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -36,7 +36,7 @@ Media CWC is an independent group of volunteers from the Foundation's open commu
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:purple;">****</mark>[<mark style="color:purple;">**FILE YOUR NOMINATION NOW**</mark>](https://share.hsforms.com/1Tl1NczJOTwWoM6n4BZRU-g3xaqh)<mark style="color:purple;">****</mark>
+[<mark style="color:purple;">**FILE YOUR NOMINATION NOW**</mark>](https://share.hsforms.com/1Tl1NczJOTwWoM6n4BZRU-g3xaqh)
 {% endhint %}
 
 {% hint style="info" %}
@@ -54,4 +54,4 @@ Media CWC is an independent group of volunteers from the Foundation's open commu
 
 {% endhint %}
 
-**Custodian:** [**Executive Committee**](../executive-council.md)****
+**Custodian:** [**Executive Committee**](../executive-council.md)

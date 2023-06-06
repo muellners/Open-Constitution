@@ -13,11 +13,11 @@ Steering Council members are usually individuals of industry wide reputation, ha
 {% hint style="info" %}
 <mark style="color:purple;">The members of the Steering Council have chosen to actively contribute to projects maintained by the Muellners Foundation. Steering Council further appoints each project's</mark>[ <mark style="color:purple;">**Core Working Committees**</mark>](../core-working-committee/)<mark style="color:purple;">**.**</mark>&#x20;
 
-<mark style="color:purple;"></mark>
+
 
 <mark style="color:purple;">These members publish opinion articles on Foundation's open source projects, contribute directly by mentoring Learn fellowship grantees, participate in presenting Foundation's agenda in their industry network, build strategic relationships with partners.</mark>
 
-<mark style="color:purple;"></mark>
+
 
 <mark style="color:purple;">The members to Steering Council stay on the Open Council for an election period</mark>.
 {% endhint %}
@@ -89,9 +89,14 @@ For the purposes of record keeping on an electronic ledger - Open Convention & C
 {% hint style="info" %}
 <mark style="color:green;">**Electoral Process for "Vote IN" is conditional to a quorum.**</mark>&#x20;
 
-<mark style="color:purple;">****</mark>\ <mark style="color:purple;">****</mark><mark style="color:green;">**a.**</mark> <mark style="color:green;"></mark><mark style="color:green;">Quorum is achieved when a minimum of half</mark> <mark style="color:green;"></mark><mark style="color:green;">****</mark> <mark style="color:green;"></mark><mark style="color:green;">of all the Open Council members, participate in the Council Resolution - "Vote IN".</mark>\ <mark style="color:green;"></mark><mark style="color:green;">**b.**</mark> <mark style="color:green;"></mark><mark style="color:green;">A decision is received in favour of the Council Resolution - "Vote IN", when majority of all the participating members of the Open Council, vote "+1".</mark>\ <mark style="color:green;"></mark>\ <mark style="color:green;">E.g: Let's say there are 21 Open Council members.</mark>&#x20;
+\
+<mark style="color:green;">**a.**</mark> <mark style="color:green;"></mark><mark style="color:green;">Quorum is achieved when a minimum of half</mark> <mark style="color:green;">of all the Open Council members, participate in the Council Resolution - "Vote IN".</mark>\
+<mark style="color:green;">**b.**</mark> <mark style="color:green;"></mark><mark style="color:green;">A decision is received in favour of the Council Resolution - "Vote IN", when majority of all the participating members of the Open Council, vote "+1".</mark>\
+\ <mark style="color:green;">E.g: Let's say there are 21 Open Council members.</mark>&#x20;
 
-<mark style="color:green;">Atleast 11 members shall participate in the Council Resolution for the "Vote IN" to achieve quorum. This is the qualifying state for the Council Resolution to be logged on Open Constitution public ledger.</mark>\ <mark style="color:green;">For the appointment to be electorally approved, the "Vote IN" should receive atleast half of the total votes(required for quorum), in the favour of this Council Resolution.</mark>\ <mark style="color:green;"></mark>\ <mark style="color:green;"></mark>_<mark style="color:green;">So, in this example, six (+1) votes of the participating 11 Council members will do the job.</mark>_<mark style="color:green;">😒</mark> &#x20;
+<mark style="color:green;">Atleast 11 members shall participate in the Council Resolution for the "Vote IN" to achieve quorum. This is the qualifying state for the Council Resolution to be logged on Open Constitution public ledger.</mark>\ <mark style="color:green;">For the appointment to be electorally approved, the "Vote IN" should receive atleast half of the total votes(required for quorum), in the favour of this Council Resolution.</mark>\
+\
+_<mark style="color:green;">So, in this example, six (+1) votes of the participating 11 Council members will do the job.</mark>_<mark style="color:green;">😒</mark> &#x20;
 {% endhint %}
 
 6.4 Appointment to the Steering Council is publicized on the public facing records of the Muellners Foundation.&#x20;
@@ -104,10 +109,14 @@ For the purposes of record keeping on an electronic ledger - Open Convention & C
 
 {% hint style="info" %}
 <mark style="color:red;">**Electoral Process for "Vote OUT" is conditional to a quorum.**</mark>\
-****\
-****<mark style="color:red;">**a.**</mark> <mark style="color:red;"></mark><mark style="color:red;">Quorum is achieved when a minimum of half</mark> <mark style="color:red;"></mark><mark style="color:red;">****</mark> <mark style="color:red;"></mark><mark style="color:red;">of all the Open Council members  participate in the Council Resolution "</mark><mark style="color:red;">**Vote OUT**</mark><mark style="color:red;">".</mark>\ <mark style="color:red;"></mark><mark style="color:red;">**b.**</mark> <mark style="color:red;"></mark><mark style="color:red;">A decision is received in favour of the "</mark><mark style="color:red;">**Vote OUT**</mark><mark style="color:red;">", when majority of all the participating members of the Open Council, vote "+1".</mark>\ <mark style="color:red;"></mark>\ <mark style="color:red;">E.g: Let's say there are 21 Open Council members.</mark>&#x20;
+\
+<mark style="color:red;">**a.**</mark> <mark style="color:red;"></mark><mark style="color:red;">Quorum is achieved when a minimum of half</mark> <mark style="color:red;">of all the Open Council members  participate in the Council Resolution "</mark><mark style="color:red;">**Vote OUT**</mark><mark style="color:red;">".</mark>\
+<mark style="color:red;">**b.**</mark> <mark style="color:red;"></mark><mark style="color:red;">A decision is received in favour of the "</mark><mark style="color:red;">**Vote OUT**</mark><mark style="color:red;">", when majority of all the participating members of the Open Council, vote "+1".</mark>\
+\ <mark style="color:red;">E.g: Let's say there are 21 Open Council members.</mark>&#x20;
 
-<mark style="color:red;">Atleast 11 members shall participate in the Council Resolution for "Vote OUT" to achieve quorum. This is the qualifying state for the Council Resolution to be locked on Open Constitution public ledger.</mark>\ <mark style="color:red;">For the removal to be electorally approved for next stage, the</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Vote OUT"**</mark> <mark style="color:red;"></mark><mark style="color:red;">should receive at least half of the total votes(required for quorum), in the favour of this Council Resolution.</mark>\ <mark style="color:red;"></mark>\ <mark style="color:red;"></mark>_<mark style="color:red;">So, in this example, six (+1) votes of the participating 11 Council members will do the job.</mark>_<mark style="color:red;">😒</mark> &#x20;
+<mark style="color:red;">Atleast 11 members shall participate in the Council Resolution for "Vote OUT" to achieve quorum. This is the qualifying state for the Council Resolution to be locked on Open Constitution public ledger.</mark>\ <mark style="color:red;">For the removal to be electorally approved for next stage, the</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Vote OUT"**</mark> <mark style="color:red;"></mark><mark style="color:red;">should receive at least half of the total votes(required for quorum), in the favour of this Council Resolution.</mark>\
+\
+_<mark style="color:red;">So, in this example, six (+1) votes of the participating 11 Council members will do the job.</mark>_<mark style="color:red;">😒</mark> &#x20;
 {% endhint %}
 
 A strong reason for violation of Muellners Foundation’s governing policies and directives must be provided by member(s) initiating the resolution, to support the Council resolution “Vote OUT”.&#x20;
@@ -119,11 +128,12 @@ A strong reason for violation of Muellners Foundation’s governing policies and
 
 <mark style="color:purple;">Quorum on the Community Referendum for the Council Resolution - "Vote Out" is achieved when 33% (more than 1/3rd) of all the voluntarily organised subscribed members participate. Of the minimum participating members, the Community Referendum stands as</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Decided**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">when majority of the quorum populace votes in favour of the stated Council resolution “Vote OUT”.</mark>
 
-<mark style="color:purple;">E.g: Let's say there are</mark> <mark style="color:purple;"></mark><mark style="color:purple;"><mark style="color:red;"><mark style="color:red;"></mark> <mark style="color:purple;"></mark><mark style="color:purple;">1000</mark> <mark style="color:purple;"></mark><mark style="color:purple;"><mark style="color:red;"><mark style="color:red;"></mark> <mark style="color:purple;"></mark><mark style="color:purple;">Foundation members.</mark> <mark style="color:purple;"></mark><mark style="color:purple;"><mark style="color:red;"><mark style="color:red;"></mark>&#x20;
+<mark style="color:purple;">E.g: Let's say there are</mark> <mark style="color:purple;">1000</mark> <mark style="color:purple;">Foundation members.</mark>&#x20;
 
 
 
-<mark style="color:red;">A minimum of 333 members are required to participate in the Community Referendum to achieve quorum.</mark> \ <mark style="color:red;">The decision of the Community Referendum depends on a majority(167/333) in favour of, or against the subject of the Referendum.</mark> \ <mark style="color:purple;"></mark><mark style="color:green;">This is the qualifying state for the Referendum to get locked on Open Constitution public ledger.</mark>
+<mark style="color:red;">A minimum of 333 members are required to participate in the Community Referendum to achieve quorum.</mark> \ <mark style="color:red;">The decision of the Community Referendum depends on a majority(167/333) in favour of, or against the subject of the Referendum.</mark> \
+<mark style="color:green;">This is the qualifying state for the Referendum to get locked on Open Constitution public ledger.</mark>
 
 <mark style="color:red;">😒</mark> &#x20;
 {% endhint %}
@@ -160,4 +170,4 @@ If the meeting took place outside the Foundation’s communications infrastructu
 <mark style="color:purple;">Upon a successful nomination and having received a passed</mark> <mark style="color:green;">**Council Resolution "Vote IN",**</mark>** **<mark style="color:purple;">**a**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">new Open Council member should file their supporting documents to Open Constitution Membership Registry. A private link is generated by Open Constitution system.</mark>
 {% endhint %}
 
-**Custodian:** [**Election Council**](../executive-council.md)****
+**Custodian:** [**Election Council**](../executive-council.md)

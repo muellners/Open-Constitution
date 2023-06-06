@@ -24,11 +24,11 @@ Independent Boards are constituted in different jurisdictions:
 
 **Current Independent Board Member List:**
 
-| Region                                                   | Legal Body Name(Fiscal Host)                                                                         | Board Members                                                                |
-| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| European Union and Nordics                               | Muellners Frivillig Forening Foundation, Denmark                                                     | Lara Muellner, Ankit Muellner                                                |
-| [**India**](https://india.muellnersfoundation.org)****   | <mark style="color:red;">To be updated</mark>                                                        | <mark style="color:red;">Existing Legal Body Registration Name Change</mark> |
-| [**Uganda**](https://uganda.muellnersfoundation.org)**** | [**Kisoboka Africa Ltd**](https://uganda.muellnersfoundation.org/public-reports/fiscal-identity)**** | Ssemugenyi Muhammad, Stephen Katende                                         |
+| Region                                               | Legal Body Name(Fiscal Host)                                                                     | Board Members                                                                |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| European Union and Nordics                           | Muellners Frivillig Forening Foundation, Denmark                                                 | Lara Muellner, Ankit Muellner                                                |
+| [**India**](https://india.muellnersfoundation.org)   | <mark style="color:red;">To be updated</mark>                                                    | <mark style="color:red;">Existing Legal Body Registration Name Change</mark> |
+| [**Uganda**](https://uganda.muellnersfoundation.org) | [**Kisoboka Africa Ltd**](https://uganda.muellnersfoundation.org/public-reports/fiscal-identity) | Ssemugenyi Muhammad, Stephen Katende                                         |
 
 **What is a Fiscal Host?**
 
@@ -39,7 +39,7 @@ Independent Boards constitutionally represent Foundation in local jurisdictions,
 {% hint style="info" %}
 <mark style="color:purple;">A Fiscal Host informs themselves and responds to what is relevant in local jurisdictions for non for profits or co-operatives.</mark> \ <mark style="color:purple;">There are many elements to local statutory reportings, and compliance, which the Fiscal Hosts fulfills:</mark>
 
-<mark style="color:purple;"></mark>\ <mark style="color:purple;">1. Maintaining a local member registry,</mark>\ <mark style="color:purple;">2. Administering public grants,</mark> \ <mark style="color:purple;">3. Hiring of officers of the Foundation in compliance with local labour laws of a UN member state.</mark>
+\ <mark style="color:purple;">1. Maintaining a local member registry,</mark>\ <mark style="color:purple;">2. Administering public grants,</mark> \ <mark style="color:purple;">3. Hiring of officers of the Foundation in compliance with local labour laws of a UN member state.</mark>
 
 <mark style="color:purple;">4. Maintaining custody of ESG Funds in compliance with regulations of local financial services and supervisory authorities.</mark>
 
@@ -66,4 +66,4 @@ Independent Board is a local juridisction based ratification agency for the Foun
 \
 Read more on [Steward Group](../foundation/steward-group.md).
 
-**Custodian:** [**Independent Board**](independent-board.md)****
+**Custodian:** [**Independent Board**](independent-board.md)

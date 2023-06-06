@@ -23,7 +23,9 @@ At times, certain subjects may require that such decisions be taken (which once 
 
 <mark style="color:green;">Only merged Change Requests qualify for a Perpetual Motion protocol.</mark>
 
-<mark style="color:green;">Perpetual Motion cannot be applied to decisions which required immediate processing or those requiring emergency attention i.e proposals or change requests which received a</mark> [<mark style="color:green;">Privilege Motion</mark>](privilege-motion.md)<mark style="color:green;">.</mark>\ <mark style="color:green;"></mark>\ <mark style="color:green;"></mark><mark style="color:purple;">Decisions are logged on the Serenity Governance System, with the Perpetual Motion Protocol.</mark>
+<mark style="color:green;">Perpetual Motion cannot be applied to decisions which required immediate processing or those requiring emergency attention i.e proposals or change requests which received a</mark> [<mark style="color:green;">Privilege Motion</mark>](privilege-motion.md)<mark style="color:green;">.</mark>\
+\
+<mark style="color:purple;">Decisions are logged on the Serenity Governance System, with the Perpetual Motion Protocol.</mark>
 {% endhint %}
 
-**Custodian:** [**Executive Council**](../../foundation/executive-council.md)****
+**Custodian:** [**Executive Council**](../../foundation/executive-council.md)

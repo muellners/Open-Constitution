@@ -17,7 +17,8 @@ At times members may find each other at odds. A member may feel that their commu
 
 1. <mark style="color:purple;">Member has floated a community proposal.</mark> &#x20;
 2. <mark style="color:purple;">The community proposal was NOT subscribed by the</mark> [<mark style="color:purple;">Project CWC</mark>](../../foundation/core-working-committee/project-cwcs.md)<mark style="color:purple;">.</mark>
-3. &#x20;<mark style="color:purple;">Community Proposal is "Inactive" and associated change request is presently "Expired".</mark>\ <mark style="color:purple;"></mark>\ <mark style="color:purple;">If the members feels that their community proposal did not receive a representation and then a member can activate "Right to Inclusion" at this stage.</mark>
+3. &#x20;<mark style="color:purple;">Community Proposal is "Inactive" and associated change request is presently "Expired".</mark>\
+   \ <mark style="color:purple;">If the members feels that their community proposal did not receive a representation and then a member can activate "Right to Inclusion" at this stage.</mark>
 {% endhint %}
 
 Right to Inclusion is a community consensus protocol.

@@ -38,5 +38,5 @@ A private mailing list where Project Management Committee conducts a vote to dec
 
 **Read more on Voting in** [Open Ballot](./).
 
-**Custodian:** [**Executive Committee**](../../foundation/executive-council.md)****
+**Custodian:** [**Executive Committee**](../../foundation/executive-council.md)
 

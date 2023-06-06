@@ -5,7 +5,7 @@
 {% hint style="info" %}
 <mark style="color:green;">**De Registry: Local**</mark>
 
-<mark style="color:green;">**Registrar:**</mark> [<mark style="color:blue;">Steward Group</mark>](../steward-group.md) <mark style="color:blue;"></mark> <mark style="color:green;">of a</mark> <mark style="color:green;"></mark><mark style="color:green;">****</mark> [<mark style="color:blue;">Fiscal Host</mark>](broken-reference)<mark style="color:blue;">/Node</mark>
+<mark style="color:green;">**Registrar:**</mark> [<mark style="color:blue;">Steward Group</mark>](../steward-group.md) <mark style="color:green;">of a</mark> [<mark style="color:blue;">Fiscal Host</mark>](broken-reference)<mark style="color:blue;">/Node</mark>
 
 <mark style="color:purple;">**All natural persons, de-registered from the Local registry, acquire an "emeritus" status on the Open Constitution network.**</mark>&#x20;
 
@@ -19,7 +19,8 @@ A citizen who has died.
 
 <mark style="color:purple;">In the case of a citizen death, unless there exists any notificiation to the Registrar posthumous claims on meta data associated with the citizen, (claims by their guardian or heir) Right to Forgotten is applicable after one year of the citizen's death on planet earth.</mark>&#x20;
 
-Note: Emeritus Citizens are also termed as **"former members"**, in this Open Constitution.\ <mark style="color:purple;">****</mark>
+Note: Emeritus Citizens are also termed as **"former members"**, in this Open Constitution.\
+
 {% endhint %}
 
 {% hint style="info" %}

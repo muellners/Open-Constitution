@@ -11,9 +11,9 @@ _Before we begin, an individual citizen should gain access to the Foundation's G
 <mark style="color:purple;">This is generally accorded when members join the Foundation. Read</mark> [<mark style="color:purple;">Open Access</mark>](../charters/open-access-charter.md) <mark style="color:purple;">levels.</mark>
 
 _**Open Constitution is divided into different constitutional bodies.**_ \
-_****Articles of association for each constitutional body of the Open Constitution are detailed and presented on a single page of this Open Constitution._&#x20;
+_Articles of association for each constitutional body of the Open Constitution are detailed and presented on a single page of this Open Constitution._&#x20;
 
-_Each page is therefore known as a single **instrument** of the Open Constitution. ****_&#x20;
+_Each page is therefore known as a single **instrument** of the Open Constitution._&#x20;
 
 Each **instrument** is bound by a specific custodian, either a Council or a Committee, which is responsible for upkeep and amendment of the laws, enacted in the Foundation's self governance model.
 
@@ -31,7 +31,7 @@ Open Constitution public facing literature is itself open source. \
 Read [community guidelines ](https://docs.muellnersfoundation.info/open-constitution/how-to-change)on bringing about an Amendment to the Open Constitution.
 {% endhint %}
 
-### <mark style="color:green;">****</mark>
+###
 
 \
-**Custodian:** [**Executive Council**](../foundation/executive-council.md)****
+**Custodian:** [**Executive Council**](../foundation/executive-council.md)

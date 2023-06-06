@@ -40,7 +40,7 @@ The Observation Council members are also humans. They may not have a fitting sol
 
 > <mark style="color:purple;"><mark style="color:blue;">**Public Notice(OPEN CALL):**<mark style="color:blue;"></mark> <mark style="color:purple;"><mark style="color:blue;"> </mark><mark style="color:purple;"><mark style="color:blue;">Muellners Foundation is currently inviting members to constitute following Project CWCs:<mark style="color:blue;"></mark>\ <mark style="color:purple;"><mark style="color:blue;">1.<mark style="color:blue;"></mark> [<mark style="color:purple;"><mark style="color:blue;">**Finscale CWC**<mark style="color:blue;"></mark>](../steering-council/finscale-cwc.md) <mark style="color:purple;"><mark style="color:blue;">-  Technical Writers, Developers with financial technology background, fin tech product managers, members with DeFi background.<mark style="color:blue;"></mark>
 >
-> <mark style="color:purple;"><mark style="color:blue;">2.<mark style="color:blue;"></mark> [<mark style="color:purple;"><mark style="color:blue;">**Serenity CWC**<mark style="color:blue;"></mark>](../steering-council/serenity-cwc.md) <mark style="color:purple;"><mark style="color:blue;">****<mark style="color:blue;"></mark> <mark style="color:purple;"><mark style="color:blue;"> </mark><mark style="color:purple;"><mark style="color:blue;">- Technical Writers, sociologist and anthropologists, researchers, developers with a financial services and Non for profit background, fin tech product managers, members with DeFi background.<mark style="color:blue;"></mark>&#x20;
+> <mark style="color:purple;"><mark style="color:blue;">2.<mark style="color:blue;"></mark> [<mark style="color:purple;"><mark style="color:blue;">**Serenity CWC**<mark style="color:blue;"></mark>](../steering-council/serenity-cwc.md) <mark style="color:purple;"><mark style="color:blue;">- Technical Writers, sociologist and anthropologists, researchers, developers with a financial services and Non for profit background, fin tech product managers, members with DeFi background.<mark style="color:blue;"></mark>&#x20;
 
 {% hint style="info" %}
 
@@ -61,13 +61,14 @@ The Observation Council members are also humans. They may not have a fitting sol
 
 <mark style="color:blue;">These members also generally schedule an interview and document the interview for the public facing records of all CWC nominations.</mark>
 
-<mark style="color:green;">**Step 3:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Member is officially appointed to CWC by the</mark> [<mark style="color:green;">**Executive Co**</mark>](../executive-council.md)<mark style="color:green;">**uncil**</mark> <mark style="color:green;"></mark><mark style="color:green;">of the Foundation and further ratified by a jurisdiction based</mark> [<mark style="color:green;">Independent Board</mark>](../../charters/independent-board.md)<mark style="color:green;">.</mark>\ <mark style="color:green;"></mark>
+<mark style="color:green;">**Step 3:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Member is officially appointed to CWC by the</mark> [<mark style="color:green;">**Executive Co**</mark>](../executive-council.md)<mark style="color:green;">**uncil**</mark> <mark style="color:green;"></mark><mark style="color:green;">of the Foundation and further ratified by a jurisdiction based</mark> [<mark style="color:green;">Independent Board</mark>](../../charters/independent-board.md)<mark style="color:green;">.</mark>\
+
 {% endhint %}
 
-<mark style="color:purple;">****</mark>[<mark style="color:purple;">**FILE YOUR NOMINATION NOW**</mark>](https://share.hsforms.com/1o5rrkcr3SIuK3qtBiL\_NQQ3xaqh)<mark style="color:purple;">****</mark>
+[<mark style="color:purple;">**FILE YOUR NOMINATION NOW**</mark>](https://share.hsforms.com/1o5rrkcr3SIuK3qtBiL\_NQQ3xaqh)
 
 {% hint style="info" %}
-<mark style="color:purple;"></mark>
+
 
 1. <mark style="color:purple;">Project CWCs membership is a democratically elected position in the Foundation's Open Council.</mark>
 2. <mark style="color:purple;">Project CWC appointment is a voluntary membership and invites an active contribution on the projects:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Finscale**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">or</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Serenity**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Dao.</mark>&#x20;

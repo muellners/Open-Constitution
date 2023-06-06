@@ -47,4 +47,4 @@ The electoral process for all these constitutional bodies is maintained by the [
 
 
 
-**Custodian:** [**Executive Committee**](../../foundation/executive-council.md)****
+**Custodian:** [**Executive Committee**](../../foundation/executive-council.md)

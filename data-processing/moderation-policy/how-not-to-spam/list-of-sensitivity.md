@@ -11,19 +11,19 @@ _<mark style="color:purple;">(Note: This page is continously updated with edits 
 {% hint style="info" %}
 <mark style="color:red;">**Following is the list covering sensitive subjects;**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 1. <mark style="color:red;">Human Identity based discrimination</mark>
 2. <mark style="color:red;">Internet Freedom, and Cyber Censorship by government agencies</mark>
 3. <mark style="color:red;">War, and Non violence on planet earth, including mass animal killing</mark>&#x20;
 4. <mark style="color:red;">Poverty, malnourishment, and public health disaster</mark>&#x20;
 5. <mark style="color:red;">Natural disaster and manmade industrial disaster</mark>
-6. <mark style="color:red;"></mark>[<mark style="color:red;">Millitary Industrial Complex</mark>](https://en.wikipedia.org/wiki/Military%E2%80%93industrial\_complex)<mark style="color:red;"></mark>
+6. [<mark style="color:red;">Millitary Industrial Complex</mark>](https://en.wikipedia.org/wiki/Military%E2%80%93industrial\_complex)
 7. <mark style="color:red;">Freedom of</mark> [<mark style="color:red;">Journalis</mark>](https://en.wikipedia.org/wiki/Journalism)<mark style="color:red;">m</mark>
 8. <mark style="color:red;">Patent aggression on Intellectual property of life saving Pharmaceuticals</mark>
 {% endhint %}
 
-<mark style="color:red;"></mark>
+
 
 _BE SENSIBLE AND RESPECTFUL_
 

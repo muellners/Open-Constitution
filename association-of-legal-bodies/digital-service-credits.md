@@ -18,7 +18,7 @@ _<mark style="color:purple;">Project is run with Open Governance.</mark>_
 _<mark style="color:purple;">Product engineers can be onboarded to the project from Foundation’s community.</mark>_
 
 _<mark style="color:purple;">ORG Tenancy level access to talent, and open source intelligence of grantees from the Open Grant Program; gain fresh perspective(s) on your technology redundancies, by dedicating human intelligence to your project.</mark>_  \
-_<mark style="color:purple;"></mark>_
+
 {% endhint %}
 
 ## Governance Articles:
@@ -30,7 +30,7 @@ Digital Services Credits(hereby credits)
 
 _Incubation:_
 
-The representative Appointee of a ORG Member body shall constitute a _Partner Project_ and such a project shall go through an underwriting, and incubation using Foundation's Open ballot proceedings. ****&#x20;
+The representative Appointee of a ORG Member body shall constitute a _Partner Project_ and such a project shall go through an underwriting, and incubation using Foundation's Open ballot proceedings.&#x20;
 
 > **An appropriate Council or Committee vote shall launch the project.**
 >
@@ -55,9 +55,8 @@ The electorally appointed representative of an Org member body shall close the _
 The electorally appointed representative of an Org member body shall convene _ORG Project conventions, within the Articles of Association: Natural Persons: Open Constitution._
 
 {% hint style="info" %}
-<mark style="color:red;">**NOTICE:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark>&#x20;
+<mark style="color:red;">**NOTICE:**</mark>&#x20;
 
-Also, <mark style="color:red;"></mark> Read  ****  [**Premium Benefits**](https://docs.muellnersfoundation.info/serenity-partner-program/premium-benefits)_,_ [_Managed Services_](https://docs.muellnersfoundation.info/serenity-partner-program/managed-services)_,_ [_Dedicated Services_](https://docs.muellnersfoundation.info/serenity-partner-program/dedicated-services)_,_ [_Acceptable Usage Policy_](../open-source-policies/acceptable-usage-policy.md)_,_ [_Open Source Policy_](../open-source-policies/open-source-usage-and-delivery-policies.md)_._
+Also, Read  [**Premium Benefits**](https://docs.muellnersfoundation.info/serenity-partner-program/premium-benefits)_,_ [_Managed Services_](https://docs.muellnersfoundation.info/serenity-partner-program/managed-services)_,_ [_Dedicated Services_](https://docs.muellnersfoundation.info/serenity-partner-program/dedicated-services)_,_ [_Acceptable Usage Policy_](../open-source-policies/acceptable-usage-policy.md)_,_ [_Open Source Policy_](../open-source-policies/open-source-usage-and-delivery-policies.md)_._
 {% endhint %}
 
-__

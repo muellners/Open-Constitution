@@ -41,7 +41,7 @@ There are two types of Staging protocols:
 >
 > Void
 
-****
+
 {% endhint %}
 
 

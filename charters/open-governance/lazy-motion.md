@@ -50,7 +50,9 @@ Members challenging a lazy consensus decision generally identify in their propos
 
 <mark style="color:green;">Lazy Consensus Motion should not be applied to decisions which require immediate processing or those requiring</mark> <mark style="color:red;">**emergency attention**</mark> <mark style="color:green;">i.e proposals or change requests which received a</mark> [<mark style="color:green;">Privilege Motion</mark>](privilege-motion.md)<mark style="color:green;">.</mark>&#x20;
 
-<mark style="color:green;">Privilege Motion is generally applied by Council or Committee Chairs who have a strong reason to do so.</mark> \ <mark style="color:green;"></mark>\ <mark style="color:green;"></mark><mark style="color:purple;">Decisions are logged on the Open Constitution Governance System, with the Lazy Consensus Motion Protocol.</mark>
+<mark style="color:green;">Privilege Motion is generally applied by Council or Committee Chairs who have a strong reason to do so.</mark> \
+\
+<mark style="color:purple;">Decisions are logged on the Open Constitution Governance System, with the Lazy Consensus Motion Protocol.</mark>
 {% endhint %}
 
-**Custodian:** [**Executive Council**](../../foundation/executive-council.md)****
+**Custodian:** [**Executive Council**](../../foundation/executive-council.md)

@@ -121,3 +121,7 @@
 ## Outreach
 
 * [™ Brand Usage Policy](outreach/brand-usage-policy.md)
+
+## Group 1
+
+* [Open Constitution Network Diagram](group-1/open-constitution-network-diagram.md)

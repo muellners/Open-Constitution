@@ -19,7 +19,7 @@ For _Deterministic Chaos_ consensus, eligible conditions are that the chaos moti
 {% hint style="info" %}
 <mark style="color:purple;">Chaos Consensus is designed for open governance which is contextual to</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**multi constitutional bodies or multi-project or multi-program**</mark><mark style="color:purple;">. (dynamic systems, services, tools, exchange and resources.)</mark>&#x20;
 
-_<mark style="color:purple;"></mark>_
+
 {% endhint %}
 
 {% hint style="info" %}
@@ -27,7 +27,9 @@ _<mark style="color:purple;"></mark>_
 
 <mark style="color:green;">Chaos Consensus Motion should not be applied to decisions which require immediate processing or those requiring</mark> <mark style="color:red;">**emergency attention**</mark> <mark style="color:green;">i.e proposals or change requests which have already received a</mark> [<mark style="color:green;">Privilege Motion</mark>](privilege-motion.md)<mark style="color:green;">.</mark>&#x20;
 
-<mark style="color:green;">Privilege Motion is generally applied by Council or Committee Chairs who have a strong reason to do so.</mark> \ <mark style="color:green;"></mark>\ <mark style="color:green;"></mark><mark style="color:purple;">Decisions are logged on the Open Constitution Governance System, with the Chaos Consensus Motion Protocol.</mark>
+<mark style="color:green;">Privilege Motion is generally applied by Council or Committee Chairs who have a strong reason to do so.</mark> \
+\
+<mark style="color:purple;">Decisions are logged on the Open Constitution Governance System, with the Chaos Consensus Motion Protocol.</mark>
 {% endhint %}
 
-**Custodian:** [**Executive Council**](../../foundation/executive-council.md)****
+**Custodian:** [**Executive Council**](../../foundation/executive-council.md)

@@ -21,9 +21,14 @@ _A member of an Core Working Committee e.g a Project or an Independent CWC such 
 {% hint style="info" %}
 <mark style="color:green;">**Electoral Process for any "Committee Resolution" is conditional to a quorum.**</mark>&#x20;
 
-<mark style="color:purple;">****</mark>\ <mark style="color:purple;">****</mark><mark style="color:green;">**a.**</mark> <mark style="color:green;"></mark><mark style="color:green;">Quorum is achieved when a minimum of half</mark> <mark style="color:green;"></mark><mark style="color:green;">****</mark> <mark style="color:green;"></mark><mark style="color:green;">of all the Committee members, participate in the Committee Resolution - "Committee Vote".</mark>\ <mark style="color:green;"></mark><mark style="color:green;">**b.**</mark> <mark style="color:green;"></mark><mark style="color:green;">A decision is received in favour of the Committee's Resolution - "Committee Vote", when majority of all the participating members of the Committee, vote "+1".</mark>\ <mark style="color:green;"></mark>\ <mark style="color:green;">E.g: Let's say there are 7 Open Bank CWC members.</mark>&#x20;
+\
+<mark style="color:green;">**a.**</mark> <mark style="color:green;"></mark><mark style="color:green;">Quorum is achieved when a minimum of half</mark> <mark style="color:green;">of all the Committee members, participate in the Committee Resolution - "Committee Vote".</mark>\
+<mark style="color:green;">**b.**</mark> <mark style="color:green;"></mark><mark style="color:green;">A decision is received in favour of the Committee's Resolution - "Committee Vote", when majority of all the participating members of the Committee, vote "+1".</mark>\
+\ <mark style="color:green;">E.g: Let's say there are 7 Open Bank CWC members.</mark>&#x20;
 
-<mark style="color:green;">Atleast 4 members shall participate in the  "Committee Vote" to achieve quorum. This is the qualifying state for the Committee Resolution to be logged on Open Constitution public ledger.</mark>\ <mark style="color:green;">For any Committee Resolution to be electorally approved, the "Committee Vote" should receive atleast half of the total votes(required for quorum), in the favour of any Committee Resolution.</mark>\ <mark style="color:green;"></mark>\ <mark style="color:green;"></mark>_<mark style="color:green;">So, in this example, 2 (+1) votes of the participating 4 Committee members will do the job.</mark>_<mark style="color:green;">😒</mark> &#x20;
+<mark style="color:green;">Atleast 4 members shall participate in the  "Committee Vote" to achieve quorum. This is the qualifying state for the Committee Resolution to be logged on Open Constitution public ledger.</mark>\ <mark style="color:green;">For any Committee Resolution to be electorally approved, the "Committee Vote" should receive atleast half of the total votes(required for quorum), in the favour of any Committee Resolution.</mark>\
+\
+_<mark style="color:green;">So, in this example, 2 (+1) votes of the participating 4 Committee members will do the job.</mark>_<mark style="color:green;">😒</mark> &#x20;
 {% endhint %}
 
 Remember to note that Muellners Foundation is a lateral organised association. \
@@ -40,7 +45,7 @@ _A member of a Committee may call for the "Committee Vote"._
 After a community proposal has been discussed in the Foundation's Open Convention, a Committee vote may be invoked with the following template:
 
 {% hint style="info" %}
-<mark style="color:green;">**a.**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> <mark style="color:green;"></mark><mark style="color:green;">`Subject: [VOTE] Title of the Vote`</mark>
+<mark style="color:green;">**a.**</mark> <mark style="color:green;">`Subject: [VOTE] Title of the Vote`</mark>
 
 <mark style="color:green;">**b. Body:**</mark>
 
@@ -55,7 +60,7 @@ _<mark style="color:green;">`+1 (for Yes, and please specify your comments)`</ma
 _<mark style="color:green;">`-1 (for No , and please specify the reasons or alternate course of action)`</mark>_&#x20;
 
 _<mark style="color:green;">`0 (if you have no comments & do not object)`</mark>_\
-_<mark style="color:green;">``</mark>_
+
 
 _<mark style="color:green;">`For recording a quorum qualifying reasons: No response or no reply to the Committee vote is considered as a no participation. Members are encouraged to register 0 in case they wish to participate but have no comments and no objections.`</mark>_&#x20;
 
@@ -72,5 +77,5 @@ _<mark style="color:green;">`Vote is OPEN for: 72 hours`</mark>_
 <mark style="color:purple;">Adding well documented literature is ideal for Committee member's review and a positive value that these members can provide back to their community.</mark>
 {% endhint %}
 
-**Custodian:** [**Independent Board**](../independent-board.md)****
+**Custodian:** [**Independent Board**](../independent-board.md)
 

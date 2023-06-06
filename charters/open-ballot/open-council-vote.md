@@ -31,9 +31,14 @@ _An Independent Board member may also invoke an Open Council Vote._
 {% hint style="info" %}
 <mark style="color:green;">**Electoral Process for any "Council Resolution" is conditional to a quorum.**</mark>&#x20;
 
-<mark style="color:purple;">****</mark>\ <mark style="color:purple;">****</mark><mark style="color:green;">**a.**</mark> <mark style="color:green;"></mark><mark style="color:green;">Quorum is achieved when a minimum of half</mark> <mark style="color:green;"></mark><mark style="color:green;">****</mark> <mark style="color:green;"></mark><mark style="color:green;">of all the Open Council members, participate in the Council Resolution - "Council Vote".</mark>\ <mark style="color:green;"></mark><mark style="color:green;">**b.**</mark> <mark style="color:green;"></mark><mark style="color:green;">A decision is received in favour of the Council Resolution - "Council Vote", when majority of all the participating members of the Open Council, vote "+1".</mark>\ <mark style="color:green;"></mark>\ <mark style="color:green;">E.g: Let's say there are 21 Open Council members.</mark>&#x20;
+\
+<mark style="color:green;">**a.**</mark> <mark style="color:green;"></mark><mark style="color:green;">Quorum is achieved when a minimum of half</mark> <mark style="color:green;">of all the Open Council members, participate in the Council Resolution - "Council Vote".</mark>\
+<mark style="color:green;">**b.**</mark> <mark style="color:green;"></mark><mark style="color:green;">A decision is received in favour of the Council Resolution - "Council Vote", when majority of all the participating members of the Open Council, vote "+1".</mark>\
+\ <mark style="color:green;">E.g: Let's say there are 21 Open Council members.</mark>&#x20;
 
-<mark style="color:green;">Atleast 11 members shall participate in the Council Resolution for the "Council Vote" to achieve quorum. This is the qualifying state for the Council Resolution to be logged on</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Open Constitution</mark>_ <mark style="color:green;"></mark><mark style="color:green;">public ledger.</mark>\ <mark style="color:green;">For any Council Resolution to be electorally approved, the "Council Vote" should receive atleast half of the total votes(required for quorum), in the favour of any Council Resolution.</mark>\ <mark style="color:green;"></mark>\ <mark style="color:green;"></mark>_<mark style="color:green;">So, in this example, six (+1) votes of the participating 11 Council members will do the job.</mark>_<mark style="color:green;">😒</mark> &#x20;
+<mark style="color:green;">Atleast 11 members shall participate in the Council Resolution for the "Council Vote" to achieve quorum. This is the qualifying state for the Council Resolution to be logged on</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Open Constitution</mark>_ <mark style="color:green;"></mark><mark style="color:green;">public ledger.</mark>\ <mark style="color:green;">For any Council Resolution to be electorally approved, the "Council Vote" should receive atleast half of the total votes(required for quorum), in the favour of any Council Resolution.</mark>\
+\
+_<mark style="color:green;">So, in this example, six (+1) votes of the participating 11 Council members will do the job.</mark>_<mark style="color:green;">😒</mark> &#x20;
 {% endhint %}
 
 Remember to note that Muellners Foundation is a lateral organised association. \
@@ -51,7 +56,7 @@ _A member of a Council shall only invoke a Vote for a Council resolution._
 After, a proposal has been discussed in the Foundation's community, a Council member can post an email to Open Council's mailing list.&#x20;
 
 {% hint style="info" %}
-<mark style="color:green;">**a.**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> <mark style="color:green;"></mark><mark style="color:green;">`Subject: [VOTE] Title of the Vote`</mark>
+<mark style="color:green;">**a.**</mark> <mark style="color:green;">`Subject: [VOTE] Title of the Vote`</mark>
 
 <mark style="color:green;">**b. Body:**</mark>
 
@@ -66,7 +71,7 @@ _<mark style="color:green;">`+1 (for Yes, and please specify your comments)`</ma
 _<mark style="color:green;">`-1 (for No , and please specify the reasons or alternate course of action)`</mark>_&#x20;
 
 _<mark style="color:green;">`0 (if you have no comments & do not object)`</mark>_\
-_<mark style="color:green;">``</mark>_
+
 
 _<mark style="color:green;">`For recording a quorum qualifying reasons: No response or no reply to the Council vote is considered as a no participation. Members are encouraged to register 0 in case they wish to participate but have no comments and no objections.`</mark>_&#x20;
 
@@ -83,5 +88,5 @@ _<mark style="color:green;">`Vote is OPEN for: 72 hours`</mark>_
 <mark style="color:purple;">Therefore, adding well documented literature is ideal for Council member's review and a positive value that these members can provide back to their community.</mark>
 {% endhint %}
 
-**Custodian:** [**Independent Board**](../independent-board.md)****
+**Custodian:** [**Independent Board**](../independent-board.md)
 
