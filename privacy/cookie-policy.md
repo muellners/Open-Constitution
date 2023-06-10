@@ -49,7 +49,13 @@ https://muellnersfoundation.info and any subdomains thereof&#x20;
 
 https://opensource.exchange and any subdomains thereof&#x20;
 
-https://openconstitution.ai and any subdomains thereof&#x20;
+https://openconstitution.ai and any subdomains thereof
+
+https://open-bank.net, and any subdomains and custom domains thereof e.g project.open-bank.net
+
+https://upscalearts.org and any subdomains thereof
+
+https://upscalearts.com and any subdomains thereof
 
 * [ ] **Third Party**/_Other_ uniform resource locators(URLs) where Forms or (both web browser and mobile) applications are hosted to collect confidential information and are generated through third party services(Slack, Discord, Facebook, Twitter, Linkedin,Discourse, Gitbook, Atlassian, Github, Google Calendar, Telegram Broadcast channels, Stripe), either directly shared to you by the Muellners on its own or public platforms of communication &#x20;
 

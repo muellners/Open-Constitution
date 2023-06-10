@@ -122,6 +122,6 @@
 
 * [™ Brand Usage Policy](outreach/brand-usage-policy.md)
 
-## Group 1
+## OC Network
 
-* [Open Constitution Network Diagram](group-1/open-constitution-network-diagram.md)
+* [Network Diagram](oc-network/network-diagram.md)
