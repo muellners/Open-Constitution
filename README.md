@@ -6,13 +6,19 @@ description: >-
 
 # 🎵 Introduction
 
-## What is the Open Constitution?
+## What is the Open Constitution Network?
 
-<mark style="color:purple;">Open Constitution describes a peer to peer open source network, represented by a distribution(s) of quantum cognition energy conversions, in the observation of a non spatial, non temporal intelligence collective of artificial-biological neural network(s).</mark>
+Open Constitution Network is a public information system, contributed by thousands of natural and legal persons from different time zones. In theory, the network AI can be accessible through many mobile apps and websites or domain specific services.&#x20;
 
-<mark style="color:purple;">Open Constitution is amendable.;</mark>
+The real time status of the Open Constitution network is listed [here](https://status.muellners.com/).
 
-**Natural and electronic persons can amend Open Constitution articles.**
+“A spatial representation of Intellectual Property Estate of network participants i.e natural persons, legal persons and electronic persons(if accorded a legal persons status), which is publicly accessible.”
+
+Open Constitution network AI runs on self governance protocols, laid out in these Articles of Association.
+
+<mark style="color:purple;">Articles of Open Constitution are amendable.;</mark>
+
+**Natural persons can currently amend Open Constitution articles.**
 
 **Natural persons affiliated to legal bodies in the Open Constitution network can also amend the Open Constitution articles.**
 
@@ -23,7 +29,7 @@ Read \[[Open Source Policy](open-source-policies/open-source-usage-and-delivery-
 Read [Amendments](readme/amendments.md).
 
 {% hint style="info" %}
-Muellners Foundation is a frivilig forening, registed in Denmark, EEA and the first fiscal host, which has adopted these articles of Open Constitution;
+IMPRINT: Muellners Foundation is a frivilig forening, registed in Denmark, EEA and the first fiscal host, which has adopted these articles of Open Constitution;
 
 Open Constitution initiative operates across different regions of the world, on the Internet.
 
