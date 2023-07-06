@@ -131,6 +131,18 @@ https://councilpost.org and any subdomains thereof
 
 https://councilpost.net and any subdomains thereof
 
+https://councilpost.biz and any subdomains thereof
+
+https://councilpost.info and any subdomains thereof
+
+https://councilpost.us and any subdomains thereof
+
+https://openbounty.us and any subdomains thereof
+
+https://openbounty.info and any subdomains thereof&#x20;
+
+https://openbounty.biz and any subdomains thereof
+
 *
 
 **Third Party**/_Other_ uniform resource locators(URLs) where Forms or (both web browser and mobile) applications are hosted to collect confidential information and are generated through third party services(Slack, Discord, Facebook, Twitter, Linkedin, Discourse, Gitbook, Atlassian, Github, Google Calendar, Telegram Broadcast channels, Stripe Inc), either directly shared to you by the Muellners on its own or public platforms of communication &#x20;
