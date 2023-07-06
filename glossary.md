@@ -142,7 +142,7 @@ _“RVCs”: Regional Value Chains_: means any value chain frameworks, within th
 
 _International Financial Institution:_ means Multilateral Development Financial Institutions that are instituted by three or more independent member states eg IMF, World Bank etc.
 
-_Central Bank:_ means a principle regulatory body of RVC and RVC’s payment systems.
+_Central Bank:_ means a principal regulatory body of RVC and RVC’s payment systems.
 
 
 {% endhint %}
@@ -150,11 +150,11 @@ _Central Bank:_ means a principle regulatory body of RVC and RVC’s payment sys
 {% hint style="info" %}
 **Special Notes:**
 
-1. Several instruments and articles thereof use _gender appropriate terminology e.g "his or her or their", "he or she or "them"._&#x20;
+1. Several instruments and articles thereof use _gender-appropriate terminology e.g. "his or her or their", "he or she or "them"._&#x20;
 
-_Readers shall interpret the gender neutral words at their own liberty but only for representing an anonymous member's gender identity in the context of Open Constitution's citizenship._
+_Readers shall interpret the gender-neutral words at their own liberty but only for representing an anonymous member's gender identity in the context of Open Constitution's citizenship._
 
-_2. All measurements of time - minutes, years are in the context of timezones on planet Earth._
+_2. All measurements of time - minutes, and years are in the context of timezones on planet Earth._
 
 
 {% endhint %}
