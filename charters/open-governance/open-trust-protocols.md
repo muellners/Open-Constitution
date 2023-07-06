@@ -55,7 +55,7 @@ generally applicable to all states of a community contract
 
 shapes the community consensus, on both projects and programs,&#x20;
 
-always applied with a state staging protocols.
+always applied with state staging protocols.
 
 > Motion Protocols
 >
@@ -63,9 +63,9 @@ always applied with a state staging protocols.
 
 **A. Motion Protocols:**&#x20;
 
-are special type of consensus protocols
+are special types of consensus protocols
 
-can be applied by both machine entity or a human entity
+can be applied by both a machine entity or a human entity
 
 applied to a community contract&#x20;
 
@@ -91,11 +91,11 @@ always applied with a state staging protocol.
 
 are special types of consensus protocols
 
-can be applied by both machine entity or a human entity
+can be applied by both a machine entity or a human entity
 
 applied to a community contract&#x20;
 
-always applied with atleast one state staging protocol and one motion protocol
+always applied with at least one state staging protocol and one motion protocol
 
 > PKI Failure Protocol
 >

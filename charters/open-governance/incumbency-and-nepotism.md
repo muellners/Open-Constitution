@@ -6,11 +6,11 @@ description: >-
 
 # 👿 Anti Incumbency Staging
 
-Any Open Council or a C.W.C membership shall be for a finite period of time to avoid bringing incumbency to the Open Constitution's self governance.
+Any Open Council or a C.W.C. membership shall be for a finite period of time to avoid bringing incumbency to the Open Constitution's self-governance.
 
 {% hint style="info" %}
-1. <mark style="color:purple;">Applicable on membership to a constitutional body of Open Constitution.</mark>
-2. <mark style="color:purple;">Whenever any member retires from one Council body, any nomination of the same member to a different Open Council body shall have a cooling period of atleast 3 months.</mark>
+1. <mark style="color:purple;">Applicable on membership to a constitutional body of the Open Constitution.</mark>
+2. <mark style="color:purple;">Whenever any member retires from one Council body, any nomination of the same member to a different Open Council body shall have a cooling period of at least 3 months.</mark>
 {% endhint %}
 
 _Guidelines on Nepotism:_

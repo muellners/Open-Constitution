@@ -1,25 +1,25 @@
 ---
 description: >-
-  This section explains design principles of Open Governance in the Open
-  Constitution initiative.
+  This section explains the design principles of Open Trust, an open governance
+  characteristic of the Open Constitution AI.
 ---
 
 # 📔 Open Governance
 
-Open Constitution is a self governing human-machine governance protocol using decentralised and autonomous governance model.
+Open Constitution is a self-governing human-machine governance protocol using a decentralised and autonomous governance model.
 
-Open Constitution use a collection of distributed, flexible, compatible and censorship resistant open source tools and technology.&#x20;
+Open Constitution use a collection of distributed, flexible, compatible and censorship-resistant open-source tools and technology.&#x20;
 
-Open Constitution initiative maintains a digital public goods and services infrastructure, endowed through digital grants and accrual open source licenses from major technology companies on planet earth.
+Open Constitution initiative maintains a digital public goods and services infrastructure, endowed through digital grants and accrual open source licenses from major technology companies on planet Earth.
 
-### **Statement on delegation of decision making to the community.**
+### **Statement on delegation of decision-making to the community.**
 
 {% hint style="info" %}
-<mark style="color:green;">We must create a participative and socially inclusive community, which runs itself at a decentralised auto-governed state.</mark>&#x20;
+<mark style="color:green;">We must create a participative and socially inclusive community, which runs itself in a decentralised auto-governed state.</mark>&#x20;
 
 <mark style="color:green;">Foundation's community is a global think tank, which pursues open research for the betterment of humanity.</mark>&#x20;
 
-<mark style="color:green;">Members focus on the core of solving the challenges to humanity, with their contributions.</mark>\ <mark style="color:green;">The decision making and community governance over change requests are solely  vested in this Open Constitution, this in the hands of each human member.</mark>
+<mark style="color:green;">Members focus on the core of solving the challenges to humanity, with their contributions.</mark>\ <mark style="color:green;">The decision-making and community governance over change requests are solely vested in this Open Constitution, this is in the hands of each human member.</mark>
 
 <mark style="color:green;">Therefore, it is imperative that the members delegate management of decision Governance into a technology system, which is less and less centralised.</mark>
 
@@ -30,14 +30,14 @@ Open Constitution initiative maintains a digital public goods and services infra
 _**Open Constitution members organise themselves in a lateral structure.**_
 {% endhint %}
 
-Any member of the Open Constitution are eligible to be nominated to the [Open Council](../../foundation/committees-and-their-roles/).\
+Any member of the Open Constitution is eligible to be nominated to the [Open Council](../../foundation/committees-and-their-roles/).\
 Council memberships are voluntary and pro bono.&#x20;
 
 Council memberships are also term based to allow for a flexible change of leadership.
 
-Besides Open Council memberships, each project has a [CWC](../../foundation/core-working-committee/), a core Work group that exists to ensure maintenance of projects & initiatives of the Open Constitution.
+Besides Open Council memberships, each project has a [CWC](../../foundation/core-working-committee/), a core Workgroup that exists to ensure the maintenance of projects & initiatives of the Open Constitution.
 
-The subscribed membership activity is governed by a democratically elected [Executive Council](../../foundation/executive-council.md), adminstrative resolutions of which are vested in the Open Council, and maintained in effect by a judiciary system in the form of [Open Tribunal](../../foundation/open-tribunal.md).
+The subscribed membership activity is governed by a democratically elected [Executive Council](../../foundation/executive-council.md), administrative resolutions of which are vested in the Open Council, and maintained in effect by a judiciary system in the form of an [Open Tribunal](../../foundation/open-tribunal.md).
 
 The electoral process for all these constitutional bodies is maintained by the [Election Council](../../foundation/election-council.md)
 
