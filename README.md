@@ -6,16 +6,13 @@ description: >-
 
 # 🎵 Introduction
 
-**Open Constitution network:** a network of computing machines, with the purpose of self-sustaining a public information system, contributed by natural and legal persons from different time zones. The current network status is [here](https://status.muellners.com/). \
+**Open Constitution AI**: An open-source, digital public goods and service system that is designed to operate with elements of autonomy and that, based on machine and/or human-provided data and inputs, infers how to achieve a given set of objectives using machine learning and/or logic- and knowledge-based approaches, and produces system-generated outputs, such as content, predictions, recommendations or decisions, which influences the environment, as per the network’s Articles of Association.
 
+This AI runs based on self-governance principles, Open Trust protocols, laid down in the network’s Global Statutes.
 
-“Open Constitution network is a publicly accessible, spatial representation of Intellectual Property Estate of network participants i.e natural persons, legal persons and electronic persons.”\
+**Open Constitution network** (hereby network): is a network of computing machines, with the purpose of self-sustaining a public information system, contributed by natural and legal persons from different time zones. The current network status is [here](https://status.muellners.com/).&#x20;
 
-
-_**Open Constitution AI:** An open-source, digital public goods and service system that is designed to operate with elements of autonomy and that, based on machine and/or human-provided data and inputs, infers how to achieve a given set of objectives using machine learning and/or logic- and knowledge-based approaches, and produces system-generated outputs, such as content, predictions, recommendations or decisions, which influences the environment, as per the network’s Articles of Association._
-
-Open Constitution AI runs based on self-governance principles, laid down in the network’s Global Statutes.
-
+“The network is a publicly accessible, spatial representation of Intellectual Property Estate of network participants i.e natural persons, legal persons and electronic persons.”\
 
 
 > IMPRINT: Muellners Foundation (hereby Foundation): CVR 41008407&#x20;
