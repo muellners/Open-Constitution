@@ -10,26 +10,26 @@ description: >-
 {% hint style="info" %}
 <mark style="color:green;">Few notes before we start:</mark>
 
-<mark style="color:purple;">Bylaws of the Open Constitution ensure that the global citizens stay compliant with different local jurisdictions on planet earth.</mark>
+<mark style="color:purple;">Bylaws of the Open Constitution ensure that network AI stays compliant with different local jurisdictions on planet Earth.</mark>
 
 **Who adopts them?**
 
-These bylaws are written to be adopted by each legally organised voluntary association or a Co-operative, "[Fiscal Host](./#global-offices)" in each identifiable jurisdiction where the [Open Bank](https://open-bank.org) program operates.&#x20;
+These bylaws are written to be adopted by each legally organised voluntary association or a cooperative, "[Fiscal Host](./#global-offices)" in each identifiable jurisdiction where the [Open Bank](https://open-bank.org) program operates.&#x20;
 
 _<mark style="color:purple;">Each Fiscal Host adopts these bylaws either as a whole or an Addendum to their existing Articles of Association for the following purposes:</mark>_&#x20;
 
-**Purpose:** The primary objective for adoption of these bylaws are for:
+**Purpose:** The primary objective for the adoption of these bylaws are for:
 
 1. <mark style="color:green;">**Constitution of Fiscal Hosts:**</mark>&#x20;
 
-Empanelment of the legal body - Fiscal Host takes place by the Independent Board of the Foundation, based on the counsel of [Advisory Committee](../../foundation/advisory-council.md).  \
-The appointment of a Fiscal Host can be subsequently ratified by any of the pre constituted [Independent Board](../../charters/independent-board.md)s of any of the existing "Fiscal Hosts" of Muellners Foundation.
+Empanelment of the legal body - Fiscal Host takes place by the Independent Board of the Foundation, based on the counsel of the [Advisory Committee](../../foundation/advisory-council.md).  \
+The appointment of a Fiscal Host can be subsequently ratified by any of the pre-constituted [Independent Board](../../charters/independent-board.md)s of any of the existing "Fiscal Hosts" of the Muellners Foundation.
 
 <mark style="color:green;">**2. Appointment of Fiscal Host's Independent Board:**</mark>
 
-Independent Board represents the Foundation through Legal bodies in the local jurisdiction, and attempts to ensure Foundation's compliance with these local business and constitutional laws, including maintenance of functions of a [**Fiscal Host**](broken-reference).
+Independent Board represents the Foundation through Legal bodies in the local jurisdiction and attempts to ensure the Foundation's compliance with these local business and constitutional laws, including the maintenance of functions of a [**Fiscal Host**](broken-reference).
 
-<mark style="color:green;">**3. Association of Citizens as laid down by the doctrines of Open Constitution.**</mark>
+<mark style="color:green;">**3. Association of Citizens as laid down by the doctrines of the Open Constitution.**</mark>
 
 <mark style="color:green;">**4. Appointment of Officers of the Open Constitution in compliance with Local law.**</mark>
 
@@ -56,7 +56,7 @@ Read more on [Fiscal Host](../../fiscal-hosts/fiscal-hosts.md).
 {% endhint %}
 
 {% hint style="info" %}
-Please read the **LIVE** public facing record of the Global Statutes in the next page. If you like, you may download a pdf export using the export options provided.
+Please read the **LIVE** public-facing record of the Global Statutes on the next page. If you like, you may download a pdf export using the export options provided.
 {% endhint %}
 
 > Notes to Public:
@@ -72,12 +72,12 @@ Please read the **LIVE** public facing record of the Global Statutes in the next
 
 
 {% hint style="info" %}
-* [ ] <mark style="color:purple;">Global Statutes were under Public Review(Request for Comments) from Feb 16, 2022 to March 16, 2022.</mark>&#x20;
-* [ ] <mark style="color:purple;">Global Statutes were under Public Review(Request for Comments) from Dec 9, 2022 to Dec, 23, 2022 for an effective date of Dec 23, 2022.(extended to Dec 31st, 2022)</mark>&#x20;
+* [ ] <mark style="color:purple;">Global Statutes were under Public Review(Request for Comments) from Feb 16, 2022, to March 16, 2022.</mark>&#x20;
+* [ ] <mark style="color:purple;">Global Statutes were under Public Review(Request for Comments) from Dec 9, 2022, to Dec 23, 2022, for an effective date of Dec 23, 2022. (extended to Dec 31st, 2022)</mark>&#x20;
 
 <mark style="color:purple;">Check this relevant link for any General public discussions.</mark>\
 [<mark style="color:purple;">https://muellners.discourse.group/t/public-discussion-and-suggestions-on-global-statutes/30</mark>](https://muellners.discourse.group/t/public-discussion-and-suggestions-on-global-statutes/30)
 {% endhint %}
 
 **Custodian:** [**Independent Board**](../../charters/independent-board.md)**, Muellners Foundation, Denmark**\
-Credits: Articles are inspired by best practices in open source organisations.\
+Credits: Articles are inspired by best practices in open-source organisations.\
