@@ -84,6 +84,7 @@
   * [📔 Council Vote](charters/open-ballot/council-vote.md)
 * [📓 Electoral Charter](charters/electoral-charter.md)
 * [🤓 Code of Conduct](charters/code-of-conduct.md)
+* [🏳 Whistleblower Policy](charters/whistleblower-policy.md)
 
 ## Privacy Compliance <a href="#privacy" id="privacy"></a>
 
