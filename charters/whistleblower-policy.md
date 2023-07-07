@@ -98,8 +98,6 @@ If you have any questions regarding personal data protection, you may raise a su
 
 Muellners Foundation is data controller for the processing of the personal data that you report and can be contacted through the ordinary communication channels.
 
-You can also raise questions to our AI enabled Q/A system here, regarding rules and framework of Whistleblower policy.
-
 **Complaint**\
 If you want to complaint about the processing of your personal data, you are entitled to submit a complaint to the competent supervisory authority.
 
