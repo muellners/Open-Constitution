@@ -6,7 +6,7 @@ description: This page explains how to bring amendments to this Open Constitutio
 
 > "Change is eternal to human and humankind. Sometimes to adapt to change, willingness to change is required from within each and every human being."
 
-_Before we begin, an individual citizen should gain access to the Foundation's Gitbook to initiate change requests to this <mark style="color:red;">**LIVE VERSION**</mark> of Open Constitution._&#x20;
+_Before we begin, an individual citizen should gain access to the Foundation's Gitbook to initiate change requests to this <mark style="color:red;">**LIVE VERSION**</mark> of the Open Constitution._&#x20;
 
 <mark style="color:purple;">This is generally accorded when members join the Foundation. Read</mark> [<mark style="color:purple;">Open Access</mark>](../charters/open-access-charter.md) <mark style="color:purple;">levels.</mark>
 
@@ -15,7 +15,7 @@ _Articles of association for each constitutional body of the Open Constitution a
 
 _Each page is therefore known as a single **instrument** of the Open Constitution._&#x20;
 
-Each **instrument** is bound by a specific custodian, either a Council or a Committee, which is responsible for upkeep and amendment of the laws, enacted in the Foundation's self governance model.
+Each **instrument** is bound by a specific custodian, either a Council or a Committee, which is responsible for upkeep and amendment of the laws, enacted in the Foundation's self-governance model.
 
 > ## ARTICLE X AMENDMENTS
 >
@@ -27,7 +27,7 @@ Each **instrument** is bound by a specific custodian, either a Council or a Comm
 > Read Bylaws [here](../articles/statutes-muellners-foundation/).
 
 {% hint style="info" %}
-Open Constitution public facing literature is itself open source. \
+Open Constitution public-facing literature is itself open source. \
 Read [community guidelines ](https://docs.muellnersfoundation.info/open-constitution/how-to-change)on bringing about an Amendment to the Open Constitution.
 {% endhint %}
 

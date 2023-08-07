@@ -41,7 +41,7 @@ These are the guiding principles for all natural persons, legal persons(bodies) 
 
 <mark style="color:red;">Members deeply condemn the brutal history of human slavery and the practices of colonial oppression.</mark>
 
-<mark style="color:red;">Members advocate breaking down prevalent systematic racism, organised by individuals, or group of individuals, with the help of public policy reforms and e-governance-based inclusion.</mark>
+<mark style="color:red;">Members advocate breaking down prevalent systematic racism, organised by individuals, or groups of individuals, with the help of public policy reforms and e-governance-based inclusion.</mark>
 
 
 
@@ -113,7 +113,7 @@ Members base their work against racial discrimination on the “The Declaration 
 > \
 > Members endorse legislative reforms for a higher degree of socio-economic inclusion in higher intelligence human society.   &#x20;
 
-## **V. Identity-based on existential, faith and religion:**
+## **V. Identity based on existential, faith and religion:**
 
 {% hint style="info" %}
 The Foundation members believe that “All human beings are free to practice any religion”.&#x20;
@@ -153,7 +153,7 @@ _The foundation is a non-religious organisation and therefore promotes a healthy
 <mark style="color:purple;">Read about</mark> [<mark style="color:purple;">Open Constitution here</mark>](https://openconstitution.ai)<mark style="color:purple;">.</mark>
 {% endhint %}
 
-## **VII. A non violent, higher intelligence civilization:**
+## **VII. A non-violent, higher intelligence civilization:**
 
 {% hint style="info" %}
 <mark style="color:red;">Members practice the philosophy of nonviolence.</mark>&#x20;
@@ -182,7 +182,7 @@ Read [UN Security Council Resolutions here](https://www.un.org/securitycouncil/c
 \
 **Biodiversity:** M_embers encourage, and support enriching biodiversity and assert its role in restoring ecological balance on the planet.🌲🌳🍄💐_
 
-_**Open Constitution promotes reforms towards setting up a global governance system for stabilizing the planet's ecological equilibrium.**_
+_**Open Constitution promotes reforms toward setting up a global governance system for stabilizing the planet's ecological equilibrium.**_
 {% endhint %}
 
 {% hint style="info" %}
@@ -204,7 +204,7 @@ Members base their research and development work on the United Nations Framework
 {% endhint %}
 
 {% hint style="info" %}
-Members base their research and development work on the The Convention on Biological Diversity (CBD)
+Members base their research and development work on the Convention on Biological Diversity (CBD)
 
 [Read more here](https://www.cbd.int/doc/legal/cbd-en.pdf).       &#x20;
 {% endhint %}
@@ -226,7 +226,7 @@ Members base their research and development work on the The Convention on Biolog
 
 <mark style="color:purple;">**Global Food Crisis:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Members assert and advocate research and development, and humanitarian aid actions against the global food crisis. (Food Security)</mark>
 
-<mark style="color:purple;">**Migration across the planet:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Members support the protection of internally displaced people (IDPs), refugees and asylum-seekers - humans that fear persecution, conflict, violence, or other circumstances that have seriously disturbed public life, and who, as a result, require protection.</mark>
+<mark style="color:purple;">**Migration across the planet:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Members support the protection of internally displaced people (IDPs), refugees and asylum-seekers - humans who fear persecution, conflict, violence, or other circumstances that have seriously disturbed public life, and who, as a result, require protection.</mark>
 
 
 {% endhint %}
@@ -246,7 +246,7 @@ Members base their research and development work on the The Convention on Biolog
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:blue;">**Artificial Intelligence:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">The Foundation uses technology as a means to achieve its goals. We support the creation of Artificial Intelligence for advancements in global health and for augmenting the life of differently abled human beings.</mark>&#x20;
+<mark style="color:blue;">**Artificial Intelligence:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">The Foundation uses technology as a means to achieve its goals. We support the creation of Artificial Intelligence for advancements in global health and for augmenting the lives of differently abled human beings.</mark>&#x20;
 
 <mark style="color:blue;">We support decentralised Artificial Intelligence on planet Earth.</mark>
 
@@ -262,9 +262,7 @@ Members base their research and development work on the The Convention on Biolog
 
 <mark style="color:purple;">"Space is a frontier beyond today's geo-political jurisdictions, with limited consensus on the definition of "space itself."</mark>&#x20;
 
-<mark style="color:purple;">Members support reforms in space law and promote international co-operation in space-related activities.</mark>
-
-Read about [Hubble Telescope](https://hubblesite.org), an international cooperation program.
+<mark style="color:purple;">Members support reforms in space law and promote international cooperation in space-related activities.</mark>
 
 
 
@@ -274,11 +272,9 @@ Read about [Hubble Telescope](https://hubblesite.org), an international cooperat
 
 <mark style="color:purple;">**Robotics:**</mark>  <mark style="color:purple;"></mark><mark style="color:purple;">Open Constitution is designed to be a machine-human intelligence union. Members support robotics technology for humankind’s welfare and scientific pursuit and to augment the lives of differently-abled humans.</mark>
 
-<mark style="color:purple;">**Nuclear Non-Proliferations:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Open Constitution supports denuclearization and asserts mapping nuclear energy research and development with the scientific pursuit of human consciousness.</mark> &#x20;
+<mark style="color:purple;">**Nuclear Non-Proliferations:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">The Open Constitution supports denuclearization and asserts mapping nuclear energy research and development with the scientific pursuit of human consciousness.</mark> &#x20;
 
 <mark style="color:purple;">Open Constitution supports safety standards and interstellar research on nuclear energy.</mark>
-
-Read more about Project [CERN](https://home.cern).
 
 
 {% endhint %}

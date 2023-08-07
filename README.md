@@ -12,7 +12,7 @@ This AI runs based on self-governance principles, Open Trust protocols, laid dow
 
 **Open Constitution network** (hereby network): is a network of computing machines, with the purpose of self-sustaining a public information system, contributed by natural and legal persons from different time zones. The current network status is [here](https://status.muellners.com/).&#x20;
 
-“The network is a publicly accessible, spatial representation of Intellectual Property Estate of network participants i.e natural persons, legal persons and electronic persons.”\
+“The network is a publicly accessible, spatial representation of Intellectual Property Estate of network participants i.e. natural persons, legal persons and electronic persons.”\
 
 
 > IMPRINT: Muellners Foundation (hereby Foundation): CVR 41008407&#x20;
@@ -45,11 +45,11 @@ Open Constitution goes through amendments all the time. Open Constitution define
 
 a. Readers can use the information in these sections to publish on news websites, blogs and any other medium over the Internet.
 
-b. Readers can use the information in these sections to govern their own organisations, with this constitution on their own. "Wherever possible, please cite the Open Constitution's instrument(document page), when you reuse the constitution in your organisation.&#x20;
+b. Readers can use the information in these sections to govern their organisations, with this constitution on their own. "Wherever possible, please cite the Open Constitution's instrument(document page), when you reuse the constitution in your organisation.&#x20;
 
-We are running a global association of open source intelligence and Intellectual assets, using the governance model, listed in this library.
+We are running a global association of open-source intelligence and Intellectual assets, using the governance model, listed in this library.
 
-You may use the design principles of this library to run your own private network, node or community. You can use the content, by simply attributing to the Open Constitution license.
+You may use the design principles of this library to run your private network, node or community. You can use the content, by simply attributing to the Open Constitution license.
 
 [https://github.com/muellners/Open-Constitution](https://github.com/muellners/Open-Constitution)
 
