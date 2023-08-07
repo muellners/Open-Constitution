@@ -30,5 +30,5 @@ _Note: Local Citizens are also termed as "**Ordinary members**", in this open co
 
 <mark style="color:green;">3. All Local Citizens are naturally Global Citizens. All ordinary members therefore</mark> <mark style="color:green;">also have a subscribed membership status as a derived right.</mark>&#x20;
 
-<mark style="color:green;">4. Ordinary Voluntary</mark> <mark style="color:green;"></mark><mark style="color:blue;"><mark style="color:green;">membership is strictly covered by Foundation's data protection regime, regardless of whether a data protection law is active in the context of limitations of local jurisdiction.<mark style="color:green;"></mark>
+<mark style="color:green;">4. Ordinary Voluntary</mark> <mark style="color:blue;">membership is strictly covered by Foundation's data protection regime, regardless of whether a data protection law is active in the context of limitations of local jurisdiction.</mark>
 {% endhint %}

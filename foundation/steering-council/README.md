@@ -128,7 +128,7 @@ A strong reason for violation of Muellners Foundation’s governing policies and
 
 <mark style="color:purple;">Quorum on the Community Referendum for the Council Resolution - "Vote Out" is achieved when 33% (more than 1/3rd) of all the voluntarily organised subscribed members participate. Of the minimum participating members, the Community Referendum stands as</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Decided**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">when majority of the quorum populace votes in favour of the stated Council resolution “Vote OUT”.</mark>
 
-<mark style="color:purple;">E.g: Let's say there are</mark> <mark style="color:purple;">1000</mark> <mark style="color:purple;">Foundation members.</mark>&#x20;
+<mark style="color:purple;">E.g: Let's say there are 1000 Foundation members.</mark>&#x20;
 
 
 
