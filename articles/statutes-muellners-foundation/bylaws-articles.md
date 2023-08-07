@@ -17,7 +17,7 @@ by means of which all citizens of the Foundation, party to the open convention, 
 by means of which all electronic persons(b), party to the open convention, have the ability to process, analyze and register consensus on the Foundation’s meeting minutes, resolutions or general proceedings, such that the Foundation can fulfil its objectives, including but not limited to,
 
 1. hosting a public registry of the Foundation’s motions, resolutions and general proceedings, and
-2. publishing General Public advisory media and receiving public review about Foundation's motions, resolutions and general proceedings.
+2. publishing General Public advisory media and receiving public review about the Foundation's motions, resolutions and general proceedings.
 
 {% hint style="info" %}
 <mark style="color:purple;">a.</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Open Source**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">here means a lifecycle state of an ‘’object’’ of quantum observation (read the creation of the Foundation), whose source of truth is accessible, with an open, permissive or very slightly permissive(but not entirely closed) governance that directs transparency in the observation, and further directs a change in the object's state.</mark>&#x20;
@@ -32,7 +32,7 @@ by means of which all electronic persons(b), party to the open convention, have 
 
 ## ARTICLE II REGISTERED AGENTS AND ELECTRONIC PERSONS
 
-_<mark style="color:purple;">Fiscal hosting is where a legally registered organization (the fiscal host, also known as Foundation's official representation or registered agent) holds money, trust and fiduciary duties on behalf of the Foundation.</mark>_
+_<mark style="color:purple;">Fiscal hosting is where a legally registered organization (the fiscal host, also known as the Foundation's official representation or registered agent) holds money, trust and fiduciary duties on behalf of the Foundation.</mark>_
 
 The Foundation shall have such registered agents, legal persons(both natural persons or a legal body) and electronic persons(including but not limited to independent, artificially intelligent, computing machine entities), as the Executive Council (of the Open Council) may from time to time determine or as the business of the Foundation may require.
 
@@ -53,7 +53,7 @@ _Foundation may, from time to time, designate a different address as its registe
 
 ### ARTICLE III A Convention of Local Members registered on the local membership registry of a Foundation’s registered agent or Fiscal Host
 
-_<mark style="color:purple;">Each Fiscal Host maintains a registry of Citizens, who reside in the social, civil or economic jurisdiction of a member state of the U.N.O that the Fiscal Host is constituted in. This registry of Citizens is commonly referred to as Open Constitution's local registry.</mark>_\
+_<mark style="color:purple;">Each Fiscal Host maintains a registry of Citizens, who reside in the social, civil or economic jurisdiction of a member state of the U.N.O that the Fiscal Host is constituted in. This registry of Citizens is commonly referred to as the Open Constitution's local registry.</mark>_\
 _<mark style="color:purple;">Article III A explains procedural rules for convening meetings of local citizens in connection with the Open Constitution’s local registry.</mark>_
 
 #### Section 3.1.1 Place and Mode of Convention:
@@ -78,7 +78,7 @@ Written notice stating the place, mode, date and hour of the meeting and, in the
 
 If electronically served in the Foundation's Open Convention, by means of a member-only electronic notice, such notice shall be deemed to be issued, when addressed to all the members, as it appears in the local membership records of the Foundation, and accessible by each member on the Open Convention of the Open Constitution.
 
-If electronically mailed, such notice shall be deemed to be delivered when addressed to the member at his or her or theiremail address as it appears in the membership records of the Foundation.
+If electronically mailed, such notice shall be deemed to be delivered when addressed to the member at his or her or their email address as it appears in the membership records of the Foundation.
 
 Notwithstanding the above paragraph, the Foundation shall not be required to give notice of a members' meeting to any member, to whom notice of two consecutive annual meetings, and all notices of meetings, during the period between such two consecutive annual meetings, have been delivered under the procedures outlined above and have been returned undeliverable.
 
@@ -274,7 +274,7 @@ _<mark style="color:purple;">a. A natural person, who is a resident of any part 
 _<mark style="color:purple;">b. A guest observer's subscription status may be changed to a voluntary citizenship of the Foundation, through a member onboarding mechanism, facilitated by the electronic person(s) Registrar, which registers membership on the Foundation's citizenship records registry, in the case that the natural person has a declared representation in a social, civil or economic jurisdiction of a member state or union of UNO, where Foundation has a constituent registered agent or a Fiscal Host.</mark>_&#x20;
 
 \
-_<mark style="color:purple;">Also Read Article VII: Books, Records and digital registry (Section 7.1, 7.2, 7.3), describing member's registration, and the relevant inspection rights on the Open Constitution network registry of local membership(maintained by the registered agent or Fiscal host of the Foundation), and the registry of global membership.</mark>_
+_<mark style="color:purple;">Also Read Article VII: Books, Records and Digital Registry (Section 7.1, 7.2, 7.3), describing member's registration, and the relevant inspection rights on the Open Constitution network registry of local membership(maintained by the registered agent or Fiscal host of the Foundation), and the registry of global membership.</mark>_
 {% endhint %}
 
 The nomination must be included in a notice to the members, if any, of the Foundation at least seven (7) days prior to any vote on the applicant's admission, which notice may be by electronic means.
@@ -288,7 +288,7 @@ Also, Read [Emeritus Citizen](../../foundation/citizenship/emeritus-citizen.md)\
 [Data Protection of Emeritus Citizen](../../data-processing/data-protection/notice-emeritus-citizen.md)
 {% endhint %}
 
-An emeritus member is a former member, whose membership has been suspended and converted to emeritus status, either voluntarily or by action of the members, such that all membership rights of the emeritus member, including the right to vote and be counted for purposes of quorum, are suspended and terminated until the emeritus member's membership is reinstated by subsequent action of the members.
+An emeritus member is a former member, whose membership has been suspended and converted to emeritus status, either voluntarily or by the action of the members, such that all membership rights of the emeritus member, including the right to vote and be counted for purposes of quorum, are suspended and terminated until the emeritus member's membership is reinstated by subsequent action of the members.
 
 Upon the effective date of conversion of the membership of any member to emeritus status, the membership, including all related voting rights, of such member, shall be suspended, except that such emeritus member shall be entitled to attend (but not vote) at meetings of the members, and the officers of the Foundation shall attempt, in good faith, to continue to deliver notices of meetings of the members of the Foundation to such emeritus member.
 
@@ -321,7 +321,7 @@ _<mark style="color:purple;">Association powers vested in Section 4.7 also guide
 
 _<mark style="color:purple;">Only the members registered on the global membership registry, shall participate in the community vote, for any involuntary conversion of a citizen's membership status to 'terminated'.</mark>_&#x20;
 
-_<mark style="color:purple;">Foundation's constituent Fiscal host, representing electronic person(s), as a member to the association, may only be terminated by an affirmative vote, as described in this section.</mark>_
+_<mark style="color:purple;">Foundation's constituent Fiscal host, representing an electronic person(s), as a member of the association, may only be terminated by an affirmative vote, as described in this section.</mark>_
 
 _<mark style="color:purple;">The Foundation's constituent Fiscal host, representing a union of natural person(s), may only be terminated by an affirmative vote, as described in this section.</mark>_&#x20;
 {% endhint %}
@@ -415,7 +415,7 @@ A. The material facts as to the director's relationship or interest and as to th
 B. The material facts as to their relationship or interest and as to the contract or transaction are disclosed or known to the members entitled to vote thereon, and the contract or transaction is specifically approved in good faith by vote of such members; or\
 C. The contract or transaction is fair to the Foundation at the time it is authorized, approved or ratified by the BoD, the Executive Council (of the Open Council) or the members.
 
-Common or interested directors may be counted in determining the presence of a quorum at a meeting of the BoD of a Fiscal Host or a committee thereof which authorizes, approves or ratifies such contract or transaction.
+Common or interested directors may be counted in determining the presence of a quorum at a meeting of the BoD of a Fiscal Host or a committee thereof that authorizes, approves or ratifies such contract or transaction.
 
 ### ARTICLE V B ELECTORAL APPOINTMENTS OF MEMBERS TO AN OPEN COUNCIL BODY
 
@@ -429,7 +429,7 @@ Members nominated for an electoral appointment to a Council body, _including but
 
 #### Section 5.2.3.Compensation.
 
-The Executive Council (of the Open Council) shall have authority to fix the compensation of elected members to the Open Council unless otherwise provided by an amendment in the articles and legal instruments of the Open Constitution.
+The Executive Council (of the Open Council) shall have the authority to fix the compensation of elected members to the Open Council unless otherwise provided by an amendment in the articles and legal instruments of the Open Constitution.
 
 #### Section 5.2.4.Number.
 
@@ -567,7 +567,7 @@ Any officer and any member of a Board Committee elected or appointed by the BoD 
 
 The removal of Chairs of Board Committees, including but not limited to Chair, Vice Chair of BoD of Foundation’s registered agent or fiscal host is conditional to a vote by all or a class of members.
 
-_Vote based removal process mentioned in this Article VI Section 6.1.5 is further described in details in Articles of Association of Open Constitution: BoD_
+_Vote based removal process mentioned in Article VI Section 6.1.5 is further described in detail in Articles of Association of Open Constitution: BoD_
 
 _Also, read Section 6.1.8 below._
 
@@ -680,11 +680,11 @@ Any natural persons who are electorally appointed officers to the Open Council o
 
 The removal of Chairs of Council or of Council-related Committees, including but not limited to Chancellor, and Vice Chancellor of Foundation is conditional to a vote by all or a class of members of the Open Council body.
 
-_Vote based removal process mentioned in this Article VI Section 6.2.5 is further described in specific Articles of Association: Open Constitution: Open Council._
+_Vote based removal process mentioned in Article VI Section 6.2.5 is further described in specific Articles of Association: Open Constitution: Open Council._
 
 #### Section 6.2.6.Vacancies.
 
-Any vacancy, however occurring, in any of the Open Council bodies or Council related Committees may be filled by the Executive Council (of the Open Council).
+Any vacancy, however occurring, in any of the Open Council bodies or Council-related Committees may be filled by the Executive Council (of the Open Council).
 
 #### Section 6.2.7.Compensation.
 
@@ -720,7 +720,7 @@ Any books, records and minutes may be in written form or in any other electronic
 
 **Global Membership Registry:** The Foundation shall maintain an electronic record of the global membership registry. The global membership registry shall be duly recorded and maintained by officers of the initial registered agent or first Fiscal Host of the Foundation.
 
-**Local Membership Registry:** The Foundation’s constituent registered agent (read Fiscal Host) shall maintain electronic record(s) of local membership registries, containing records of the members, who are natural persons, with declared legal capacity as legal persons of the same social, civil or economic jurisdiction of a U.N.O member state, in accordance of whose local laws, the respective constituent Fiscal Host body is registered with.
+**Local Membership Registry:** The Foundation’s constituent registered agent (read Fiscal Host) shall maintain an electronic record(s) of local membership registries, containing records of the members, who are natural persons, with declared legal capacity as legal persons of the same social, civil or economic jurisdiction of a U.N.O member state, in accordance of whose local laws, the respective constituent Fiscal Host body is registered with.
 
 A local membership registry shall be duly recorded and maintained by officers of the respective, constituent, registered agent or Fiscal Host of the Foundation.
 
@@ -744,7 +744,7 @@ _<mark style="color:purple;">Association powers vested in Article VIII guide the
 
 ### VIII A SELF GOVERNANCE
 
-Foundation is organized and shall be operated as a self independent, and self governing socio-economic union, constituted of one or more legal bodies, registered as agents of the Foundation, and organized as per the local business laws (in accordance to which a Fiscal Host is registered on the Open Constitution network)
+The Foundation is organized and shall be operated as a self-independent, and self-governing socio-economic union, constituted of one or more legal bodies, registered as agents of the Foundation, and organized as per the local business laws (in accordance to which a Fiscal Host is registered on the Open Constitution network)
 
 ### VIII B OPEN TRIBUNAL
 
@@ -801,7 +801,7 @@ a. An International legal instrument, duly signed, authorized and enacted betwee
 
 b. local business laws, in accordance to which a registered agent (read Fiscal Host) of the Foundation is constituted and registered on the Open Constitution network, and an _electoral appointee to the Open Council or its bodies is a member of the local membership registry of the registered agent, and_
 
-_c. the Articles and Charter of the Open Constitution: Open Tribunal_,&#x20;
+_c. The Articles and Charter of the Open Constitution: Open Tribunal_,&#x20;
 
 as the same exists or may hereafter be amended, the electoral appointees to Open Council and its bodies shall not be personally liable to the Foundation, any of its constituent registered agents or its members for monetary damages for breach of fiduciary duty as an electoral appointee.
 

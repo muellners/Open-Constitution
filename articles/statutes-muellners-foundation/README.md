@@ -8,7 +8,7 @@ description: >-
 # ✍ Global Statutes:
 
 {% hint style="info" %}
-<mark style="color:green;">Few notes before we start:</mark>
+<mark style="color:green;">A few notes before we start:</mark>
 
 <mark style="color:purple;">Bylaws of the Open Constitution ensure that network AI stays compliant with different local jurisdictions on planet Earth.</mark>
 
@@ -18,7 +18,7 @@ These bylaws are written to be adopted by each legally organised voluntary assoc
 
 _<mark style="color:purple;">Each Fiscal Host adopts these bylaws either as a whole or an Addendum to their existing Articles of Association for the following purposes:</mark>_&#x20;
 
-**Purpose:** The primary objective for the adoption of these bylaws are for:
+**Purpose:** The primary objective for the adoption of these bylaws is for:
 
 1. <mark style="color:green;">**Constitution of Fiscal Hosts:**</mark>&#x20;
 
@@ -52,11 +52,11 @@ Read more on [Citizenship](../../foundation/citizenship/).&#x20;
 
 Read more on [Fiscal Host](../../fiscal-hosts/fiscal-hosts.md).
 
-<mark style="color:red;">Public Notice: Public Efforts are underway for Foundation's citizens to be registered on the Open Constitution Public Registry.</mark>
+<mark style="color:red;">Public Notice: Public Efforts are underway for the Foundation's citizens to be registered on the Open Constitution Public Registry.</mark>
 {% endhint %}
 
 {% hint style="info" %}
-Please read the **LIVE** public-facing record of the Global Statutes on the next page. If you like, you may download a pdf export using the export options provided.
+Please read the **LIVE** public-facing record of the Global Statutes on the next page. If you like, you may download a PDF export using the export options provided.
 {% endhint %}
 
 > Notes to Public:
