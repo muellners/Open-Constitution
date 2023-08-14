@@ -13,7 +13,7 @@ Open Constitution CWC comprises of an active group of members working with the o
 
 1. Sociology, law and anthropology.&#x20;
 2. Scientific, and analytical.
-3. blockchain based case studies - tokenomics, DAO governance, DAO tools.
+3. blockchain-based case studies - tokenomics, DAO governance, DAO tools.
 {% endhint %}
 
 {% hint style="info" %}
@@ -25,7 +25,7 @@ Open Constitution CWC comprises of an active group of members working with the o
 
 <mark style="color:green;">Open Constitution CWC independently manages the project affairs working guidelines for digital resources and infrastructure.</mark>
 
-\ <mark style="color:green;">Read on How to Join Open Constitution CWC</mark> [<mark style="color:green;">here</mark>](../core-working-committee/project-cwcs.md) <mark style="color:green;">and what role a Project CWC plays in Foundation's community.</mark>\ <mark style="color:green;">Read</mark> [<mark style="color:green;">CWC Nominations Guide</mark>](broken-reference) <mark style="color:green;">for Project CWCs.</mark>\
+\ <mark style="color:green;">Read on How to Join Open Constitution CWC</mark> [<mark style="color:green;">here</mark>](../core-working-committee/project-cwcs.md) <mark style="color:green;">and what role a Project CWC plays in the Foundation's community.</mark>\ <mark style="color:green;">Read the</mark> [<mark style="color:green;">CWC Nominations Guide</mark>](broken-reference) <mark style="color:green;">for Project CWCs.</mark>\
 
 {% endhint %}
 

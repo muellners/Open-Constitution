@@ -6,7 +6,7 @@ description: >-
 
 # 📟 Acceptable Usage Policy
 
-**UPDATED 27th Nov 2022**
+**UPDATED 08th Aug 2023**
 
 PART 1: ALL DIGITAL PUBLIC GOODS AND SERVICES INFRASTRUCTURE
 
@@ -55,7 +55,7 @@ Open source intellectual property, produced as a consequence of the Open Constit
 
 ### 2. Member Safety <a href="#2-user-safety" id="2-user-safety"></a>
 
-We do not allow content or activity on Foundation's "infrastructure as a platform" that:
+We do not allow content or activity on the Foundation's "infrastructure as a platform" that:
 
 * is unlawful or promotes unlawful activities;
 * is sexually obscene or relates to sexual exploitation or abuse, including of minors;
@@ -66,11 +66,11 @@ We do not allow content or activity on Foundation's "infrastructure as a platfor
 * threatens or incites violence toward any individual or group, especially on the basis of who they are;&#x20;
 * gratuitously depicts or glorifies violence, including violent images; or
 * is off-topic, or interacts with platform features in a way that significantly or repeatedly disrupts the experience of other users.
-* is in violation of the Community Guidelines and Articles of Association of the Foundation: [Open Constitution](https://docs.muellners.info).
+* is in violation of the Community Guidelines and Articles of Association of the [Open Constitution](https://docs.muellners.info).
 
 ### 3. Intellectual Property, Authenticity, and Private Information <a href="#3-intellectual-property-authenticity-and-private-information" id="3-intellectual-property-authenticity-and-private-information"></a>
 
-We do not allow content or activity on Foundation's "infrastructure as a platform" that:
+We do not allow content or activity on the Foundation's "infrastructure as a platform" that:
 
 * infringes any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other right;
 * unlawfully shares unauthorized Finscale product licensing keys, software for generating unauthorized product licensing keys, or software for bypassing checks for product licensing keys, including the extension of a free license beyond its trial period;
@@ -97,7 +97,7 @@ We do not allow content or activity that is:
 We do not allow content or activity on Foundation infrastructure and platform that:
 
 * directly supports unlawful active attack or malware campaigns that are causing technical harms — such as using our platform to deliver malicious executables or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers — with no implicit or explicit dual-use purpose prior to the abuse occurring; or
-* uses our platforms to disrupt or to attempt to disrupt, or to gain or to attempt to gain unauthorized access to, any service, device, data, account or network. Please note, activities permitted under bug bounty programs, such as the Open Bounty are not considered “unauthorized.”
+* uses our platforms to disrupt or to attempt to disrupt, or to gain or to attempt to gain unauthorized access to, any service, device, data, account or network. Please note, that activities permitted under bug bounty programs, such as the Open Bounty are not considered “unauthorized.”
 
 ### 6. Services Usage Limits <a href="#6-services-usage-limits" id="6-services-usage-limits"></a>
 
@@ -122,7 +122,7 @@ Misuse of User Personal Information is prohibited.
 
 Any person, entity, or service collecting data from the Service must comply with the Foundation [Privacy Statement](../privacy/privacy-policy.md), particularly in regard to the collection of User Personal Information. If you collect any User Personal Information from the Service, you agree that you will only use that User Personal Information for the purpose for which that User has authorized it. You agree that you will reasonably secure any User Personal Information you have gathered from the Service, and you will respond promptly to complaints, removal requests, and "do not contact" requests from us or other users.
 
-### 9. Advertising on Foundation's platform <a href="#9-excessive-bandwidth-use" id="9-excessive-bandwidth-use"></a>
+### 9. Advertising on the Foundation's platform <a href="#9-excessive-bandwidth-use" id="9-excessive-bandwidth-use"></a>
 
 **Short version:** _We do not generally prohibit the use of the Foundation's infrastructure and platforms for advertising. However, we expect you to follow certain limitations, so Foundation does not become a spam haven. No one wants that._
 
@@ -136,9 +136,6 @@ You must not engage in activity that significantly harms other subscribers, user
 
 We will interpret our policies and resolve disputes in favour of protecting the majority as a whole.
 
-**Enforcement.** Foundation retains full discretion to take action in response to a violation of these policies, including account suspension, account termination, or removal of content. Please also see our Community Guidelines for actions you can take if something or someone offends you.
+**Enforcement.** Muellners Foundation retains full discretion to take action in response to a violation of these policies, including account suspension, account termination, or removal of content. Please also see our Community Guidelines for actions you can take if something or someone offends you.
 
-\
-Credits: Inspired by Github Acceptable Usage Policy (100% 😒)
-
-If you have questions or comments about this policy, you may contact our Legal Helpdesk,  please raise a ticket at [Open Constitution Help Center](https://openconstitution.atlassian.net/servicedesk/customer/portals). or by post to:  C/o Muellners ApS, Nygade 3, 4.2 København, 1164, Denmark, \
+If you have questions or comments about this policy, you may contact our Legal Helpdesk, Please raise a ticket at the [Open Constitution Help Center](https://openconstitution.atlassian.net/servicedesk/customer/portals). or by post to:  C/o Muellners ApS, Nygade 3, 4.2 København, 1164, Denmark, \

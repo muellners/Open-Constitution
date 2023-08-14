@@ -4,7 +4,7 @@ description: This page describes the guiding principles of the Open Constitution
 
 # ☮ Guiding Principles
 
-These are the guiding principles for all natural persons, legal persons(bodies) and linked electronic persons, which adopt the Global Statutes: Open Constitution.&#x20;
+differently-abledThese are the guiding principles for all natural persons, legal persons(bodies) and linked electronic persons, which adopt the Global Statutes: Open Constitution.&#x20;
 
 > **Read about Humans** (_Homo sapiens_) who are the most abundant and widespread [species](https://en.wikipedia.org/wiki/Species) of [primate](https://en.wikipedia.org/wiki/Primate), characterized by [bipedalism](https://en.wikipedia.org/wiki/Bipedality) and large, complex [brains](https://en.wikipedia.org/wiki/Brain). They are intelligent, capable of [episodic memory](https://en.wikipedia.org/wiki/Episodic\_memory#In\_animals), have flexible facial expressions, [self-awareness](https://en.wikipedia.org/wiki/Self-awareness) and a [theory of mind](https://en.wikipedia.org/wiki/Theory\_of\_mind).&#x20;
 >

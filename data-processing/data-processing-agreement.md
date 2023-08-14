@@ -1,23 +1,22 @@
 ---
 description: >-
-  This is the Data Processing agreement between Muellners group and its
-  customers, various partners of Open Constitution program of the Muellners
-  Foundation.
+  This is the Data Processing agreement between data processor: Muellners ApS
+  and E Residents/E Tenants of the Open Constitution Network.
 ---
 
 # 🧘♀ Data Processing Agreement
 
-**UPDATED 27th Nov 2022**
+**UPDATED 08 Aug 2023**
 
 This Muellners Data Processing Agreement and its Annexes (“DPA”) reflects the parties’ agreement with respect to the Processing of Personal Data by Muellners on behalf of parties in connection with the Muellners Services under the Muellners Terms of Service between Muellners and Customer (the “Agreement”). &#x20;
 
 This DPA is supplemental to, and forms an integral part of, the Agreement and is effective upon its incorporation into the Agreement, which incorporation may be specified in the Agreement, an Order or an executed amendment to the Agreement. In case of any conflict or inconsistency with the terms of the Agreement, this DPA shall take precedence over the terms of the Agreement to the extent of such conflict or inconsistency.
 
-**This DPA also serves for the purpose of Muellners ApS as the primary data processor of data controller: Muellners Foundation.**
+**This DPA also serves for the purpose of Muellners ApS as the primary data processor of the data controller: Muellners Foundation.**
 
 We periodically update these terms. If you have an active customer relationship, we will let you know when we do via email (if you have subscribed to receive email notifications via the link in our Agreement).&#x20;
 
-The term of this DPA shall follow the term of the Agreement. Terms not otherwise defined herein shall have the meaning as set forth in the Agreement.
+The term of this DPA shall follow the terms of the Agreement. Terms not otherwise defined herein shall have the meaning as set forth in the Agreement.
 
 * Definitions
 * Customer Responsibilities
@@ -30,13 +29,13 @@ The term of this DPA shall follow the term of the Agreement. Terms not otherwise
 * General Provisions
 * Parties to this DPA
 
-Annex 1 - Details of Processing
+Annexe 1 - Details of Processing
 
-Annex 2 - Security Measures
+Annexe 2 - Security Measures
 
-Annex 3 - Standard Contractual Clauses
+Annexe 3 - Standard Contractual Clauses
 
-Annex 4 - List of Sub-Processors
+Annexe 4 - List of Sub-Processors
 
 ### 1. Definitions
 
@@ -46,9 +45,9 @@ Annex 4 - List of Sub-Processors
 
 "Consumer", "Business", "Sell" and "Service Provider" shall have the meanings given to them in the CCPA.&#x20;
 
-“Controller” means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the Processing of Personal Data.
+“Controller” means the natural or legal person, public authority, agency or other body that, alone or jointly with others, determines the purposes and means of the Processing of Personal Data.
 
-“Data Protection Laws” means all applicable worldwide legislation relating to data protection and privacy which applies to the respective party in the role of Processing Personal Data in question under the Agreement, including without limitation European Data Protection Laws, the CCPA and the data protection and privacy laws of Australia and Singapore; in each case as amended, repealed, consolidated or replaced from time to time.&#x20;
+“Data Protection Laws” means all applicable worldwide legislation relating to data protection and privacy that applies to the respective party in the role of Processing Personal Data in question under the Agreement, including without limitation European Data Protection Laws, the CCPA and the data protection and privacy laws of Australia and Singapore; in each case as amended, repealed, consolidated or replaced from time to time.&#x20;
 
 “Data Subject” means the individual to whom Personal Data relates.
 
@@ -56,7 +55,7 @@ Annex 4 - List of Sub-Processors
 
 “European Data” means Personal Data that is subject to the protection of European Data Protection Laws.
 
-"European Data Protection Laws" means data protection laws applicable in Europe, including: (i) Regulation 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation) ("GDPR"); (ii) Directive 2002/58/EC concerning the processing of personal data and the protection of privacy in the electronic communications sector; and (iii) applicable national implementations of (i) and (ii); or (iii) in respect of the United Kingdom, any applicable national legislation that replaces or converts in domestic law the GDPR or any other law relating to data and privacy as a consequence of the United Kingdom leaving the European Union; and (iv) Swiss Federal Data Protection Act on 19 June 1992 and its Ordinance; in each case, as may be amended, superseded or replaced. &#x20;
+"European Data Protection Laws" means data protection laws applicable in Europe, including (i) Regulation 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation) ("GDPR"); (ii) Directive 2002/58/EC concerning the processing of personal data and the protection of privacy in the electronic communications sector; and (iii) applicable national implementations of (i) and (ii); or (iii) in respect of the United Kingdom, any applicable national legislation that replaces or converts in domestic law the GDPR or any other law relating to data and privacy as a consequence of the United Kingdom leaving the European Union; and (iv) Swiss Federal Data Protection Act on 19 June 1992 and its Ordinance; in each case, as may be amended, superseded or replaced. &#x20;
 
 “Instructions” means the written, documented instructions issued by a Controller to a Processor, and directing the same to perform a specific or general action with regard to Personal Data (including, but not limited to, depersonalizing, blocking, deletion, making available).
 
@@ -66,15 +65,15 @@ Annex 4 - List of Sub-Processors
 
 “Personal Data Breach” means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Personal Data transmitted, stored or otherwise Processed by Muellners and/or its Sub-Processors in connection with the provision of the Services. "Personal Data Breach" shall not include unsuccessful attempts or activities that do not compromise the security of Personal Data, including unsuccessful log-in attempts, pings, port scans, denial of service attacks, and other network attacks on firewalls or networked systems.
 
-"Privacy Shield" means the EU-U.S. and Swiss-US Privacy Shield self-certification program operated by the U.S. Department of Commerce and approved by the European Commission pursuant to its Decision of July, 12 2016 and by the Swiss Federal Council on January 11, 2017 respectively.
+"Privacy Shield" means the EU-U.S. and Swiss-US Privacy Shield self-certification program operated by the U.S. Department of Commerce and approved by the European Commission pursuant to its Decision of July 12 2016 and by the Swiss Federal Council on January 11, 2017, respectively.
 
-"Privacy Shield Principles" means the Privacy Shield Principles (as supplemented by the Supplemental Principles) contained in Annex II to the European Commission Decision of July, 12 2016.
+"Privacy Shield Principles" means the Privacy Shield Principles (as supplemented by the Supplemental Principles) contained in Annex II to the European Commission Decision of July 12 2016.
 
 “Processing” means any operation or set of operations which is performed on Personal Data, encompassing the collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction or erasure of Personal Data. The terms “Process”, “Processes” and “Processed” will be construed accordingly.
 
 “Processor” means a natural or legal person, public authority, agency or other body which Processes Personal Data on behalf of the Controller.
 
-“Standard Contractual Clauses” means the standard contractual clauses for Processors approved pursuant to the European Commission’s decision (C(2010)593) of 5 February 2010, in the form set out at Annex 3.
+“Standard Contractual Clauses” means the standard contractual clauses for Processors approved pursuant to the European Commission’s decision (C(2010)593) of 5 February 2010, in the form set out in Annexe 3.
 
 “Sub-Processor” means any Processor engaged by Muellners or its Affiliates to assist in fulfilling Muellners's obligations with respect to the provision of the Muellners Services under the Agreement.  Sub-Processors may include third parties or Muellners Affiliates but shall exclude any Muellners employee or consultant. &#x20;
 
@@ -82,9 +81,9 @@ Annex 4 - List of Sub-Processors
 
 a. Compliance with Laws. Within the scope of the Agreement and in its use of the services, Customer shall be responsible for complying with all requirements that apply to it under applicable Data Protection Laws with respect to its Processing of Personal Data and the Instructions it issues to Muellners.
 
-In particular but without prejudice to the generality of the foregoing, Customer acknowledges and agrees that it shall be solely responsible for: (i) the accuracy, quality, and legality of Customer Data and the means by which Customer acquired Personal Data; (ii) complying with all necessary transparency and lawfulness requirements under applicable Data Protection Laws for the collection and use of the Personal Data, including obtaining any necessary consents and authorizations (particularly for use by Customer for any purposes); (iii) ensuring it has the right to transfer, or provide access to, the Personal Data to Muellners for Processing in accordance with the terms of the Agreement (including this DPA); (iv) ensuring that its Instructions to Muellners regarding the Processing of Personal Data comply with applicable laws, including Data Protection Laws; and (v) complying with all laws (including Data Protection Laws) applicable to any emails or other content created, sent or managed through the Muellners Services, including those relating to obtaining consents (where required) to send emails, the content of the emails and its email deployment practices. Customer shall inform Muellners without undue delay if it is not able to comply with its responsibilities under this sub-section (a) or applicable Data Protection Laws.
+In particular but without prejudice to the generality of the foregoing, Customer acknowledges and agrees that it shall be solely responsible for: (i) the accuracy, quality, and legality of Customer Data and the means by which Customer acquired Personal Data; (ii) complying with all necessary transparency and lawfulness requirements under applicable Data Protection Laws for the collection and use of the Personal Data, including obtaining any necessary consents and authorizations (particularly for use by Customer for any purposes); (iii) ensuring it has the right to transfer, or provide access to, the Personal Data to Muellners for Processing in accordance with the terms of the Agreement (including this DPA); (iv) ensuring that its Instructions to Muellners regarding the Processing of Personal Data comply with applicable laws, including Data Protection Laws; and (v) complying with all laws (including Data Protection Laws) applicable to any emails or other content created, sent or managed through the Muellners Services, including those relating to obtaining consents (where required) to send emails, the content of the emails and its email deployment practices. The customer shall inform Muellners without undue delay if it is not able to comply with its responsibilities under this subsection (a) or applicable Data Protection Laws.
 
-b. Controller Instructions. The  parties agree that the Agreement (including this DPA), together with Customer's use of the Muellners Service in accordance with the Agreement, constitute Customer’s complete and final Instructions to Muellners in relation to the Processing of Personal Data, and additional instructions outside the scope of the Instructions shall require prior written agreement between Customer and Muellners.
+b. Controller Instructions. The parties agree that the Agreement (including this DPA), together with Customer's use of the Muellners Service in accordance with the Agreement, constitutes Customer’s complete and final instructions to Muellners in relation to the Processing of Personal Data, and additional instructions outside the scope of the Instructions shall require prior written agreement between Customer and Muellners.
 
 ### 3. Muellners Responsibilities
 
@@ -104,42 +103,50 @@ f. Deletion or Return of Personal Data. Muellners will delete or return all Cust
 
 The Muellners Service provides Customer with a number of controls that Customer may use to retrieve, correct, delete or restrict Personal Data, which Customer may use to assist it in connection with its obligations under Data Protection Laws, including its obligations relating to responding to requests from Data Subjects to exercise their rights under applicable Data Protection Laws ("Data Subject Requests").&#x20;
 
-To the extent that Customer is unable to independently address a Data Subject Request through the Muellners Service, then upon Customer’s written request Muellners shall provide reasonable assistance to Customer to respond to any Data Subject Requests or requests from data protection authorities relating to the Processing of Personal Data under the Agreement. Customer shall reimburse Muellners for the commercially reasonable costs arising from this assistance.
+To the extent that Customer is unable to independently address a Data Subject Request through the Muellners Service, then upon Customer’s written request Muellners shall provide reasonable assistance to Customer to respond to any Data Subject Requests or requests from data protection authorities relating to the Processing of Personal Data under the Agreement. The customer shall reimburse Muellners for the commercially reasonable costs arising from this assistance.
 
-If a Data Subject Request or other communication regarding the Processing of Personal Data under the Agreement is made directly to Muellners, Muellners will promptly inform Customer and will advise the Data Subject to submit their request to Customer. Customer shall be solely responsible for responding substantively to any such Data Subject Requests or communications involving Personal Data.
+If a Data Subject Request or other communication regarding the Processing of Personal Data under the Agreement is made directly to Muellners, Muellners will promptly inform Customer and will advise the Data Subject to submit their request to Customer. The customer shall be solely responsible for responding substantively to any such Data Subject Requests or communications involving Personal Data.
 
-### 5. Sub processors
+### 5. Subprocessors
 
-Customer agrees that Muellners may engage Sub-Processors to Process Personal Data on Customer's behalf. Muellners has currently appointed, as Sub-Processors, the Muellners Affiliates and third parties listed in Annex 4 to this DPA. Muellners shall notify Customer if it adds or removes Sub-Processors to Annex 4 prior to any such changes, if Customer opts-in to receive such email notifications.
+The customer agrees that Muellners may engage Sub-Processors to Process Personal Data on the Customer's behalf. Muellners has currently appointed, as Sub-Processors, the Muellners Affiliates and third parties listed in Annex 4 to this DPA. Muellners shall notify Customer if it adds or removes Sub-Processors to Annex 4 prior to any such changes if Customer opts in to receive such email notifications.
 
 Where Muellners engages Sub-Processors, Muellners will impose data protection terms on the Sub-Processors that provide at least the same level of protection for Personal Data as those in this DPA, to the extent applicable to the nature of the services provided by such Sub-Processors. Muellners will remain responsible for each Sub-Processor’s compliance with the obligations of this DPA and for any acts or omissions of such Sub-Processor that cause Muellners to breach any of its obligations under this DPA.
 
 ### 6. Data Transfers
 
-Customer acknowledges and agrees that Muellners may access and Process Personal Data on a global basis as necessary to provide the Muellners Service in accordance with the Agreement, and in particular that Personal Data will be transferred to and Processed by Muellners, Inc. in the Denmark and to other jurisdictions where Muellners Affiliates and Sub-Processors have operations. Muellners shall ensure such transfers are made in compliance with the requirements of Data Protection Laws.
+Customer acknowledges and agrees that Muellners may access and Process Personal Data on a global basis as necessary to provide the Muellners Service in accordance with the Agreement, and in particular that Personal Data will be transferred to and processed by Muellners, Inc. in Denmark and to other jurisdictions where Muellners Affiliates and Sub-Processors have operations. Muellners shall ensure such transfers are made in compliance with the requirements of Data Protection Laws.
 
 ### 7. Additional Provisions for European Data
 
-a. Scope of Section 7. This Section 7 (Additional Provisions for European Data) shall apply only with respect to European Data.
+7.a. Scope of Section 7. This Section 7 (Additional Provisions for European Data) shall apply only with respect to European Data.
 
-b. Roles of the Parties. When Processing European Data in accordance with Customer's Instructions, the parties acknowledge and agree that Customer is the Controller of European Data and Muellners is the Processor.
+7.b. Roles of the Parties. When Processing European Data in accordance with Customer's Instructions, the parties acknowledge and agree that Customer is the Controller of European Data and Muellners is the Processor.
 
-c. Instructions. If Muellners believes that an Instruction of Customer infringes European Data Protection Laws (where applicable), it will inform the Customer without delay.
+7.c. Instructions. If Muellners believes that an Instruction of Customer infringes European Data Protection Laws (where applicable), it will inform the Customer without delay.
 
-d. Notification and Objection to New Sub-Processors. Muellners will notify Customer of any changes to Sub-processors by updating Annex 4 to this DPA and will give Customer the opportunity to object to the engagement of the new Sub-Processor on reasonable grounds relating to the protection of Personal Data within 30 days after updating Annex 4 to this DPA. If Customer does notify Muellners of such an objection, the parties will discuss Customer's concerns in good faith with a view to achieving a commercially reasonable resolution. If no such resolution can be reached, Muellners will, at its sole discretion, either not appoint the new Sub-Processor, or permit Customer to suspend or terminate the affected Muellners Service in accordance with the termination provisions of the Agreement without liability to either party (but without prejudice to any fees incurred by Customer prior to suspension or termination).
+7.d. Notification and Objection to New Sub-Processors. Muellners will notify Customer of any changes to Sub-processors by updating Annex 4 to this DPA and will give Customer the opportunity to object to the engagement of the new Sub-Processor on reasonable grounds relating to the protection of Personal Data within 30 days after updating Annex 4 to this DPA. If Customer does notify Muellners of such an objection, the parties will discuss Customer's concerns in good faith with a view to achieving a commercially reasonable resolution. If no such resolution can be reached, Muellners will, at its sole discretion, either not appoint the new Sub-Processor, or permit Customer to suspend or terminate the affected Muellners Service in accordance with the termination provisions of the Agreement without liability to either party (but without prejudice to any fees incurred by Customer prior to suspension or termination).
 
-e. Data Protection Impact Assessments and Consultation with Supervisory Authorities. To the extent that the required information is reasonably available to Muellners, and Customer does not otherwise have access to the required information, Muellners will provide reasonable assistance to Customer with any data protection impact assessments, and prior consultations with supervisory authorities or other competent data privacy authorities to the extent required by European Data Protection Laws.
+7.e. Data Protection Impact Assessments and Consultation with Supervisory Authorities. To the extent that the required information is reasonably available to Muellners, and Customer does not otherwise have access to the required information, Muellners will provide reasonable assistance to Customer with any data protection impact assessments, and prior consultations with supervisory authorities or other competent data privacy authorities to the extent required by European Data Protection Laws.
 
-f. Transfer Mechanisms for Data Transfers.&#x20;
+7.f. Transfer Mechanisms for Data Transfers.&#x20;
 
-(A) Muellners shall not transfer European Data to any country or recipient not recognized as providing an adequate level of protection for Personal Data (within the meaning of European Data Protection Law), unless it first takes all such measures as are necessary to ensure the transfer is in compliance with applicable European Data Protection Laws. Such measures may include (without limitation) transferring such data to a recipient that is self-certified to the Privacy Shield, to a recipient that has achieved binding corporate rules authorization in accordance with European Data Protection Law, or to a recipient that has executed appropriate standard contractual clauses adopted or approved by the European Commission.
+(A) Muellners shall not transfer European Data to any country or recipient not recognized as providing an adequate level of protection for Personal Data (within the meaning of European Data Protection Law) unless it first takes all such measures as are necessary to ensure the transfer is in compliance with applicable European Data Protection Laws. Such measures may include (without limitation) transferring such data to a recipient that is self-certified to the Privacy Shield, to a recipient that has achieved binding corporate rules authorization in accordance with European Data Protection Law, or to a recipient that has executed appropriate standard contractual clauses adopted or approved by the European Commission.
 
-(B) Customer acknowledges that in connection with the performance of the Muellners Services, Muellners, Inc. is a recipient of European Data in Denmark. The parties agree that Muellners makes available the transfer mechanisms listed below:
+(B) Customer acknowledges that in connection with the performance of Muellners Services, Muellners, Inc. is a recipient of European Data in Denmark. The parties agree that Muellners makes available the transfer mechanisms listed below:
 
 * (a) Standard Contractual Clauses: Muellners, Inc. agrees to abide by and process European Data in compliance with the Standard Contractual Clauses, provided that notwithstanding the foregoing the parties agree that where the Muellners contracting entity under the Agreement is not Muellners, Inc., such contracting entity (not Muellners, Inc.) will remain fully and solely responsible and liable to Customer for the performance of the Standard Contractual Clauses by Muellners, Inc.  If and to the extent the Standard Contractual Clauses (where applicable) conflict with any provision of this DPA, the Standard Contractual Clauses shall prevail to the extent of such conflict.
-* (b) Privacy Shield: For as long as Muellners, Inc. is self-certified to the Privacy Shield and to the extent that the Standard Contractual Clauses are revoked, or held by a court of competent jurisdiction to be invalid the parties acknowledge and agree that: (i) Muellners, Inc will be deemed to provide adequate protection for European Data (within the meaning of European Data Protection Laws) by virtue of having self-certified its compliance with Privacy Shield; (ii) Muellners, Inc. shall process European Data in compliance with the Privacy Shield Principles; and (iii) if Muellners, Inc is unable to comply with this requirement, Muellners shall inform Customer.
+* (b) Privacy Shield: For as long as Muellners, Inc. is self-certified to the Privacy Shield and to the extent that the Standard Contractual Clauses are revoked, or held by a court of competent jurisdiction to be invalid the parties acknowledge and agree that:&#x20;
 
-g. Demonstration of Compliance. Muellners shall make available to Customer all information reasonably necessary to demonstrate compliance with this DPA and allow for and contribute to audits, including inspections by Customer in order to assess compliance with this DPA. Customer acknowledges and agrees that it shall exercise its audit rights under this DPA by instructing Muellners to comply with the audit measures described in this sub-section (g). Customer acknowledges that the Muellners Service is hosted by Muellners's data center partners who maintain independently validated security programs (including SOC 2 and ISO 27001) and Muellners's systems are regularly tested by independent third party penetration testing firms. Upon request, Muellners shall supply (on a confidential basis) a summary copy of its penetration testing report(s) to Customer so that Customer can verify Muellners's compliance with this DPA.  Further, at Customer's written request, Muellners will provide written responses (on a confidential basis) to all reasonable requests for information made by Customer necessary to confirm Muellners's compliance with this DPA, provided that Customer shall not exercise this right more than once per calendar year.&#x20;
+(i) Muellners, Inc. will be deemed to provide adequate protection for European Data (within the meaning of European Data Protection Laws) by virtue of having self-certified its compliance with Privacy Shield;&#x20;
+
+(ii) Muellners, Inc. shall process European Data in compliance with the Privacy Shield Principles; and&#x20;
+
+(iii) If Muellners, Inc. is unable to comply with this requirement, Muellners shall inform Customer.
+
+7.g. Demonstration of Compliance. Muellners shall make available to Customer all information reasonably necessary to demonstrate compliance with this DPA and allow for and contribute to audits, including inspections by Customer in order to assess compliance with this DPA. The customer acknowledges and agrees that it shall exercise its audit rights under this DPA by instructing Muellners to comply with the audit measures described in this subsection&#x20;
+
+The customer acknowledges that the Muellners Service is hosted by Muellners's data centre partners who maintain independently validated security programs (including SOC 2 and ISO 27001) and Muellners's systems are regularly tested by independent third-party penetration testing firms. Upon request, Muellners shall supply (on a confidential basis) a summary copy of its penetration testing report(s) to Customer so that Customer can verify Muellners's compliance with this DPA.  Further, at Customer's written request, Muellners will provide written responses (on a confidential basis) to all reasonable requests for information made by Customer necessary to confirm Muellners's compliance with this DPA, provided that Customer shall not exercise this right more than once per calendar year.&#x20;
 
 ### 8. Additional Provisions for California Personal Information
 
@@ -147,7 +154,15 @@ a. Scope of Section 8. This Section 8 (Additional Provisions for California Pers
 
 b. Roles of the Parties. When processing California Personal Information in accordance with Customer's Instructions, the parties acknowledge and agree that Customer is a Business and Muellners is a Service Provider for the purposes of the CCPA.
 
-c. Responsibilities. The parties agree that Muellners will process California Personal Information as a Service Provider strictly for the purpose of performing the Muellners Services under the Agreement  (the "Business Purpose"). Muellners uses service data for its own legitimate Business Purpose as per our Product & Services Privacy Policy. The parties agree that Muellners shall not (a) Sell California Personal Information (as defined in the CCPA); (b) retain, use, or disclose California Personal Information for a commercial purpose other than for the Business Purpose or as otherwise permitted by the CCPA; or (c) retain, use, or disclose California Personal Information outside of the direct business relationship between Customer and Muellners.
+c. Responsibilities. The parties agree that Muellners will process California Personal Information as a Service Provider strictly for the purpose of performing the Muellners Services under the Agreement  (the "Business Purpose"). Muellners uses service data for its own legitimate Business Purposes as per our Product & Services Privacy Policy.&#x20;
+
+The parties agree that Muellners shall not&#x20;
+
+(a) Sell California Personal Information (as defined in the CCPA);&#x20;
+
+(b) retain, use, or disclose California Personal Information for a commercial purpose other than for the Business Purpose or as otherwise permitted by the CCPA; or&#x20;
+
+(c) retain, use, or disclose California Personal Information outside of the direct business relationship between Customer and Muellners.
 
 d. Certification. Muellners certifies that it understands and will comply with the restrictions set out in Section 8(c) (Responsibilities).&#x20;
 
@@ -157,9 +172,9 @@ a. Amendments. Notwithstanding anything else to the contrary in the Agreement an
 
 b. Severability. If any individual provisions of this DPA are determined to be invalid or unenforceable, the validity and enforceability of the other provisions of this DPA shall not be affected.
 
-c. Limitation of Liability. Each party and each of their Affiliates' liability, taken in aggregate,  arising out of or related to this DPA (and any other DPAs between the parties) and the Standard Contractual Clauses (where applicable), whether in contract, tort or under any other theory of liability, shall be subject to the limitations and exclusions of liability set out in the section of the Agreement entitled 'Limitation of Liability' and any reference in such section to the liability of a party means aggregate liability of that party and all of its Affiliates under the Agreement (including this DPA).  For the avoidance of doubt, if Muellners, Inc. is not a party to the Agreement, the section of the Agreement entitled ‘Limitation of Liability’ shall apply as between Customer and Muellners, Inc., and in such respect any references to ‘Muellners’, ‘we’, ‘us’ or ‘our’ shall include both Muellners, Inc. and the Muellners entity that is a party to the Agreement.
+c. Limitation of Liability. Each party and each of their Affiliates' liability, taken in aggregate,  arising out of or related to this DPA (and any other DPAs between the parties) and the Standard Contractual Clauses (where applicable), whether in contract, tort or under any other theory of liability, shall be subject to the limitations and exclusions of liability set out in the section of the Agreement entitled 'Limitation of Liability' and any reference in such section to the liability of a party means aggregate liability of that party and all of its Affiliates under the Agreement (including this DPA).  For the avoidance of doubt, if Muellners, Inc. is not a party to the Agreement, the section of the Agreement entitled ‘Limitation of Liability’ shall apply as between Customer and Muellners, Inc., and in such respect, any references to ‘Muellners’, ‘we’, ‘us’ or ‘our’ shall include both Muellners, Inc. and the Muellners entity that is a party to the Agreement.
 
-d. Governing Law. This DPA shall be governed by and construed in accordance with the governing law and jurisdiction provisions in the Agreement, unless required otherwise by Data Protection Laws.
+d. Governing Law. This DPA shall be governed by and construed in accordance with the governing law and jurisdiction provisions in the Agreement unless required otherwise by Data Protection Laws.
 
 ### 10. Parties to this DPA
 
@@ -171,7 +186,7 @@ c. Remedies. Except where applicable Data Protection Laws require a Permitted Af
 
 d. Other rights. The parties agree that Customer shall, when reviewing Muellners's compliance with this DPA pursuant to Section 7(g) (Demonstration of Compliance), take all reasonable measures to limit any impact on Muellners and its Affiliates by combining several audit requests carried out on behalf of the Customer entity that is the contracting party to the Agreement and all of its Permitted Affiliates in one single audit.
 
-### Annex 1 Details of Processing
+### Annexe 1 Details of Processing
 
 This Annex forms part of the DPA.&#x20;
 
@@ -208,7 +223,7 @@ a. Storage and other Processing necessary to provide, maintain and improve the M
 
 b. Disclosure in accordance with the Agreement (including this DPA) and/or as compelled by applicable laws.
 
-### Annex 2 Security Measures
+### Annexe 2 Security Measures
 
 This Annex forms part of the DPA.
 
@@ -224,15 +239,15 @@ Physical and environmental security: Muellners hosts its product infrastructure 
 
 Authentication: Muellners implemented a uniform password policy for its customer products. Customers who interact with the products via the user interface must authenticate before accessing non-public customer data.
 
-Authorization: Customer Data is stored in multi-tenant storage systems accessible to Customers via only application user interfaces and application programming interfaces. Customers are not allowed direct access to the underlying application infrastructure. The authorization model in each of Muellners’s products is designed to ensure that only the appropriately assigned individuals can access relevant features, views, and customization options. Authorization to data sets is performed through validating the user’s permissions against the attributes associated with each data set.
+Authorization: Customer Data is stored in multi-tenant storage systems accessible to Customers via only application user interfaces and application programming interfaces. Customers are not allowed direct access to the underlying application infrastructure. The authorization model in each of Muellners’s products is designed to ensure that only the appropriately assigned individuals can access relevant features, views, and customization options. Authorization to data sets is performed by validating the user’s permissions against the attributes associated with each data set.
 
 Application Programming Interface (API) access: Public product APIs may be accessed using an API key or through Oauth authorization.
 
 ii)  Preventing Unauthorized Product Use
 
-Muellners implements industry standard access controls and detection capabilities for the internal networks that support its products.
+Muellners implements industry-standard access controls and detection capabilities for the internal networks that support its products.
 
-Access controls: Network access control mechanisms are designed to prevent network traffic using unauthorized protocols from reaching the product infrastructure. The technical measures implemented differ between infrastructure  providers and include Virtual Private Cloud (VPC) implementations, security group assignment, and traditional firewall rules.
+Access controls: Network access control mechanisms are designed to prevent network traffic using unauthorized protocols from reaching the product infrastructure. The technical measures implemented differ between infrastructure providers and include Virtual Private Cloud (VPC) implementations, security group assignments, and traditional firewall rules.
 
 Intrusion detection and prevention: Muellners implemented a Web Application Firewall (WAF) solution to protect hosted customer data and other internet-accessible applications. The WAF is designed to identify and prevent attacks against publicly available network services.
 
@@ -240,23 +255,23 @@ Static code analysis: Security reviews of code stored in Muellners’s source co
 
 Penetration testing: Muellners maintains relationships with industry penetration testing service providers for annual penetration tests. The intent of the penetration tests is to identify and resolve foreseeable attack vectors and potential abuse scenarios.
 
-Bug bounty: A bug bounty program invites and incentivizes independent security researchers to ethically discover and disclose security flaws. Muellners will be implementing a bug bounty program in an effort to widen the available opportunities to engage with the security community and improve the product defenses against sophisticated attacks.
+Bug bounty: A bug bounty program invites and incentivizes independent security researchers to ethically discover and disclose security flaws. Muellners will be implementing a bug bounty program in an effort to widen the available opportunities to engage with the security community and improve product defences against sophisticated attacks.
 
 iii)    Limitations of Privilege & Authorization Requirements
 
-Product access: A subset of Muellners’s employees have access to the products and to customer data via controlled interfaces. The intent of providing access to a subset of employees is to provide effective customer support, to troubleshoot potential problems, to detect and respond to security incidents and implement data security. Access is enabled through “just in time” requests for access; all such requests are logged. Employees are granted access by role, and reviews of high risk privilege grants are initiated daily. Employee roles are reviewed at least once every six months.
+Product access: A subset of Muellners’s employees have access to the products and to customer data via controlled interfaces. The intent of providing access to a subset of employees is to provide effective customer support, troubleshoot potential problems, detect and respond to security incidents and implement data security. Access is enabled through “just in time” requests for access; all such requests are logged. Employees are granted access by role, and reviews of high-risk privilege grants are initiated daily. Employee roles are reviewed at least once every six months.
 
 Background checks: All Muellners employees undergo a background check prior to being extended an employment offer, in accordance with and as permitted by the applicable laws. All employees are required to conduct themselves in a manner consistent with company guidelines, non-disclosure requirements, and ethical standards.
 
 b) Transmission Control
 
-In-transit: Muellners makes HTTPS encryption (also referred to as SSL or TLS) available on every one of its login interfaces hosted on the Muellners products. Muellners’s HTTPS implementation uses industry standard algorithms and certificates.
+In-transit: Muellners makes HTTPS encryption (also referred to as SSL or TLS) available on every one of its login interfaces hosted on the Muellners products. Muellners’s HTTPS implementation uses industry-standard algorithms and certificates.
 
 At-rest: Muellners stores user passwords following policies that follow industry standard practices for security.  Muellners has implemented technologies to ensure that stored data is encrypted at rest.&#x20;
 
 c) Input Control
 
-Detection: Muellners designed its infrastructure to log extensive information about the system behavior, traffic received, system authentication, and other application requests. Internal systems aggregated log data and alert appropriate employees of malicious, unintended, or anomalous activities. Muellners personnel, including security, operations, and support personnel, are responsive to known incidents.
+Detection: Muellners designed its infrastructure to log extensive information about the system behaviour, traffic received, system authentication, and other application requests. Internal systems aggregate log data and alert appropriate employees of malicious, unintended, or anomalous activities. Muellners personnel, including security, operations, and support personnel, are responsive to known incidents.
 
 Response and tracking: Muellners maintains a record of known security incidents that includes description, dates and times of relevant activities, and incident disposition. Suspected and confirmed security incidents are investigated by security, operations, or support personnel; and appropriate resolution steps are identified and documented. For any confirmed incidents, Muellners will take appropriate steps to minimize product and Customer damage or unauthorized disclosure. Notification to the Customer will be in accordance with the terms of the DPA or Agreement.&#x20;
 
@@ -268,7 +283,7 @@ Fault tolerance: Backup and replication strategies are designed to ensure redund
 
 Online replicas and backups: Where feasible, production databases are designed to replicate data between no less than 1 primary and 1 secondary database. All databases are backed up and maintained using at least industry standard methods.
 
-Muellners’s products are designed to ensure redundancy and seamless failover. The server instances that support the products are also architected with a goal to prevent single points of failure. This design assists Muellners operations in maintaining and updating the product applications and backend while limiting downtime.
+Muellners’s products are designed to ensure redundancy and seamless failover. The server instances that support the products are also architected with the goal of preventing single points of failure. This design assists Muellners operations in maintaining and updating the product applications and backend while limiting downtime.
 
 ### Annex 3 Standard Contractual Clauses
 
@@ -280,7 +295,7 @@ And
 
 Muellners Inc. - Muellners ApS CVR 41548304 (the “data importer”)
 
-each a ‘party’; together ‘the parties’,
+each a ‘party’; together ‘the parties,
 
 HAVE AGREED on the following Contractual Clauses (the Clauses) in order to adduce adequate safeguards with respect to the protection of privacy and fundamental rights and freedoms of individuals for the transfer by the data exporter to the data importer of the personal data specified in Appendix 1.
 
@@ -306,11 +321,11 @@ The details of the transfer and in particular the special categories of personal
 
 Clause 3 Third-party beneficiary clause
 
-1\.  The data subject can enforce against the data exporter this Clause, Clause 4(b) to (i), Clause 5(a) to (e), and (g) to (j), Clause 6(1) and (2), Clause 7, Clause 8(2), and Clauses 9 to 12 as third-party beneficiary.
+1\.  The data subject can enforce against the data exporter this Clause, Clause 4(b) to (i), Clause 5(a) to (e), and (g) to (j), Clause 6(1) and (2), Clause 7, Clause 8(2), and Clauses 9 to 12 as a third-party beneficiary.
 
 2\. The data subject can enforce against the data importer this Clause, Clause 5(a) to (e) and (g), Clause 6, Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where the data exporter has factually disappeared or has ceased to exist in law unless any successor entity has assumed the entire legal obligations of the data exporter by contract or by operation of law, as a result of which it takes on the rights and obligations of the data exporter, in which case the data subject can enforce them against such entity.
 
-3\. The data subject can enforce against the subprocessor this Clause, Clause 5(a) to (e) and (g), Clause 6, Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where both the data exporter and the data importer have factually disappeared or ceased to exist in law or have become insolvent, unless any successor entity has assumed the entire legal obligations of the data exporter by contract or by operation of law as a result of which it takes on the rights and obligations of the data exporter, in which case the data subject can enforce them against such entity. Such third-party liability of the subprocessor shall be limited to its own processing operations under the Clauses.
+3\. The data subject can enforce against the subprocessor this Clause, Clause 5(a) to (e) and (g), Clause 6, Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where both the data exporter and the data importer have factually disappeared or ceased to exist in law or have become insolvent unless any successor entity has assumed the entire legal obligations of the data exporter by contract or by operation of law as a result of which it takes on the rights and obligations of the data exporter, in which case the data subject can enforce them against such entity. Such third-party liability of the subprocessor shall be limited to its own processing operations under the Clauses.
 
 4\. The parties do not object to a data subject being represented by an association or other body if the data subject so expressly wishes and if permitted by national law.
 
@@ -332,9 +347,9 @@ The data exporter agrees and warrants:
 
 (g) to forward any notification received from the data importer or any subprocessor pursuant to Clause 5(b) and Clause 8(3) to the data protection supervisory authority if the data exporter decides to continue the transfer or to lift the suspension;
 
-(h) to make available to the data subjects upon request a copy of the Clauses, with the exception of Appendix 2, and a summary description of the security measures, as well as a copy of any contract for subprocessing services which has to be made in accordance with the Clauses, unless the Clauses or the contract contain commercial information, in which case it may remove such commercial information;
+(h) to make available to the data subjects upon request a copy of the Clauses, with the exception of Appendix 2, and a summary description of the security measures, as well as a copy of any contract for sub processing services which has to be made in accordance with the Clauses, unless the Clauses or the contract contain commercial information, in which case it may remove such commercial information;
 
-(i) that, in the event of subprocessing, the processing activity is carried out in accordance with Clause 11 by a subprocessor providing at least the same level of protection for the personal data and the rights of data subject as the data importer under the Clauses; and
+(i) that, in the event of sub-processing, the processing activity is carried out in accordance with Clause 11 by a subprocessor providing at least the same level of protection for the personal data and the rights of the data subject as the data importer under the Clauses; and
 
 (j) that it will ensure compliance with Clause 4(a) to (i).
 
@@ -350,7 +365,7 @@ The data importer agrees and warrants:
 
 (d) that it will promptly notify the data exporter about:
 
-(i) any legally binding request for disclosure of the personal data by a law enforcement authority unless otherwise prohibited, such as a prohibition under criminal law to preserve the confidentiality of a law enforcement investigation;
+(i) any legally binding request for disclosure of personal data by a law enforcement authority unless otherwise prohibited, such as a prohibition under criminal law to preserve the confidentiality of a law enforcement investigation;
 
 (ii) any accidental or unauthorised access; and
 
@@ -360,9 +375,9 @@ The data importer agrees and warrants:
 
 (f) at the request of the data exporter to submit its data-processing facilities for audit of the processing activities covered by the Clauses which shall be carried out by the data exporter or an inspection body composed of independent members and in possession of the required professional qualifications bound by a duty of confidentiality, selected by the data exporter, where applicable, in agreement with the supervisory authority;
 
-(g) to make available to the data subject upon request a copy of the Clauses, or any existing contract for subprocessing, unless the Clauses or contract contain commercial information, in which case it may remove such commercial information, with the exception of Appendix 2 which shall be replaced by a summary description of the security measures in those cases where the data subject is unable to obtain a copy from the data exporter;
+(g) to make available to the data subject upon request a copy of the Clauses, or any existing contract for sub-processing, unless the Clauses or contract contain commercial information, in which case it may remove such commercial information, with the exception of Appendix 2 which shall be replaced by a summary description of the security measures in those cases where the data subject is unable to obtain a copy from the data exporter;
 
-(h) that, in the event of subprocessing, it has previously informed the data exporter and obtained its prior written consent;
+(h) that, in the event of sub-processing, it has previously informed the data exporter and obtained its prior written consent;
 
 (i) that the processing services by the subprocessor will be carried out in accordance with Clause 11;
 
@@ -372,9 +387,9 @@ Clause 6 Liability
 
 1\. The parties agree that any data subject, who has suffered damage as a result of any breach of the obligations referred to in Clause 3 or in Clause 11 by any party or subprocessor is entitled to receive compensation from the data exporter for the damage suffered.
 
-2\. If a data subject is not able to bring a claim for compensation in accordance with paragraph 1 against the data exporter, arising out of a breach by the data importer or his subprocessor of any of their obligations referred to in Clause 3 or in Clause 11, because the data exporter has factually disappeared or ceased to exist in law or has become insolvent, the data importer agrees that the data subject may issue a claim against the data importer as if it were the data exporter, unless any successor entity has assumed the entire legal obligations of the data exporter by contract or by operation of law, in which case the data subject can enforce its rights against such entity. The data importer may not rely on a breach by a subprocessor of its obligations in order to avoid its own liabilities.
+2\. If a data subject is not able to bring a claim for compensation in accordance with paragraph 1 against the data exporter, arising out of a breach by the data importer or his subprocessor of any of their obligations referred to in Clause 3 or in Clause 11, because the data exporter has factually disappeared or ceased to exist in law or has become insolvent, the data importer agrees that the data subject may issue a claim against the data importer as if it were the data exporter unless any successor entity has assumed the entire legal obligations of the data exporter by contract or by operation of law, in which case the data subject can enforce its rights against such entity. The data importer may not rely on a breach by a subprocessor of its obligations in order to avoid its own liabilities.
 
-3\. If a data subject is not able to bring a claim against the data exporter or the data importer referred to in paragraphs 1 and 2, arising out of a breach by the subprocessor of any of their obligations referred to in Clause 3 or in Clause 11 because both the data exporter and the data importer have factually disappeared or ceased to exist in law or have become insolvent, the subprocessor agrees that the data subject may issue a claim against the data subprocessor with regard to its own processing operations under the Clauses as if it were the data exporter or the data importer, unless any successor entity has assumed the entire legal obligations of the data exporter or data importer by contract or by operation of law, in which case the data subject can enforce its rights against such entity. The liability of the subprocessor shall be limited to its own processing operations under the Clauses.
+3\. If a data subject is not able to bring a claim against the data exporter or the data importer referred to in paragraphs 1 and 2, arising out of a breach by the subprocessor of any of their obligations referred to in Clause 3 or in Clause 11 because both the data exporter and the data importer have factually disappeared or ceased to exist in law or have become insolvent, the subprocessor agrees that the data subject may issue a claim against the data subprocessor with regard to its own processing operations under the Clauses as if it were the data exporter or the data importer unless any successor entity has assumed the entire legal obligations of the data exporter or data importer by contract or by operation of law, in which case the data subject can enforce its rights against such entity. The liability of the subprocessor shall be limited to its own processing operations under the Clauses.
 
 Clause 7 Mediation and jurisdiction
 
@@ -408,7 +423,7 @@ Clause 11 Subprocessing
 
 2\. The prior written contract between the data importer and the subprocessor shall also provide for a third-party beneficiary clause as laid down in Clause 3 for cases where the data subject is not able to bring the claim for compensation referred to in paragraph 1 of Clause 6 against the data exporter or the data importer because they have factually disappeared or have ceased to exist in law or have become insolvent and no successor entity has assumed the entire legal obligations of the data exporter or data importer by contract or by operation of law. Such third-party liability of the subprocessor shall be limited to its own processing operations under the Clauses.
 
-3\. The provisions relating to data protection aspects for subprocessing of the contract referred to in paragraph 1 shall be governed by the law of the Member State in which the data exporter is established.
+3\. The provisions relating to data protection aspects for sub-processing of the contract referred to in paragraph 1 shall be governed by the law of the Member State in which the data exporter is established.
 
 4\. The data exporter shall keep a list of subprocessing agreements concluded under the Clauses and notified by the data importer pursuant to Clause 5(j), which shall be updated at least once a year. The list shall be available to the data exporter’s data protection supervisory authority.
 
@@ -436,7 +451,7 @@ Special categories of data (if appropriate): The parties do not anticipate the t
 
 Purposes of Processing:
 
-Muellners, Inc. shall process personal data as necessary to provide the Muellners Services to data exporter in accordance with the Agreement. &#x20;
+Muellners, Inc. shall process personal data as necessary to provide the Muellners Foundation Services to data exporters in accordance with the Agreement. &#x20;
 
 Processing operations: Please see Annex 1 of the DPA, which describes the processing operations.&#x20;
 
@@ -458,45 +473,45 @@ For the purposes of this Appendix, "DPA" means the Data Processing Agreement in 
 
 Clause 4(h) and 8: Disclosure of these Clauses &#x20;
 
-a. Data exporter agrees that these Clauses constitute data importer's Confidential Information as that term is defined in the Agreement and may not be disclosed by data exporter to any third party without data importer's prior written consent unless permitted pursuant to Agreement.  This shall not prevent disclosure of these Clauses to a data subject pursuant to Clause 4(h) or a supervisory authority pursuant to Clause 8.
+a. Data exporter agrees that these Clauses constitute the data importer's Confidential Information as that term is defined in the Agreement and may not be disclosed by the data exporter to any third party without the data importer's prior written consent unless permitted pursuant to the Agreement.  This shall not prevent disclosure of these Clauses to a data subject pursuant to Clause 4(h) or a supervisory authority pursuant to Clause 8.
 
 Clause 5(a): Suspension of data transfers and termination
 
-a. The parties acknowledge that data importer may process the personal data only on behalf of the data exporter and in compliance with its instructions as provided by the data exporter and the Clauses.
+a. The parties acknowledge that the data importer may process the personal data only on behalf of the data exporter and in compliance with its instructions as provided by the data exporter and the Clauses.
 
-b. The parties acknowledge that if data importer cannot provide such compliance for whatever reason, it agrees to inform promptly the data exporter of its inability to comply, in which case the data exporter is entitled to suspend the transfer of data and/or terminate the contract.
+b. The parties acknowledge that if the data importer cannot provide such compliance for whatever reason, it agrees to inform promptly the data exporter of its inability to comply, in which case the data exporter is entitled to suspend the transfer of data and/or terminate the contract.
 
-c. If the data exporter intends to suspend the transfer of personal data and/or terminate these Clauses, it shall endeavour to provide notice to the data importer and provide data importer with a reasonable period of time to cure the non-compliance (“Cure Period”).&#x20;
+c. If the data exporter intends to suspend the transfer of personal data and/or terminate these Clauses, it shall endeavour to provide notice to the data importer and provide the data importer with a reasonable period of time to cure the non-compliance (“Cure Period”).&#x20;
 
-d. If after the Cure Period the data importer has not or cannot cure the non-compliance then the data exporter may suspend or terminate the transfer of personal data immediately.  The data exporter shall not be required to provide such notice in instance where it considers there is a material risk of harm to data subjects or their personal data.
+d. If after the Cure Period the data importer has not or cannot cure the non-compliance then the data exporter may suspend or terminate the transfer of personal data immediately.  The data exporter shall not be required to provide such notice in instances where it considers there is a material risk of harm to data subjects or their personal data.
 
 Clause 5(f): Audit
 
-a. Data exporter acknowledges and agrees that it exercises its audit right under Clause 5(f) by instructing data importer to comply with the audit measures described in Section 7(g) (Demonstration of Compliance) of the DPA. &#x20;
+a. Data exporter acknowledges and agrees that it exercises its audit right under Clause 5(f) by instructing the data importer to comply with the audit measures described in Section 7(g) (Demonstration of Compliance) of the DPA. &#x20;
 
 Clause 5(j): Disclosure of subprocessor agreements&#x20;
 
 a. The parties acknowledge the obligation of the data importer to send promptly a copy of any onward subprocessor agreement it concludes under the Clauses to the data exporter.
 
-b. The parties further acknowledge that, pursuant to subprocessor confidentiality restrictions, data importer may be restricted from disclosing onward subprocessor agreements to data exporter.  Notwithstanding this, data importer shall use reasonable efforts to require any subprocessor it appoints to permit it to disclose the subprocessor agreement to data exporter.
+b. The parties further acknowledge that pursuant to subprocessor confidentiality restrictions, the data importer may be restricted from disclosing onward subprocessor agreements to data exporter.  Notwithstanding this, the data importer shall use reasonable efforts to require any subprocessor it appoints to permit it to disclose the subprocessor agreement to the data exporter.
 
-c. Even where data importer cannot disclose a subprocessor agreement to data exporter, the parties agree that, upon the request of data exporter, data importer shall (on a confidential basis) provide all information it reasonably requires in connection with such subprocessing agreement to data exporter.&#x20;
+c. Even where the data importer cannot disclose a subprocessor agreement to the data exporter, the parties agree that, upon the request of the data exporter, the data importer shall (on a confidential basis) provide all information it reasonably requires in connection with such subprocessing agreement to data exporter.&#x20;
 
 Clause 6: Liability&#x20;
 
 a. Any claims brought under the Clauses shall be subject to the terms and conditions, including but not limited to, the exclusions and limitations set forth in the Agreement.  In no event shall any party limit its liability with respect to any data subject rights under these Clauses.
 
-Clause 11:  Onward subprocessing&#x20;
+Clause 11:  Onward sub-processing&#x20;
 
-a. The parties acknowledge that, pursuant to FAQ II.1 in Article 29 Working Party Paper WP 176 entitled "FAQs in order to address some issues raised by the entry into force of the EU Commission Decision 2010/87/EU of 5 February 2010 on standard contractual clauses for the transfer of personal data to processors established in third countries under Directive 95/46/EC" the data exporter may provide a general consent to onward subprocessing by the data importer.
+a. The parties acknowledge that, pursuant to FAQ II.1 in Article 29 Working Party Paper WP 176 entitled "FAQs in order to address some issues raised by the entry into force of the EU Commission Decision 2010/87/EU of 5 February 2010 on standard contractual clauses for the transfer of personal data to processors established in third countries under Directive 95/46/EC" the data exporter may provide a general consent to onward sub processing by the data importer.
 
-b. Accordingly, data exporter provides a general consent to data importer, pursuant to Clause 11 of these Clauses, to engage onward subprocessors.  Such consent is conditional on data importer’s compliance with the requirements set out in Section 7(d) (Notification and Objection to New Sub-Processors) of the DPA.&#x20;
+b. Accordingly, the data exporter provides general consent to the data importer, pursuant to Clause 11 of these Clauses, to engage onward subprocessors.  Such consent is conditional on the data importer’s compliance with the requirements set out in Section 7(d) (Notification and Objection to New Sub-Processors) of the DPA.&#x20;
 
 Clause 12: Obligation after the termination of personal data-processing services
 
 a. Data importer agrees that the data exporter will fulfil its obligation to return or destroy all the personal data on the termination of the provision of data-processing services by complying with the "Deletion or Return of Personal Data" section of the DPA. &#x20;
 
-### Annex 4 - List of Sub-Processors&#x20;
+### Annexe 4 - List of Sub-Processors&#x20;
 
 1. [Slack](https://slack.com/trust/compliance/gdpr), Slack Inc.
 2. [Hubspot](https://legal.hubspot.com/dpa), Hubspot Inc.
@@ -515,7 +530,7 @@ a. Data importer agrees that the data exporter will fulfil its obligation to ret
 
 **EXTENDED LEGAL IMPRINT:**
 
-*   ©2019-2022:Muellner Internet Pvt Ltd, New Delhi,India, Asia
+*   ©2019-2022:Muellner Internet Pvt Ltd, New Delhi, India, Asia
 
     CIN no-U72900DL2019PTC344870; PAN - AAMCM3873A; TAN - DELM33923B;
 * ©2019-2022:Muellners® (frivilig forening) Foundation, Copenhagen, Denmark, EU CVR nummer- 41008407, P nummer- 1025331717;

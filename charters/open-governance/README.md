@@ -4,11 +4,11 @@ description: >-
   characteristic of the Open Constitution AI.
 ---
 
-# 📔 Open Governance
+# 📔 Governance Protocols
 
 Open Constitution is a self-governing human-machine governance protocol using a decentralised and autonomous governance model.
 
-Open Constitution use a collection of distributed, flexible, compatible and censorship-resistant open-source tools and technology.&#x20;
+Open Constitution uses a collection of distributed, flexible, compatible and censorship-resistant open-source tools and technology.&#x20;
 
 Open Constitution initiative maintains a digital public goods and services infrastructure, endowed through digital grants and accrual open source licenses from major technology companies on planet Earth.
 
@@ -21,7 +21,7 @@ Open Constitution initiative maintains a digital public goods and services infra
 
 <mark style="color:green;">Members focus on the core of solving the challenges to humanity, with their contributions.</mark>\ <mark style="color:green;">The decision-making and community governance over change requests are solely vested in this Open Constitution, this is in the hands of each human member.</mark>
 
-<mark style="color:green;">Therefore, it is imperative that the members delegate management of decision Governance into a technology system, which is less and less centralised.</mark>
+<mark style="color:green;">Therefore, the members must delegate management of decision Governance into a technology system, which is less and less centralised.</mark>
 
 
 {% endhint %}
@@ -33,7 +33,7 @@ _**Open Constitution members organise themselves in a lateral structure.**_
 Any member of the Open Constitution is eligible to be nominated to the [Open Council](../../foundation/committees-and-their-roles/).\
 Council memberships are voluntary and pro bono.&#x20;
 
-Council memberships are also term based to allow for a flexible change of leadership.
+Council memberships are also term-based to allow for a flexible change of leadership.
 
 Besides Open Council memberships, each project has a [CWC](../../foundation/core-working-committee/), a core Workgroup that exists to ensure the maintenance of projects & initiatives of the Open Constitution.
 

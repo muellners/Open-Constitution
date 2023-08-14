@@ -6,14 +6,14 @@ description: >-
 
 # 🕵♀ Executive Council
 
-Executive Council members plays a vital role in executing **governance** of Foundation's initiatives.
+Executive Council members play a vital role in executing **governance** of Foundation's initiatives.
 
 Some examples are below:&#x20;
 
 1. Amendments to the policies and directives of the **Foundation's governance constitution**.
-2. Maintaining the Foundation's legal existence and compliance to governing laws of the jurisdictions in which the Foundation and its affiliates are registered in.
-3. Ratification of Council Committee actions and member resolutions from Foundation's open source communities.
-4. Protection of brand of the Foundation.
+2. the Maintaining the Foundation's legal existence and compliance with governing laws of the jurisdictions in which the Foundation and its affiliates are registered.
+3. Ratification of Council Committee actions and member resolutions from the Foundation's open source communities.
+4. Protection of the brand of the Foundation.
 5. Appointment of members on several committees.
 6. Appointment of officers of the Foundation.
 7. Treasury Management
@@ -21,7 +21,7 @@ Some examples are below:&#x20;
 {% hint style="info" %}
 <mark style="color:green;">**Executive Committee is an apex constitutional body and is constituted from the Foundation's Open Council and the member's appointment is an electoral process.**</mark>
 
-<mark style="color:green;">**Appointment to Executive Committee is conducted after every two years though a General election.**</mark>  <mark style="color:green;"></mark>&#x20;
+<mark style="color:green;">**Appointment to the Executive Committee is conducted every two years through a General election.**</mark>  <mark style="color:green;"></mark>&#x20;
 {% endhint %}
 
 >
@@ -37,30 +37,30 @@ Some examples are below:&#x20;
 > E.g If there are 1000 members, then for an election year, not more than 10 nominations seat for Executive Committee may be filed.\
 >
 
-Note: Each Council Committee appoints a single member(generally Committee's Chair) to reserve a vote whether to accept or reject a candidate's nomination.&#x20;
+Note: Each Council Committee appoints a single member(generally the Committee's Chair) to reserve a vote on whether to accept or reject a candidate's nomination.&#x20;
 
 This means that each Council Committee Chair naturally holds a Veto against a nomination.&#x20;
 
-This ensures that quality leaderships and human virtues are upheld during the election process. (Read more on what each [Committee](committees-and-their-roles/) is responsible for.)
+This ensures that quality leadership and human virtues are upheld during the election process. (Read more on what each [Committee](committees-and-their-roles/) is responsible for.)
 
-Once candidate's nominations achieve quorum with the Council committees, all nominations are then put to vote by the community.&#x20;
+Once a candidate's nominations achieve quorum with the Council committees, all nominations are then put to vote by the community.&#x20;
 
 **On Election:** \
-Each community member has a single vote to a candidate's nomination.&#x20;
+Each community member has a single vote for a candidate's nomination.&#x20;
 
-The candidates who receive more than half of all votes registered by participating community members, are then appointed to the Executive Committee.&#x20;
+The candidates who receive more than half of all votes registered by participating community members are then appointed to the Executive Committee.&#x20;
 
 **After Election:**\
-The elected members to the Executive Committee shall then resolve to appoint a **Chancellor** amongst themselves.
+The elected members of the Executive Committee shall then resolve to appoint a **Chancellor** amongst themselves.
 
 A general guideline is to appoint a Chancellor with the highest number of votes received in the election.&#x20;
 
 {% hint style="info" %}
 **About Chancellor of Muellners Foundation:**
 
-a. A Chancellor is responsible for the direction of Foundation's open source initiatives.&#x20;
+a. A Chancellor is responsible for the direction of the Foundation's open-source initiatives.&#x20;
 
-b. Council Committees act as counsel to the Chancellor, well within each committee's guidelined roles.
+b. Council Committees act as counsel to the Chancellor, well within each committee's guidelines roles.
 
 c. A Chancellor is impeachable and if the Executive Committee decides then a Vice Chancellor may also be appointed**.** &#x20;
 {% endhint %}
@@ -68,19 +68,19 @@ c. A Chancellor is impeachable and if the Executive Committee decides then a Vic
 
 
 {% hint style="info" %}
-<mark style="color:purple;">**Following are the causes that the Executive Council commits to:**</mark>
+<mark style="color:purple;">**The following are the causes that the Executive Council commits to:**</mark>
 
-<mark style="color:purple;">a. Maintenance of Foundation's infrastructure (funds, office, administrative, IT infrastructure etc)as the Executive Council's primary function.</mark>&#x20;
+<mark style="color:purple;">a. Maintenance of the Foundation's infrastructure (funds, office, administrative, IT infrastructure etc.)as the Executive Council's primary function.</mark>&#x20;
 
-<mark style="color:purple;">b. Welcome constructive observation of Foundation's direction and value from the  Observation and Ethics Council.</mark>
+<mark style="color:purple;">b. Welcome constructive observation of the Foundation's direction and value from the  Observation and Ethics Council.</mark>
 
-<mark style="color:purple;">c. Welcome accelerated participation in direction of the Foundation's vision from the Project Committees.</mark>
+<mark style="color:purple;">c. Welcome accelerated participation in the direction of the Foundation's vision from the Project Committees.</mark>
 
-<mark style="color:purple;">d. Welcome enforcement of rights of the Foundation's community in the form of Legal Council.</mark>
+<mark style="color:purple;">d. Welcome enforcement of rights of the Foundation's community in the form of a Legal Council.</mark>
 
-<mark style="color:purple;">e. Create Outreach in the form of Media Council.</mark>
+<mark style="color:purple;">e. Create Outreach in the form of a Media Council.</mark>
 
-<mark style="color:purple;">f. Welcome advise on Foundation's direction in the form of Advisory Council.</mark>
+<mark style="color:purple;">f. Welcome advice on the Foundation's direction in the form of an Advisory Council.</mark>
 {% endhint %}
 
 &#x20;

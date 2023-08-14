@@ -1,3 +1,9 @@
+---
+description: >-
+  This page describes the Subscribed membership on the Open Constitution
+  Network.
+---
+
 # 👩🎨 Subscription Registry
 
 ### SUBSCRIBED MEMBERS:&#x20;
@@ -19,7 +25,7 @@
 <mark style="color:red;">**Public Notice:**</mark> \
 _<mark style="color:red;">Please note that some subscribed members may not be able to get themselves registered as ordinary voluntary members(Local citizens), unless a Fiscal Host is identified and constituted in the local region, where they reside.</mark>_
 
-<mark style="color:blue;"><mark style="color:green;">Subscribed members are covered by Foundation's data protection regime, regardless of whether a data protection law is active in the context of Local jurisdiction.<mark style="color:green;"></mark>
+<mark style="color:blue;">Subscribed members are covered by Foundation's data protection regime, regardless of whether a data protection law is active in the context of Local jurisdiction.</mark>
 
 _<mark style="color:red;">All subscribed members gain a</mark> <mark style="color:red;"></mark><mark style="color:red;">**Guest or Member access**</mark><mark style="color:red;">, according to the</mark>_ [_<mark style="color:red;">**Open Access Charter**</mark>_](../../charters/open-access-charter.md)_<mark style="color:red;">**,**</mark>_ and depending on Self verification_._
 {% endhint %}

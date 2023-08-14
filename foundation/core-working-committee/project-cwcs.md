@@ -38,30 +38,30 @@ The Observation Council members are also humans. They may not have a fitting sol
 
 8\. CWC members represent the Foundation's project in industry events and activities, and open source communities maintained by other organisations.
 
-> <mark style="color:purple;"><mark style="color:blue;">**Public Notice(OPEN CALL):**<mark style="color:blue;"></mark> <mark style="color:purple;"><mark style="color:blue;"> </mark><mark style="color:purple;"><mark style="color:blue;">Muellners Foundation is currently inviting members to constitute following Project CWCs:<mark style="color:blue;"></mark>\ <mark style="color:purple;"><mark style="color:blue;">1.<mark style="color:blue;"></mark> [<mark style="color:purple;"><mark style="color:blue;">**Finscale CWC**<mark style="color:blue;"></mark>](../steering-council/finscale-cwc.md) <mark style="color:purple;"><mark style="color:blue;">-  Technical Writers, Developers with financial technology background, fin tech product managers, members with DeFi background.<mark style="color:blue;"></mark>
+> <mark style="color:purple;">**Public Notice(OPEN CALL):**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Muellners Foundation is currently inviting members to constitute following Project CWCs:</mark>\ <mark style="color:purple;">1.</mark> [<mark style="color:purple;">**Finscale CWC**</mark>](../steering-council/finscale-cwc.md) <mark style="color:purple;">-  Technical Writers, Developers with financial technology background, fin tech product managers, members with DeFi background.</mark>
 >
-> <mark style="color:purple;"><mark style="color:blue;">2.<mark style="color:blue;"></mark> [<mark style="color:purple;"><mark style="color:blue;">**Serenity CWC**<mark style="color:blue;"></mark>](../steering-council/serenity-cwc.md) <mark style="color:purple;"><mark style="color:blue;">- Technical Writers, sociologist and anthropologists, researchers, developers with a financial services and Non for profit background, fin tech product managers, members with DeFi background.<mark style="color:blue;"></mark>&#x20;
+> <mark style="color:purple;">2.</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Open Constitution**</mark>[ <mark style="color:purple;">**CWC**</mark>](../steering-council/serenity-cwc.md) <mark style="color:purple;">- Technical Writers, sociologist and anthropologists, researchers, developers with a financial services and Non for profit background, fin tech product managers, members with DeFi background.</mark>&#x20;
 
 {% hint style="info" %}
 
 
 ### How to Join?
 
-#### Following guidelines explain how member(s) shall constitute Project CWCs:
+#### The following guidelines explain how member(s) shall constitute Project CWCs:
 
 <mark style="color:green;">**Step 1:**</mark> <mark style="color:green;"></mark><mark style="color:green;">A member of the Open Council's Steering Council shall generally nominate a community proposal for appointing a member to a Project CWC.</mark>&#x20;
 
-1.  <mark style="color:green;">For the nomination to be successful, atleast four members -</mark>&#x20;
+1.  <mark style="color:green;">For the nomination to be successful, at least four members -</mark>&#x20;
 
     <mark style="color:green;">Nominee, Member of the Steering Council nominating the member to CWC, two members from the project shall participate in the community proposal for the proposal to be taken up by the Steering Council members for a Council vote.</mark>
 
-<mark style="color:green;">To build community consensus, a nominated candidate should work with the guidance of the member, nominating the candidate and publish a public facing report to support their nomination. Read</mark> [<mark style="color:green;">**CWC Nomination**</mark>](broken-reference) <mark style="color:green;">guidelines.</mark>
+<mark style="color:green;">To build community consensus, a nominated candidate should work with the guidance of the member, nominating the candidate and publishing a public-facing report to support their nomination. Read</mark> [<mark style="color:green;">**CWC Nomination**</mark>](broken-reference) <mark style="color:green;">guidelines.</mark>
 
 <mark style="color:green;">**Step 2:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Steering Council members call a Council Vote on the nomination for appointment.</mark>&#x20;
 
-<mark style="color:blue;">These members also generally schedule an interview and document the interview for the public facing records of all CWC nominations.</mark>
+<mark style="color:blue;">These members also generally schedule an interview and document the interview for the public-facing records of all CWC nominations.</mark>
 
-<mark style="color:green;">**Step 3:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Member is officially appointed to CWC by the</mark> [<mark style="color:green;">**Executive Co**</mark>](../executive-council.md)<mark style="color:green;">**uncil**</mark> <mark style="color:green;"></mark><mark style="color:green;">of the Foundation and further ratified by a jurisdiction based</mark> [<mark style="color:green;">Independent Board</mark>](../../charters/independent-board.md)<mark style="color:green;">.</mark>\
+<mark style="color:green;">**Step 3:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Member is officially appointed to CWC by the</mark> [<mark style="color:green;">**Executive Co**</mark>](../executive-council.md)<mark style="color:green;">**uncil**</mark> <mark style="color:green;"></mark><mark style="color:green;">of the Foundation and further ratified by a jurisdiction-based</mark> [<mark style="color:green;">Independent Board</mark>](../../charters/independent-board.md)<mark style="color:green;">.</mark>\
 
 {% endhint %}
 
@@ -71,10 +71,10 @@ The Observation Council members are also humans. They may not have a fitting sol
 
 
 1. <mark style="color:purple;">Project CWCs membership is a democratically elected position in the Foundation's Open Council.</mark>
-2. <mark style="color:purple;">Project CWC appointment is a voluntary membership and invites an active contribution on the projects:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Finscale**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">or</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Serenity**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Dao.</mark>&#x20;
-3. <mark style="color:purple;">The approval of a member's nomination and subsequent appointment is made by the Steering Council, and further ratified by the Independent Board.</mark> &#x20;
-4. <mark style="color:purple;">All nominations and appointments are made in good faith.</mark> \ <mark style="color:purple;">CWC appointments are conditional to member registering their information to the Foundation's data registry for records and dilligence purposes.</mark>
-5. <mark style="color:purple;">CWC appointments are made for a period of atleast 1 to atmost 3 years.</mark>&#x20;
+2. <mark style="color:purple;">Project CWC appointment is a voluntary membership and invites an active contribution to the projects:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Finscale**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">or</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Serenity**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Dao.</mark>&#x20;
+3. <mark style="color:purple;">The approval of a member's nomination and subsequent appointment is made by the Steering Council and further ratified by the Independent Board.</mark> &#x20;
+4. <mark style="color:purple;">All nominations and appointments are made in good faith.</mark> \ <mark style="color:purple;">CWC appointments are conditional to members registering their information to the Foundation's data registry for records and dilligence purposes.</mark>
+5. <mark style="color:purple;">CWC appointments are made for a period of at least 1 to at most 3 years.</mark>&#x20;
 6. <mark style="color:purple;">Members can voluntarily resign or can be democratically removed from the appointment, based on an Open Council Resolution.</mark>&#x20;
 7. <mark style="color:purple;">The Council resolution is further voted by the community referendum to remove a member from a CWC.</mark>
 {% endhint %}

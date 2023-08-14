@@ -6,16 +6,16 @@ description: >-
 
 # 🧘♀ Digital Service Credits
 
-Digital Services Credits are issued to verified legal bodies of the Open Constitution Network Tenant, with which each ORG Member body can avail dedicated and Managed services of the co-operative of Muellners Foundation or the Open Constitution network hosted by the Foundation.
+Digital Services Credits are issued to verified legal bodies of the Open Constitution Network Tenancy, with which each ORG Member body can avail dedicated and Managed services of the co-operative of Muellners Foundation or the Open Constitution network hosted by the Foundation.
 
 {% hint style="info" %}
 **Digital Services Credits:**
 
-_<mark style="color:purple;">Representative Appointee of ORG member bodies shall activate a Project Tenancy Account in Foundation’s</mark>_ [_<mark style="color:purple;">Open Bank Portal</mark>_](https://open-bank.org)_<mark style="color:purple;">.</mark>_&#x20;
+_<mark style="color:purple;">Representative Appointee of ORG member bodies shall activate a Project Tenancy Account in the Foundation’s</mark>_ [_<mark style="color:purple;">Open Bank Portal</mark>_](https://open-bank.org)_<mark style="color:purple;">.</mark>_&#x20;
 
-_<mark style="color:purple;">Project is run with Open Governance.</mark>_
+_<mark style="color:purple;">The project is run with Open Governance.</mark>_
 
-_<mark style="color:purple;">Product engineers can be onboarded to the project from Foundation’s community.</mark>_
+_<mark style="color:purple;">Product engineers can be onboarded to the project from the Foundation’s community.</mark>_
 
 _<mark style="color:purple;">ORG Tenancy level access to talent, and open source intelligence of grantees from the Open Grant Program; gain fresh perspective(s) on your technology redundancies, by dedicating human intelligence to your project.</mark>_  \
 
@@ -26,11 +26,11 @@ _<mark style="color:purple;">ORG Tenancy level access to talent, and open source
 Digital Services Credits(hereby credits)
 
 1. Credits give premium benefits of Open Source Development and dedicated Managed Services for Research and Development on open source product lifecycle(s).
-2. Credits give premium benefits of Level 2, Level 3 support on open source product lifecycle(s). (Incubated or verified Open Source products only)
+2. Credits give premium benefits of Level 2, and Level 3 support on open-source product lifecycle(s). (Incubated or verified Open Source products only)
 
 _Incubation:_
 
-The representative Appointee of a ORG Member body shall constitute a _Partner Project_ and such a project shall go through an underwriting, and incubation using Foundation's Open ballot proceedings.&#x20;
+The representative Appointee of an ORG Member body shall constitute a _Partner Project_ and such a project shall go through underwriting, and incubation using the Foundation's Open ballot proceedings.&#x20;
 
 > **An appropriate Council or Committee vote shall launch the project.**
 >
@@ -44,7 +44,7 @@ The representative Appointee of a ORG Member body shall constitute a _Partner Pr
 
 **Project Proceedings:**&#x20;
 
-The electorally appointed representative of an Org member body shall constitute an ORG _Project_ and such governance of project proceedings shall be run using the Articles of Assocation: Open Constitution.
+The electorally appointed representative of an Org member body shall constitute an ORG _Project_ and such governance of project proceedings shall be run using the Articles of Association: Open Constitution.
 
 **Project Closure:**&#x20;
 

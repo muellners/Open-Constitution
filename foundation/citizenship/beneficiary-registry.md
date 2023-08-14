@@ -1,3 +1,9 @@
+---
+description: >-
+  This page describes the Beneficiary citizenship on the Open Constitution
+  Network.
+---
+
 # 🙅 Beneficiary Registry
 
 ### BENEFICIARY CITIZEN:

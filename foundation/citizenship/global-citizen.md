@@ -1,3 +1,7 @@
+---
+description: This page describes the global citizenship on the Open Constitution Network.
+---
+
 # 🙋 Global Citizen
 
 ### **GLOBAL CITIZEN:**
@@ -23,7 +27,7 @@ Global Citizens organise themselves and Foundation's initiatives, activities and
 <mark style="color:red;">All Global Citizens, may or may not be Local Citizens, depending on whether Foundation's community has self organised a Fiscal Host/Node in the local jurisdiction.</mark>  \
 **Categorical Explanation:** Please note that some subscribed members may not be able to get themselves registered as ordinary voluntary members(Local citizens), unless a Fiscal Host is identified and constituted in the local region.
 
-<mark style="color:blue;"><mark style="color:green;">Global Citizens are covered by Foundation's data protection regime, regardless of whether a data protection law is active in the context of limitations of Local jurisdiction.<mark style="color:green;"></mark>
+<mark style="color:blue;">Global Citizens are covered by Foundation's data protection regime, regardless of whether a data protection law is active in the context of limitations of Local jurisdiction.</mark>
 
 _<mark style="color:red;">All Global Citizens gain a</mark> <mark style="color:red;"></mark><mark style="color:red;">**Guest or Member access**</mark><mark style="color:red;">, according to the</mark>_ [_<mark style="color:red;">**Open Access Charter**</mark>_](../../charters/open-access-charter.md) _<mark style="color:red;">**and depending on Self verification.**</mark>_
 {% endhint %}

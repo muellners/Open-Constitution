@@ -22,7 +22,7 @@ Legal CWC is an independent group of volunteers from the Foundation's open commu
 {% hint style="info" %}
 <mark style="color:green;">Legal CWC is an</mark> [<mark style="color:green;">Independent CWC</mark>](../core-working-committee/independent-cwcs.md)<mark style="color:green;">, a group of volunteers from the Foundation's open community.</mark>&#x20;
 
-<mark style="color:green;">Read on How to Join</mark> [<mark style="color:green;">**Legal CWC here**</mark>](../core-working-committee/independent-cwcs.md) <mark style="color:green;">and what role an Independent CWC plays in Foundation's community.</mark>
+<mark style="color:green;">Read on How to Join</mark> [<mark style="color:green;">**Legal CWC here**</mark>](../core-working-committee/independent-cwcs.md) <mark style="color:green;">and what role an Independent CWC plays in the Foundation's community.</mark>
 
 <mark style="color:green;">Read</mark> [<mark style="color:green;">CWC Nominations Guide</mark>](broken-reference) <mark style="color:green;">for Independent CWCs.</mark>\
 
@@ -41,9 +41,9 @@ Legal CWC is an independent group of volunteers from the Foundation's open commu
 {% hint style="info" %}
 ### <mark style="color:blue;">Core Functions of Legal CWC:</mark>
 
-1. <mark style="color:blue;">To prepare Foundation's legal stand on a subject of public interest litigation, concerning any of the Foundation's citizen rights on the Internet, if the citizen has delegated their legal custody to the Foundation's community.</mark>
-2. <mark style="color:blue;">Assist Legal Committee, Regulations Committee and Steward Group in preparing, filing and executing legal actions on behalf of the Foundation'sd citizens.</mark>
-3. <mark style="color:blue;">Legal CWC closely works with community members for protection of their privacy rights, Intellectual Property infringments, civil and criminal lawsuits actions against discrimination and similar humanitarian actions in public interest.</mark>
+1. <mark style="color:blue;">To prepare the Foundation's legal stand on a subject of public interest litigation, concerning any of the Foundation's citizen rights on the Internet, if the citizen has delegated their legal custody to the Foundation's community.</mark>
+2. <mark style="color:blue;">Assist the Legal Committee, Regulations Committee and Steward Group in preparing, filing and executing legal actions on behalf of the Foundation citizens.</mark>
+3. <mark style="color:blue;">Legal CWC closely works with community members for the protection of their privacy rights, Intellectual Property infringements, civil and criminal lawsuit actions against discrimination and similar humanitarian actions in the public interest.</mark>
 
 
 {% endhint %}

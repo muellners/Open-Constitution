@@ -9,10 +9,10 @@ description: >-
 
 
 {% hint style="info" %}
-<mark style="color:green;">The Open Tribunal is an autonomous body in the Muellners Foundation's global community. It is a standalone and independent Council with its own powers of constitutional governance.</mark>&#x20;
+<mark style="color:green;">The Open Tribunal is an autonomous body in the Muellners Foundation's global community. It is a standalone and independent Council with its powers of constitutional governance.</mark>&#x20;
 {% endhint %}
 
-Open Tribunal of the Foundation is an _independent, autonomous, and self organised_ constitutional body, which is primarily responsible for ensuring fair and transparent execution of this Open Constitution.
+Open Tribunal of the Foundation is an _independent, autonomous, and self-organised_ constitutional body, which is primarily responsible for ensuring fair and transparent execution of this Open Constitution.
 
 > <mark style="color:purple;">A Tribunal stands as an institution in the Foundation's community with an authority to judge, adjudicate on, or determine claims or disputes</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**between members**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">of the Foundation.</mark>
 >
@@ -37,9 +37,9 @@ Open Tribunal of the Foundation is an _independent, autonomous, and self organis
 
 
 
-<mark style="color:green;">Open Tribunal may also serve Foundation's citizens, resolving commercial disputes through an international arbitration framework.</mark>
+<mark style="color:green;">Open Tribunal may also serve the Foundation's citizens, resolving commercial disputes through an international arbitration framework.</mark>
 
-<mark style="color:green;">The Tribunal members shall follow Foundation's</mark> [<mark style="color:green;">guiding principles</mark>](../guiding-principles.md) <mark style="color:green;">in resolving disputes.</mark>
+<mark style="color:green;">The Tribunal members shall follow the public-facingthatthe Foundation's</mark> [<mark style="color:green;">guiding principles</mark>](../guiding-principles.md) <mark style="color:green;">in resolving disputes.</mark>
 
 
 
@@ -56,47 +56,47 @@ _The hearing generally takes place via electronic means, well within the_ [_Code
 
 _According to the Statutes, a citizen may also transfer Power of attorney to another member or a constitutional body of the Foundation, to represent them in a dispute._
 
-_**B. Historical Records:** For a case over a commercial dispute, requiring resolution, and which dates back to a date prior to a citizen's membership in the Foundation(termed as historical case):_&#x20;
+_**B. Historical Records:** For a case over a commercial dispute, requiring resolution, and which dates back to a date before a citizen's membership in the Foundation(termed a historical case):_&#x20;
 
-_<mark style="color:green;">A historical case may also be accepted by this Open Tribunal, if Foundation's citizens submit an appeal and give consent to the Tribunal, governed by this Open Constitution.</mark>_
+_<mark style="color:green;">A historical case may also be accepted by this Open Tribunal if the Foundation's citizens submit an appeal and give consent to the Tribunal, governed by this Open Constitution.</mark>_
 
 It is at the discretion of the Independent Board whether or not to ratify the acceptance of a case into the Open Tribunal.&#x20;
 
 _**C. Case Processing Fees:**_
 
-1. _<mark style="color:green;">There is</mark> <mark style="color:green;"></mark><mark style="color:green;">**NO case processing fees**</mark> <mark style="color:green;"></mark><mark style="color:green;">for disputes b/w members over Foundation's governance of projects, public policy affairs and disputes clearly associated with Foundation's objectives in the financial services industry.</mark>_
-2. _<mark style="color:green;">A case processing fees should be collected ONLY for alternate dispute resolution b/w it's citizens over a subject of commercial nature, which prima facie may seem to be outside the purview of Foundation's ongoing activities, objectives and BFSI industry.</mark>_ &#x20;
+1. _<mark style="color:green;">There is</mark> <mark style="color:green;"></mark><mark style="color:green;">**NO case processing fees**</mark> <mark style="color:green;"></mark><mark style="color:green;">for disputes b/w members over the Foundation's governance of projects, public policy affairs and disputes associated with the Foundation's objectives in the financial services industry.</mark>_
+2. _<mark style="color:green;">Case processing fees should be collected ONLY for alternate dispute resolution b/w its citizens over a subject of a commercial nature, which prima facie may seem to be outside the purview of the Foundation's ongoing activities, objectives and BFSI industry.</mark>_ &#x20;
 
-_In clearer terms, if citizen disputes are linked to a non Foundation project i.e a commercial activity **NOT** undertaken or controlled by the Foundation, whether in the financial or non financial services or technology sector, a case processing fee should be collected._
+_In clearer terms, if citizen disputes are linked to a non Foundation project i.e. a commercial activity **NOT** undertaken or controlled by the Foundation, whether in the financial or non-financial services or technology sector, a case processing fee should be collected._
 
-_3. <mark style="color:green;">A case processing fees should also be collected for alternate dispute resolution b/w two or more Open Constitution Partner Program participants over a subject of commercial nature. Case Processing Fees is equally borne by the sparring participant entities.</mark>_
+_3. <mark style="color:green;">Case processing fees should also be collected for alternate dispute resolution b/w two or more Open Constitution Partner Program participants over a subject of a commercial nature. Case Processing Fees are equally borne by the sparring participant entities.</mark>_
 
-_<mark style="color:purple;">Depending on whether a fee is applicable, case processing fee is to be deposited in Foundation's Fiscal Accounts immediately, prior to acceptance of the case by the Open Tribunal.</mark>_
+_<mark style="color:purple;">Depending on whether a fee is applicable, case processing fee is to be deposited in the public-facing that Foundation's Fiscal Accounts immediately, before acceptance of the case by the Open Tribunal.</mark>_
 
 **D. Case Processing Time:** Open Tribunal conducts a hearing where all disputing parties are heard.&#x20;
 
-<mark style="color:green;">There is no fixed processing time</mark>, however, once an Open Tribunal is constituted and a case is logged on the _Open Constitution_ registry, hearings should commence within a period of 30 days. &#x20;
+<mark style="color:green;">There is no fixed processing time</mark>, however, once an Open Tribunal is constituted and a case is logged on the _Open Constitution_ registry, hearings should commence within 30 days. &#x20;
 
-<mark style="color:purple;">**E. Binding and Non Binding resolution:**</mark>&#x20;
+<mark style="color:purple;">**E. Binding and Non-Binding resolution:**</mark>&#x20;
 
 
 
-_<mark style="color:purple;">**E1.**</mark>_ <mark style="color:purple;">**For Foundation's project,**</mark><mark style="color:purple;">** **</mark>_<mark style="color:purple;">**i.e a commercial activity undertaken or controlled by the Foundation:**</mark>_
-
-_<mark style="color:purple;">Depending on the applicable business laws of local jurisdictions, relevant to the case, and structural integrity of the associated local as well as international arbitration laws</mark>_<mark style="color:purple;">**,**</mark> <mark style="color:purple;"></mark>_<mark style="color:purple;">Open Tribunal processes a binding resolution.</mark>_
-
-_<mark style="color:purple;">**E2. For a resolution between Foundation's Open Constitution Partner Program participants:**</mark>_
+_<mark style="color:purple;">**E1.**</mark>_ <mark style="color:purple;">**For the Foundation's project,**</mark><mark style="color:purple;">** **</mark>_<mark style="color:purple;">**i.e. a commercial activity undertaken or controlled by the Foundation:**</mark>_
 
 _<mark style="color:purple;">Depending on the applicable business laws of local jurisdictions, relevant to the case, and structural integrity of the associated local as well as international arbitration laws</mark>_<mark style="color:purple;">**,**</mark> <mark style="color:purple;"></mark>_<mark style="color:purple;">Open Tribunal processes a binding resolution.</mark>_
 
-_Note: Currently, the Danish law of arbitration supersedes a local law of arbitration, specifically for the disputes between the Open Constitution Partner Program entities._
+_<mark style="color:purple;">**E2. For a resolution between the Foundation's Open Constitution Partner Program participants:**</mark>_
 
-_<mark style="color:purple;">**E3. For NON Foundation projects/Historical cases appealed by it's global citizens:**</mark>_
+_<mark style="color:purple;">Depending on the applicable business laws of local jurisdictions, relevant to the case, and structural integrity of the associated local as well as international arbitration laws</mark>_<mark style="color:purple;">**,**</mark> <mark style="color:purple;"></mark>_<mark style="color:purple;">Open Tribunal processes a binding resolution.</mark>_
 
-_<mark style="color:purple;">Depending on the applicable business laws of local jurisdictions, relevant to the case, and structural integrity of the associated local as well as international arbitration laws, Open Tribunal may process both a binding or a non binding resolution.</mark>_
+_Note: Currently, the Danish law of arbitration supersedes a local law of arbitration, specifically for disputes between the Open Constitution Partner Program entities._
+
+_<mark style="color:purple;">**E3. For NON-Foundation projects/Historical cases appealed by its global citizens:**</mark>_
+
+_<mark style="color:purple;">Depending on the applicable business laws of local jurisdictions, relevant to the case, and structural integrity of the associated local as well as international arbitration laws, the Open Tribunal may process both a binding and a non-binding resolution.</mark>_
 {% endhint %}
 
-<mark style="color:red;">Judgment upon the award rendered by the arbitrator</mark>_<mark style="color:red;"><mark style="color:purple;">(Open Tribunal)<mark style="color:purple;"></mark>_ <mark style="color:red;"></mark><mark style="color:red;">may be entered in any court with jurisdiction to do so.</mark>
+<mark style="color:red;">Judgment upon the award rendered by the arbitrator</mark>_<mark style="color:red;">(Open Tribunal)</mark>_ <mark style="color:red;"></mark><mark style="color:red;">may be entered in any court with jurisdiction to do so.</mark>
 
 {% hint style="info" %}
 **Basic Constitution Guidelines:**

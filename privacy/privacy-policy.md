@@ -9,13 +9,13 @@ description: >-
 
 **PRIVACY NOTICE**
 
-**Last updated Nov 27, 2022**&#x20;
+**Last updated Aug 08, 2023**&#x20;
 
 > **You, or your** here means&#x20;
 >
 > Natural Persons, and&#x20;
 >
-> Natural Persons affiliated to Legal Bodies, which are part of Open Constitution Partner Program.
+> Natural Persons affiliated to Legal Bodies, which are part of Open Constitution E Tenancy Program.
 >
 > ''Third Party'' here means an affiliated object of observation, maintained by a Legal Body, outside the ownership control of Muellners Foundation&#x20;
 >
@@ -23,7 +23,7 @@ description: >-
 >
 > &#x20;We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our Privacy Policy, or our practices with regards to your personal information, please raise a ticket at [Open Constitution Help Center](https://openconstitution.atlassian.net/servicedesk/customer/portals).
 
-When you visit our website(s) and services, including connected third party services;
+When you visit our website(s) and services, including connected third-party services;
 
 *
 
@@ -39,6 +39,8 @@ When you visit our website(s) and services, including connected third party serv
 
 ​[https://finscale.biz](https://finscale.biz), and any subdomains thereof​
 
+[https://finscale.net](https://finscale.net), and any subdomains thereof
+
 [https://open-bank.org](https://open-bank.org), and any subdomains thereof
 
 [https://bitrupee.net](https://bitrupee.net), and any subdomains thereof
@@ -53,9 +55,11 @@ https://muellnersfoundation.info and any subdomains thereof&#x20;
 
 https://opensource.exchange and any subdomains thereof&#x20;
 
-https://openconstitution.ai and any subdomains thereof&#x20;
+https://openconstitution.ai and any subdomains thereof
 
-[https://open-bank.net](https://open-bank.net), and any subdomains and custom domains thereof e.g project.open-bank.net
+[https://openconstitution.us](https://openconstitution.us) and any subdomains thereof&#x20;
+
+[https://open-bank.net](https://open-bank.net), and any subdomains and custom domains thereof e.g. https://school.open-bank.net
 
 https://upscalearts.org and any subdomains thereof
 
@@ -81,7 +85,7 @@ https://openbounty.biz and any subdomains thereof
 
 
 
-* [ ] **Third Party**/_Other_ uniform resource locators(URLs) where Forms or (both web browser and mobile) applications are hosted to collect confidential information and are generated through third party services(Slack, Discord, Facebook, Twitter, Linkedin, Discourse, Gitbook, Atlassian, Github, Google Calendar, Telegram Broadcast channels, Stripe), either directly shared to you by the Muellners on its own or public platforms of communication &#x20;
+* [ ] **Third Party**/_Other_ uniform resource locators(URLs) where Forms or (both web browser and mobile) applications are hosted to collect confidential information and are generated through third-party services(Slack, Discord, Facebook, Twitter, Linkedin, Discourse, Gitbook, Atlassian, Github, Google Calendar, Telegram Broadcast channels, Stripe), either directly shared to you by the Muellners on its own or public platforms of communication &#x20;
 
 {% embed url="http://muellnersorg.slack.com/" %}
 Muellners Foundation Slack Workspace
@@ -109,9 +113,9 @@ These organisations support Open Constitution digital public goods and services,
 
 _We take your privacy very seriously. We do this because we value and observe your rights._
 
-_In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our Sites or Apps and our services._
+_In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue the use of our Sites or Apps and our services._
 
-This privacy policy applies to all information collected through our website and services(listed above) and any subdomains thereof, third party application URLs ("**Apps**"), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the "**Sites**").&#x20;
+This privacy policy applies to all information collected through our website and services(listed above) and any subdomains thereof, third-party application URLs ("**Apps**"), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the "**Sites**").&#x20;
 
 **Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.**&#x20;
 
@@ -153,7 +157,7 @@ This privacy policy applies to all information collected through our website and
 
 **Personal information you disclose to us**&#x20;
 
-_**In Short:**_ _We collect personal information(at times Non public personal information - NPPIs) that you provide to us such as_&#x20;
+_**In Short:**_ _We collect personal information(at times Non-public personal information - NPPIs) that you provide to us such as_&#x20;
 
 _name, address, contact information, passwords and security data, payment information, and social media login data._ &#x20;
 
@@ -188,7 +192,7 @@ If you use our Apps, we may also collect the following information:  &#x20;
 * _Geo-Location Information._ We may request access or permission to and track location-based information from your mobile device, either continuously or while you are using our mobile application, to provide location-based services. If you wish to change our access or permissions, you may do so in your device’s settings.   &#x20;
 * _Mobile Device Access._ We may request access or permission to certain features from your mobile device, including your mobile device’s social media accounts, microphone, email, address, affiliation, legal name, interests, and other features. If you wish to change our access or permissions, you may do so in your device’s settings.   &#x20;
 * _Mobile Device Data._ We may automatically collect device information (such as your mobile device ID, model and manufacturer), operating system, version information and IP address.  &#x20;
-* _Facebook Permissions._ We by default access your [Facebook](https://www.facebook.com/about/privacy/) basic account information, including your name, email, gender, birthday, current city, and profile picture URL, as well as other information that you choose to make public. We may also request access to other permissions related to your account, such as friends, checkins, and likes, and you may choose to grant or deny us access to each individual permission. For more information regarding Facebook permissions, refer to the [Facebook Permissions Reference](https://developers.facebook.com/docs/facebook-login/permissions) page.   \
+* _Facebook Permissions._ We by default access your [Facebook](https://www.facebook.com/about/privacy/) basic account information, including your name, email, gender, birthday, current city, and profile picture URL, as well as other information that you choose to make public. We may also request access to other permissions related to your account, such as friends, check-ins, and likes, and you may choose to grant or deny us access to each individual permission. For more information regarding Facebook permissions, refer to the [Facebook Permissions Reference](https://developers.facebook.com/docs/facebook-login/permissions) page.   \
 
 
 **Information collected from other sources**&#x20;
@@ -199,21 +203,21 @@ We may obtain information about you from other sources, such as public databases
 
 **2. HOW DO WE USE YOUR INFORMATION?**&#x20;
 
-_**In Short:** We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent._ &#x20;
+_**In Short:** We process your information for purposes based on legitimate business interests, the fulfilment of our contract with you, compliance with our legal obligations, and/or your consent._ &#x20;
 
 We use personal information collected via our Sites or Apps for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests ("Business Purposes"), in order to enter into or perform a contract with you ("Contractual"), with your consent ("Consent"), and/or for compliance with our legal obligations ("Legal Reasons"). We indicate the specific processing grounds we rely on next to each purpose listed below. &#x20;
 
 We use the information we collect or receive: &#x20;
 
-* **To facilitate account creation and logon process.**If you choose to link your account with us to a third party account \*(such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process. See the section below headed "HOW DO WE HANDLE YOUR SOCIAL LOGINS" for further information.       \
+* **To facilitate account creation and logon process.** If you choose to link your account with us to a third-party account \*(such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process. See the section below headed "HOW DO WE HANDLE YOUR SOCIAL LOGINS" for further information.       \
 
-* **To send you marketing and promotional communications.** We and/or our third party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see the "WHAT ARE YOUR PRIVACY RIGHTS" below).       \
+* **To send you marketing and promotional communications.** We and/or our third-party marketing partners may use the personal information you send to us for our marketing purposes if this is in accordance with your marketing preferences. You can opt out of our marketing emails at any time (see the "WHAT ARE YOUR PRIVACY RIGHTS" below).       \
 
 * **To send administrative information to you.** We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.         \
 
-* **Fulfill and manage your orders.** We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the Sites or Apps.           \
+* **Fulfil and manage your orders.** We may use your information to fulfil and manage your orders, payments, returns, and exchanges made through the Sites or Apps.           \
 
-* **To post testimonials.** We post testimonials on our Sites or Apps that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and testimonial. If you wish to update, or delete your testimonial, please contact us at legal@muellners.org and be sure to include your name, testimonial location, and contact information.            \
+* **To post testimonials.** We post testimonials on our Sites or Apps that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and testimonial. If you wish to update or delete your testimonial, please contact us at legal@muellners.org and be sure to include your name, testimonial location, and contact information.            \
 
 * **Deliver targeted advertising to you.** We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.                 \
 
@@ -227,37 +231,37 @@ We use the information we collect or receive: &#x20;
 
 * **To respond to legal requests and prevent harm.** If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.  \
 
-* **For other Business Purposes.** We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Sites or Apps, products, services, marketing and your experience. &#x20;
+* **For other Business Purposes.** We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and evaluating and improving our Sites or Apps, products, services, marketing and your experience. &#x20;
 
 **3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?**&#x20;
 
-_**In Short:** We only share information with your consent, to comply with laws, to protect your rights, or to fulfill business obligations._  \
+_**In Short:** We only share information with your consent, to comply with laws, to protect your rights, or to fulfil business obligations._  \
 We may process or share data based on the following legal basis:
 
-* **Consent:** We may process your data if you have given us specific consent to use your personal information in a specific purpose. \
+* **Consent:** We may process your data if you have given us specific consent to use your personal information for a specific purpose. \
 
 * **Legitimate Interests:** We may process your data when it is reasonably necessary to achieve our legitimate business interests. \
 
-* **Performance of a Contract:** Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract. \
+* **Performance of a Contract:** Where we have entered into a contract with you, we may process your personal information to fulfil the terms of our contract. \
 
-* **Legal Obligations:** We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements). \
+* **Legal Obligations:** We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal processes, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements). \
 
 * **Vital Interests:** We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
 
 More specifically, we may need to process your data or share your personal information in the following situations:  &#x20;
 
-* **Vendors, Consultants and Other Third-Party Service Providers.** We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the Sites or Apps, which will enable them to collect data about how you interact with the Sites or Apps over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes.  \
+* **Vendors, Consultants and Other Third-Party Service Providers.** We may share your data with third-party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the Sites or Apps, which will enable them to collect data about how you interact with the Sites or Apps over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes.  \
 
-* **Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.   \
+* **Business Transfers.** We may share or transfer your information in connection with or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.   \
 
-* **Affiliates.** We may share your information with our affiliates, in which case we will require those affiliates to honor this privacy policy. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.      \
+* **Affiliates.** We may share your information with our affiliates, in which case we will require those affiliates to honour this privacy policy. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.      \
 
 * **Business Partners.** We may share your information with our business partners to offer you certain products, services or promotions.   \
 
 * **Other Users.** When you share personal information (for example, by posting comments, contributions or other content to the Sites or Apps) or otherwise interact with public areas of the Sites or Apps, such personal information may be viewed by all users and may be publicly distributed outside the Sites or Apps in perpetuity. If you interact with other users of our Sites or Apps and register through a social network (such as Facebook), your contacts on the social network will see your name, profile photo, and descriptions of your activity. Similarly, other users will be able to view descriptions of your activity, communicate with you within our Sites or Apps, and view your profile.    &#x20;
 
 **4. WHO WILL YOUR INFORMATION BE SHARED WITH?** \
-_**In Short:**_** ** _We only share information with the following third parties._    We only share and disclose your information with the following third parties. We have categorized each party so that you may be easily understand the purpose of our data collection and processing practices. If we have processed your data based on your consent and you wish to revoke your consent, please contact us. &#x20;
+_**In Short:**_** ** _We only share information with the following third parties._    We only share and disclose your information with the following third parties. We have categorized each party so that you may easily understand the purpose of our data collection and processing practices. If we have processed your data based on your consent and you wish to revoke your consent, please contact us. &#x20;
 
 * **Advertising, Direct Marketing, and Lead Generation**\
   Google AdSense
@@ -278,13 +282,13 @@ _**In Short:**_** ** _We only share information with the following third parties
 * **Social Media Sharing and Advertising**\
   Facebook advertising, Facebook social plugins and LinkedIn advertising
 * **User Account Registration and Authentication**\
-  Facebook Login, Google Sign-In and GitHub OAuth
+  Facebook Login, Google Sign-In and GitHub OAuth, Linkedin Sign-In
 * **User Commenting and Forums**\
   Facebook Comments
 * **Web and Mobile Analytics**\
   Google Analytics
 * **Website Hosting**\
-  Github and IBMcloudservices
+  GitHub, IBM Cloud Services, Amazon Web Services, Google Cloud Platform
 * **Website Performance Monitoring**\
   Cloudflare
 
@@ -305,29 +309,29 @@ By using our Maps API Implementation, you agree to be bound by Google’s Terms 
 
 ■  Geolocation
 
-For a full list of what we use information for, please see the previous section titled "HOW DO WE USE YOUR INFORMATION?" and “WILL YOUR INFORMATION BE SHARED WITH ANYONE?” You agree to allow us to obtain or cache your location. You may revoke your consent at anytime. We use information about location in conjunction with data from other data providers. &#x20;
+For a full list of what we use the information for, please see the previous section titled "HOW DO WE USE YOUR INFORMATION?" and “WILL YOUR INFORMATION BE SHARED WITH ANYONE?” You agree to allow us to obtain or cache your location. You may revoke your consent at any time. We use information about location in conjunction with data from other data providers. &#x20;
 
-The Maps APIs that we use store and access cookies and other information on your devices. If you are a user currently in the European Union, please take a look at our EU User Consent Policy.
+The Maps APIs that we use to store and access cookies and other information on your devices. If you are a user currently in the European Union, please take a look at our EU User Consent Policy.
 
 **7. HOW DO WE HANDLE YOUR SOCIAL LOGINS?**&#x20;
 
 _**In Short:** If you choose to register or log in to our websites using a social media account, we may have access to certain information about you._ &#x20;
 
-Our Sites or Apps offer you the ability to register and login using your third party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile Information we receive may vary depending on the social media provider concerned, but will often include your name, e-mail address, friends list, profile picture as well as other information you choose to make public. If you login using Facebook, we may also request access to other permissions related to your account, such as friends, check-ins, and likes, and you may choose to grant or deny us access to each individual permission.  &#x20;
+Our Sites or Apps offer you the ability to register and log in using your third-party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile Information we receive may vary depending on the social media provider concerned, but will often include your name, e-mail address, friends list, profile picture as well as other information you choose to make public. If you log in using Facebook, we may also request access to other permissions related to your account, such as friends, check-ins, and likes, and you may choose to grant or deny us access to each individual permission.  &#x20;
 
-We will use the information we receive only for the purposes that are described in this privacy policy or that are otherwise made clear to you on the Sites or Apps. Please note that we do not control, and are not responsible for, other uses of your personal information by your third party social media provider. We recommend that you review their privacy policy to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps. &#x20;
+We will use the information we receive only for the purposes that are described in this privacy policy or that are otherwise made clear to you on the Sites or Apps. Please note that we do not control, and are not responsible for, other uses of your personal information by your third-party social media provider. We recommend that you review their privacy policy to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps. &#x20;
 
 **8. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?**&#x20;
 
 _**In Short:** We may transfer, store, and process your information in countries other than your own._ &#x20;
 
-Our servers are located in Germany, Singapore, United States, and India. If you are accessing our Sites or Apps from outside Germany, Singapore, United States, and India, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see "WILL YOUR INFORMATION BE SHARED WITH ANYONE?" above), in India, Denmark, Germany, United Kingdom, United States, and other countries.&#x20;
+Our servers are located in Germany, Singapore, the United States of America, and India. If you are accessing our Sites or Apps from outside Germany, Singapore, the United States of America, and India, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see "WILL YOUR INFORMATION BE SHARED WITH ANYONE?" above), in India, Denmark, Germany, United Kingdom, United States, and other countries.&#x20;
 
-If you are a resident in the European Economic Area, then these countries may not have data protection or other laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy policy and applicable law.&#x20;
+If you are a resident of the European Economic Area, then these countries may not have data protection or other laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy policy and applicable law.&#x20;
 
 EU-U.S. Privacy Shield Framework: &#x20;
 
-In particular Muellner Europe complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States and has certified its compliance with it. As such, Muellner Europe is committed to subjecting all personal information received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).&#x20;
+In particular, Muellner Europe complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States and has certified its compliance with it. As such, Muellner Europe is committed to subjecting all personal information received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).&#x20;
 
 Muellner Europe is responsible for the processing of personal information it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.&#x20;
 
@@ -335,9 +339,9 @@ With respect to personal information received or transferred pursuant to the Pri
 
 **9. HOW LONG DO WE KEEP YOUR INFORMATION?**&#x20;
 
-_**In Short:** We keep your information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law._ &#x20;
+_**In Short:** We keep your information for as long as necessary to fulfil the purposes outlined in this privacy policy unless otherwise required by law._ &#x20;
 
-We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your personal information for longer than 1 year past the termination of the user's account.
+We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us to keep your personal information for longer than 1 year past the termination of the user's account.
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
@@ -345,13 +349,13 @@ When we have no ongoing legitimate business need to process your personal inform
 
 _**In Short:** We aim to protect your personal information through a system of organisational and technical security measures._&#x20;
 
-We have implemented appropriate technical and organisational security measures designed to protect the security of any personal information we process. However, please also remember that we cannot guarantee that the internet itself is 100% secure. Although we will do our best to protect your personal information, transmission of personal information to and from our Sites or Apps is at your own risk. You should only access the services within a secure environment.&#x20;
+We have implemented appropriate technical and organisational security measures designed to protect the security of any personal information we process. However, please also remember that we cannot guarantee that the internet itself is 100% secure. Although we will do our best to protect your personal information, the transmission of personal information to and from our Sites or Apps is at your own risk. You should only access the services within a secure environment.&#x20;
 
 **11. DO WE COLLECT INFORMATION FROM MINORS?**
 
 _**In Short:** We do not knowingly collect data from or market to children under 18 years of age._
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the Sites or Apps, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Sites or Apps. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at legal@muellners.org.&#x20;
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Sites or Apps, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Sites or Apps. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under the age of 18, please contact us at legal@muellners.org.&#x20;
 
 **12. WHAT ARE YOUR PRIVACY RIGHTS?**&#x20;
 
@@ -361,13 +365,13 @@ In some regions (like the European Economic Area), you have certain rights under
 
 If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.
 
-If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority.&#x20;
+_**If you are a resident of the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority.**_&#x20;
 
 You can find their contact details here: [http://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.htm)&#x20;
 
-If you are resident in the Republic of India and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority.&#x20;
+_**If you are a resident of the Republic of India and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority.**_&#x20;
 
-Please track the below legislation for understanding your data privacy rights.&#x20;
+Please track the below legislation to understand your data privacy rights.&#x20;
 
 PROPOSED LEGISLATION: THE DIGITAL PERSONAL DATA PROTECTION BILL, 2022, India
 
@@ -384,7 +388,7 @@ If you would at any time like to review or change the information in your accoun
 
 Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.    &#x20;
 
-**Cookies and similar technologies:** Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Sites or Apps. To opt-out of interest-based advertising by advertisers on our Sites or Apps visit [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/).  &#x20;
+**Cookies and similar technologies:** Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Sites or Apps. To opt out of interest-based advertising by advertisers on our Sites or Apps visit [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/).  &#x20;
 
 **Opting out of email marketing:** You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list – however, we will still need to send you service-related emails that are necessary for the administration and use of your account. To otherwise opt-out, you may: &#x20;
 
@@ -415,19 +419,19 @@ We may update this privacy policy from time to time. The updated version will be
 
 **16. HOW CAN YOU CONTACT US ABOUT THIS POLICY?**
 
-If you have questions or comments about this policy, you may contact our Legal Helpdesk,  please raise a ticket at [Open Constitution Help Center](https://openconstitution.atlassian.net/servicedesk/customer/portals). or by post to:  C/o Muellners ApS, Nygade 3, 4.2 København, 1164, Denmark,&#x20;
+If you have questions or comments about this policy, you may contact our Legal Helpdesk, Please raise a ticket at [Open Constitution Help Center](https://openconstitution.atlassian.net/servicedesk/customer/portals). or by post to:  C/o Muellners ApS, Nygade 3, 4.2 København, 1164, Denmark,&#x20;
 
-_If you are a resident in the European Economic Area, the "data controller" of your personal information is Muellners ApS, Denmark, the principal data processor legal entity, affiliated to Muellners Foundation._   &#x20;
+_If you are a resident in the European Economic Area, the "data controller" of your personal information is Muellners ApS, Denmark, the principal data processor legal entity, affiliated with Muellners Foundation._   &#x20;
 
-If you have questions or comments about this policy, you may contact our Legal Helpdesk,  please raise a ticket at [Open Constitution Help Center](https://openconstitution.atlassian.net/servicedesk/customer/portals). or by post to: C/o Muellners ApS, Nygade 3, 4.2 København, 1164, Denmark
+If you have questions or comments about this policy, you may contact our Legal Helpdesk, Please raise a ticket at [Open Constitution Help Center](https://openconstitution.atlassian.net/servicedesk/customer/portals). or by post to: C/o Muellners ApS, Nygade 3, 4.2 København, 1164, Denmark
 
-_If you are a resident in the Republic of India, the "data controller" of your personal information is Muellner Internet Pvt Ltd, India, the principal data processor legal entity, affiliated to Muellners Foundation._   &#x20;
+_If you are a resident of the Republic of India, the "data controller" of your personal information is Muellner Internet Pvt Ltd, India, the principal data processor legal entity, affiliated to Muellners Foundation._   &#x20;
 
 If you have questions or comments about this policy, you may contact our Legal Helpdesk,  please raise a ticket at [Open Constitution Help Center](https://openconstitution.atlassian.net/servicedesk/customer/portals).
 
 **Extended LEGAL IMPRINT:**
 
-*   ©2021:Muellner Internet Pvt Ltd, New Delhi,India, Asia
+*   ©2021:Muellner Internet Pvt Ltd, New Delhi, India, Asia
 
     CIN no-U72900DL2019PTC344870; PAN - AAMCM3873A; TAN - DELM33923B;
 * ©2021:Muellners® (frivilig forening) Foundation, Copenhagen, Denmark, EU CVR nummer- 41008407, P nummer- [1025331717](tel:1025331717);

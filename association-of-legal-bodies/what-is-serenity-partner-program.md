@@ -1,12 +1,12 @@
 ---
 description: >-
   This section lists the Articles of Association for legal bodies on the Open
-  Constitution network.
+  Constitution network, who become E Tenants.
 ---
 
 # 🏅 Org Member: Network Tenancy for legal bodies
 
-**This page explains the "Open Constitution" Network Access for institutions, organisations**(collectively referred to as ''Org Member'' or ''Tenant'' in this literature) **through Network tenancy.**
+**This page explains the "Open Constitution" Network Tenancy Access for institutions, and organisations**(collectively referred to as ''Org Member'' or ''E-Tenant'' in this literature) **through Network tenancy.**
 
 OC Network ecosystem fosters:
 
@@ -53,12 +53,12 @@ Banks, International Financial Institutions, and Multi-lateral development banks
 Not-for-profit companies, voluntary associations, and Co-operatives, across the world get enrolled into the Open Constitution Partner Program. These partners are also eligible to qualify as ["Fiscal Hosts"](broken-reference) for the Foundation.
 
 {% hint style="info" %}
-<mark style="color:purple;">**Eligibility:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">A duly recognised and registered Non-for-profit company with a focus on financial inclusion, social inclusion, and climate protection activities.</mark>
+<mark style="color:purple;">**Eligibility:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">A duly recognised and registered Not-for-profit company with a focus on financial inclusion, social inclusion, and climate protection activities.</mark>
 {% endhint %}
 
 ### [**For Educational Institutions**](academic-bodies.md)
 
-Academic institutions across the world get enrolled into the Open Constitution Partner Program.
+Academic institutions across the world get enrolled in the Open Constitution Partner Program.
 
 {% hint style="info" %}
 <mark style="color:purple;">**Eligibility:**</mark>&#x20;
@@ -75,21 +75,21 @@ _Public Agreement: Case-specific agreements are signed and digitalised for publi
 _Inter government agencies on the planet to advance research and development activities, advocacy of guiding principles of Muellners Foundation._&#x20;
 
 {% hint style="info" %}
-_**Eligibility: An Inter-Government Agency recognised by United Nations such as International Trade Bodies,**_&#x20;
+_**Eligibility: An Inter-Government Agency recognised by the United Nations such as International Trade Bodies,**_&#x20;
 
 \
 _For more information, a Directorial representative or a CEO of an Inter-Government Agency may reach out to the Executive Committee of the Foundation directly; Or_ \
-_write to Foundation's official email info@muellners.org; Or_&#x20;
+_Write to the Foundation's Help Center_ [_here_](https://openconstitution.atlassian.net/servicedesk/customer/portals)_. Or_&#x20;
 
 \
-<mark style="color:green;">**Join the open source community and observe community discussions to discuss Foundation's**</mark> <mark style="color:green;"></mark><mark style="color:green;">Open Constitution</mark> <mark style="color:green;"></mark><mark style="color:green;">**Partner Program in your agency.**</mark>&#x20;
+<mark style="color:green;">**Join the open source community and observe community discussions to discuss the Foundation's**</mark> <mark style="color:green;"></mark><mark style="color:green;">Open Constitution</mark> <mark style="color:green;"></mark><mark style="color:green;">**E Tenancy Program in your agency.**</mark>&#x20;
 {% endhint %}
 
 _Public Agreement: Case-specific agreements are signed and digitalised for public-facing records._&#x20;
 
 ### [For Governments](public-agencies.md)
 
-Governments and government agencies on the planet, in any jurisdiction to advance research and development activities, advocacy of guiding principles of Muellners Foundation and public policy discussions on technology governance.
+Governments and government agencies on the planet, in any jurisdiction, to advance research and development activities, advocacy of guiding principles of Muellners Foundation and public policy discussions on technology governance.
 
 {% hint style="info" %}
 _<mark style="color:purple;">**Eligibility:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">A government of a UN member state which is not sanctioned by any of the United Nations Agencies such as FATF, World Bank or United Nations Security Council, Open Source Program Office of such governments and e-government initiatives.</mark>_
@@ -108,7 +108,7 @@ Digital companies across the world**, are active financial services providers, a
 {% hint style="info" %}
 <mark style="color:red;">**NOTICE:**</mark> <mark style="color:red;"></mark><mark style="color:red;">The Articles of Association are distilled to practices, automation and Artificial Intelligence events on the Open Constitution network.</mark>&#x20;
 
-Read More on How to Activate Org Tenancy in the knowledge base of [<mark style="color:blue;"><mark style="color:red;">**Open Bank here**<mark style="color:red;"></mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/overview)<mark style="color:blue;">**.**</mark>
+Read More on How to Activate Org Tenancy in the knowledge base of [<mark style="color:blue;">**Open Bank here**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/overview)<mark style="color:blue;">**.**</mark>
 
 Also, Read [**Digital Services Credits**](digital-service-credits.md)
 

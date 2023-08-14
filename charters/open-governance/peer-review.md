@@ -4,9 +4,9 @@ description: >-
   guidelines on avoiding self promotion.
 ---
 
-# 🤝 Peer Review Protocol
+# 🤝 Peer Review
 
-## Avoid Self Promotion, advocate ideas not people
+## Avoid Self Promotion, and advocate ideas, not people
 
 > "Self" is described as the persona of a human being, associated with an existential basis of conscious experience of a human being, including but not limited to corporeality and non spatial cognition.
 >
@@ -14,7 +14,7 @@ description: >-
 
 **All forms of conscious experience of a human being shall be privacy protected and therefore at the discretion of each human member whether they share, discuss or publish information on their "Self".**
 
-Read more on Community **Mental Health** ![:sos:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/apple-medium/1f198@2x.png).
+Read more on Community **Mental Health**.
 
 {% hint style="info" %}
 **About Self Promotion:**
@@ -24,12 +24,12 @@ Read more on Community **Mental Health** ![:sos:](https://a.slack-edge.com/produ
 
 _Members have organised themselves for the greater good of humankind, its sustainable future and world peace._&#x20;
 
-It is therefore imperative that members also observe these characteristics, when inviting a new member to the "Invite only"  communities of specific projects or programs of the Open Constitution.
+It is therefore imperative that members also observe these characteristics when inviting a new member to the "Invite only"  communities of specific projects or programs of the Open Constitution.
 
 **About Peer Review:**
 
-Open Constitution initiatives are peer reviewed.
+Open Constitution initiatives are peer-reviewed.
 
-Whenever in doubt regarding a decision making exercise, a peer review shall be the taken as a preferred choice of decision making. \
+Whenever in doubt regarding a decision-making exercise, a peer review shall be taken as a preferred choice of decision-making. \
 \
 **Custodian:** [**Executive Council**](../../foundation/executive-council.md)

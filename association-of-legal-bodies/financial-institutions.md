@@ -14,7 +14,7 @@ description: >-
 
 ## Governing Articles:
 
-1. **ACCESS TO ALL NATURAL PERSONS, AFFILIATED TO ORG MEMBER BODY**
+1. **ACCESS TO ALL NATURAL PERSONS, AFFILIATED WITH ORG MEMBER BODY**
 
 An _ORG Member_ shall have a verified information access corridor to Foundation maintained digital public goods and services infrastructure, for all of the natural persons, who are affiliated to the _Org member, in accordance with the local business laws._
 
@@ -30,7 +30,7 @@ Any such representation shall be duly authorised by the governing body of the _O
 
 Any such representation of a duty-bound nominee shall have received signatory rights on behalf of the ORG _Member_, in full compliance with the local law.&#x20;
 
-Any nomination, appointment, or termination of a representative (on behalf of the _ORG Member)_ shall follow the Articles of Association of natural persons: [Observers Council](../foundation/observers-council.md), and subsequently any appointment shall be ratified in accordance with the Articles of Association of natural persons: [Open Constitution](broken-reference).
+Any nomination, appointment, or termination of a representative (on behalf of the _ORG Member)_ shall follow the Articles of Association of Natural Persons: [Observers Council](../foundation/observers-council.md), and subsequently any appointment shall be ratified in accordance with the Articles of Association of Natural Persons: [Open Constitution](broken-reference).
 
 **2.1 ROLE OF REPRESENTATIVE APPOINTEE(S) IN ORG TENANCY:**
 
@@ -46,9 +46,9 @@ to further participate in conventions with ordinary voluntary members, and other
 
 The representative Appointee discharges their responsibility, within the purview and scope of the Articles of Association of Legal Bodies: Open Constitution, and exercises these rights through the Org Tenancy Account.&#x20;
 
-_Subject to condition of clause 2.1.1,  in managing their ORG Tenancy Account, this article declares that the representative Appointee expresses an explicit Waiver of Indemnification rights, granted to any natural persons appointee on the network, for activities on the network._&#x20;
+_Subject to the condition of clause 2.1.1,  in managing their ORG Tenancy Account, this article declares that the representative Appointee expresses an explicit Waiver of Indemnification rights, granted to any natural persons appointee on the network, for activities on the network._&#x20;
 
-_<mark style="color:purple;">i.e. Representative Appointees are liable to their Org when they login through Org Tenancy Account.</mark>_
+_<mark style="color:purple;">i.e. Representative Appointees are liable to their Org when they log in through Org Tenancy Account.</mark>_
 
 _2.1.4_ It is at the discretion of the Appointee(on behalf of the _Org Member),_ whether an explicit waiver of confidentiality grounds (as mentioned in the Data Security policy of the Foundation), remains, increased or abated in connection to the exchange of any confidential information, and any material thereof between the ORG Member and the Network, in connection with the ORG Member "project".
 
@@ -56,7 +56,7 @@ _<mark style="color:purple;">Maintaining Trust and Appropriate Confidentiality S
 
 **3. OPEN CONVENTION:**
 
-In addition to a representative Appointee's derived rights to change Open Convention; all the natural persons who are affiliated to the _Org Member body, shall have naturalized rights to Foundation E Residency as if they were ordinary voluntary members of the Foundation._
+In addition to a representative Appointee's derived rights to change the Open Convention; all the natural persons who are affiliated to the _Org Member body, shall have naturalized rights to Foundation E Residency as if they were ordinary voluntary members of the Foundation._
 
 **3.1 PROJECT CONVENTION:**&#x20;
 
@@ -75,7 +75,7 @@ When recorded through the member’s presence in the Foundation’s Program meet
 The primary mode of meetings is Electronic Mode of Meeting.
 
 {% hint style="info" %}
-<mark style="color:red;">**Notice:**</mark> Read [Acceptable Usage Policy](../open-source-policies/acceptable-usage-policy.md)
+<mark style="color:red;">**Notice:**</mark> Read the [Acceptable Usage Policy](../open-source-policies/acceptable-usage-policy.md)
 
 Read [Open Source Policy](broken-reference)
 {% endhint %}
@@ -84,7 +84,7 @@ Read [Open Source Policy](broken-reference)
 
 It is at the discretion of the Executive Council or Steering Council to remove an ORG _Member body_ from the Open Constitution Network.
 
-The Governing body of the ORG Member can also dissolve the Org Tenancy, in accordance with local laws and by giving a notice to the Foundation, in accordance with the Open Constitution Network Tenancy Agreement.&#x20;
+The Governing body of the ORG Member can also dissolve the Org Tenancy, in accordance with local laws and by giving notice to the Foundation, in accordance with the Open Constitution Network Tenancy Agreement.&#x20;
 
 The representative Appointee to the Observer's Council shall ensure that the ORG Tenancy Project has been closed, or all the stated Project roadmaps have been closed on the network.
 
@@ -111,12 +111,12 @@ such dispute/difference and/or claim shall be resolved by the arbitration of a s
 
 The appointment of the arbitrator and subsequent constitution of an [Open Tribunal](../foundation/open-tribunal.md) shall be ratified by the Executive Council of the Muellners Foundation.&#x20;
 
-(ii) Reappointment of arbitrator: In the event, an arbitrator so appointed is unable to proceed with the arbitration proceedings for any reason whatsoever, this Observation Council, to which authorized representatives of Tenants may or may not be a member of, shall appoint another single arbitrator in his/her/their place, who shall become entitled to proceed with the arbitration proceeding from the state at which it was left by his predecessor.\
+(ii) Reappointment of arbitrator: In the event, that an arbitrator so appointed is unable to proceed with the arbitration proceedings for any reason whatsoever, this Observation Council, to which authorized representatives of Tenants may or may not be a member of, shall appoint another single arbitrator in his/her/their place, who shall become entitled to proceed with the arbitration proceeding from the state at which it was left by his predecessor.\
 
 
 (iii) Governing Law(s): The arbitration proceeding shall be governed by the provisions of the business laws in a jurisdiction where the Foundation has a Fiscal host and the Tenant is a Tax Resident.
 
-_<mark style="color:purple;">E.g If Org Tenant is in Europe Economic Area, then Danish Arbitration Act 2005 and any statutory amendments thereof, as the network has a Registered Agent or Fiscal Host in EEA</mark>_
+_<mark style="color:purple;">For if Org Tenant is in European Economic Area, then the Danish Arbitration Act 2005 and any statutory amendments thereof, as the network has a Registered Agent or Fiscal Host in EEA</mark>_
 
 (iv) Location: The venue of arbitration shall be the registered office of the network's Registered Agent or Fiscal Host, in the jurisdiction (where the Foundation has a Fiscal host and the Tenant is a Tax Resident)
 
@@ -133,7 +133,7 @@ Judgment upon the award rendered by the arbitrator([Open Tribunal](../foundation
 
 6\. The [Executive Council](../foundation/executive-council.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate the appointment of representative Appointee of _ORG Member_ to the Observer's Council at any time, without notice and without the due electoral process of removal, in the following scenario:
 
-_If the ORG member body is found convicted of criminal, civil and financial crimes, in any court of competent jurisdiction, across the world, where Foundation has an active presence, either through a legal body representation or an affiliate network._
+_If the ORG member body is found convicted of criminal, civil and financial crimes, in any court of competent jurisdiction, across the world, where the Foundation has an active presence, either through a legal body representation or an affiliate network._
 
 <mark style="color:purple;">Read more on the</mark> [<mark style="color:purple;">guiding principles & diversity statement</mark>](../guiding-principles.md) <mark style="color:purple;">of the Foundation here.</mark>&#x20;
 

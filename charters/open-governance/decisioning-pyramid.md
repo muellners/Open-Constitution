@@ -1,7 +1,5 @@
 ---
-description: >-
-  This page explains and lists the design principles of Open Decisioning
-  Pyramids.
+description: This page explains and lists the design principles of Protocol Usage.
 ---
 
 # 🌋 Decisioning Pyramid

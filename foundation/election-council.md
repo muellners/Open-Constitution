@@ -1,16 +1,16 @@
 ---
 description: >-
   This page explains the role and constitution of the Election Council of the
-  Muellners Foundation.
+  Open Constitution Network.
 ---
 
 # 🏨 Election Council
 
 {% hint style="info" %}
-<mark style="color:green;">Election Council is an autonomous body in the Muellners Foundation's global community. It is a standalone and independent Council with its own powers of constitutional governance.</mark>&#x20;
+The <mark style="color:green;">Election Council is an autonomous body in the Open Constitution network's global community. It is a standalone and independent Council with its own powers of constitutional governance.</mark>&#x20;
 {% endhint %}
 
-Election Council of the Foundation is an _independent, autonomous, and self organised_ constitutional body, which is primarily responsible for ensuring fair and transparent General body Elections, and the voting system, maintained using the Serenity project.&#x20;
+The Election Council of the Foundation is an _independent, autonomous, and self-organised_ constitutional body, which is primarily responsible for ensuring fair and transparent General body Elections, and the voting system, maintained using the Serenity project.&#x20;
 
 Election Council is thus responsible for the upkeep and maintenance of Open Ballot.
 

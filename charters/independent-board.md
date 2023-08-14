@@ -6,16 +6,16 @@ description: >-
 
 # 💂 Independent Board
 
-A jurisdiction based Independent Board acts as a **ratification agency** of the Executive Council's Resolutions; community recommendations, appointments to Council, Amendments to Open Constitution, including but not limited to decisions made by the Steering Council members w.r.t community movement.&#x20;
+A jurisdiction-based Independent Board acts as a **ratification agency** of the Executive Council's Resolutions; community recommendations, appointments to Council, and Amendments to Open Constitution, including but not limited to decisions made by the Steering Council members w.r.t community movement.&#x20;
 
 These recommendations are generally made by the Chancellor of the Executive Council to the Independent Boards in periodical public reports.&#x20;
 
 {% hint style="info" %}
-<mark style="color:green;">Independent Board also ratifies the counsel of each of the Council bodies, generally represented by the Executive Council members in the monthly Council meetings, and public reports.</mark>
+<mark style="color:green;">Independent Board also ratifies the counsel of each of the Council bodies, generally represented by the Executive Council members in the monthly Council meetings and public reports.</mark>
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:purple;">Independent Board in each jurisdiction guards the Muellners Foundation Member Data Registry.</mark>&#x20;
+<mark style="color:purple;">An Independent Board in each jurisdiction guards the Muellners Foundation Member Data Registry.</mark>&#x20;
 
 <mark style="color:purple;">Read more about</mark> [<mark style="color:purple;">Steward Group</mark>](../foundation/steward-group.md)<mark style="color:purple;">.</mark>
 {% endhint %}
@@ -32,12 +32,12 @@ Independent Boards are constituted in different jurisdictions:
 
 **What is a Fiscal Host?**
 
-A Fiscal host is a legal representative body, nominated by, and appointed by the Independent Board, Muellners Foundation, EEA on the basis of counsel of [Executive Co<mark style="color:purple;">uncil</mark>](../foundation/executive-council.md) of Open Council.\
+A Fiscal host is a legal representative body, nominated by, and appointed by the Independent Board, Muellners Foundation, EEA based on the counsel of [Executive Co<mark style="color:purple;">uncil</mark>](../foundation/executive-council.md) of the Open Council.\
 \
-Independent Boards constitutionally represent Foundation in local jurisdictions, and support maintenance of the constituent Fiscal body, in compliance with Local Law.
+Independent Boards constitutionally represent the Foundation in local jurisdictions, and support the maintenance of the constituent Fiscal body, in compliance with Local Law.
 
 {% hint style="info" %}
-<mark style="color:purple;">A Fiscal Host informs themselves and responds to what is relevant in local jurisdictions for non for profits or co-operatives.</mark> \ <mark style="color:purple;">There are many elements to local statutory reportings, and compliance, which the Fiscal Hosts fulfills:</mark>
+<mark style="color:purple;">Fiscal Host informs themselves and responds to what is relevant in local jurisdictions for non-profits or co-operatives.</mark> \ <mark style="color:purple;">There are many elements to local statutory reporting, and compliance, which the Fiscal Hosts fulfil:</mark>
 
 \ <mark style="color:purple;">1. Maintaining a local member registry,</mark>\ <mark style="color:purple;">2. Administering public grants,</mark> \ <mark style="color:purple;">3. Hiring of officers of the Foundation in compliance with local labour laws of a UN member state.</mark>
 
@@ -48,7 +48,7 @@ Independent Boards constitutionally represent Foundation in local jurisdictions,
 <mark style="color:purple;">6. Appointment of Independent Data Protection Officers.</mark>
 {% endhint %}
 
-A duly appointed Independent Board of a Fiscal Host, in a jurisdiction, covered by the Foundation, relies on Steward Group(a min number of CWC appointments) for core maintenance of Fiscal representation of the Foundation in a region.&#x20;
+A duly appointed Independent Board of a Fiscal Host, in a jurisdiction, covered by the Foundation, relies on Steward Group(a minimum number of CWC appointments) for core maintenance of Fiscal representation of the Foundation in a region.&#x20;
 
 > **Board Meeting Minutes for appointment of first Fiscal Host in Denmark and its Independent BoD.**
 
@@ -57,9 +57,9 @@ A duly appointed Independent Board of a Fiscal Host, in a jurisdiction, covered 
 {% hint style="info" %}
 [Independent Board](independent-board.md) members review the statutory existence of the Foundation's registered agent or Fiscal Host.
 
-An Independent Board is also required as a principle agency to ensure Foundation remains in compliance with its legal structure.&#x20;
+An Independent Board is also required as a principal agency to ensure the Foundation remains in compliance with its legal structure.&#x20;
 
-Independent Board is a local juridisction based ratification agency for the Foundation's community.
+The Independent Board is a local jurisdiction-based ratification agency for the Foundation's community.
 {% endhint %}
 
 \

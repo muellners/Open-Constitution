@@ -57,7 +57,7 @@ CWC members represent the Foundation's initiatives in industry events and activi
 
 <mark style="color:green;">Appointment is conditional to a quorum, which is achieved with participation of more than half of the specific Committee's members and a majority in favour of the nomination.</mark>&#x20;
 
-<mark style="color:blue;">The</mark> <mark style="color:blue;"></mark><mark style="color:blue;"><mark style="color:green;">Open Council body<mark style="color:green;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">members shall generally schedule an interview and document the interview for the public facing records of all CWC nominations.</mark>
+<mark style="color:blue;">The Open Council body members shall generally schedule an interview and document the interview for the public facing records of all CWC nominations.</mark>
 
 <mark style="color:green;">**Step 3:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Member is officially appointed to Independent CWC by the Executive Council of the Foundation and further ratified by a jurisdiction based</mark> [<mark style="color:green;">Independent Board</mark>](../../charters/independent-board.md)<mark style="color:green;">.</mark>
 {% endhint %}
