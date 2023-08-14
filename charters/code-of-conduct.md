@@ -6,9 +6,11 @@ description: >-
 
 # 🤓 Code of Conduct
 
+The Code of Conduct is a set of guidelines that outline expected behaviour and communication standards for members of the Open Constitution community. It promotes respectful and inclusive interactions among community members and provides guidelines for proper communication in various public forums and channels.
+
 Members of fiscal hosts, volunteers and community members, and members from the Open Constitution partner program contributing to open source research & development, organise themselves on different public forums over the Internet.&#x20;
 
-**Open Constitution recognises the following platforms for open communication and public facing communication records by the community members.**
+**Open Constitution recognises the following platforms for open communication and public-facing communication records by community members.**
 
 {% hint style="info" %}
 HELP TEXT: The code of Conduct applies to several spaces of the Open Constitution Network, Contributions Delivery Subnet, and Digital Public Services Subnet.
@@ -43,7 +45,7 @@ According to the [statutes](broken-reference) of the Muellners Foundation, all m
 A new member may also join the Open Constitution memberspaces using the open public invitation - JOIN COMMUNITY, on the website. The invitation is generally second authenticated by a human member of the community.
 
 {% hint style="info" %}
-<mark style="color:green;">Open Constitution network's voluntary organisation is an invite-only community. Read about different types of members within the Muellners Foundation</mark> [<mark style="color:green;">here</mark>](broken-reference)<mark style="color:green;">.</mark>
+<mark style="color:green;">Open Constitution Network's voluntary organisation is an invite-only community. Read about different types of members within the Muellners Foundation</mark> [<mark style="color:green;">here</mark>](broken-reference)<mark style="color:green;">.</mark>
 {% endhint %}
 
 {% hint style="info" %}
@@ -61,9 +63,6 @@ _Any member appointed to a constitutional body of the Foundation, is an individu
 <mark style="color:green;">A member affiliated with an Open Constitution partner is an independent subscribed member of the Foundation's open-source community.</mark> &#x20;
 {% endhint %}
 
-\
-
-
 {% hint style="info" %}
 **Notice: Amendments to these Guidelines:**
 
@@ -73,7 +72,7 @@ While these are not ultimate, please ensure that you are voluntarily following t
 \
 **How to propose changes?** \
 Upon building a community consensus on the change, any change request to these guidelines is peer-reviewed by another member and added with a finalized language by the Media Council. \
-Clue: In case, a member does not have Foundation email and subsequent gitbook access, they are welcome to join with their personal email(with which they have subscribed to Foundation's membership). \
+Clue: In case, a member does not have Foundation email and subsequent Gitbook access, they are welcome to join with their personal email(with which they have subscribed to Foundation's membership). \
 Members can also request for a Foundation's Google Workspace from the Media Committee members.
 
 Read more on [Open Access](open-access-charter.md) levels.
