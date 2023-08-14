@@ -12,13 +12,13 @@ PART 1: ALL DIGITAL PUBLIC GOODS AND SERVICES INFRASTRUCTURE
 
 All the digital public goods and services infrastructure, maintained by the Muellners Foundation shall be available to General Public, in accordance with the Open Access Charter.
 
-PART 2: SPECIAL ADDITIONS FOR LEGAL BODIES(OPEN CONSTITUTION PARTNER PROGRAM)
+PART 2: SPECIAL ADDITIONS FOR LEGAL BODIES(OPEN CONSTITUTION E-TENANCY PROGRAM)
 
-Dedicated and Managed Services in connection with the digital public goods and services infrastructure, can be availed by the Partners of the Muellners Trust.
+Dedicated and Managed Services in connection with the digital public goods and services infrastructure, can be availed by the E Tenants of the Open Constitution Network.
 
 PART 3: SPECIAL ADDITIONS FOR DIGITAL SERVICES CREDITS
 
-Partners can avail benefits from the co-operative of Muellners Trust, in accordance with the Articles of Association: Legal Bodies: Open Constitution, and community guidelines of the Open Constitution Partner Program.
+E-Tenants can avail benefits from the co-operative of Muellners Trust, in accordance with the [Articles of Association: Legal Bodies: Open Constitution](broken-reference), and network guidelines of the Open Constitution E-Tenancy Program.
 
 {% hint style="info" %}
 Read relevant Open source documentation which brings inherent characteristics to this Acceptable Usage Policy as a consequence of Muellners Foundation abiding by the Terms of the platform(s) mentioned in the below literature:
