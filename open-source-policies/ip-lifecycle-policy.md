@@ -48,7 +48,7 @@ Contributors License Agreement - OC CLA
 \
 (i) all products and processes of patentable inventions, improvements and discoveries, conceived solely by one or more employees, staff or affiliates of the E-Tenant, prior to the effective date of joining the OC Network, by signing the Open Constitution Network E Tenancy Access Agreement.&#x20;
 
-The E-Tenant Intellectual Property will be owned solely by the Partner and will not otherwise be subject to the terms and conditions of the Open Source Policy of the OC Network unless the E-Tenant signs a Voluntary Contributor License Agreement(CLA) in order to contribute the ''E-Tenant Intellectual Property'' to the Foundation's repository of Open Source IP on the OC Network.
+The E-Tenant Intellectual Property will be owned solely by the E-Tenant and will not otherwise be subject to the terms and conditions of the Open Source Policy of the OC Network unless the E-Tenant signs a Voluntary Contributor License Agreement(CLA) in order to contribute the ''E-Tenant Intellectual Property'' to the Foundation's repository of Open Source IP on the OC Network.
 
 ### 1.2 '’Affiliated Beneficiary Intellectual Property’' means:
 
@@ -90,7 +90,7 @@ Contributor represents that their Contribution submissions include complete deta
 
 Or&#x20;
 
-(ii) all products and processes of inventions, improvements and discoveries, whether or not patentable, which are conceived solely by one or more employees, volunteers, ordinary members or Board or Council members of the Foundation, as a consequence of the constitution of a Project or a Program by the Partner Member or one or more of its affiliated beneficiaries on the OC Network,&#x20;
+(ii) all products and processes of inventions, improvements and discoveries, whether or not patentable, which are conceived solely by one or more employees, volunteers, ordinary members or Board or Council members of the Foundation, as a consequence of the constitution of a Project or a Program by the E-Tenant Member or one or more of its affiliated beneficiaries on the OC Network,&#x20;
 
 Or
 
@@ -127,7 +127,7 @@ AND
 which are excluded from the coverage under Articles 2.1 and 3.1&#x20;
 
 \
-“Open Constitution Network Intellectual Property(IP)” is owned and maintained by the Foundation, conditional to a release and reduction to practice into open source and will be subject to the terms and conditions of this Policy, Open Constitution Partner Access Agreement or other Agreement(s) to be entered into between the parties of the OC Network Partner Program, exclusively for the purpose of grant of Intellectual Property rights to the Association, and individual Contributor License Agreement(s) between Foundation and its voluntary members.
+“Open Constitution Network Intellectual Property(IP)” is owned and maintained by the Foundation, conditional to a release and reduction to practice into open source and will be subject to the terms and conditions of this Policy, Open Constitution E Tenancy Agreement or other Agreement(s) to be entered into between the parties of the OC Network E-Tenancy Program, exclusively for the purpose of grant of Intellectual Property rights to the Association, and individual Contributor License Agreement(s) between Foundation and its voluntary members.
 
 ### ARTICLE 4 Intellectual Property Protection:
 
@@ -143,11 +143,11 @@ Open Constitution Network IP will be primarily owned or vested in the Foundation
 
 All Open Constitution Network IP created as part of this agreement will be licensed using an Open Source License.&#x20;
 
-a. Foundation will license all documentation created as part of this project under an appropriate open source license e.g. The Creative Commons Attribution-ShareAlike 4.0 International Public License ([Creative Commons — Attribution-ShareAlike 4.0 International — CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)) or the GNU Free Documentation License version 1.3 ([GNU Free Documentation License v1.3](https://www.gnu.org/licenses/fdl-1.3.en.html)) or the Open Constitution license.
+a. Foundation will license all documentation created as part of this project under an appropriate open source license e.g. The Creative Commons Attribution-ShareAlike 4.0 International Public License ([Creative Commons — Attribution-ShareAlike 4.0 International — CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)) or the GNU Free Documentation License version 1.3 ([GNU Free Documentation License v1.3](https://www.gnu.org/licenses/fdl-1.3.en.html)) or the [Open Constitution license](https://license.openconstitution.us).
 
-b. Foundation will license all software created as part of this project under an appropriate open source license e.g. GNU Free Documentation License version 1.3 ([GNU Free Documentation License v1.3](https://www.gnu.org/licenses/fdl-1.3.en.html)), Apache Licenses, Mozilla Licenses or the Open Constitution license.
+b. Foundation will license all software created as part of this project under an appropriate open source license e.g. GNU Free Documentation License version 1.3 ([GNU Free Documentation License v1.3](https://www.gnu.org/licenses/fdl-1.3.en.html)), Apache Licenses, Mozilla Licenses or the [Open Constitution license](https://license.openconstitution.us).
 
-c. Foundation will license all hardware created as part of this project under the CERN Open Hardware License v1.2 ([Wiki · Projects / CERN Open Hardware Licence · Open Hardware Repository](https://www.ohwr.org/documents/294)) or the Open Constitution license.
+c. Foundation will license all hardware created as part of this project under the CERN Open Hardware License v1.2 ([Wiki · Projects / CERN Open Hardware Licence · Open Hardware Repository](https://www.ohwr.org/documents/294)) or the [Open Constitution license](https://license.openconstitution.us).
 
 d. Any other terms of this Agreement or any exclusive license negotiated under this agreement notwithstanding, Muellners Foundation retains the right to perform research even if such research activities overlap the Project and whether or not such research is supported either by the network tenant or by any third party.
 
