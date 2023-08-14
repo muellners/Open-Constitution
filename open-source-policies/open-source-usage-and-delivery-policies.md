@@ -24,7 +24,7 @@ description: >-
 > If you have any questions or concerns about our Open Source Policy, or our practices, please raise a ticket at [Open Constitution Help Center](https://openconstitution.atlassian.net/servicedesk/customer/portals).
 
 {% hint style="info" %}
-Muellners Foundation and its affiliate companies, subsidiaries and foreign branches including member bodies from the Open Constitution Partner Program, independent data processors, make use of and support an ecosystem of open source technologies to deliver and maintain the digital public goods and services on the Open Constitution network.\
+Muellners Foundation and its affiliate companies, subsidiaries and foreign branches including member bodies from the Open Constitution Network Tenancy Program, independent data processors, make use of and support an ecosystem of open source technologies to deliver and maintain the digital public goods and services on the Open Constitution network.\
 \
 _Some of these services have a direct relationship with Foundation’s open-source initiatives while other services have an indirect dependency on the use of specific open-source projects._\
 _Some services may simply be part of third-party maintained distributions, licensed under one of the open-source licenses. (as indicated in the charter below)_
@@ -82,7 +82,7 @@ Creating and publishing documentation such as research papers, and white papers 
 
 **WORK 3: **_**Derivative Documentation on**_** Foundation-supported FOSS project**_**:**_&#x20;
 
-Creating and publishing baseline documentation on independently engineered components of including but not limited to wiki, support forum documentation, technical architectural diagrams, assist documentation, helpbook etc.
+Creating and publishing baseline documentation on independently engineered components including but not limited to wiki, support forum documentation, technical architectural diagrams, assist documentation, helpbook etc.
 
 ### C. Who are the participants:
 
