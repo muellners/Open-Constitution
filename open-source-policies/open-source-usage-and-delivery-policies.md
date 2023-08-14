@@ -1,14 +1,10 @@
 ---
-description: >-
-  This is the policy for 'Use of Open Source Systems' and 'Delivery of Services'
-  on open source technologies.
+description: This is the Open Source Policy of the network.
 ---
 
 # 🆓 Open Source Policy
 
 **UPDATED 08 Aug 2023**
-
-
 
 > **You, or your** here means
 >
