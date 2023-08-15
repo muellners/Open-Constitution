@@ -31,13 +31,13 @@ _Some services may simply be part of third-party maintained distributions, licen
 _**A1. Supported/Assessed Third party Open Source Projects: (Since 2019)**_\
 _<mark style="color:purple;">Note for editors to this section: Only those projects listed below where the Foundation maintains Dedicated and Managed Services (post-incubation stage)</mark>_
 
-| Third Party Project   |                                                              Governing License and Maintainer                                                              | Governing License for Foundation's Contributions |
-| --------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------: |
-| Apache Fineract       | <p><a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a><br><br><a href="https://www.apache.org">Apache Software Foundation</a></p> |             Open Constitution License            |
-| Mifos X Community App |       <p><a href="https://www.mozilla.org/en-US/MPL/2.0/">Mozilla Public License</a><br><br><a href="https://mifos.org">Mifos Foundation</a><br></p>       |             Open Constitution License            |
-| Wordpress             |                                        GNU GPL v2 or later; [WordPress Foundation](https://wordpressfoundation.org/)                                       |                        N/a                       |
-| WooCommerce           |                                                      GNU GPL v3, [Autommatic](https://automattic.com)                                                      |                        N/a                       |
-| Moodle                |                                                                           GNU GPL                                                                          |                        N/a                       |
+| Third Party Project   |                                                              Governing License and Maintainer                                                              |                         Governing License for Foundation's Contributions                        |
+| --------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
+| Apache Fineract       | <p><a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a><br><br><a href="https://www.apache.org">Apache Software Foundation</a></p> | [Open Constitution License](https://license.openconstitution.us/open-constitution-license-v0.1) |
+| Mifos X Community App |       <p><a href="https://www.mozilla.org/en-US/MPL/2.0/">Mozilla Public License</a><br><br><a href="https://mifos.org">Mifos Foundation</a><br></p>       | [Open Constitution License](https://license.openconstitution.us/open-constitution-license-v0.1) |
+| Wordpress             |                                        GNU GPL v2 or later; [WordPress Foundation](https://wordpressfoundation.org/)                                       |                                               N/a                                               |
+| WooCommerce           |                                                      GNU GPL v3, [Autommatic](https://automattic.com)                                                      |                                               N/a                                               |
+| Moodle                |                                                                           GNU GPL                                                                          |                                               N/a                                               |
 
 _**A2. Foundation maintained open source service/distribution:**                                                                                                      _ &#x20;
 
