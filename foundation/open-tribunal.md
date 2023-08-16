@@ -39,18 +39,18 @@ Open Tribunal of the Foundation is an _independent, autonomous, and self-organis
 
 <mark style="color:green;">Open Tribunal may also serve the Foundation's citizens, resolving commercial disputes through an international arbitration framework.</mark>
 
-<mark style="color:green;">The Tribunal members shall follow the public-facingthatthe Foundation's</mark> [<mark style="color:green;">guiding principles</mark>](../guiding-principles.md) <mark style="color:green;">in resolving disputes.</mark>
+<mark style="color:green;">The Tribunal members shall follow the public-facing Foundation's</mark> [<mark style="color:green;">guiding principles</mark>](../guiding-principles.md) <mark style="color:green;">in resolving disputes.</mark>
 
 
 
-Each case logged on Open Constitution Governance System and accepted by the Open Tribunal is generally accompanied by a public facing Observation Report, upon the closure of the case.
+Each case logged on Open Constitution Governance System and accepted by the Open Tribunal is generally accompanied by a public-facing Observation Report, upon the closure of the case.
 
 Open Tribunal focuses on both **local and International laws on commerce, financial crimes, business & trade laws.**
 {% endhint %}
 
 {% hint style="info" %}
 _<mark style="color:red;">**Public Notice:**</mark>_ \
-_**A. Appeal for hearing:** <mark style="color:green;">All cases which are accepted in the Open Tribunal framework must be appealed by Foundation's subscribed citizens for a hearing.</mark>_&#x20;
+_**A. Appeal for hearing:** <mark style="color:green;">All cases that are accepted in the Open Tribunal framework must be appealed by the network's subscribed citizens for a hearing.</mark>_&#x20;
 
 _The hearing generally takes place via electronic means, well within the_ [_Code of Conduct_](../charters/code-of-conduct.md) _and articles & covenants of this Open Constitution._&#x20;
 
@@ -71,9 +71,9 @@ _In clearer terms, if citizen disputes are linked to a non Foundation project i.
 
 _3. <mark style="color:green;">Case processing fees should also be collected for alternate dispute resolution b/w two or more Open Constitution Partner Program participants over a subject of a commercial nature. Case Processing Fees are equally borne by the sparring participant entities.</mark>_
 
-_<mark style="color:purple;">Depending on whether a fee is applicable, case processing fee is to be deposited in the public-facing that Foundation's Fiscal Accounts immediately, before acceptance of the case by the Open Tribunal.</mark>_
+_<mark style="color:purple;">Depending on whether a fee is applicable, the case processing fee is to be deposited in the public-facing that Foundation's Fiscal Accounts immediately, before acceptance of the case by the Open Tribunal.</mark>_
 
-**D. Case Processing Time:** Open Tribunal conducts a hearing where all disputing parties are heard.&#x20;
+**D. Case Processing Time:** The Open Tribunal conducts a hearing where all disputing parties are heard.&#x20;
 
 <mark style="color:green;">There is no fixed processing time</mark>, however, once an Open Tribunal is constituted and a case is logged on the _Open Constitution_ registry, hearings should commence within 30 days. &#x20;
 
