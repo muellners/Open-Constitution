@@ -6,7 +6,7 @@ description: >-
 
 # ⚖ Open Tribunal
 
-
+The purpose of the Open Tribunal is to resolve disputes and claims between members of the Foundation, as well as between different constitutional bodies of the Open Council and independent participants of the Open Constitution Network Tenancy Program. It ensures fair and transparent execution of the Open Constitution and acts as an alternative dispute resolution mechanism for the Foundation's global citizens. The Open Tribunal also focuses on international arbitration and follows the Foundation's guiding principles in resolving disputes.
 
 {% hint style="info" %}
 <mark style="color:green;">The Open Tribunal is an autonomous body in the Muellners Foundation's global community. It is a standalone and independent Council with its powers of constitutional governance.</mark>&#x20;
