@@ -15,9 +15,7 @@ This AI runs based on self-governance principles, Open Trust protocols, laid dow
 “The network is a publicly accessible, spatial representation of Intellectual Property Estate of network participants i.e. natural persons, legal persons and electronic persons.”\
 
 
-> IMPRINT: Muellners Foundation (hereby Foundation): CVR 41008407&#x20;
 >
-> A voluntary association, to regulate the release of the Open Constitution network (2019-2023), in the form of computing-based deployments, accessible through the Internet
 
 <mark style="color:purple;">Articles of the Open Constitution are amendable.;</mark>
 

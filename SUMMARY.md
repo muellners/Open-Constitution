@@ -115,9 +115,7 @@
 ## Fiscal Hosts
 
 * [📚 Fiscal Hosts](fiscal-hosts/fiscal-hosts.md)
-* [🇪🇺 European Economic Area](fiscal-hosts/european-economic-area.md)
-* [🇮🇳 Republic of India](fiscal-hosts/republic-of-india.md)
-* [🇺🇬 Republic of Uganda](fiscal-hosts/republic-of-uganda.md)
+* [📚 Legal Impressum](fiscal-hosts/legal-impressum.md)
 
 ## Outreach
 
