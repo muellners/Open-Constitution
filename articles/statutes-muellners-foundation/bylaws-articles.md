@@ -47,6 +47,8 @@ The Foundation shall therefore have such registered offices and registered agent
 
 **European Union and Europe Economic Area: Copenhagen, Denmark:** The address of the initial registered office in the Copenhagen Capital Region and the name of the initial registered agent as the first Fiscal Host: Muellners Foundation CVR 41008407, at such address, as set forth in the public documents, in accordance with the Danish Business law, also listed at https://www.virk.dk.
 
+The address of the registered office in the Copenhagen Capital Region and the name of the registered agent as the second Fiscal Host: Open Constitution S/I CVR 43714775, at such address, as set forth in the public documents, in accordance with the Danish Business law, also listed at https://www.virk.dk.
+
 _Foundation may, from time to time, designate a different address as its registered office or a different person as its registered agent, or both; provided, however, that such designation shall become effective. upon the filing of a statement of such change, as is required by Denmark's Business law._
 
 ## ARTICLE III CONVENTIONS
