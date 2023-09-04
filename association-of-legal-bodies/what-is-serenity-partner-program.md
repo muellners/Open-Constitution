@@ -58,7 +58,7 @@ Not-for-profit companies, voluntary associations, and Co-operatives, across the 
 
 ### [**For Educational Institutions**](academic-bodies.md)
 
-Academic institutions across the world get enrolled in the Open Constitution Partner Program.
+Academic institutions across the world get enrolled in the Open Constitution Network Tenancy Program.
 
 {% hint style="info" %}
 <mark style="color:purple;">**Eligibility:**</mark>&#x20;
@@ -72,7 +72,7 @@ _Public Agreement: Case-specific agreements are signed and digitalised for publi
 
 ### [For Inter-Government Agencies](public-agencies.md)
 
-_Inter government agencies on the planet to advance research and development activities, advocacy of guiding principles of Muellners Foundation._&#x20;
+_Inter government agencies on the planet to advance research and development activities, advocacy of guiding principles of the Open Constitution Network._&#x20;
 
 {% hint style="info" %}
 _**Eligibility: An Inter-Government Agency recognised by the United Nations such as International Trade Bodies,**_&#x20;
@@ -89,7 +89,7 @@ _Public Agreement: Case-specific agreements are signed and digitalised for publi
 
 ### [For Governments](public-agencies.md)
 
-Governments and government agencies on the planet, in any jurisdiction, to advance research and development activities, advocacy of guiding principles of Muellners Foundation and public policy discussions on technology governance.
+Governments and government agencies on the planet, in any jurisdiction, to advance research and development activities, advocacy of guiding principles of the _Open Constitution Network_ and public policy discussions on technology governance.
 
 {% hint style="info" %}
 _<mark style="color:purple;">**Eligibility:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">A government of a UN member state which is not sanctioned by any of the United Nations Agencies such as FATF, World Bank or United Nations Security Council, Open Source Program Office of such governments and e-government initiatives.</mark>_
