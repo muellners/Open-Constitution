@@ -4,7 +4,7 @@ description: Whistleblower policy on the Open Constitution network
 
 # 🏳 Whistleblower Policy
 
-The network’s first Fiscal host [Muellners Foundation](https://muellners.org/) has implemented a whistleblower reporting mechanism that enables people to anonymously inform the Open Council of possible breaches of the Foundation’s Code of Conduct about human activity, concerning the projects and programs on the [Open Constitution network](https://open-bank.net/). The Foundation’s Open Tribunal may impose sanctions for breaches, including a reprimand or a demand that a grant be repaid.
+The network’s Fiscal host Open Constitution S/I has implemented a whistleblower reporting mechanism that enables people to anonymously inform the Open Council of possible breaches of the Foundation’s Code of Conduct about human activity, concerning the projects and programs on the [Open Constitution network](https://open-bank.net/). The Foundation’s Open Tribunal may impose sanctions for breaches, including a reprimand or a demand that a grant be repaid.
 
 The purpose of the whistleblower policy and scheme is to promote transparency and increase accountability for the behaviour of the Foundation and its collaborators.
 
@@ -57,11 +57,11 @@ All data is transmitted and stored encrypted. No unencrypted information is sent
 **Anonymity**\
 The system does not log IP addresses and machine IDs and does not use cookies.\
 \
-If a report is made from a computer on the organisation’s network, there is a risk that the visited web pages will be logged in the browser’s history and/or the organisation’s log. This risk can be eliminated by submitting the report from a computer which is not connected to the organisation’s network.
+If a report is made from a computer on the organisation’s network, there is a risk that the visited web pages will be logged in the browser’s history and/or the organisation’s log. This risk can be eliminated by submitting the report from a computer that is not connected to the organisation’s network.
 
 If you upload documents, you should be aware that the documents can contain metadata which can compromise your identity. Therefore, you should ensure that any identifying metadata is removed from a document before it is uploaded.\
 \
-It is optional to make either an anonymous report or a report containing personal data. If a reporter chooses not to remain anonymous, the reporter’s identity will be known to the persons that handle the case. In this case, the reporter risks being called as a witness in any lawsuit, and the reporter’s anonymity thus can be lost.\
+It is optional to make either an anonymous report or a report containing personal data. If a reporter chooses not to remain anonymous, the reporter’s identity will be known to the persons who handle the case. In this case, the reporter risks being called as a witness in any lawsuit, and the reporter’s anonymity thus can be lost.\
 \
 Be aware that if you choose to give further information when submitting the report from which you can directly or indirectly be identified, the organization will also process this information when handling the case. This also applies if you have chosen to remain anonymous.
 
