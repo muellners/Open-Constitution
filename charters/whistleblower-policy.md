@@ -4,7 +4,7 @@ description: Whistleblower policy on the Open Constitution network
 
 # 🏳 Whistleblower Policy
 
-The [Muellners Foundation](https://muellners.org/) has implemented a whistleblower reporting mechanism that enables people to anonymously inform the Open Council of possible breaches of the Foundation’s Code of Conduct about human activity, concerning the projects and programs on the [Open Constitution network](https://open-bank.net/). The Foundation’s Open Tribunal may impose sanctions for breaches, including a reprimand or a demand that a grant be repaid.
+The network’s first Fiscal host [Muellners Foundation](https://muellners.org/) has implemented a whistleblower reporting mechanism that enables people to anonymously inform the Open Council of possible breaches of the Foundation’s Code of Conduct about human activity, concerning the projects and programs on the [Open Constitution network](https://open-bank.net/). The Foundation’s Open Tribunal may impose sanctions for breaches, including a reprimand or a demand that a grant be repaid.
 
 The purpose of the whistleblower policy and scheme is to promote transparency and increase accountability for the behaviour of the Foundation and its collaborators.
 

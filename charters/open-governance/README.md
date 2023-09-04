@@ -6,7 +6,7 @@ description: >-
 
 # 📔 Governance Protocols
 
-Open Constitution is a self-governing human-machine governance protocol using a decentralised and autonomous governance model.
+Open Constitution network is a self-governing human-machine governance protocol using a decentralised and autonomous governance model.
 
 Open Constitution uses a collection of distributed, flexible, compatible and censorship-resistant open-source tools and technology.&#x20;
 

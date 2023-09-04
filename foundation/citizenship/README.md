@@ -1,7 +1,7 @@
 ---
 description: >-
   This page explains the different citizenship status of members of the global
-  co-operative of Open Constitution.
+  co-operative of Open Constitution network.
 ---
 
 # 🤝 Citizenship

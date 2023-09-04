@@ -6,7 +6,7 @@ description: >-
 
 # 📔 Public Agencies
 
-<mark style="color:red;">**Notice:**</mark> Muellners Foundation invites groups of people: public agencies, such as Government and Inter government agencies, Ministries, Financial Supervisory Authorities, regulatory bodies, Police Administration, Civic Agencies, Municipal bodies, Water and Sanitation Agencies, who are active Identity services providers, regulated within the local law and to be empanelled on the Open Constitution Network Tenancy.
+<mark style="color:red;">**Notice:**</mark> The Foundation invites groups of people: public agencies, such as Government and Inter government agencies, Ministries, Financial Supervisory Authorities, regulatory bodies, Police Administration, Civic Agencies, Municipal bodies, Water and Sanitation Agencies, who are active Identity services providers, regulated within the local law and to be empanelled on the Open Constitution Network Tenancy.
 
 
 
@@ -38,13 +38,13 @@ Any nomination, appointment, or termination of a representative (on behalf of th
 
 **2.1 ROLE OF REPRESENTATIVE APPOINTEE(S) IN ORG TENANCY:**
 
-2.1.1 At least one(1) representative Appointee shall be appointed, and who shall have the powers to represent and legally bind the participation of the _ORG Member_ in availing the benefits of open source development lifecycle(s) and intelligence on the Open Constitution network, maintained by Muellners Foundation.&#x20;
+2.1.1 At least one(1) representative Appointee shall be appointed, and who shall have the powers to represent and legally bind the participation of the _ORG Member_ in availing the benefits of open source development lifecycle(s) and intelligence on the Open Constitution network, maintained by the Foundation.&#x20;
 
 2.1.2 A representative Appointee shall have the powers to propose Open Governance motions in creating, defining and publishing an ORG member "project"; and&#x20;
 
 reduce to practice an ORG Member project, into open source, on the OC Network; and&#x20;
 
-to further participate in conventions with ordinary voluntary members, and other Org Tenants or E Residents on the OC Network, who may voluntarily contribute ''Work'' into the _ORG Member "project", either directly or indirectly through the attribution of OC Network's License_.
+to further participate in conventions with ordinary voluntary members, and other Org Tenants or E Residents on the OC Network, who may voluntarily contribute ''Work'' into the _ORG Member "project", either directly or indirectly through the attribution of Open Constitution Network License_.
 
 2.1.3 In matter(s) concerning any Network Project Tenancy or any communications and publishing, release proceeding(s) thereof shall take place in accordance with the active Charters of the Open Constitution in a fiscal year.&#x20;
 
@@ -72,7 +72,7 @@ The primary mode of meetings are Electronic Mode of Meeting.
 
 **3.2 PROGRAM CONVENTION:**
 
-The Representative Appointee(s) to Observer's Council shall participate in the Program CWC on an ongoing basis, or meet with any other members of the Foundation, who have an Open Grant or an employment award assigned to them, in connection with the Open Source Development Program:
+The Representative Appointee(s) to Observer's Council shall participate in the Program CWC on an ongoing basis, or meet with any other members of the Foundation, who have an Open Grant or an employment award assigned to them, in connection with the Open Constitution Network Tenancy Program:
 
 When recorded through the member’s presence in the Foundation’s Program meetings.
 

@@ -6,7 +6,7 @@ description: >-
 
 # 🧘♀ Digital Service Credits
 
-Digital Services Credits are issued to verified legal bodies of the Open Constitution Network Tenancy, with which each ORG Member body can avail dedicated and Managed services of the co-operative of Muellners Foundation or the Open Constitution network hosted by the Foundation.
+Digital Services Credits are issued to verified legal bodies of the Open Constitution Network Tenancy, with which each ORG Member body can avail dedicated and Managed services of the co-operative of the Foundation or the Open Constitution network hosted by the Foundation.
 
 {% hint style="info" %}
 **Digital Services Credits:**
@@ -25,8 +25,8 @@ _<mark style="color:purple;">ORG Tenancy level access to talent, and open source
 
 Digital Services Credits(hereby credits)
 
-1. Credits give premium benefits of Open Source Development and dedicated Managed Services for Research and Development on open source product lifecycle(s).
-2. Credits give premium benefits of Level 2, and Level 3 support on open-source product lifecycle(s). (Incubated or verified Open Source products only)
+1. Credits give premium benefits of Open Constitution Network Tenancy Program and dedicated Managed Services for Research and Development on open source product lifecycle(s).
+2. Credits give premium benefits of Level 2, and Level 3 support on open-source product lifecycle(s). (Incubated or verified Open Source projects on the network only)
 
 _Incubation:_
 

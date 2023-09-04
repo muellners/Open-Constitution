@@ -1,7 +1,7 @@
 ---
 description: >-
-  This page explains the Open Access Levels to collective sentience, based on
-  this Open Constitution
+  This page explains the Open Access Levels to collective knowledge hosted on
+  the Open constitution network.
 ---
 
 # 🚪 Open Access Charter
