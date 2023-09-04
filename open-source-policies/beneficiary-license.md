@@ -12,7 +12,7 @@ The current network status of these services is [here](https://status.muellners.
 
 The Open Constitution Network is a knowledge collective and the current network diagram is [here](../oc-network/network-diagram.md).
 
-
+_<mark style="color:purple;">The license below extends authenticated and authorized tokenized access to the beneficiary and sets up data integrity principles for usage and derived work, including redistribution rights to the Open Constitution network intelligence.</mark>_
 
 {% hint style="info" %}
 A public copy of the Open Constitution License v1 can be availed [here](https://license.openconstitution.us).
