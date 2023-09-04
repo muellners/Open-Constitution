@@ -148,7 +148,7 @@ _The Foundation is a non-religious organisation and therefore promotes a healthy
 {% hint style="info" %}
 <mark style="color:red;">The Foundation strongly condemns any form of violence, be it by a human, a group of humans, a nation or a public authority.</mark>&#x20;
 
-<mark style="color:red;">The Foundation</mark> <mark style="color:red;"></mark><mark style="color:red;">strictly condemns any form of terrorism on this planet.</mark>&#x20;
+<mark style="color:red;">The Foundation strictly condemns any form of terrorism on this planet.</mark>&#x20;
 
 <mark style="color:red;">The Foundation promotes reforms in global regulatory frameworks for financial systems and inter-governmental agencies (e.g.</mark> [<mark style="color:red;">Interpol</mark>](https://www.interpol.int/en)<mark style="color:red;">, Financial Action Task Forces, UN Security Council) which work against Terrorism Financing.</mark>
 {% endhint %}
@@ -224,11 +224,11 @@ Network bases its research and development work on the Convention on Biological 
 {% hint style="info" %}
 **Open Source Intellectual Property and Global Data Economy**
 
-<mark style="color:purple;">We promote open-sourcing of any research & development for the greater good of human society. We promote open-sourcing technology in all sectors.</mark>&#x20;
+<mark style="color:purple;">Network promotes open-source research & development for the greater good of human society. Network promotes open-sourcing technology in all sectors.</mark>&#x20;
 
-\ <mark style="color:purple;">For the welfare of human society, Muellners Foundation members support relinquishing business models in global markets which are locked in closed-source technologies.</mark> &#x20;
+\ <mark style="color:purple;">For the welfare of human society, network supports relinquishing business models in global markets which are locked in closed-source technologies.</mark> &#x20;
 
-<mark style="color:purple;">The foundation encourages the industry to non-aggress and non-assert patents and reinvents their business models in the fast-emerging global data economy.</mark>
+<mark style="color:purple;">The Foundation encourages the industry to non-aggress and non-assert patents and reinvents their business models in the fast-emerging global data economy.</mark>
 
 
 {% endhint %}
@@ -238,13 +238,15 @@ Network bases its research and development work on the Convention on Biological 
 
 <mark style="color:blue;">We support decentralised Artificial Intelligence on planet Earth.</mark>
 
-<mark style="color:green;">**Decentralised Technology Governance:**</mark> <mark style="color:green;"></mark><mark style="color:green;">Human society is diverse, and distributed, yet closer together. Foundation members support decentralised technology governance to augment human intelligence.</mark>
+<mark style="color:green;">**Decentralised Technology Governance:**</mark>&#x20;
+
+<mark style="color:green;">Foundation supports decentralised technology governance to augment human intelligence.</mark>
 {% endhint %}
 
 ## XI. Advanced Intelligence&#x20;
 
 {% hint style="info" %}
-<mark style="color:purple;">**Space Exploration:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Members support and advocate space research and development for humankind’s welfare and scientific pursuit and to augment the lives of differently-abled humans.</mark>
+<mark style="color:purple;">**Space Exploration:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Network supports and advocates space research and development for humankind’s welfare and scientific pursuit and to augment the lives of differently-abled humans.</mark>
 
 
 
@@ -254,15 +256,17 @@ Network bases its research and development work on the Convention on Biological 
 
 
 
-<mark style="color:purple;">**Human Consciousness:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Open Constitution members support active research and development on human consciousness for humankind’s welfare and scientific pursuit and to augment the lives of differently-abled humans.</mark>
+<mark style="color:purple;">**Human Consciousness:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">The Foundation supports active research and development on human consciousness for humankind’s welfare and scientific pursuit and to augment the lives of differently-abled humans.</mark>
 
-<mark style="color:purple;">**Neurological Sciences:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Open Constitution members support active research and development on human neurology for humankind’s welfare, and scientific pursuit and to augment the lives of differently-abled humans.</mark>
+<mark style="color:purple;">**Neurological Sciences:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">The Foundation supports active research and development on human neurology for humankind’s welfare, and scientific pursuit and to augment the lives of differently-abled humans.</mark>
 
-<mark style="color:purple;">**Robotics:**</mark>  <mark style="color:purple;"></mark><mark style="color:purple;">Open Constitution is designed to be a machine-human intelligence union. Members support robotics technology for humankind’s welfare and scientific pursuit and to augment the lives of differently-abled humans.</mark>
+<mark style="color:purple;">**Robotics:**</mark>  <mark style="color:purple;"></mark><mark style="color:purple;">Open Constitution AI is designed to be a machine-human intelligence network.</mark>&#x20;
 
-<mark style="color:purple;">**Nuclear Non-Proliferations:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">The Open Constitution supports denuclearization and asserts mapping nuclear energy research and development with the scientific pursuit of human consciousness.</mark> &#x20;
+<mark style="color:purple;">The Network supports robotics technology for humankind’s welfare and scientific pursuit and to augment the lives of differently-abled humans.</mark>
 
-<mark style="color:purple;">Open Constitution supports safety standards and interstellar research on nuclear energy.</mark>
+<mark style="color:purple;">**Nuclear Non-Proliferations:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">The Foundation supports denuclearization and asserts mapping nuclear energy research and development with the scientific pursuit of human consciousness.</mark> &#x20;
+
+<mark style="color:purple;">The network supports safety standards and interstellar research on nuclear energy.</mark>
 
 
 {% endhint %}
@@ -270,7 +274,7 @@ Network bases its research and development work on the Convention on Biological 
 ## **XII. Public Interest Disclosures:**
 
 {% hint style="info" %}
-<mark style="color:purple;">**Unidentified Aerial Phenomenon:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Members support and advocate for continuous Public Interest Disclosures of records and documentation of unidentified aerial phenomena.</mark>
+<mark style="color:purple;">**Unidentified Aerial Phenomenon:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">The network supports and advocates for continuous Public Interest Disclosures of records and documentation of unidentified aerial phenomena.</mark>
 {% endhint %}
 
 Read more on what [citizenship](foundation/citizenship/) means.
