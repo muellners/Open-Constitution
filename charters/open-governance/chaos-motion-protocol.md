@@ -1,7 +1,7 @@
 ---
 description: >-
-  This page describes the design principles of Open Constitution's Deterministic
-  Chaos Motion community consensus protocol.
+  This page describes the design principles of Open Constitution Network's
+  Deterministic Chaos Motion community consensus protocol.
 ---
 
 # 🎆 Chaos Motion
