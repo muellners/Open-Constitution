@@ -2,7 +2,7 @@
 description: This page describes a high level illustration of the OC Network.
 ---
 
-# Network Diagram
+# 🎆 Network Diagram
 
 {% file src="../.gitbook/assets/OCnetworkDiagram.pdf" %}
 Network Diagram

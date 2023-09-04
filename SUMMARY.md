@@ -111,6 +111,7 @@
 * [🆓 Open Source Policy](open-source-policies/open-source-usage-and-delivery-policies.md)
 * [📟 Acceptable Usage Policy](open-source-policies/acceptable-usage-policy.md)
 * [🦓 IP Lifecycle Policy](open-source-policies/ip-lifecycle-policy.md)
+* [🖇 Beneficiary License](open-source-policies/beneficiary-license.md)
 
 ## Fiscal Hosts
 
@@ -123,4 +124,4 @@
 
 ## OC Network
 
-* [Network Diagram](oc-network/network-diagram.md)
+* [🎆 Network Diagram](oc-network/network-diagram.md)

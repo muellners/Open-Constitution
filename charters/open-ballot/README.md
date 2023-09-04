@@ -1,7 +1,7 @@
 ---
 description: >-
-  This page explains the universal franchise doctrine of the Muellners
-  Foundation community.
+  This page explains the universal franchise doctrine of the Open Constitution
+  network community.
 ---
 
 # 🗳 Open Ballot
@@ -20,20 +20,20 @@ The way the members get to have their say is entirely vested in our universal su
 <mark style="color:purple;">b. Open Ballot is the voting system, adopted in the Open Constitution Network.</mark>\
 \
 \
-<mark style="color:red;">Note: Open Ballot is presently maintained with community proposals and Council resolutions on the Open Decision forums of the Foundation.</mark>\ <mark style="color:red;">All Vote based decisions must be logged on the Foundation's public ledger.</mark>\
+<mark style="color:red;">Note: Open Ballot is presently maintained with community proposals and Council resolutions on the Open Decision forums of the Foundation.</mark>\ <mark style="color:red;">All Vote-based decisions must be logged on the Foundation's public ledger.</mark>\
 \
-<mark style="color:green;">Members are also building consensus in the community for the open ballot in Open Convention.</mark> \ <mark style="color:green;">Specific type of votes are generally moderated by the either the Election Council or Executive or Steering Council members on whether the captured decisions have achieved a qualifying quorum, as per this Open Constitution.</mark>
+<mark style="color:green;">Members are also building consensus in the community for the open ballot in the Open Convention.</mark> \ <mark style="color:green;">Specific types of votes are generally moderated by either the Election Council or Executive or Steering Council members on whether the captured decisions have achieved a qualifying quorum, as per this Open Constitution.</mark>
 {% endhint %}
 
 **All members of the Foundation, including individual members affiliated with the Open Constitution Network Tenancy Program can participate in the Open ballot, freely, voluntarily and in confidence.**
 
 1. Each community member has a single registered vote to decide on an issue, listed on the Open Ballot (read electoral system) of the Foundation. &#x20;
-2. Quorum on a vote is always achieved when atleast half of the members, organised according to the Ballot distributions below, participate in the vote.
+2. Quorum on a vote is always achieved when at least half of the members, organised according to the Ballot distributions below, participate in the vote.
 
 {% hint style="info" %}
 _<mark style="color:purple;">**How do we manage the Vote using a digital token?**</mark>_
 
-_<mark style="color:purple;">Each vote is assigned a unique yet indivisible token on an Internet based public ledger.</mark>_&#x20;
+_<mark style="color:purple;">Each vote is assigned a unique yet indivisible token on an Internet-based public ledger.</mark>_&#x20;
 
 _<mark style="color:purple;">Token distribution and supply are variable and directly linked to votes.</mark>_ \
 _<mark style="color:purple;">Votes are currently pegged at the Global Population of the planet Earth, (excluding human population below the age of 18).</mark>_&#x20;
@@ -65,15 +65,15 @@ Voting participants are all the Open Council committee members and its CWCs. Pro
 {% endtab %}
 
 {% tab title="CWC" %}
-Voting participants are each [Project CWC](../../foundation/core-working-committee/project-cwcs.md) members or each [Independent CWC](../../foundation/core-working-committee/independent-cwcs.md) members.
+Voting participants are each [Project CWC](../../foundation/core-working-committee/project-cwcs.md) member or each [Independent CWC](../../foundation/core-working-committee/independent-cwcs.md) member.
 {% endtab %}
 
 {% tab title="Open Tribunal" %}
-Arbitration proceedings between two or more Serenity partners and between two or more disputing members. Voting participants are Legal, Observation, Advisory and Ethics Committee members.
+Arbitration proceedings between two or more Network E-Tenants and between two or more disputing members. Voting participants are Legal, Observation, Advisory and Ethics Committee members.
 {% endtab %}
 
 {% tab title="Open Council" %}
-Council proceedings on the induction of members to different Councils, and induction of affiliate organisations and case studies in the Serenity Partner Program.&#x20;
+Council proceedings on the induction of members to different Councils, and induction of affiliate organisations and case studies in the Open Constitution Network Tenancy Program.&#x20;
 
 Voting participants are all Open Council members.
 {% endtab %}
