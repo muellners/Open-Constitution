@@ -1,7 +1,7 @@
 ---
 description: >-
-  This page explains the role and constitution of Executive Council, appointed
-  by a Council Vote of the Open Council.
+  This page explains the role and constitution of the Executive Council,
+  appointed by a Council Vote of the Open Council.
 ---
 
 # 🕵♀ Executive Council
@@ -56,7 +56,7 @@ The elected members of the Executive Committee shall then resolve to appoint a *
 A general guideline is to appoint a Chancellor with the highest number of votes received in the election.&#x20;
 
 {% hint style="info" %}
-**About Chancellor of Muellners Foundation:**
+**About Chancellor of Open Constitution network:**
 
 a. A Chancellor is responsible for the direction of the Foundation's open-source initiatives.&#x20;
 

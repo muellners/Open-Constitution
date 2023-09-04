@@ -1,7 +1,7 @@
 ---
 description: >-
   This page explains the role and constitution of the Ambassador Council of the
-  Muellners Foundation.
+  Open Constitution network.
 ---
 
 # 🏳 Ambassador Council
@@ -9,14 +9,14 @@ description: >-
 {% hint style="info" %}
 
 
-<mark style="color:green;">the Ambassador Council is an autonomous body in the Muellners Foundation's global community. It is a standalone and independent Council with its powers of constitutional governance.</mark> \
+<mark style="color:green;">the Ambassador Council is an autonomous body in the network's global community. It is a standalone and independent Council with its powers of constitutional governance.</mark> \
 
 
-<mark style="color:green;">💁Open Council focuses on Foundation's governance and the Ambassador Council promotes the Foundation's philosophy and values in the general public.</mark>
+<mark style="color:green;">💁Open Council focuses on the Foundation's governance and the Ambassador Council promotes the Foundation's philosophy and values to the general public.</mark>
 
 
 
-<mark style="color:green;">**Ambassador Council has two bodies:**</mark> \ <mark style="color:green;">**a. Youth Wing**</mark>
+<mark style="color:green;">**The Ambassador Council has two bodies:**</mark> \ <mark style="color:green;">**a. Youth Wing**</mark>
 
 <mark style="color:green;">**b. General Wing**</mark>
 
@@ -84,7 +84,7 @@ The Independent Board reserves the right to reject or accept the meeting minutes
 
 **Open Constitution Governance Framework:**&#x20;
 
-4\. Muellners Foundation runs itself with a decentralized governance system. The Ambassador Council works with the Open Council members concerning the Foundation's initiatives and projects.&#x20;
+4\. The Open Constitution network runs itself with a decentralized governance system. The Ambassador Council works with the Open Council members concerning the Foundation's initiatives and projects.&#x20;
 
 The [Executive Co](executive-council.md)uncil ratifies the Ambassador Council’s Resolutions.
 
@@ -94,7 +94,9 @@ The [Independent Board](../charters/independent-board.md) then ensures ratificat
 
 5\. Appointment to this Ambassador Council is pro bono and voluntary. Appointments are generally made for an election period of at least 1 year and almost 3 years.&#x20;
 
-**Appointment, Nomination, Removal and Resignation:** almost**Appointment:**&#x20;
+**Appointment, Nomination, Removal and Resignation:**&#x20;
+
+**Appointment:**&#x20;
 
 6.1 The following members can officially nominate a new or existing member of the Foundation to the Ambassador Council:&#x20;
 
@@ -106,7 +108,7 @@ The [Independent Board](../charters/independent-board.md) then ensures ratificat
 
 non-OpenSelf-nomination by an existing non-Open Council member of the Foundation, for his/her/their appointment to the Ambassador Council is not acceptable. [Please read more](../charters/open-governance/peer-review.md).\
 \
-6.3 Once the nomination is accepted by the Nominee, Nominee or the member nominating the nominee, shall file supporting documentation such as the nominee's literature, publications, and demonstration of social activities on the Foundation's Membership Registry.&#x20;
+6.3 Once the nomination is accepted by the Nominee, the Nominee or the member nominating the nominee, shall file supporting documentation such as the nominee's literature, publications, and demonstration of social activities on the Foundation's Membership Registry.&#x20;
 
 A Council Resolution <mark style="color:green;">**"Vote IN"**</mark> is then scheduled on the Ambassador Council's mailing list.
 
@@ -118,7 +120,7 @@ A Council Resolution <mark style="color:green;">**"Vote IN"**</mark> is then sch
 <mark style="color:green;">**b.**</mark> <mark style="color:green;"></mark><mark style="color:green;">A decision is received in favour of the Council Resolution - "Vote IN", when the majority of all the participating members of the Ambassador Council, vote "+1".</mark>\
 \ <mark style="color:green;">E.g.: Let's say there are 21 Ambassador Council members.</mark>&#x20;
 
-<mark style="color:green;">At least 11 members shall participate in the Council Resolution for the "Vote IN" to achieve a the quorum. This is the qualifying state for the Council Resolution to be logged on the Open Constitution public ledger.</mark>\ <mark style="color:green;">For the appointment to be electorally approved, the "Vote IN" should receive at least half of the total votes(required for quorum), in favour of this Council Resolution.</mark>\
+<mark style="color:green;">At least 11 members shall participate in the Council Resolution for the "Vote IN" to achieve a quorum. This is the qualifying state for the Council Resolution to be logged on the Open Constitution public ledger.</mark>\ <mark style="color:green;">For the appointment to be electorally approved, the "Vote IN" should receive at least half of the total votes(required for quorum), in favour of this Council Resolution.</mark>\
 \
 _<mark style="color:green;">So, in this example, six (+1) votes of the participating 11 Ambassador Council members will do the job.</mark>_<mark style="color:green;">😒</mark> &#x20;
 {% endhint %}
@@ -146,7 +148,7 @@ _<mark style="color:red;">So, in this example, six (+1) votes of the participati
 
 A strong reason for violation of Muellners Foundation’s governing policies and directives must be provided by member(s) initiating the resolution, to support the Ambassador Council resolution “Vote OUT”.&#x20;
 
-7.3 **Community Referendum:** Final removal of a member from the Ambassador Council is subject to a community referendum on the passed Council resolution <mark style="color:red;">“Vote OUT”</mark>, stated in 7.1 & 7.2 above.&#x20;
+7.3 **Community Referendum:** The final removal of a member from the Ambassador Council is subject to a community referendum on the passed Council resolution <mark style="color:red;">“Vote OUT”</mark>, stated in 7.1 & 7.2 above.&#x20;
 
 {% hint style="info" %}
 <mark style="color:purple;">Community Referendum is generally accessible by all members of the Muellners Foundation - both Open Council, Election Council, CWC members, Ambassador Council and non-Council citizens.</mark>&#x20;

@@ -16,14 +16,14 @@ description: >-
 <mark style="color:purple;">**All "Local Citizens", registered with the Global registry and Beneficiary registry, acquire a "beneficiary membership" status on the Open Constitution network.**</mark>\
 
 
-<mark style="color:green;">**Beneficiary**</mark> <mark style="color:green;"></mark><mark style="color:green;">members are strictly covered by Foundation's data protection regime, regardless of whether a data protection law is active in the context of Local Law.</mark>
+<mark style="color:green;">**Beneficiary**</mark> <mark style="color:green;"></mark><mark style="color:green;">members are strictly covered by the Foundation's data protection regime, regardless of whether a data protection law is active in the context of Local Law.</mark>
 
 <mark style="color:green;">All Local Citizens are therefore beneficiary citizens of the Foundation.</mark> \
 \
 Note: Beneficiary citizens are also termed as _**Principal Citizens,** in this open constitution._
 {% endhint %}
 
-> #### _**`All ordinary or subscribed members can join Foundation's constitutional bodies through the Open Constitution's electoral process.`**_&#x20;
+> #### _**`All ordinary or subscribed members can join Foundation's constitutional bodies through the Open Constitution network's electoral process.`**_&#x20;
 >
 > ####
 >

@@ -19,7 +19,7 @@ Open Council members come from diverse fields and sectors and are elected to the
 
 <mark style="color:green;">The Foundation's organisation structure is designed to be lateral, and the Council exists to maintain;</mark>
 
-1. <mark style="color:green;">Self Governance of Foundation's collective sentience.</mark>
+1. <mark style="color:green;">Self Governance of network's collective knowledge.</mark>
 2. <mark style="color:green;">Protection, enforcement and restitution of rights of the Foundation's community.</mark>
 3. <mark style="color:green;">Council Resolutions and ratifications of community proposals on the Foundation's global activities.</mark>
 
@@ -60,7 +60,7 @@ There are fundamentally two types of CWCs - \
 
 A nomination is generally initiated by existing members of the Council. Any Open Council member can nominate any other member of the Foundation's community.&#x20;
 
-Members can also nominate any person from outside the Muellners Foundation's ecosystem, as long as the [Open Access](../../charters/open-access-charter.md) guidelines of this Open Constitution have been followed.
+Members can also nominate any person from outside the network's ecosystem, as long as the [Open Access](../../charters/open-access-charter.md) guidelines of this Open Constitution have been followed.
 
 _Self-nomination is unfortunately not acceptable_.  \
 \

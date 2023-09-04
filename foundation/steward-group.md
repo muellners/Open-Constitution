@@ -1,7 +1,8 @@
 ---
 description: >-
-  This page explains the role and constitution of Steward Group in Muellners
-  Foundation, appointed by the Executive Committee of the Foundation's Council.
+  This page explains the role and constitution of Steward Groups in the Open
+  Constitution network, appointed by the Executive Committee of the Foundation's
+  Council.
 ---
 
 # 👩💻 Steward Group

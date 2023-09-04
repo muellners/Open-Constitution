@@ -10,16 +10,16 @@ description: >-
 **This Council works on data security regulations, concerning communications policies.**
 
 {% hint style="info" %}
-<mark style="color:purple;">Data Security Council members are generally individuals of industry-wide reputation, having had persistent success in contributing to humankind, with a major sustainable impact.</mark> \ <mark style="color:purple;">They can be successful members of civil rights society, corporate lawyers, M\&A lawyers, holding an office of an institution which shapes data security policies of jurisdiction on this planet such as bureaucrats working with governmental data protection agencies, Data Security Program Directors of intergovernmental agencies.</mark>
+<mark style="color:purple;">Data Security Council members are generally individuals of industry-wide reputation, having had persistent success in contributing to humankind, with a major sustainable impact.</mark> \ <mark style="color:purple;">They can be successful members of civil rights society, corporate lawyers, M\&A lawyers, and holding an office of an institution that shapes data security policies of jurisdiction on this planet such as bureaucrats working with governmental data protection agencies and data Security Program Directors of intergovernmental agencies.</mark>
 
 <mark style="color:purple;">Members of this Council may also be industry professionals with a background in Banking, financial services insurance and other global value chain constituents.</mark>
 {% endhint %}
 
-The members of the Data Security Council have voluntarily chosen to actively contribute to the Muellners Foundation's agenda.
+The members of the Data Security Council have voluntarily chosen to actively contribute to the Foundation's agenda.
 
 These members publish opinion articles on the Foundation's data protection research and self-governance, contribute directly using participation in presenting the Foundation's agenda in their industry network, and build strategic relationships with governmental and inter-governmental data protection agencies.
 
-The members appointed to Data Security Council generally stay on this committee for a fixed period.
+The members appointed to the Data Security Council generally stay on this committee for a fixed period.
 
 The members of the Data Security Council may nominate and appoint several Steward Groups, linked to the Fiscal Hosts of the Muellners Foundation as their fiduciary duty. Read more on the [Steward group here](steward-group.md).
 
@@ -45,7 +45,7 @@ The members of the Data Security Council shall also participate in the constitut
 <mark style="color:green;">Data Security</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Council members build strategic relationships on behalf of the Foundation's community, representing its citizen's data privacy rights in Economic Forums, Regulatory bodies and other industry networks, which may be outside the purview of the Foundation's ongoing programs.</mark>_
 {% endhint %}
 
-3\. Data Security Council can convene an electronic meeting, inviting all the Open Council members or all the Foundation's members, to conduct an independent documented review of the Foundation’s initiatives.&#x20;
+3\. The Data Security Council can convene an electronic meeting, inviting all the Open Council members or all the Foundation's members, to conduct an independent documented review of the Foundation’s initiatives.&#x20;
 
 The meeting minutes from any convened “Data Security Council meeting” shall be released to the Executive Council within 14 days of the meeting.&#x20;
 
@@ -119,7 +119,7 @@ _<mark style="color:red;">So, in this example, six (+1) votes of the participati
 
 A strong reason for violation of Muellners Foundation’s governing policies and directives must be provided by member(s) initiating the resolution, to support the Council resolution “Vote OUT”.&#x20;
 
-7.3 **Community Referendum:** Final removal of a member from the Data Security Council is subject to a community referendum on the passed Council resolution <mark style="color:red;">“Vote OUT”</mark>, stated in 7.1 & 7.2 above.&#x20;
+7.3 **Community Referendum:** The final removal of a member from the Data Security Council is subject to a community referendum on the passed Council resolution <mark style="color:red;">“Vote OUT”</mark>, stated in 7.1 & 7.2 above.&#x20;
 
 {% hint style="info" %}
 <mark style="color:purple;">Community Referendum is generally accessible by all members of the Muellners Foundation - both Council, its CWC members and non-Council members.</mark>&#x20;

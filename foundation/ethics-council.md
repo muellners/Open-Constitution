@@ -6,10 +6,10 @@ description: >-
 
 # ☮ Ethics Council
 
-**The role of the Ethics Council is to advise, observe and steer the human values upon which the Muellners Foundation rests.**
+**The role of the Ethics Council is to advise, observe and steer the human values upon which the Open Constitution network or the  Foundation rests.**
 
 {% hint style="info" %}
-<mark style="color:purple;">Members of the Ethics Council of the Open Council of Muellners Foundation are senior lawmakers, distinguished members of the judiciary from the democratic governments, ambassadors of peace, and leading civil rights activists.</mark>
+<mark style="color:purple;">Members of the Ethics Council of the Open Council of the Foundation are senior lawmakers, distinguished members of the judiciary from the democratic governments, ambassadors of peace, and leading civil rights activists.</mark>
 
 <mark style="color:purple;">They have had persistent success in contributing to humankind, with a major sustainable impact.</mark>
 {% endhint %}
@@ -27,7 +27,7 @@ description: >-
 
 2\. The Ethics Council members may choose to meet the Executive Council or other members through an electronic meeting, in addition to the monthly Council meetings, to contribute to their roles and responsibilities.&#x20;
 
-3\. Ethics Council can convene an electronic meeting, inviting all the Open Council members or all the Foundation's members, to conduct an independent documented review of the Foundation’s initiatives.&#x20;
+3\. The Ethics Council can convene an electronic meeting, inviting all the Open Council members or all the Foundation's members, to conduct an independent documented review of the Foundation’s initiatives.&#x20;
 
 The meeting minutes from any convened “Ethics Council meeting” shall be released to the Executive Council within 14 days of the meeting.&#x20;
 
@@ -35,7 +35,7 @@ The Executive Council reserves the right to reject or accept the meeting minutes
 
 **Open Constitution Governance Framework:**&#x20;
 
-4\. Muellners Foundation runs itself with a decentralized governance model. The Ethics Committee works with the other Council members concerning the Foundation’s ethics, and social values in the Foundation's initiatives and projects.&#x20;
+4\. The Open Constitution network runs itself with a decentralized governance model. The Ethics Committee works with the other Council members concerning the Foundation’s ethics, and social values in the Foundation's initiatives and projects.&#x20;
 
 The [Executive Council](executive-council.md) ratifies the Ethics Council’s Resolutions.&#x20;
 
@@ -101,7 +101,7 @@ _<mark style="color:red;">So, in this example, six (+1) votes of the participati
 
 A strong reason for violation of Muellners Foundation’s governing policies and directives must be provided by member(s) initiating the resolution, to support the Council resolution “Vote OUT”.&#x20;
 
-7.3 **Community Referendum:** Final removal of a member from the Ethics Council is subject to a community referendum on the passed Council resolution <mark style="color:red;">“Vote OUT”</mark>, stated in 7.1 & 7.2 above.&#x20;
+7.3 **Community Referendum:** The final removal of a member from the Ethics Council is subject to a community referendum on the passed Council resolution <mark style="color:red;">“Vote OUT”</mark>, stated in 7.1 & 7.2 above.&#x20;
 
 {% hint style="info" %}
 <mark style="color:purple;">Community Referendum is generally accessible by all members of the Muellners Foundation - both Council, its CWC members and non-Council members.</mark>&#x20;

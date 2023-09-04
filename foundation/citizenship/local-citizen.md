@@ -24,7 +24,7 @@ _Note: Local Citizens are also termed as "**Ordinary members**", in this open co
 | 🇪🇺EEA(European Economic Area)                 | Ordinary voluntary membership  | <p><strong>i</strong>ncluding e-residencies and for residents of member states in European Union<br>Fiscal Host: Open Constitution S/I, Denmark<br></p> |
 | 🇮🇳Republic of India                           | Ordinary voluntary membership  | Fiscal Host: Legal Body Registration Change                                                                                                             |
 | 🇺🇬Republic of Uganda                          | Ordinary voluntary membership  | Fiscal Host: KISA, Uganda                                                                                                                               |
-| 🇺🇳For all the other residents of Planet Earth | Subscribed Membership only     |  Read Sections: A, B                                                                                                                                    |
+| 🇺🇳For all the other residents of Planet Earth | Subscribed Membership only     |                                                                                                                                                         |
 
 {% hint style="info" %}
 <mark style="color:red;">**Public Notice:**</mark>\

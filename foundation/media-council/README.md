@@ -6,7 +6,7 @@ description: >-
 
 # 📡 Media Council
 
-**The role of the Global Media Council is to counsel, observe and steer the Muellners Foundation's community on media outreach of the Foundation's activities.**
+**The role of the Global Media Council is to counsel, observe and steer the Open Constitution network's community on media outreach of the Foundation's activities.**
 
 Media Council members are individuals with recognised contributions and publications on social, humanitarian and technology subjects. They have had persistent success in steering advocacy of sustainable ideas and contributing to humankind.&#x20;
 
@@ -47,7 +47,7 @@ The Executive Committee reserves the right to reject or release the meeting minu
 
 **Open Constitution Governance Framework:**&#x20;
 
-4\. Muellners Foundation runs itself with a decentralised open governance system. Each open governance decision shall be recorded on the Open Constitution ledger.
+4\. The Open Constitution network runs itself with a decentralised open governance system. Each open governance decision shall be recorded on the Open Constitution ledger.
 
 &#x20;Media Council works with all the Open Council bodies concerning the Foundation’s media outreach, spokesmanship of its advocacy and presenting open source projects.&#x20;
 
@@ -87,7 +87,7 @@ A Council Resolution <mark style="color:green;">**"Vote IN"**</mark> is then sch
 <mark style="color:green;">**b.**</mark> <mark style="color:green;"></mark><mark style="color:green;">A decision is received in favour of the Council Resolution - "Vote IN", when the majority of all the participating members of the Open Council, vote "+1".</mark>\
 \ <mark style="color:green;">E.g.: Let's say there are 21 Open Council members.</mark>&#x20;
 
-<mark style="color:green;">at least 11 members shall participate in the Council Resolution for the "Vote IN" to achieve quorum. This is the qualifying state for the Council Resolution to be logged on the Open Constitution public ledger.</mark>\ <mark style="color:green;">For the appointment to be electorally approved, the "Vote IN" should receive at least half of the total votes(required for quorum), in favour of this Council Resolution.</mark>\
+<mark style="color:green;">at least 11 members shall participate in the Council Resolution for the "Vote IN" to achieve a quorum. This is the qualifying state for the Council Resolution to be logged on the Open Constitution public ledger.</mark>\ <mark style="color:green;">For the appointment to be electorally approved, the "Vote IN" should receive at least half of the total votes(required for quorum), in favour of this Council Resolution.</mark>\
 \
 _<mark style="color:green;">So, in this example, six (+1) votes of the participating 11 Council members will do the job.</mark>_<mark style="color:green;">😒</mark> &#x20;
 {% endhint %}
@@ -96,7 +96,7 @@ _<mark style="color:green;">So, in this example, six (+1) votes of the participa
 
 **Removal Proceedings:**&#x20;
 
-7.1 Members of the Executive Council or of the Media Council or of the Advisory Council can only officially propose the removal of a member from the Media Council.
+7.1 Members of the Executive Council or the Media Council or the Advisory Council can only officially propose the removal of a member from the Media Council.
 
 {% hint style="info" %}
 _<mark style="color:purple;">A non-Council member should not initiate a proposal for the removal of a Media Council member.</mark>_&#x20;
@@ -114,7 +114,7 @@ _<mark style="color:purple;">Media Council represents the Muellners Foundation i
 <mark style="color:red;">**Electoral Process for "Vote OUT" is conditional to a quorum.**</mark>\
 \
 <mark style="color:red;">**a.**</mark> <mark style="color:red;"></mark><mark style="color:red;">Quorum is achieved when a minimum of half</mark> <mark style="color:red;">of all the Open Council members participate in the Council Resolution "</mark><mark style="color:red;">**Vote OUT**</mark><mark style="color:red;">".</mark>\
-<mark style="color:red;">**b.**</mark> <mark style="color:red;"></mark><mark style="color:red;">A decision is received in favour of the "</mark><mark style="color:red;">**Vote OUT**</mark><mark style="color:red;">", when E.g.At least the majority of all the participating members of the Open Council, vote "+1".</mark>\
+<mark style="color:red;">**b.**</mark> <mark style="color:red;"></mark><mark style="color:red;">A decision is received in favour of the "</mark><mark style="color:red;">**Vote OUT**</mark><mark style="color:red;">", E.g.At least the majority of all the participating members of the Open Council, vote "+1".</mark>\
 \ <mark style="color:red;">E.g.: Let's say there are 21 Open Council members.</mark>&#x20;
 
 <mark style="color:red;">At least 11 members shall participate in the Council Resolution for "Vote OUT" to achieve a quorum. This is the qualifying state for the Council Resolution to be locked on the Open Constitution public ledger.</mark>\ <mark style="color:red;">For the removal to be electorally approved for the next stage, the</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Vote OUT"**</mark> <mark style="color:red;"></mark><mark style="color:red;">should receive at least half of the total votes(required for quorum), in favour of this Council Resolution.</mark>\
@@ -124,7 +124,7 @@ _<mark style="color:red;">So, in this example, six (+1) votes of the participati
 
 A strong reason for violation of Muellners Foundation’s governing policies and directives must be provided by member(s) initiating the resolution, to support the Council resolution “Vote OUT”.&#x20;
 
-7.3 **Community Referendum:** Final removal of a member from the Media Committee is subject to a community referendum on the passed Council resolution <mark style="color:red;">“Vote OUT”</mark>, stated in 7.1 & 7.2 above.&#x20;
+7.3 **Community Referendum:** The final removal of a member from the Media Committee is subject to a community referendum on the passed Council resolution <mark style="color:red;">“Vote OUT”</mark>, stated in 7.1 & 7.2 above.&#x20;
 
 {% hint style="info" %}
 <mark style="color:purple;">Community Referendum is generally accessible by all members of the Muellners Foundation - both Council, its CWC members and non-Council members.</mark>&#x20;

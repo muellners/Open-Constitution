@@ -1,12 +1,12 @@
 ---
 description: >-
-  This page explains the role and constitution of Treasury Council, appointed by
-  a Council Vote of the Open Council.
+  This page explains the role and constitution of the Treasury Council,
+  appointed by a Council Vote of the Open Council.
 ---
 
 # 🍯 Treasury Council
 
-non-Council**The role of the Treasury Council is to steer the Muellners Foundation's various initiatives with fund appropriations, and governance rules on co-operative owned fund management.**
+**The role of the Treasury Council is to steer the Open Constitution network's various initiatives with fund appropriations, and governance rules on co-operative owned fund management.**
 
 \
 Treasury Council members are generally individuals of industry-wide reputation, having had persistent success in steering and contributing to humankind, with major sustainable impact. They can be successful bankers, investment fund managers, wealth managers, senior financial analysts, scheduled and chartered auditors, accountants, members with background in tax compliance, and public grants.
@@ -40,12 +40,12 @@ Treasury Council contributes to actively steering the Foundation's roadmap and a
 Therefore, a vote of confidence may be scheduled to register the attendance of the Treasury Council members.
 
 {% hint style="info" %}
-**The members of the Treasury Council shall also nominate members to** [**Steward Group**](steward-group.md)**.**
+**The members of the Treasury Council shall also nominate members to the** [**Steward Group**](steward-group.md)**.**
 {% endhint %}
 
 2\. The Treasury Council may convene to meet the Executive Council or other members through an electronic meeting, in addition to the monthly Council meetings, to contribute to their roles and responsibilities.
 
-3\. Treasury Council may convene an electronic meeting, inviting all the Open Council members or all the Foundation's members, to conduct an independent documented review of the Foundation’s project and initiatives.&#x20;
+3\. The Treasury Council may convene an electronic meeting, inviting all the Open Council members or all the Foundation's members, to conduct an independent documented review of the Foundation’s project and initiatives.&#x20;
 
 The meeting minutes from any convened “Treasury Council meeting” shall be released to the Executive Council within 14 days of the meeting.&#x20;
 
@@ -53,13 +53,13 @@ The Executive Council reserves the right to reject or release the meeting minute
 
 **Open Constitution Governance Framework:**&#x20;
 
-4\. Muellners Foundation runs itself with a decentralised open governance system. Each open governance decision shall be recorded on the Open Constitution ledger.
+4\. The Open Constitution network runs itself with a decentralised open governance system. Each open governance decision shall be recorded on the Open Constitution ledger.
 
 Treasury Council works with all the Open Council members concerning the Foundation’s open source projects.
 
 The [Executive Council](executive-council.md) ratifies the Treasury Council’s Resolutions.&#x20;
 
-The [Independent Board](../charters/independent-board.md) then ensures ratification of any amendments to the open constitution, and governance of the Open Bank, based on Executive Council’s public reports.
+The [Independent Board](../charters/independent-board.md) then ensures ratification of any amendments to the open constitution, and governance of the Open Bank, based on the Executive Council’s public reports.
 
 The chair of the Treasury Council may also get elected to an [Open Tribunal](applewebdata://1A42225F-61F8-4746-A38B-9E37E1F74DC6/o/iUCZA8KkVwLfzEQmzt2z/s/-M7ZWDJpXmmuN-OjdQRl/\~/changes/qf7vPuAaGbevpFCeAbez/foundation/open-tribunal), registered on the Open Constitution Governance System for arbitrations between disputing members of the Foundation.
 
@@ -79,9 +79,9 @@ The chair of the Treasury Council may also get elected to an [Open Tribunal](app
 
 6.2 Self-nomination by an existing member of one of the Open Council bodies for his/her/their appointment to the Treasury Council is not acceptable.
 
-non-CouncilSelf-nomination by an existing non Council member of the Foundation, for his/her/their appointment to the Treasury Council, is not acceptable. [Please read more](../charters/open-governance/peer-review.md).\
+Self-nomination by an existing non-Council member of the Foundation, for his/her/their appointment to the Treasury Council, is not acceptable. [Please read more](../charters/open-governance/peer-review.md).\
 \
-6.3 Once the nomination is accepted by the Nominee, Nominee or the member nominating the nominee, shall file supporting information such as the nominee's literature, publications, and the the demonstration of social activities on Foundation's Membership Registry.&#x20;
+6.3 Once the nomination is accepted by the Nominee, the Nominee or the member nominating the nominee, shall file supporting information such as the nominee's literature, publications, and the the demonstration of social activities on the Foundation's Membership Registry.&#x20;
 
 A Council Resolution <mark style="color:green;">**"Vote IN"**</mark> is then scheduled on the Council's mailing list.
 
@@ -93,7 +93,7 @@ A Council Resolution <mark style="color:green;">**"Vote IN"**</mark> is then sch
 <mark style="color:green;">**b.**</mark> <mark style="color:green;"></mark><mark style="color:green;">A decision is received in favour of the Council Resolution - "Vote IN", when the majority of all the participating members of the Open Council, vote "+1".</mark>\
 \ <mark style="color:green;">E.g.: Let's say there are 21 Open Council members.</mark>&#x20;
 
-<mark style="color:green;">At least 11 members shall participate in the Council Resolution for the "Vote IN" to achieve quorum. This is the qualifying state for the Council Resolution to be logged on the Open Constitution public ledger.</mark>\ <mark style="color:green;">For the appointment to be electorally approved, the "Vote IN" should receive at least half of the total votes(required for quorum), in favour of this Council Resolution.</mark>\
+<mark style="color:green;">At least 11 members shall participate in the Council Resolution for the "Vote IN" to achieve a quorum. This is the qualifying state for the Council Resolution to be logged on the Open Constitution public ledger.</mark>\ <mark style="color:green;">For the appointment to be electorally approved, the "Vote IN" should receive at least half of the total votes(required for quorum), in favour of this Council Resolution.</mark>\
 \
 _<mark style="color:green;">So, in this example, six (+1) votes of the participating 11 Council members will do the job.</mark>_<mark style="color:green;">😒</mark> &#x20;
 {% endhint %}
@@ -113,14 +113,14 @@ _<mark style="color:green;">So, in this example, six (+1) votes of the participa
 <mark style="color:red;">**b.**</mark> <mark style="color:red;"></mark><mark style="color:red;">A decision is received in favour of the "</mark><mark style="color:red;">**Vote OUT**</mark><mark style="color:red;">", when the majority of all the participating members of the Open Council, vote "+1".</mark>\
 \ <mark style="color:red;">E.g.: Let's say there are 21 Open Council members.</mark>&#x20;
 
-<mark style="color:red;">At least 11 members shall participate in the Council Resolution for "Vote OUT" to achieve a a quorum. This is the qualifying state for the Council Resolution to be locked on the Open Constitution public ledger.</mark>\ <mark style="color:red;">For the removal to be electorally approved for the next stage, the</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Vote OUT"**</mark> <mark style="color:red;"></mark><mark style="color:red;">should receive at least half of the total votes(required for quorum), in favour of this Council Resolution.</mark>\
+<mark style="color:red;">At least 11 members shall participate in the Council Resolution for "Vote OUT" to achieve a quorum. This is the qualifying state for the Council Resolution to be locked on the Open Constitution public ledger.</mark>\ <mark style="color:red;">For the removal to be electorally approved for the next stage, the</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Vote OUT"**</mark> <mark style="color:red;"></mark><mark style="color:red;">should receive at least half of the total votes(required for quorum), in favour of this Council Resolution.</mark>\
 \
 _<mark style="color:red;">So, in this example, six (+1) votes of the participating 11 Council members will do the job.</mark>_<mark style="color:red;">😒</mark> &#x20;
 {% endhint %}
 
 A strong reason for violation of Muellners Foundation’s governing policies and directives must be provided by member(s) initiating the resolution, to support the Council resolution “Vote OUT”.&#x20;
 
-7.3 **Community Referendum:** Final removal of a member from the Treasury Council is subject to a community referendum on the passed Council resolution <mark style="color:red;">“Vote OUT”</mark>, stated in 7.1 & 7.2 above.&#x20;
+7.3 **Community Referendum:** The final removal of a member from the Treasury Council is subject to a community referendum on the passed Council resolution <mark style="color:red;">“Vote OUT”</mark>, stated in 7.1 & 7.2 above.&#x20;
 
 {% hint style="info" %}
 <mark style="color:purple;">Community Referendum is generally accessible by all members of the Muellners Foundation - both Council, its CWC members and non-Council members.</mark>&#x20;

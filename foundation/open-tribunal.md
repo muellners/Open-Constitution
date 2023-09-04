@@ -9,10 +9,10 @@ description: >-
 The purpose of the Open Tribunal is to resolve disputes and claims between members of the Foundation, as well as between different constitutional bodies of the Open Council and independent participants of the Open Constitution Network Tenancy Program. It ensures fair and transparent execution of the Open Constitution and acts as an alternative dispute resolution mechanism for the Foundation's global citizens. The Open Tribunal also focuses on international arbitration and follows the Foundation's guiding principles in resolving disputes.
 
 {% hint style="info" %}
-<mark style="color:green;">The Open Tribunal is an autonomous body in the Muellners Foundation's global community. It is a standalone and independent Council with its powers of constitutional governance.</mark>&#x20;
+<mark style="color:green;">The Open Tribunal is an autonomous body in the network's global community. It is a standalone and independent Council with its powers of constitutional governance.</mark>&#x20;
 {% endhint %}
 
-Open Tribunal of the Foundation is an _independent, autonomous, and self-organised_ constitutional body, which is primarily responsible for ensuring fair and transparent execution of this Open Constitution.
+The Open Tribunal of the Foundation is an _independent, autonomous, and self-organised_ constitutional body, that is primarily responsible for ensuring the fair and transparent execution of this Open Constitution.
 
 > <mark style="color:purple;">A Tribunal stands as an institution in the Foundation's community with an authority to judge, adjudicate on, or determine claims or disputes</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**between members**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">of the Foundation.</mark>
 >
@@ -43,7 +43,7 @@ Open Tribunal of the Foundation is an _independent, autonomous, and self-organis
 
 
 
-Each case logged on Open Constitution Governance System and accepted by the Open Tribunal is generally accompanied by a public-facing Observation Report, upon the closure of the case.
+Each case logged on the Open Constitution network Governance System and accepted by the Open Tribunal is generally accompanied by a public-facing Observation Report, upon the closure of the case.
 
 Open Tribunal focuses on both **local and International laws on commerce, financial crimes, business & trade laws.**
 {% endhint %}
@@ -64,7 +64,7 @@ It is at the discretion of the Independent Board whether or not to ratify the ac
 
 _**C. Case Processing Fees:**_
 
-1. _<mark style="color:green;">There is</mark> <mark style="color:green;"></mark><mark style="color:green;">**NO case processing fees**</mark> <mark style="color:green;"></mark><mark style="color:green;">for disputes b/w members over the Foundation's governance of projects, public policy affairs and disputes associated with the Foundation's objectives in the financial services industry.</mark>_
+1. _<mark style="color:green;">There are</mark> <mark style="color:green;"></mark><mark style="color:green;">**NO case processing fees**</mark> <mark style="color:green;"></mark><mark style="color:green;">for disputes b/w members over the Foundation's governance of projects, public policy affairs and disputes associated with the Foundation's objectives in the financial services industry.</mark>_
 2. _<mark style="color:green;">Case processing fees should be collected ONLY for alternate dispute resolution b/w its citizens over a subject of a commercial nature, which prima facie may seem to be outside the purview of the Foundation's ongoing activities, objectives and BFSI industry.</mark>_ &#x20;
 
 _In clearer terms, if citizen disputes are linked to a non Foundation project i.e. a commercial activity **NOT** undertaken or controlled by the Foundation, whether in the financial or non-financial services or technology sector, a case processing fee should be collected._
@@ -83,11 +83,11 @@ _<mark style="color:purple;">Depending on whether a fee is applicable, the case 
 
 _<mark style="color:purple;">**E1.**</mark>_ <mark style="color:purple;">**For the Foundation's project,**</mark><mark style="color:purple;">** **</mark>_<mark style="color:purple;">**i.e. a commercial activity undertaken or controlled by the Foundation:**</mark>_
 
-_<mark style="color:purple;">Depending on the applicable business laws of local jurisdictions, relevant to the case, and structural integrity of the associated local as well as international arbitration laws</mark>_<mark style="color:purple;">**,**</mark> <mark style="color:purple;"></mark>_<mark style="color:purple;">Open Tribunal processes a binding resolution.</mark>_
+_<mark style="color:purple;">Depending on the applicable business laws of local jurisdictions, relevant to the case, and structural integrity of the associated local as well as international arbitration laws</mark>_<mark style="color:purple;">**,**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">the</mark> _<mark style="color:purple;">Open Tribunal processes a binding resolution.</mark>_
 
 _<mark style="color:purple;">**E2. For a resolution between the Foundation's Open Constitution Partner Program participants:**</mark>_
 
-_<mark style="color:purple;">Depending on the applicable business laws of local jurisdictions, relevant to the case, and structural integrity of the associated local as well as international arbitration laws</mark>_<mark style="color:purple;">**,**</mark> <mark style="color:purple;"></mark>_<mark style="color:purple;">Open Tribunal processes a binding resolution.</mark>_
+_<mark style="color:purple;">Depending on the applicable business laws of local jurisdictions, relevant to the case, and structural integrity of the associated local as well as international arbitration laws</mark>_<mark style="color:purple;">**,**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">the</mark> _<mark style="color:purple;">Open Tribunal processes a binding resolution.</mark>_
 
 _Note: Currently, the Danish law of arbitration supersedes a local law of arbitration, specifically for disputes between the Open Constitution Partner Program entities._
 
@@ -105,7 +105,7 @@ _<mark style="color:purple;">Depending on the applicable business laws of local 
 
 <mark style="color:green;">Members from the Councils:</mark> [<mark style="color:green;">Advisory</mark>](advisory-council.md) [<mark style="color:green;">Ethics</mark>](ethics-council.md)<mark style="color:green;">,</mark> [<mark style="color:green;">Observation</mark>](observers-council.md)<mark style="color:green;">,</mark> [<mark style="color:green;">Legal</mark>](legal-council/) <mark style="color:green;">and</mark> [<mark style="color:green;">Regulations</mark>](regulations-council/) <mark style="color:green;">Council often constitute an Open Tribunal.</mark>
 
-_<mark style="color:purple;">Members from the Observation Council often constitute an Open Tribunal registered for a dispute between two independent Open Constitution Partner Program participants. Read more on the role of</mark>_ [_<mark style="color:purple;">**Observer Co**</mark>_](observers-council.md#role-of-observer-committee-members-in-open-tribunal-for-arbitrations-between-disputing-participants)_<mark style="color:purple;">**uncil**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">in arbitration proceedings between Open Constitution partner bodies.</mark>_
+_<mark style="color:purple;">Members from the Observation Council often constitute an Open Tribunal registered for a dispute between two independent Open Constitution Partner Program participants. Read more on the role of the</mark>_ [_<mark style="color:purple;">**Observer Co**</mark>_](observers-council.md#role-of-observer-committee-members-in-open-tribunal-for-arbitrations-between-disputing-participants)_<mark style="color:purple;">**uncil**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">in arbitration proceedings between Open Constitution partner bodies.</mark>_
 
 _<mark style="color:green;">Depending on amendment proposals drafted for change to this Open Constitution:</mark>_
 
