@@ -64,9 +64,7 @@ Members can also nominate any person from outside the network's ecosystem, as lo
 
 _Self-nomination is unfortunately not acceptable_.  \
 \
-All appointments to the Open Council (except the Executive Council itself) are ratified by the electorally appointed Chancellor on behalf of the Executive Council.&#x20;
-
-\
+All appointments to the Open Council (except the Executive Council itself) are ratified by the electorally appointed Chancellor on behalf of the Executive Council. \
 The Chancellor of the Open Council shall counsel the Independent Board of a Fiscal Host, of all the Local appointments constituted in each election period, and such appointments shall be recorded on public-facing records of Meeting Minutes.&#x20;
 
 Each body of the Open Council governs itself using this Open Constitution.&#x20;

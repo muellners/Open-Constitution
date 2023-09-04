@@ -6,7 +6,7 @@ description: >-
 
 # 🔦 Regulations Council
 
-**The role of the Regulations Council is to provide counsel to the Muellners Foundation's community on its various initiatives.** \
+**The role of the Regulations Council is to provide counsel to the Open Constitution network's community on its various initiatives.** \
 **This Council works on regulations concerning monetary policies, inter-governmental agencies, governmental agencies and the Foundation's statutory maintenance.**
 
 {% hint style="info" %}
@@ -15,7 +15,7 @@ description: >-
 <mark style="color:purple;">Members of this Council may also be industry professionals with a background in Banking, financial services and insurance.</mark>
 {% endhint %}
 
-The members of the Regulations Council have voluntarily chosen to actively contribute to the Muellners Foundation's agenda.
+The members of the Regulations Council have voluntarily chosen to actively contribute to the Open Constitution's agenda.
 
 These members publish opinion articles on the Foundation's financial technology research and self-governance, contribute directly by mentoring Learn fellowship grantees, participate in presenting the Foundation's agenda in their industry network, and build strategic relationships with governmental and inter-governmental agencies.
 

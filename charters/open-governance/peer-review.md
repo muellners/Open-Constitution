@@ -1,7 +1,7 @@
 ---
 description: >-
-  This page explains Open Constitution's peer to peer decision review and
-  guidelines on avoiding self promotion.
+  This page explains the Open Constitution network's peer-to-peer decision
+  review and guidelines on avoiding self-promotion.
 ---
 
 # 🤝 Peer Review

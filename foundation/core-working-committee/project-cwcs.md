@@ -29,16 +29,16 @@ Steering Council ratifies community proposals from Project CWCs and decides whet
 {% hint style="info" %}
 **Escalation Matrix: "Right to be heard"**\
 \
-Sometimes Steering Council members and CWC chair may have a difference in their opinion, regarding a community proposal.
+Sometimes Steering Council members and the CWC chair may have a difference in their opinion, regarding a community proposal.
 
-In the case, where CWC & Steering Council of the project have a difference in the opinion on a project issue, and the Steering council has rejected the counsel of CWC(within guideline 6), Project CWC can create a "Right to be heard" to the Observation Council.&#x20;
+In the case, where CWC & Steering Council of the project have a difference in opinion on a project issue, and the Steering Council has rejected the counsel of CWC(within guideline 6), Project CWC can create a "Right to be heard" to the Observation Council.&#x20;
 
 The Observation Council members are also humans. They may not have a fitting solution to the issue. In this case, Project CWCs are always free to hold a community referendum on the issue.&#x20;
 {% endhint %}
 
 8\. CWC members represent the Foundation's project in industry events and activities, and open source communities maintained by other organisations.
 
-> <mark style="color:purple;">**Public Notice(OPEN CALL):**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Muellners Foundation is currently inviting members to constitute following Project CWCs:</mark>\ <mark style="color:purple;">1.</mark> [<mark style="color:purple;">**Finscale CWC**</mark>](../steering-council/finscale-cwc.md) <mark style="color:purple;">-  Technical Writers, Developers with financial technology background, fin tech product managers, members with DeFi background.</mark>
+> <mark style="color:purple;">**Public Notice(OPEN CALL):**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">The Foundation is currently inviting members to constitute following Project CWCs:</mark>\ <mark style="color:purple;">1.</mark> [<mark style="color:purple;">**Finscale CWC**</mark>](../steering-council/finscale-cwc.md) <mark style="color:purple;">-  Technical Writers, Developers with financial technology background, fin tech product managers, members with DeFi background.</mark>
 >
 > <mark style="color:purple;">2.</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Open Constitution**</mark>[ <mark style="color:purple;">**CWC**</mark>](../steering-council/serenity-cwc.md) <mark style="color:purple;">- Technical Writers, sociologist and anthropologists, researchers, developers with a financial services and Non for profit background, fin tech product managers, members with DeFi background.</mark>&#x20;
 
@@ -71,7 +71,7 @@ The Observation Council members are also humans. They may not have a fitting sol
 
 
 1. <mark style="color:purple;">Project CWCs membership is a democratically elected position in the Foundation's Open Council.</mark>
-2. <mark style="color:purple;">Project CWC appointment is a voluntary membership and invites an active contribution to the projects:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Finscale**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">or</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Serenity**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Dao.</mark>&#x20;
+2. <mark style="color:purple;">Project CWC appointment is a voluntary membership and invites an active contribution to the projects:</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Finscale**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">or</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Open Constitution**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Dao.</mark>&#x20;
 3. <mark style="color:purple;">The approval of a member's nomination and subsequent appointment is made by the Steering Council and further ratified by the Independent Board.</mark> &#x20;
 4. <mark style="color:purple;">All nominations and appointments are made in good faith.</mark> \ <mark style="color:purple;">CWC appointments are conditional to members registering their information to the Foundation's data registry for records and dilligence purposes.</mark>
 5. <mark style="color:purple;">CWC appointments are made for a period of at least 1 to at most 3 years.</mark>&#x20;

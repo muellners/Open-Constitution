@@ -1,7 +1,7 @@
 ---
 description: >-
-  This page describes the design principles of Open Constitution's Perpetual
-  Motion community consensus protocol.
+  This page describes the design principles of Open Constitution Network's
+  Perpetual Motion community consensus protocol.
 ---
 
 # ⛽ Perpetual Motion

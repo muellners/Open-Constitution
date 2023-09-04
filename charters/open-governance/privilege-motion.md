@@ -1,10 +1,10 @@
 ---
 description: >-
-  This page describes the design principles of Open Constitution's Privilege
-  Motion community consensus protocol.
+  This page describes the design principles of Open Constitution network's
+  Privilege Motion community consensus protocol.
 ---
 
-# 👣 Privilege Motion Protocol
+# 👣 Privilege Motion
 
 Open Constitution community is lateral in design and relies on electoral representations.
 

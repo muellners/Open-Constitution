@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page describes the design principles of Open Constitution's Self
+  This page describes the design principles of Open Constitution Network's Self
   Modulating community consensus protocol.
 ---
 

@@ -6,7 +6,7 @@ description: >-
 
 # 🎵 Introduction
 
-**Open Constitution AI**: An open-source, digital public goods and service system that is designed to operate with elements of autonomy and that, based on machine and/or human-provided data and inputs, infers how to achieve a given set of objectives using machine learning and/or logic- and knowledge-based approaches, and produces system-generated outputs, such as content, predictions, recommendations or decisions, which influences the environment, as per the network’s Articles of Association.
+**Open Constitution AI**: An open-source, digital public goods and service system that is designed to operate with elements of autonomy and that, based on machine and/or human-provided data and inputs, infers how to achieve a given set of objectives using machine learning and/or logic- and knowledge-based approaches, and produces system-generated outputs, such as content, predictions, recommendations or decisions, which influences the environment, as per the network’s [Articles of Association](articles/statutes-muellners-foundation/).
 
 **Open Constitution** AI runs based on self-governance principles and [Open Trust](charters/open-governance/open-trust-protocols.md) protocols, laid down in the network’s [Global Statutes](articles/statutes-muellners-foundation/).
 

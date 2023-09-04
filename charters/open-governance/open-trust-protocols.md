@@ -15,7 +15,7 @@ Staging Protocols and Consensus Protocols. These are further detailed and classi
 
 1. **Staging Protocols**
 
-applied by both machine or a human, and&#x20;
+applied by both electronic persons or natural persons, and&#x20;
 
 generally applied at the staging phases of a community contract.&#x20;
 
@@ -97,7 +97,7 @@ applied to a community contract&#x20;
 
 always applied with at least one state staging protocol and one motion protocol
 
-> PKI Failure Protocol
+> Security Failure Protocol
 >
 > Audit Protocol
 >

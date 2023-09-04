@@ -6,7 +6,7 @@ description: >-
 
 # 🐺 Open Constitution CWC
 
-Open Constitution CWC comprises of an active group of members working with the open source project Open Constitution DaO:
+Open Constitution CWC comprises an active group of members working with the open-source project Open Constitution governance system:
 
 {% hint style="info" %}
 **Members with the following research and development background generally constitute Open Constitution CWC:**&#x20;

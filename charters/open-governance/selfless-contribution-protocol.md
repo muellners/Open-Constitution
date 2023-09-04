@@ -1,10 +1,10 @@
 ---
 description: >-
-  This page describes the design principles of Open Constitution's Selfless
-  contributions community consensus protocol.
+  This page describes the design principles of the Open Constitution network's
+  Selfless Contributions community consensus protocol.
 ---
 
-# 💡 Selfless contribution Protocol
+# 💡 Selfless Contribution
 
 Foundation's community establishes a governance equilibrium with a Selfless contribution protocol.
 

@@ -6,17 +6,17 @@ description: >-
 
 # 🏧 Finscale CWC
 
-Finscale CWC comprises of an active group of members working with the open source project [Finscale](https://finscale.org):
+Finscale CWC comprises an active group of members working with the open-source project [Finscale](https://finscale.org):
 
 {% hint style="info" %}
-**Members with the following research and development background generally constitute Finscale CWC:**&#x20;
+**Help Text: Members with the following research and development background are generally invited to constitute Finscale CWC:**&#x20;
 
 1. Scientific, and analytical, exposure to Financial technology architectures
 2. Open Source community development on financial services platforms.
-3. blockchain based case studies - transactions and ledger interoperability, tokenomics, DAO governance, DAO tools, accounting,&#x20;
-4. API based platform development.
-5. Functional knowhow on core banking and transaction processors.
-6. Functional know how on banking lifecycles.
+3. blockchain-based case studies - transactions and ledger interoperability, tokenomics, DAO governance, DAO tools, accounting,&#x20;
+4. API-based platform development.
+5. Functional know-how on core banking and transaction processors.
+6. Functional know-how on banking lifecycles.
 {% endhint %}
 
 {% hint style="info" %}
@@ -24,11 +24,11 @@ Finscale CWC comprises of an active group of members working with the open sourc
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:green;">Finscale CWC is a</mark> [<mark style="color:green;">Project CWC</mark>](../core-working-committee/project-cwcs.md)<mark style="color:green;">, a group of volunteers from the Foundation's open community who steer Finscale project and manage the project affairs, independently.</mark>&#x20;
+<mark style="color:green;">Finscale CWC is a</mark> [<mark style="color:green;">Project CWC</mark>](../core-working-committee/project-cwcs.md)<mark style="color:green;">, a group of volunteers from the Foundation's open community who steer the Finscale project and manage the project affairs, independently.</mark>&#x20;
 
-<mark style="color:green;">Read on How to Join Finscale CWC</mark> [<mark style="color:green;">here</mark>](../core-working-committee/project-cwcs.md) <mark style="color:green;">and what role a Project CWC plays in Foundation's community.</mark>
+<mark style="color:green;">Read on How to Join Finscale CWC</mark> [<mark style="color:green;">here</mark>](../core-working-committee/project-cwcs.md) <mark style="color:green;">and what role a Project CWC plays in the Foundation's community.</mark>
 
-<mark style="color:green;">Read</mark> [<mark style="color:green;">CWC Nominations Guide</mark>](broken-reference) <mark style="color:green;">for Project CWCs.</mark>\
+<mark style="color:green;">Read the</mark> [<mark style="color:green;">CWC Nominations Guide</mark>](broken-reference) <mark style="color:green;">for Project CWCs.</mark>\
 
 {% endhint %}
 

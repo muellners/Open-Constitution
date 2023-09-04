@@ -8,7 +8,7 @@ description: >-
 
 Foundation's community shall appoint and constitute several Core Working Committees(CWCs), as member bodies within the Foundation's Open Constitution.
 
-These CWCs shall be linked to the different organs of the Foundation, namely different Councils of this global co-operative.
+These CWCs shall be linked to the different organs of the Foundation, namely different Councils of this global cooperative.
 
 CWCs generally comprise subject matter researchers, such as members affiliated with STEM(Science Technology Engineering Mathematics).&#x20;
 
@@ -64,8 +64,6 @@ _<mark style="color:green;">**Self Governance:**</mark>_ <mark style="color:gree
 
 <mark style="color:green;">The CWC chair is the member who leads each</mark> <mark style="color:green;"></mark>_<mark style="color:green;">**Independent CWC**</mark>_<mark style="color:green;">.</mark> \
 \ <mark style="color:green;">All the members of a specific Open Council Committee ratify the proposed constitution of an Independent CWC, affiliated with them.</mark>&#x20;
-
-
 {% endhint %}
 
 Read [**Community Guidelines**](https://docs.muellnersfoundation.info/open-constitution/cwc-nominations-guide) on CWC Nominations**.**

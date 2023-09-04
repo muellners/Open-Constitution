@@ -1,7 +1,7 @@
 ---
 description: >-
-  This page describes the design principles of Open Constitution's "Right to
-  Protest" community consensus protocol.
+  This page describes the design principles of Open Constitution network's
+  "Right to Protest" community consensus protocol.
 ---
 
 # 🙋♀ Protest Right

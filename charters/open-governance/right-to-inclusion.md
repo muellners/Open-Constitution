@@ -1,10 +1,10 @@
 ---
 description: >-
-  This page explains Open Constitution's "Right to Inclusion" community
+  This page explains Open Constitution network's "Right to Inclusion" community
   consensus protocol design.
 ---
 
-# 🗣 Inclusion Protocol
+# 🗣 Inclusion Right
 
 Open Constitution provides grounds for a fundamental _**"Right to Inclusion".**_&#x20;
 

@@ -1,8 +1,8 @@
 ---
 description: >-
-  This page explains the role of Open Bank Core Work Group, presently appointed
-  by either of the Regulations or Executive Committee of the Foundation's Open
-  Council.
+  This page explains the role of the Open Bank Core Work Group, presently
+  appointed by either the Regulations or Executive Committee of the Foundation's
+  Open Council.
 ---
 
 # 📙 Open Bank CWC
