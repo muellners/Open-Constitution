@@ -23,7 +23,7 @@ e.g network of machine: shall mean an inter connected set of computing machines.
 
 <mark style="color:purple;">**III. Sentience:**</mark>&#x20;
 
-<mark style="color:purple;">**For the purposes of articles of association of the**</mark>** **_**natural persons**_** **<mark style="color:purple;">**of the Open Constitution,**</mark>** Sentience in humans is described as** an emergent anthropic information phenomenon of **conservation** of quantum cognition energy, during (an infinitesimally fast) gradient conversion between _Self_ and _Universal_ temporal existential references.&#x20;
+<mark style="color:purple;">**For the purposes of articles of association of the**</mark>** **_**natural persons**_** **<mark style="color:purple;">**of the Open Constitution,**</mark>** Sentience is described as** an emergent anthropic information phenomenon of **conservation** of quantum cognition energy, during (an infinitesimally fast) gradient conversion between _Self_ and _Universal_ temporal existential references.&#x20;
 
 The gradient conversions of quantum cognition energy results in qualias like identity, and other expression of sentience in human beings. There are correlations in sentience between observers. Various scientific convention models between human observers have been developed which attempt to define these complex set of linkages.
 
@@ -155,6 +155,8 @@ _Central Bank:_ means a principal regulatory body of RVC and RVC’s payment sys
 _Readers shall interpret the gender-neutral words at their own liberty but only for representing an anonymous member's gender identity in the context of Open Constitution's citizenship._
 
 _2. All measurements of time - minutes, and years are in the context of timezones on planet Earth._
+
+3. _Sentience is described here for the purpose of an equivalent of sentience in machines on the AI network._
 
 
 {% endhint %}
