@@ -7,7 +7,7 @@ description: >-
 
 # 🔭 Observers Council
 
-**As the name suggests, the role of the Observer Council is to observe the Muellners Foundation's various initiatives and ensure that the Foundation is in compliance with its vision & purpose.**
+**As the name suggests, the role of the Observer Council is to observe the Open Constitution network's various initiatives and ensure that the Foundation is in compliance with its vision & purpose.**
 
 {% hint style="info" %}
 <mark style="color:purple;">Observation Council members are usually individuals of industry-wide reputation.</mark>&#x20;
@@ -39,7 +39,7 @@ Therefore, a vote of confidence may be scheduled to register the attendance of t
 
 2\. The Observation Council members may choose to meet the Executive Council or other members through an electronic meeting, in addition to the monthly Council meetings, to contribute to their roles and responsibilities.&#x20;
 
-3\. Observation Council can convene an electronic meeting, inviting all the Open Council members or all the Foundation's members, to conduct an independent documented audit or review of the Foundation’s projects and initiatives.&#x20;
+3\. The Observation Council can convene an electronic meeting, inviting all the Open Council members or all the Foundation's members, to conduct an independent documented audit or review of the Foundation’s projects and initiatives.&#x20;
 
 The meeting minutes from any convened “Observation Council meeting” shall be released to the Executive Council within 14 days of the meeting.&#x20;
 
@@ -48,7 +48,7 @@ The Executive Council reserves the right to reject or release the meeting minute
 \
 **Open Constitution Governance Framework:**&#x20;
 
-4\. Muellners Foundation runs itself with a decentralised open governance system. Each open governance decision shall be recorded on the Open Constitution ledger.
+4\. The Open Constitution network runs itself with a decentralised open governance system. Each open governance decision shall be recorded on the Open Constitution network ledger.
 
 Observation Council works with all the Open Council members with respect to the Foundation’s projects, spokesmanship of its advocacy and maintaining open source projects, licensing and infrastructure.&#x20;
 
@@ -113,7 +113,7 @@ _<mark style="color:red;">So, in this example, six (+1) votes of the participati
 
 A strong reason for violation of Muellners Foundation’s governing policies and directives must be provided by member(s) initiating the resolution, to support the Council resolution “Vote OUT”.&#x20;
 
-7.3 **Community Referendum:** Final removal of a member from the Observation Council is subject to a community referendum on the passed Council resolution <mark style="color:red;">“Vote OUT”</mark>, stated in 7.1 & 7.2 above.&#x20;
+7.3 **Community Referendum:** The final removal of a member from the Observation Council is subject to a community referendum on the passed Council resolution <mark style="color:red;">“Vote OUT”</mark>, stated in 7.1 & 7.2 above.&#x20;
 
 {% hint style="info" %}
 <mark style="color:purple;">Community Referendum is generally accessible by all members of the Muellners Foundation - both Council, CWC members and non-Council members.</mark>&#x20;
@@ -152,8 +152,9 @@ Read more about the Foundation’s [Code of Conduct](../charters/code-of-conduct
 
 11\. The [statutes](../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here. The Independent Board reserves the right to dissolve the whole Observers Council and initiate the constitution of a new Observers Council.
 
-12\. The Foundation members communicate via cryptographic electronic communications systems and technology tools. \
-In connection with the electronic meetings convened by members of this council, the Foundation’s IT infrastructure shall be used.&#x20;
+12\. The network members communicate via cryptographic electronic communications systems and technology tools.
+
+In connection with the electronic meetings convened by members of this Council, the Foundation’s IT infrastructure shall be used.
 
 If the meeting took place outside the Foundation’s communications infrastructure, then the meeting minutes must be brought back to the notice of the Executive Council.  &#x20;
 
@@ -162,9 +163,9 @@ If the meeting took place outside the Foundation’s communications infrastructu
 {% hint style="info" %}
 (i) Mediation and appointment of arbitrator:&#x20;
 
-Any dispute/difference and/or claim arising out of or in connection with an agreement between the participant organisations of the Open Constitution [Partner Program](broken-reference) shall be resolved amicably between the authorized representatives of the disputing parties, failing which such dispute/difference and/or claim shall be resolved by the arbitration of a sole arbitrator, to be nominated and appointed to an [Open Tribunal](open-tribunal.md), by this Observation Council of the Foundation, to which authorized representatives of participant organisations may or may not be a member of.&#x20;
+Any dispute/difference and/or claim arising out of or in connection with an agreement between the participant organisations of the [Open Constitution Network Tenancy Program](broken-reference) shall be resolved amicably between the authorized representatives of the disputing parties, failing which such dispute/difference and/or claim shall be resolved by the arbitration of a sole arbitrator, to be nominated and appointed to an [Open Tribunal](open-tribunal.md), by this Observation Council of the Foundation, to which authorized representatives of participant organisations may or may not be a member of.&#x20;
 
-The appointment of the arbitrator and subsequent constitution of an [Open Tribunal](open-tribunal.md) shall be ratified by the Independent Board of the Muellners Foundation.&#x20;
+The appointment of the arbitrator and subsequent constitution of an [Open Tribunal](open-tribunal.md) shall be ratified by the relevant Independent Board of the Foundation.&#x20;
 
 (ii) Reappointment of arbitrator: In the event, that an arbitrator so appointed is unable to proceed with the arbitration proceedings for any reason whatsoever, this Observation Council, to which authorized representatives of participant organisations may or may not be a member, shall appoint another single arbitrator in his/her/their place, who shall become entitled to proceed with the arbitration proceeding from the state at which it was left by his predecessor.\
 

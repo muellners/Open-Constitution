@@ -11,7 +11,7 @@ description: >-
 Steering Council members are usually individuals of industry-wide reputation, having had persistent success in steering and contributing to humankind, with major sustainable impact. They can be successful entrepreneurs, social leaders, industry professionals, senior scientists, writers, filmmakers,  musicians and artists.&#x20;
 
 {% hint style="info" %}
-<mark style="color:purple;">The members of the Steering Council have chosen to actively contribute to projects maintained by the Muellners Foundation. The Steering Council further appoints each project's</mark>[ <mark style="color:purple;">**Core Working Committees**</mark>](../core-working-committee/)<mark style="color:purple;">**.**</mark>&#x20;
+<mark style="color:purple;">The members of the Steering Council have chosen to actively contribute to projects maintained by the Foundation. The Steering Council further appoints each project's</mark>[ <mark style="color:purple;">**Core Working Committees**</mark>](../core-working-committee/)<mark style="color:purple;">**.**</mark>&#x20;
 
 
 
@@ -42,7 +42,7 @@ Therefore, a vote of confidence may be scheduled to register the attendance of t
 
 2\. The Steering Council may choose to meet the Executive Council or other members through an electronic meeting, in addition to the monthly Council meetings, to contribute to their roles and responsibilities.
 
-3\. Steering Council can convene an electronic meeting, inviting all the Open Council members or all the Foundation's members, to conduct an independent documented review of the Foundation’s project and initiatives.&#x20;
+3\. The Steering Council can convene an electronic meeting, inviting all the Open Council members or all the Foundation's members, to conduct an independent documented review of the Foundation’s project and initiatives.&#x20;
 
 The meeting minutes from any convened “Steering Council meeting” shall be released to the Open Convention within 14 days of the meeting.&#x20;
 
@@ -50,7 +50,7 @@ The Executive Council reserves the right to reject or release the meeting minute
 
 **Open Constitution Governance Framework:**&#x20;
 
-4\. Muellners Foundation runs itself with a decentralised open governance system. Each open governance decision shall be recorded on the Open Constitution ledger.
+4\. The Open Constitution Network runs itself with a decentralised open governance system. Each open governance decision shall be recorded on the Open Constitution ledger.
 
 Steering Council works with all the Open Council members with respect to the Foundation’s open source 'projects'.&#x20;
 
@@ -121,7 +121,7 @@ _<mark style="color:red;">So, in this example, six (+1) votes of the participati
 
 A strong reason for violation of Muellners Foundation’s governing policies and directives must be provided by member(s) initiating the resolution, to support the Council resolution “Vote OUT”.&#x20;
 
-7.3 **Community Referendum:** Final removal of a member from the Steering Council is subject to a community referendum on the passed Council resolution <mark style="color:red;">“Vote OUT”</mark>, stated in 7.1 & 7.2 above.&#x20;
+7.3 **Community Referendum:** The final removal of a member from the Steering Council is subject to a community referendum on the passed Council resolution <mark style="color:red;">“Vote OUT”</mark>, stated in 7.1 & 7.2 above.&#x20;
 
 {% hint style="info" %}
 <mark style="color:purple;">Open Constitution's Community Referendum is generally accessible by all members of the Muellners Foundation - both Council and its CWC members as well as non-Council members.</mark>&#x20;
@@ -161,8 +161,7 @@ Read more about the Foundation’s [Code of Conduct](../../charters/code-of-cond
 
 Read more on the dissolution of a constitutional body of this Open Constitution.
 
-12\. The Foundation members communicate via cryptographic electronic communications systems, and technology tools licensed with global grants from Google for non-profits, Slack, Github, Gitbook, Atlassian, AWS, Microsoft etc. \
-In connection with the electronic meetings convened by members of this Council, the Foundation’s IT infrastructure shall be used.&#x20;
+12\. The network members communicate via cryptographic electronic communications systems, and technology tools licensed to them, in connection with the electronic meetings convened by members of this Council, the Foundation’s IT infrastructure shall be used.&#x20;
 
 If the meeting took place outside the Foundation’s communications infrastructure, then the meeting minutes must be brought back to the notice of the Executive Council. &#x20;
 

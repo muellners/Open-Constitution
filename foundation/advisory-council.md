@@ -6,7 +6,7 @@ description: >-
 
 # 🙋 Advisory Council
 
-**The role of the Advisory Council is to advise the Foundation to achieve its goals.**
+**The role of the Advisory Council is to advise the Open Constitution network to achieve its goals.**
 
 {% hint style="info" %}
 <mark style="color:purple;">Advisory Council members are usually individuals of industry-wide reputation, having had persistent success in steering and contributing to humankind, with major sustainable impact.</mark>&#x20;
@@ -27,7 +27,7 @@ _**Meetings:**_
 
 1.2 When recorded through the member’s presence in the Foundation’s monthly Council meetings, or&#x20;
 
-1.3 When participating through the [Independent Board](../charters/independent-board.md)'s private mailing list on any Council vote, at least once in a month. &#x20;
+1.3 When participating through the [Independent Board](../charters/independent-board.md)'s private mailing list on any Council vote, at least once a month. &#x20;
 
 The Advisory Council plays a central role in advising, advancing and promoting the Foundation's advocacy of its guiding principles.\
 Therefore, a vote of confidence may be scheduled to register the attendance of the Advisory Council members.
@@ -42,7 +42,7 @@ The Executive Council reserves the right to reject or release the meeting minute
 
 **Open Constitution Governance Framework:**&#x20;
 
-4\. Foundation runs itself with a decentralised open governance system. Each open governance decision shall be recorded on the Open Constitution ledger.&#x20;
+4\. The Open Constitution network runs itself with a decentralised open governance system. Each open governance decision shall be recorded on the Open Constitution ledger.&#x20;
 
 The primary function of the Advisory Council is to work with the other Council members in highlighting advisory on the Foundation’s projects.
 
@@ -154,8 +154,9 @@ Read more about the Foundation’s [Code of Conduct](../charters/code-of-conduct
 
 The Independent Board reserves the right to dissolve the whole Advisory Council and initiate the constitution of a new Advisory Council.
 
-12\. The Foundation members communicate via cryptographic electronic communications systems and technology tools. \
-In connection to the electronic meetings, convened by members of this council, Foundation’s IT infrastructure shall be used.&#x20;
+12\. The network members communicate via cryptographic electronic communications systems and technology tools.
+
+In connection with the electronic meetings convened by members of this Council, the Foundation’s IT infrastructure shall be used.&#x20;
 
 If the meeting took place outside the Foundation’s communications infrastructure, then the meeting minutes must be brought back to the notice of the Executive Council. &#x20;
 

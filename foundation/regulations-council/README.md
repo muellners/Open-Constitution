@@ -7,25 +7,25 @@ description: >-
 # 🔦 Regulations Council
 
 **The role of the Regulations Council is to provide counsel to the Muellners Foundation's community on its various initiatives.** \
-**This Council works on regulations concerning monetary policies, inter governmental agencies, governmental agencies and Foundation's statutory maintenance.**
+**This Council works on regulations concerning monetary policies, inter-governmental agencies, governmental agencies and the Foundation's statutory maintenance.**
 
 {% hint style="info" %}
-<mark style="color:purple;">Regulations Council members are generally individuals of industry wide reputation, having had persistent success in contributing to the humankind, with major sustainable impact.</mark> \ <mark style="color:purple;">They can be successful chartered accountants, tax consultants, corporate lawyers, M\&A lawyers, bureaucrats working with government agencies, Program Directors of inter governmental agencies, holding an office of an institution which shapes monetary policy of a jurisdiction on this planet.</mark>&#x20;
+<mark style="color:purple;">Regulations Council members are generally individuals of industry-wide reputation, having had persistent success in contributing to humankind, with a major sustainable impact.</mark> \ <mark style="color:purple;">They can be successful chartered accountants, tax consultants, corporate lawyers, M\&A lawyers, bureaucrats working with government agencies, Program Directors of inter-governmental agencies, holding an office of an institution that shapes the monetary policy of a jurisdiction on this planet.</mark>&#x20;
 
-<mark style="color:purple;">Members to this Council may also be industry professionals with a background in Banking, financial services and insurances.</mark>
+<mark style="color:purple;">Members of this Council may also be industry professionals with a background in Banking, financial services and insurance.</mark>
 {% endhint %}
 
 The members of the Regulations Council have voluntarily chosen to actively contribute to the Muellners Foundation's agenda.
 
-These members publish opinion articles on Foundation's financial technology research and self governance, contribute directly by mentoring Learn fellowship grantees, participate in presenting Foundation's agenda in their industry network, build strategic relationships with governmental and inter governmental agencies.
+These members publish opinion articles on the Foundation's financial technology research and self-governance, contribute directly by mentoring Learn fellowship grantees, participate in presenting the Foundation's agenda in their industry network, and build strategic relationships with governmental and inter-governmental agencies.
 
-The members appointed to Regulations Council generally stay on this committee for a fixed period.
+The members appointed to the Regulations Council generally stay on this committee for a fixed period.
 
-The members of the Regulations Council may nominate and appoint several Steward Groups, linked to the Fiscal Hosts of the Muellners Foundation. Read more on [Steward group here](../steward-group.md).
+The members of the Regulations Council may nominate and appoint several Steward Groups, linked to the Fiscal Hosts of the Muellners Foundation. Read more on the [Steward group here](../steward-group.md).
 
 The members of the Regulations Council shall also appoint Regulations CWC, an Independent Core Working Group.
 
-**The members of the Regulations Council work with the at leastfollowing guidelines:**&#x20;
+**The members of the Regulations Council work with the following guidelines:**&#x20;
 
 **Meetings:**&#x20;
 
@@ -34,18 +34,18 @@ The members of the Regulations Council shall also appoint Regulations CWC, an In
 
 1.2 When recorded through the member’s presence in the Foundation’s monthly Council meetings, or&#x20;
 
-1.3 When participating through the [Independent Board](../../charters/independent-board.md)'s private mailing list on any Open Council vote, atleast once a month. &#x20;
+1.3 When participating through the [Independent Board](../../charters/independent-board.md)'s private mailing list on any Open Council vote, at least once a month. &#x20;
 
 2\. The Regulations Council may convene to meet the Executive Council or other members through an electronic meeting, in addition to the monthly Council meetings, to contribute to the Council's roles and responsibilities.
 
 {% hint style="info" %}
-_<mark style="color:green;">Regulations Council also processes nominations and appointments of members to</mark>_ [_<mark style="color:green;">Steward Groups</mark>_](../steward-group.md) _<mark style="color:green;">and the Open Bank CWC.</mark>_
+_<mark style="color:green;">The Regulations Council also processes nominations and appointments of members to</mark>_ [_<mark style="color:green;">Steward Groups</mark>_](../steward-group.md) _<mark style="color:green;">and the Open Bank CWC.</mark>_
 
 \
 _<mark style="color:green;">Regulations Council members build strategic relationships on behalf of the Foundation's community, representing its citizen's rights in Economic Forums, Regulatory bodies and other industry networks, which are outside the purview of the Open Constitution Partner Program.</mark>_
 {% endhint %}
 
-3\. Regulations Council can convene an electronic meeting, inviting all the Open Council members or all the Foundation's members, to conduct an independent documented review of the Foundation’s initiatives.&#x20;
+3\. The Regulations Council can convene an electronic meeting, inviting all the Open Council members or all the Foundation's members, to conduct an independent documented review of the Foundation’s initiatives.&#x20;
 
 The meeting minutes from any convened “Regulations Council meeting” shall be released to the Executive Council within 14 days of the meeting.&#x20;
 
@@ -53,7 +53,7 @@ The Executive Council reserves the right to reject or release the meeting minute
 
 **Open Constitution Governance Framework:**&#x20;
 
-4\. Muellners Foundation runs itself with a decentralised open governance system. Each open governance decision shall be recorded on the Open Constitution ledger.
+4\. The Open Constitution network runs itself with a decentralised open governance system. Each open governance decision shall be recorded on the Open Constitution ledger.
 
 Therefore, the role of the Regulations Council is to work with the other Open Council bodies in steering the Foundation’s self-governance model, inscribed into the Foundation's Open Constitution.&#x20;
 
@@ -82,7 +82,7 @@ The chair of the Regulations Council may also get elected to an [Open Tribunal](
 Self-nomination by an existing non-Council member of the Foundation, for his/her/their appointment to the Regulations Council is not acceptable. [Please read more](../../charters/open-governance/peer-review.md).\
 
 
-6.3 Once the nomination is accepted by the Nominee, Nominee or the member nominating the nominee, shall file supporting documentation such as the nominee's literature, publications, and demonstration of social activities on the Foundation's Membership Registry.&#x20;
+6.3 Once the nomination is accepted by the Nominee, the Nominee or the member nominating the nominee, shall file supporting documentation such as the nominee's literature, publications, and demonstration of social activities on the Foundation's Membership Registry.&#x20;
 
 A Council Resolution <mark style="color:green;">**"Vote IN"**</mark> is then scheduled on the Council's mailing list.
 
@@ -121,7 +121,7 @@ _<mark style="color:red;">So, in this example, six (+1) votes of the participati
 
 A strong reason for violation of Muellners Foundation’s governing policies and directives must be provided by member(s) initiating the resolution, to support the Council resolution “Vote OUT”.&#x20;
 
-7.3 **Community Referendum:** Final removal of a member from the Regulations Council is subject to a community referendum on the passed Council resolution <mark style="color:red;">“Vote OUT”</mark>, stated in 7.1 & 7.2 above.&#x20;
+7.3 **Community Referendum:** The final removal of a member from the Regulations Council is subject to a community referendum on the passed Council resolution <mark style="color:red;">“Vote OUT”</mark>, stated in 7.1 & 7.2 above.&#x20;
 
 {% hint style="info" %}
 <mark style="color:purple;">Community Referendum is generally accessible by all members of the Muellners Foundation - both Council, its CWC members and non-Council members.</mark>&#x20;

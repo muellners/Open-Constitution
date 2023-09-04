@@ -6,15 +6,15 @@ description: >-
 
 # 🎓 Legal Council
 
-non-Council**The role of the Legal Council is to advise the Muellners Foundation on legally protecting the Foundation's activities.**
+**The role of the Legal Council is to advise the Open Constitution network on legally protecting the Foundation's activities.**
 
 {% hint style="info" %}
-<mark style="color:purple;">Legal Council members are individuals of industry wide reputation, having had persistent success in steering and contributing to the humankind, with major sustainable impact.</mark>&#x20;
+<mark style="color:purple;">Legal Council members are individuals of industry-wide reputation, having had persistent success in steering and contributing to humankind, with a major sustainable impact.</mark>&#x20;
 
 <mark style="color:purple;">They are successful lawyers, civil rights activists, M\&A lawyers, Intellectual Property lawyers, writers, filmmakers, musicians or artists.</mark>
 {% endhint %}
 
-_The members from the Legal Council work with following guidelines_:&#x20;
+_The members of the Legal Council work with the following guidelines_:&#x20;
 
 **Meetings:**&#x20;
 
@@ -23,7 +23,7 @@ Generally recorded on a monthly basis through an electronic meeting with the Exe
 
 1.2 When recorded through the member’s presence in the Foundation’s monthly Council meetings, or&#x20;
 
-1.3 When participating through the [Independent Board](../../charters/independent-board.md)'s private mailing list on any Council vote, at least once in a month. &#x20;
+1.3 When participating through the [Independent Board](../../charters/independent-board.md)'s private mailing list on any Council vote, at least once a month. &#x20;
 
 Legal Council plays a central role in publishing, advancing and promoting the Foundation's advocacy of its guiding principles.\
 Therefore, a vote of confidence may be scheduled to register the attendance of the Legal Council members.
@@ -37,7 +37,7 @@ _<mark style="color:green;">Legal Council also processes nominations and appoint
 _<mark style="color:green;">Legal Council members build strategic relationships on behalf of the Foundation's community, representing its citizen's rights in Industry bodies and networks, which are outside the purview of the Open Constitution Partner Program.</mark>_
 {% endhint %}
 
-3\. Legal Council can convene an electronic meeting, inviting all the Open Council members or all the Foundation's members, to conduct an independent legal audit and review of the Foundation’s initiatives.&#x20;
+3\. The Legal Council can convene an electronic meeting, inviting all the Open Council members or all the Foundation's members, to conduct an independent legal audit and review of the Foundation’s initiatives.&#x20;
 
 The meeting minutes from any convened “Legal Council meeting” shall be released to the Executive Council within 14 days of the meeting.&#x20;
 
@@ -45,7 +45,7 @@ The Executive Council reserves the right to reject or release the meeting minute
 
 **Open Constitution Governance Framework:**&#x20;
 
-4\. Muellners Foundation runs itself with a decentralised open governance system. Each open governance decision shall be recorded on the Open Constitution ledger.
+4\. The Open Constitution network runs itself with a decentralised open governance system. Each open governance decision shall be recorded on the Open Constitution ledger.
 
 Legal Council works with all the Open Council bodies concerning the Foundation’s legal frameworks and representations.
 
@@ -97,7 +97,7 @@ _<mark style="color:green;">So, in this example, six (+1) votes of the participa
 7.1 Members of the Executive Council of the Legal Council or the Advisory Council can only officially nominate the removal of a member from the Legal Council.&#x20;
 
 {% hint style="info" %}
-_<mark style="color:purple;">A non-Council member should not initiate a proposal for removal of a Legal Council member.</mark>_&#x20;
+_<mark style="color:purple;">A non-Council member should not initiate a proposal for the removal of a Legal Council member.</mark>_&#x20;
 
 _<mark style="color:purple;">Further, if a non-Council member has a dispute with a Legal Council member, they shall invoke the Foundation's</mark>_ [_<mark style="color:purple;">**Observation Co**</mark>_](../observers-council.md)_<mark style="color:purple;">**uncil**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">to enforce redressal of their dispute.</mark>_
 
@@ -122,7 +122,7 @@ _<mark style="color:red;">So, in this example, six (+1) votes of the participati
 
 A strong reason for violation of Muellners Foundation’s governing policies and directives must be provided by member(s) initiating the resolution, to support the Council resolution “Vote OUT”.&#x20;
 
-7.3 **Community Referendum:** Final removal of a member from the Legal Council is subject to a community referendum on the passed Council resolution <mark style="color:red;">“Vote OUT”</mark>, stated in 7.1 & 7.2 above.&#x20;
+7.3 **Community Referendum:** The final removal of a member from the Legal Council is subject to a community referendum on the passed Council resolution <mark style="color:red;">“Vote OUT”</mark>, stated in 7.1 & 7.2 above.&#x20;
 
 {% hint style="info" %}
 <mark style="color:purple;">Community Referendum is generally accessible by all members of the Muellners Foundation - both Council, its CWC members and non-Council members.</mark>&#x20;
