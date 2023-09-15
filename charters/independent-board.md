@@ -26,20 +26,20 @@ Independent Boards are constituted in different jurisdictions:
 
 | Region                                               | Legal Body Name(Fiscal Host)                                                                     | Board Members                                                                |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| European Union and Nordics                           | Muellners Frivillig Forening Foundation, Denmark                                                 | Lara Muellner, Ankit Muellner                                                |
+| European Economic Area (EU) and Nordic Countries     | Open Constitution S/I                                                                            | Lara Muellner, Anka Muellner                                                 |
 | [**India**](https://india.muellnersfoundation.org)   | <mark style="color:red;">To be updated</mark>                                                    | <mark style="color:red;">Existing Legal Body Registration Name Change</mark> |
 | [**Uganda**](https://uganda.muellnersfoundation.org) | [**Kisoboka Africa Ltd**](https://uganda.muellnersfoundation.org/public-reports/fiscal-identity) | Ssemugenyi Muhammad, Stephen Katende                                         |
 
 **What is a Fiscal Host?**
 
-A Fiscal host is a legal representative body, nominated by, and appointed by the Independent Board, Muellners Foundation, EEA based on the counsel of [Executive Co<mark style="color:purple;">uncil</mark>](../foundation/executive-council.md) of the Open Council.\
+A Fiscal host is a legal representative body, nominated by, and appointed by the Independent Board, Muellners Foundation, EEA based on the counsel of the [Executive Co<mark style="color:purple;">uncil</mark>](../foundation/executive-council.md) of the Open Council.\
 \
 Independent Boards constitutionally represent the Foundation in local jurisdictions, and support the maintenance of the constituent Fiscal body, in compliance with Local Law.
 
 {% hint style="info" %}
-<mark style="color:purple;">Fiscal Host informs themselves and responds to what is relevant in local jurisdictions for non-profits or co-operatives.</mark> \ <mark style="color:purple;">There are many elements to local statutory reporting, and compliance, which the Fiscal Hosts fulfil:</mark>
+<mark style="color:purple;">Fiscal Host informs themselves and responds to what is relevant in local jurisdictions for non-profits or co-operatives.</mark> \ <mark style="color:purple;">There are many elements to local statutory reporting, and compliance, which the Fiscal Hosts fulfill:</mark>
 
-\ <mark style="color:purple;">1. Maintaining a local member registry,</mark>\ <mark style="color:purple;">2. Administering public grants,</mark> \ <mark style="color:purple;">3. Hiring of officers of the Foundation in compliance with local labour laws of a UN member state.</mark>
+\ <mark style="color:purple;">1. Maintaining a local member registry,</mark>\ <mark style="color:purple;">2. Administering public grants,</mark> \ <mark style="color:purple;">3. Hiring of officers of the Foundation in compliance with local labor laws of a UN member state.</mark>
 
 <mark style="color:purple;">4. Maintaining custody of ESG Funds in compliance with regulations of local financial services and supervisory authorities.</mark>
 
