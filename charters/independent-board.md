@@ -26,7 +26,7 @@ Independent Boards are constituted in different jurisdictions:
 
 | Region                                               | Legal Body Name(Fiscal Host)                                                                     | Board Members                                                                |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| European Economic Area (EU) and Nordic Countries     | Open Constitution S/I                                                                            | Lara Muellner, Anka Muellner                                                 |
+| European Economic Area (EEA)                         | Open Constitution S/I                                                                            | Lara Isabella Muellner, Anka Muellner                                        |
 | [**India**](https://india.muellnersfoundation.org)   | <mark style="color:red;">To be updated</mark>                                                    | <mark style="color:red;">Existing Legal Body Registration Name Change</mark> |
 | [**Uganda**](https://uganda.muellnersfoundation.org) | [**Kisoboka Africa Ltd**](https://uganda.muellnersfoundation.org/public-reports/fiscal-identity) | Ssemugenyi Muhammad, Stephen Katende                                         |
 
