@@ -149,7 +149,7 @@ Members should generally avoid heated arguments with their peers and almost alwa
 
 **13.1** Individual members can view their access logs at https://muellnersorg.slack.com/account/logs
 
-**14. Public Facing Responsibility:** A community member shall not share messages from private channels of Slack, Discord, Foundation’s mailing list (if they have muellnersorg IDP or are part of a legal body affiliated with the Open Constitution partner program) or from any other direct communication channels to the public outside the community spaces of the Foundation without an electronic mail consent, received from the Media Committee. Sharing messages between these channels may be encouraged if the situation necessitates it.
+**14. Public Facing Responsibility:** A community member shall not share messages from private channels of Slack, Discord, Foundation’s mailing list (if they have muellnersorg IDP or are part of a legal body affiliated with the Open Constitution E tenancy program) or from any other direct communication channels to the public outside the community spaces of the Foundation without an electronic mail consent, received from the Media Committee. Sharing messages between these channels may be encouraged if the situation necessitates it.
 
 **15. Data Protection:** For queries regarding data compliance, one shall first refer to[ Data Protection - Community Resources](https://docs.muellners.info/data-processing/data-protection) (muellners.info) and then contact the Media Committee on its mailing list. If the query is not addressed, members may reach the Foundation’s Executive Committee by using the email info@muellners.org.
 
@@ -195,7 +195,7 @@ Members from visibly marginalised communities or members who are differently abl
 
 During the remote conferences, organised by Foundation members, interruptions are not well seen. Members join these workshops, coming from different time zones, with different internet connectivity & computing infrastructure. Interrupting another member while he/she/they are speaking, will almost always result in derailing of a workshop's agenda.&#x20;
 
-_Maintain decorum:_ It is generally recommended to keep yourself mute, & wait for your turn to speak, using conferencing system tools such as Raising hand.
+_Maintain decorum:_ It is generally recommended to keep yourself mute, & wait for your turn to speak, using conferencing system tools such as Raising your hand.
 
 **21.3** _Open Sessions:_ When workshops are organised with an open and free agenda, it is a general suggestion to let your peers present their complete thoughts before speaking.&#x20;
 

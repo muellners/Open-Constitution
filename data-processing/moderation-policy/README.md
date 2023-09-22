@@ -16,16 +16,13 @@ Our community is growing vertically, and therefore at times, moderators may or m
 
 In the case of deletion of public messages, the moderation group should delete messages which:
 
-1. Disclose NPPI: Non-public personal information e.g. photos, personal information of a member, a govt issued identifier and the like, unless a member expressly waives the right to privacy.
-
-\
-
+1. Disclose NPPI: Non-public personal information e.g. photos, personal information of a member, a government-issued identifier and the like, unless a member expressly waives the right to privacy.
 
 \
 2\. If a member incidentally(not once but through a span of time) violates the [Guiding Principles](../../guiding-principles.md) and the [Code of Conduct](../../charters/code-of-conduct.md).
 
 {% hint style="info" %}
-<mark style="color:purple;">Foundation's community advocates that - "We shall build tolerance in our community." When a member's expressions violate the Guiding principles or the Code of Conduct, Open Constitution's Moderation bots are activated by default.</mark>  \ <mark style="color:purple;">Foundation's communications system also has privacy drivers to ensure member safety.</mark>\
+<mark style="color:purple;">The Foundation's community advocates that - "We shall build tolerance in our community." When a member's expressions violate the Guiding principles or the Code of Conduct, Open Constitution's Moderation bots are activated by default.</mark>  \ <mark style="color:purple;">The Foundation's communications system also has privacy drivers to ensure member safety.</mark>\
 \ <mark style="color:purple;">A single message should not be construed as a member's violation of community guidelines. Rather habitually should be seen as a measure for Code violations.</mark>
 
 <mark style="color:purple;">Therefore, moderators should look for a continuous period of time(a minimum of 7 days) to establish whether a member violated the community code or not.</mark>&#x20;
@@ -48,7 +45,7 @@ In the case of deletion of public messages, the moderation group should delete m
 
 Generally, each public channel has a Moderator/Ambassador who politely flags any violation of the Foundation's code of conduct.&#x20;
 
-Each moderation follows an escalation, which you can also read about in [Code of Conduct](../../charters/code-of-conduct.md).
+Each moderation follows an escalation, which you can also read about in the [Code of Conduct](../../charters/code-of-conduct.md).
 
 **Who are the Moderators?**\
 They can be Media Committee members, Media CWC members, or Steering and CWC members of other committees of the Foundation.
