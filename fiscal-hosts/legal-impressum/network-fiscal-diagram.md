@@ -19,8 +19,6 @@ The diagram below explains how Open Constitution Network, a self-governed Artifi
 
 How do these regional Fiscal Hosts exchange with market activities?&#x20;
 
-Read more about [Fiscal Hosts](broken-reference) or Fiscal&#x20;
-
-Node on the Open Constitution Network.
+Read more about [Fiscal Hosts](broken-reference) or Fiscal Node on the Open Constitution Network.
 {% endhint %}
 

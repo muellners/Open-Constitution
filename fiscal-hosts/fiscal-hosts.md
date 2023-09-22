@@ -13,7 +13,7 @@ description: >-
 > Fiscal hosting is **where a legally registered organisation** (the fiscal host, also known as Foundation's regional official representation) holds money, trust and fiduciary duties on behalf of Foundation's global community and open source intelligence network.
 
 {% hint style="info" %}
-<mark style="color:green;">Muellners Foundation nominates and appoints</mark> <mark style="color:green;"></mark><mark style="color:green;">**Fiscal Hosts**</mark> <mark style="color:green;"></mark><mark style="color:green;">in each member state of the UN as fiduciary bodies.</mark>
+<mark style="color:green;">The principal Legal Steward: Muellners Foundation nominates and appoints</mark> <mark style="color:green;"></mark><mark style="color:green;">**Fiscal Hosts**</mark> <mark style="color:green;"></mark><mark style="color:green;">in each member state of the UN as fiduciary bodies.</mark>
 
 <mark style="color:green;">Local Independent Boards are constituted from these</mark> <mark style="color:green;"></mark><mark style="color:green;">**Fiduciary bodies.**</mark>
 
@@ -42,7 +42,11 @@ description: >-
 ![Representation of a Fiscal Host](../.gitbook/assets/54A96F50-4884-43E1-A3F6-B2099ADA93CA.jpeg)
 
 {% hint style="info" %}
-<mark style="color:purple;">Read</mark> [<mark style="color:blue;">**community guidelines**</mark>](https://docs.muellnersfoundation.info/fiscal-host-node/introduction) <mark style="color:purple;">on nominating and appointing a Fiscal Hoist/node on the Open Constitution network.</mark>
+**Relevant:** [Fiscal Hosts](broken-reference) or Fiscal Nodes on the Open Constitution Network.&#x20;
+
+Each Fiscal Node deploys and maintains a nodal ledger. See the Open Constitution [Network Diagram](../oc-network/network-diagram.md). &#x20;
+
+Also, See the Open Constitution [Network Fiscal Diagram](legal-impressum/network-fiscal-diagram.md).&#x20;
 {% endhint %}
 
 
