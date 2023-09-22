@@ -83,6 +83,8 @@ always applied with a state staging protocol.
 >
 > Lazy Consensus Motion
 >
+> Causality Motion
+>
 > Dispute Motion Protocols; those which are applied to pending gridlocks in projects or programs e.g Protest Motion Protocol
 
 
