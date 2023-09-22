@@ -6,7 +6,7 @@ description: >-
 
 # 👊 List of Sensitivity
 
-_<mark style="color:purple;">(Note: This page is continously updated with edits on the list.)</mark>_
+_<mark style="color:purple;">(Note: This page is continuously updated with edits on the list.)</mark>_
 
 {% hint style="info" %}
 <mark style="color:red;">**Following is the list covering sensitive subjects;**</mark>
@@ -15,12 +15,12 @@ _<mark style="color:purple;">(Note: This page is continously updated with edits 
 
 1. <mark style="color:red;">Human Identity based discrimination</mark>
 2. <mark style="color:red;">Internet Freedom, and Cyber Censorship by government agencies</mark>
-3. <mark style="color:red;">War, and Non violence on planet earth, including mass animal killing</mark>&#x20;
+3. <mark style="color:red;">War, and Non-violence on planet Earth, including mass animal killing</mark>&#x20;
 4. <mark style="color:red;">Poverty, malnourishment, and public health disaster</mark>&#x20;
-5. <mark style="color:red;">Natural disaster and manmade industrial disaster</mark>
-6. [<mark style="color:red;">Millitary Industrial Complex</mark>](https://en.wikipedia.org/wiki/Military%E2%80%93industrial\_complex)
+5. <mark style="color:red;">Natural disasters and manmade industrial disasters</mark>
+6. Military[ <mark style="color:red;">Industrial Complex</mark>](https://en.wikipedia.org/wiki/Military%E2%80%93industrial\_complex)
 7. <mark style="color:red;">Freedom of</mark> [<mark style="color:red;">Journalis</mark>](https://en.wikipedia.org/wiki/Journalism)<mark style="color:red;">m</mark>
-8. <mark style="color:red;">Patent aggression on Intellectual property of life saving Pharmaceuticals</mark>
+8. <mark style="color:red;">Patent aggression on Intellectual property of life-saving Pharmaceuticals</mark>
 {% endhint %}
 
 
