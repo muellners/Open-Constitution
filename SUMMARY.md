@@ -73,6 +73,7 @@
   * [🛑 Stay Motion](charters/open-governance/stay-motion.md)
   * [🎆 Chaos Motion](charters/open-governance/chaos-motion-protocol.md)
   * [😴 Lazy Consensus](charters/open-governance/lazy-motion.md)
+  * [⏭ Causality Protocol](charters/open-governance/causality-protocol.md)
   * [🌋 Decisioning Pyramid](charters/open-governance/decisioning-pyramid.md)
 * [🚪 Open Access Charter](charters/open-access-charter.md)
 * [📻 Open Communications Charter](charters/communications-charter.md)
