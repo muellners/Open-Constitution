@@ -17,24 +17,24 @@ description: >-
 
 <mark style="color:green;">Local Independent Boards are constituted from these</mark> <mark style="color:green;"></mark><mark style="color:green;">**Fiduciary bodies.**</mark>
 
-<mark style="color:green;">Fiscal Hosts also maintain local membership and beneficiary citizen registry.</mark> \ <mark style="color:green;">Fiscal Hosts maintain Foundation's compliance with local business laws, besides holding trust and funds on behalf of the Muellners Foundation.</mark>
+<mark style="color:green;">Fiscal Hosts also maintain local membership and beneficiary citizen registry.</mark> \ <mark style="color:green;">Fiscal Hosts maintain the Foundation's compliance with local business laws, besides holding trust and funds on behalf of the Muellners Foundation.</mark>
 
 \
 <mark style="color:blue;">Fiscal Host Legal Bodies and their members continue to independently work on the local advocacy of the Foundation's guiding principles.</mark>&#x20;
 
-<mark style="color:green;">Each Fiscal Host appoints an Independent Board themselves, which also represents the local community of the Foundation.</mark>&#x20;
+<mark style="color:green;">Each Fiscal Host appoints an Independent Board, which also represents the local community of the Foundation.</mark>&#x20;
 
 <mark style="color:green;">The local Independent Board members also appoint a third-party Data Protection Officer, an auditor and a chartered accountant in accordance with the Open Constitution, and based on local requirements of compliance with business laws.</mark>
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:red;">💁Muellners Foundation screens Fiscal hosts, with independent and autonomous diligence, before a nomination and subsequent appointment is filed on Open Constitution Governance System.</mark> &#x20;
+<mark style="color:red;">💁Muellners Foundation screens Fiscal hosts, with independent and autonomous diligence, before a nomination and subsequent appointment is filed on the Open Constitution Governance System.</mark> &#x20;
 
 <mark style="color:blue;">Muellners Foundation also periodically reviews the Fiscal Hosts' local compliance with the help of periodical audits(annual audits).</mark>&#x20;
 
 <mark style="color:blue;">The Treasury and Regulatory Compliance audits are released to the general public, in the form of a quarterly "Transparency Report", regardless of whether local business laws require an audit or not.</mark>&#x20;
 
-<mark style="color:red;">**Following members participate in the screening and dilligence:**</mark>
+<mark style="color:red;">**The following members participate in the screening and dilligence:**</mark>
 
 <mark style="color:blue;">Fiscal Host's Steward Group, Legal CWC and Open Council bodies namely Regulations, Legal and Treasury Council.</mark>
 {% endhint %}

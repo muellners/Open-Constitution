@@ -35,7 +35,7 @@ This literature is a library of articles/documents/instruments for open-source g
 
 
 {% hint style="info" %}
-Read [Legal Impressum](fiscal-hosts/legal-impressum.md)
+Read [Legal Impressum](fiscal-hosts/legal-impressum/)
 {% endhint %}
 
 [**Executive Council**](foundation/executive-council.md)
