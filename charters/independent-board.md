@@ -24,11 +24,11 @@ Independent Boards are constituted in different jurisdictions:
 
 **Current Independent Board Member List:**
 
-| Region                                               | Legal Body Name(Fiscal Host)                                                                     | Board Members                                                                |
-| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| European Economic Area (EEA)                         | Open Constitution S/I                                                                            | Lara Isabella Muellner, Anka Muellner                                        |
-| [**India**](https://india.muellnersfoundation.org)   | <mark style="color:red;">To be updated</mark>                                                    | <mark style="color:red;">Existing Legal Body Registration Name Change</mark> |
-| [**Uganda**](https://uganda.muellnersfoundation.org) | [**Kisoboka Africa Ltd**](https://uganda.muellnersfoundation.org/public-reports/fiscal-identity) | Ssemugenyi Muhammad, Stephen Katende                                         |
+| Region                                               | Legal Body Name(Fiscal Host)                                                                                                        | Board Members                                                                |
+| ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| European Economic Area (EEA)                         | [Open Constitution S/I](https://datacvr.virk.dk/enhed/virksomhed/43714775?fritekst=open%20constitution%20S/I\&sideIndex=0\&size=10) | Lara Isabella Muellner, Anka Phoenix Muellner                                |
+| [**India**](https://india.muellnersfoundation.org)   | <mark style="color:red;">To be updated</mark>                                                                                       | <mark style="color:red;">Existing Legal Body Registration Name Change</mark> |
+| [**Uganda**](https://uganda.muellnersfoundation.org) | [**Kisoboka Africa Ltd**](https://uganda.muellnersfoundation.org/public-reports/fiscal-identity)                                    | Ssemugenyi Muhammad, Stephen Katende                                         |
 
 **What is a Fiscal Host?**
 
