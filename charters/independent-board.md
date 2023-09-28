@@ -24,7 +24,7 @@ Independent Boards are constituted in different jurisdictions:
 
 **Current Independent Board Member List:**
 
-| Region                                               | Legal Body Name(Fiscal Host)                                                                                                        | Board Members                                                                |
+| Region                                               | Legal Body Name                                                                                                                     | Board Members                                                                |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | European Economic Area (EEA)                         | [Open Constitution S/I](https://datacvr.virk.dk/enhed/virksomhed/43714775?fritekst=open%20constitution%20S/I\&sideIndex=0\&size=10) | Lara Isabella Muellner, Anka Phoenix Muellner                                |
 | [**India**](https://india.muellnersfoundation.org)   | <mark style="color:red;">To be updated</mark>                                                                                       | <mark style="color:red;">Existing Legal Body Registration Name Change</mark> |
@@ -50,20 +50,23 @@ Independent Boards constitutionally represent the Foundation in local jurisdicti
 
 A duly appointed Independent Board of a Fiscal Host, in a jurisdiction, covered by the Foundation, relies on Steward Group(a minimum number of CWC appointments) for core maintenance of Fiscal representation of the Foundation in a region.&#x20;
 
-> **Board Meeting Minutes for appointment of first Fiscal Host in Denmark and its Independent BoD.**
-
-{% file src="../.gitbook/assets/MF Board Minutes Special General Meeting on 10-01-2020.pdf" %}
-
 {% hint style="info" %}
 [Independent Board](independent-board.md) members review the statutory existence of the Foundation's registered agent or Fiscal Host.
 
 An Independent Board is also required as a principal agency to ensure the Foundation remains in compliance with its legal structure.&#x20;
 
-The Independent Board is a local jurisdiction-based ratification agency for the Foundation's community.
+The Independent Board is a local jurisdiction-based ratification agency for the Foundation's community.\
+
 {% endhint %}
 
+{% hint style="info" %}
 \
-\
+Relevant Read&#x20;
+
+[Legal Impressum](../fiscal-hosts/legal-impressum/)
+
+[Network Fiscal Diagram](../fiscal-hosts/legal-impressum/network-fiscal-diagram.md)\
 Read more on [Steward Group](../foundation/steward-group.md).
+{% endhint %}
 
 **Custodian:** [**Independent Board**](independent-board.md)
