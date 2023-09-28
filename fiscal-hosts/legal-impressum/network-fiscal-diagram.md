@@ -12,7 +12,7 @@ View the [Impressum](./):  List of legal bodies and their role in the Open Const
 
 The diagram below explains how Open Constitution Network, a self-governed Artificial Intelligence network has been reduced to practice by the Principal Legal Steward: Muellners Foundation, during the early years. The diagram also shows each Fiscal Host, in the context of maintaining the network's electronic residency and tenancy program.
 
-<figure><img src="../../.gitbook/assets/OCNetwork.jpg" alt=""><figcaption><p>Open Constitution Network Fiscal Diagram</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-28 at 16.14.22.png" alt=""><figcaption><p>Open Constitution Network Fiscal Diagram</p></figcaption></figure>
 
 {% hint style="info" %}
 **Relevant:** How is the Open Constitution maintained by the Regional Fiscal Hosts?&#x20;
