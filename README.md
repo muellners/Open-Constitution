@@ -23,7 +23,7 @@ Read \[[Open Source Policy](open-source-policies/open-source-usage-and-delivery-
 Read [Amendments](readme/amendments.md).
 
 {% hint style="info" %}
-Open Constitution initiative operates across different regions of the world, on the Internet.
+Open Constitution initiative operates across different regions of the world.
 
 These public-facing policy "instruments" and guidelines are based on the active harmonization of open governance laws, as articulated in this Open Constitution, including but not limited to bylaws and local statutes for the local communities of Open Constitution to fully address Local jurisdictions and Information Technology Acts, Cyber Security Laws, Legal Contract Binding Acts, Business Laws.
 
