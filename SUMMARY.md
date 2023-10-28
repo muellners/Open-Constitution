@@ -84,7 +84,11 @@
   * [📔 Open Council Vote](charters/open-ballot/open-council-vote.md)
   * [📔 Council Vote](charters/open-ballot/council-vote.md)
 * [📓 Electoral Charter](charters/electoral-charter.md)
-* [🤓 Code of Conduct](charters/code-of-conduct.md)
+* [🤓 Code of Conduct](charters/code-of-conduct/README.md)
+  * [🤚 Moderation Policy](charters/code-of-conduct/moderation-policy/README.md)
+    * [🤖 Sentient Bot](charters/code-of-conduct/moderation-policy/sentient-bot.md)
+    * [☮ How not to Spam?](charters/code-of-conduct/moderation-policy/how-not-to-spam/README.md)
+      * [👊 List of Sensitivity](charters/code-of-conduct/moderation-policy/how-not-to-spam/list-of-sensitivity.md)
 * [🏳 Whistleblower Policy](charters/whistleblower-policy.md)
 
 ## Privacy Compliance <a href="#privacy" id="privacy"></a>
@@ -98,14 +102,12 @@
 * [🔐 Data Security & Handling Agreement](data-processing/data-security-and-handling-agreement.md)
 * [🧘♀ Data Processing Agreement](data-processing/data-processing-agreement.md)
 * [👮♀ Data Protection](data-processing/data-protection/README.md)
+  * [External AI Services](data-processing/data-protection/external-ai-services.md)
   * [🌐 Notice:Data Processing and Control](data-processing/data-protection/notice-data-processing-and-control.md)
   * [🔏 Notice: Data Residency Security and Control Policy](data-processing/data-protection/notice-data-residency-security-and-control-policy.md)
   * [🪅 Notice: Data Residency Hosting and Control Policy](data-processing/data-protection/notice-data-residency-hosting-and-control-policy.md)
   * [🌎 Notice: Emeritus Citizen](data-processing/data-protection/notice-emeritus-citizen.md)
-* [🤚 Moderation Policy](data-processing/moderation-policy/README.md)
-  * [🤖 Sentient Bot](data-processing/moderation-policy/sentient-bot.md)
-  * [☮ How not to Spam?](data-processing/moderation-policy/how-not-to-spam/README.md)
-    * [👊 List of Sensitivity](data-processing/moderation-policy/how-not-to-spam/list-of-sensitivity.md)
+* [🔏 Data Integrity](data-processing/data-integrity.md)
 
 ## Open Source Policies
 

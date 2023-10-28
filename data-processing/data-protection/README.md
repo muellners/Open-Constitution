@@ -140,7 +140,7 @@ Verified citizens of Open Constitution gain access to the "citizen", generally f
 
 Once, an account is created, subscribed member posts on both private and public forums of the Foundation's community.
 
-Members guide themselves with the Foundation's [code of conduct](../../charters/code-of-conduct.md), guiding principles & [moderation policy](../moderation-policy/) when expressing their statements in the community space.&#x20;
+Members guide themselves with the Foundation's [code of conduct](../../charters/code-of-conduct/), guiding principles & [moderation policy](../../charters/code-of-conduct/moderation-policy/) when expressing their statements in the community space.&#x20;
 
 The following types of data are classified for all membership activity:
 
@@ -160,11 +160,11 @@ Foundation also complies with relevant third-party vendor license terms, as acco
 
 If any member wishes to complain about privacy violation or any other code of conduct violation, on any of the above communication systems, please write to info@muellners.org.
 
-Read about [Moderation Guidelines](../moderation-policy/) here.
+Read about [Moderation Guidelines](../../charters/code-of-conduct/moderation-policy/) here.
 
-Read about [How not to spam](../moderation-policy/how-not-to-spam/) the public forums of the Muellners Foundation here.
+Read about [How not to spam](../../charters/code-of-conduct/moderation-policy/how-not-to-spam/) the public forums of the Muellners Foundation here.
 
-Read the list of [Sensitivity](../moderation-policy/how-not-to-spam/list-of-sensitivity.md) here.
+Read the list of [Sensitivity](../../charters/code-of-conduct/moderation-policy/how-not-to-spam/list-of-sensitivity.md) here.
 
 ## Data Management: Transparency and control
 

@@ -178,7 +178,7 @@ _If the member is found convicted of criminal, civil and financial crimes, in an
 
 Read more on the [guiding principles & diversity statement](../guiding-principles.md) of the Foundation here.&#x20;
 
-Read more about the Foundation’s [Code of Conduct](../charters/code-of-conduct.md) here.&#x20;
+Read more about the Foundation’s [Code of Conduct](../charters/code-of-conduct/) here.&#x20;
 
 11\. The [statutes](../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here. The Independent Board reserves the right to dissolve a whole wing of the Ambassador Council and initiate the constitution of a new wing of the Ambassador Council.
 

@@ -9,9 +9,7 @@ description: >-
 **The role of the Treasury Council is to steer the Open Constitution network's various initiatives with fund appropriations, and governance rules on co-operative owned fund management.**
 
 \
-Treasury Council members are generally individuals of industry-wide reputation, having had persistent success in steering and contributing to humankind, with major sustainable impact. They can be successful bankers, investment fund managers, wealth managers, senior financial analysts, scheduled and chartered auditors, accountants, members with background in tax compliance, and public grants.
-
-&#x20;&#x20;
+Treasury Council members are generally individuals of industry-wide reputation, having had persistent success in steering and contributing to humankind, with major sustainable impact. They can be successful bankers, investment fund managers, wealth managers, senior financial analysts, scheduled and chartered auditors, accountants, members with background in tax compliance, and public grants. &#x20;
 
 {% hint style="info" %}
 <mark style="color:purple;">The members of the Treasury Council have voluntarily chosen to actively contribute to projects maintained by the Muellners Foundation.</mark>&#x20;
@@ -156,7 +154,7 @@ _If the member is found convicted of criminal, civil and financial crimes, in an
 
 Read more on the [guiding principles & diversity statement](../guiding-principles.md) of the Foundation here.&#x20;
 
-Read more about the Foundation’s [Code of Conduct](../charters/code-of-conduct.md) here.&#x20;
+Read more about the Foundation’s [Code of Conduct](../charters/code-of-conduct/) here.&#x20;
 
 11\. The [statutes](../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here. The Independent Board reserves the right to dissolve the whole Treasury Council and initiate the constitution of a new Treasury Council.
 

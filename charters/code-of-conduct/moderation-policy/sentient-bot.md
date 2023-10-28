@@ -32,7 +32,7 @@ b. Sentient Bot can also moderate Live Conversations on the Foundation's comm sy
 <mark style="color:green;">Sentient Bot routinely moderates the public forums of the Foundation.</mark>  \
 &#x20;\ <mark style="color:green;">a. Any irrelevant communication to a public forum.</mark>
 
-<mark style="color:green;">b. A message containing personal information of a member(not fit for the forum's purpose or a conflict with the Foundation's</mark> [<mark style="color:green;">objectives</mark>](../../articles/objectives.md)<mark style="color:green;">, or</mark> \ <mark style="color:green;">c. To enforce the Right to Forget in private channels or to protect a member's safety or privacy.💁</mark>
+<mark style="color:green;">b. A message containing personal information of a member(not fit for the forum's purpose or a conflict with the Foundation's</mark> [<mark style="color:green;">objectives</mark>](../../../articles/objectives.md)<mark style="color:green;">, or</mark> \ <mark style="color:green;">c. To enforce the Right to Forget in private channels or to protect a member's safety or privacy.💁</mark>
 {% endhint %}
 
 

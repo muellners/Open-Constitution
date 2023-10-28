@@ -13,7 +13,7 @@ _In theory, the Muellners Foundation explicitly defines a human existential orga
 
 _The Foundation shall therefore remain a neutral advocacy group, for subjects which are contextual to political, or religious themes in nature. Muellners Foundation is an apolitical and non-religious organisation._ &#x20;
 
-_Read more about Network's_ [_Guiding Principles_](../../../guiding-principles.md)
+_Read more about Network's_ [_Guiding Principles_](../../../../guiding-principles.md)
 {% endhint %}
 
 Following guidelines shall be observed by members, to avoid spam, hate messages, and polarising views in the member space of the network, when covering a subject, including those which are on the list of "[sensitivity](list-of-sensitivity.md)".
@@ -21,8 +21,8 @@ Following guidelines shall be observed by members, to avoid spam, hate messages,
 This applies to text messages, video, and audio feeds in the Foundation's communications system & other Internet-based forums of the Foundation (both public and private communications between peers).
 
 1. Use a more positive and assertive tone in your posts.
-2. When making a reference to any human, including a person outside the Foundation's current [membership](../../../foundation/citizenship/) purview, members shall cite a public-facing record from a verifiable source of information. &#x20;
-3. Members shall not use the Foundation's space or forums to advocate their religious and political beliefs. A general debate or discussion should be welcome in the Foundation's community, within the Foundation's [guiding principles](../../../guiding-principles.md) and [Code](../../../charters/code-of-conduct.md).&#x20;
+2. When making a reference to any human, including a person outside the Foundation's current [membership](../../../../foundation/citizenship/) purview, members shall cite a public-facing record from a verifiable source of information. &#x20;
+3. Members shall not use the Foundation's space or forums to advocate their religious and political beliefs. A general debate or discussion should be welcome in the Foundation's community, within the Foundation's [guiding principles](../../../../guiding-principles.md) and [Code](../../).&#x20;
 4. A member shall post open and empathetic messages. A member should strive to cite public-facing information, to create visibility and clarity on what the member is wishing to express within the community. A member shall not post a speculative message on any public forum of the Foundation.
 5. A member shall not characterize or refer to another peer directly or indirectly, with any adjective on a public forum of the Foundation.&#x20;
 6. A good idea is to be responsible with the use of words, in a multi-time zone and multi-cultural global community.
@@ -44,7 +44,7 @@ c. To protect the privacy of the human and maintain a neutral sensitivity toward
 
 8\. Members shall assert their views in a parliamentary manner.
 
-9\. A member shall not post any messages about their own "For Profit" work, and if a member is asked to stop by the Moderators, then the member shall stop. Please read about the [Self and Peer Review](../../../charters/open-governance/peer-review.md) here.
+9\. A member shall not post any messages about their own "For Profit" work, and if a member is asked to stop by the Moderators, then the member shall stop. Please read about the [Self and Peer Review](../../../open-governance/peer-review.md) here.
 
 Community members may introduce their initiatives to their peers and it shall then be the peers who may introduce the initiatives upon their own review. A member should refrain from posting about their own "for profit" activity, on the public forums of the Muellners Foundation.
 
