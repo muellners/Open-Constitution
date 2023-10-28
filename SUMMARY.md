@@ -127,4 +127,4 @@
 ## OC Network
 
 * [🎆 Network Diagram](oc-network/network-diagram.md)
-* [Cloud Security](oc-network/cloud-security.md)
+* [🔑 Cloud Security](oc-network/cloud-security.md)

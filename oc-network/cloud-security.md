@@ -4,7 +4,7 @@ description: >-
   resources.
 ---
 
-# Cloud Security
+# 🔑 Cloud Security
 
 The Open Constitution AI network is a collection of digital public goods and services. These services are deployed on computing infrastructure, across the planet.&#x20;
 
@@ -28,3 +28,6 @@ HIPAA Compliance for the Contributions Delivery Subnet applications on Atlassian
 Cloud Security Compliance Resources for network applications on Google Cloud
 {% endembed %}
 
+{% embed url="https://policies.gitbook.com/privacy-and-security/security/security-faq" %}
+Gitbook Cloud Security Resources
+{% endembed %}
