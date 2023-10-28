@@ -5,7 +5,7 @@ description: >-
   network.
 ---
 
-# External AI Services
+# 🛠 External AI Services
 
 On the Open Constitution network, AI tools and services from third party organizations may be put to use. This page also describes provisioning of external or third party AI tools, services and template models on the Contributions Delivery Subnet of the Open Constitution network.
 

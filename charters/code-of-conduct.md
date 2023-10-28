@@ -36,7 +36,7 @@ Finscale Subnet additionally follows agreements between the consumer and the Mue
 
 _Note: Linkedin and Telegram are official broadcasting platforms, currently managed by several admins-spokesperson(s) of the Foundation, from the electorally appointed Council and Committees._
 
-![A representation of MF's Comm Systems](<../../.gitbook/assets/MFCommSystems (1).jpg>)
+![A representation of MF's Comm Systems](<../.gitbook/assets/MFCommSystems (1).jpg>)
 
 **Let's understand how the open community members collaborate here:**
 
@@ -75,9 +75,9 @@ Upon building a community consensus on the change, any change request to these g
 Clue: In case, a member does not have Foundation email and subsequent Gitbook access, they are welcome to join with their personal email(with which they have subscribed to Foundation's membership). \
 Members can also request for a Foundation's Google Workspace from the Media Committee members.
 
-Read more on [Open Access](../open-access-charter.md) levels.
+Read more on [Open Access](open-access-charter.md) levels.
 
-<mark style="color:red;">For details, read</mark> [<mark style="color:red;">**How to Change?**</mark>](../../readme/amendments.md)
+<mark style="color:red;">For details, read</mark> [<mark style="color:red;">**How to Change?**</mark>](../readme/amendments.md)
 {% endhint %}
 
 ## These are the Community Guidelines:
@@ -121,7 +121,7 @@ For your own responses which may be off-topic, please mention that you are devia
 
 **8**. For topics that are listed as sensitive, be exponentially dispassionate and exponentially empathetic. Think well before placing your words and posting messages on these subjects.\
 These topics could include sexuality, violence, international issues, human crises, animal and environmental issues, family matters, disability, psychological issues and several other areas.\
-Read the [list of Sensitivity](moderation-policy/how-not-to-spam/list-of-sensitivity.md) here.
+Read the [list of Sensitivity](../data-processing/moderation-policy/how-not-to-spam/list-of-sensitivity.md) here.
 
 **9.** Substantiate your qualitative information with quantitative information or qualifying data wherever necessary and wherever you can.
 
@@ -205,13 +205,13 @@ Message retention and deletion policy is by default set at 1 day for all Direct 
 
 {% hint style="info" %}
 **More relevant pages:**\
-<mark style="color:purple;">a. Read about how the community ambassadors manage the safety and privacy of members w.r.t subscribed membership activity. Read</mark> [<mark style="color:purple;">Moderation Policy</mark>](moderation-policy/)
+<mark style="color:purple;">a. Read about how the community ambassadors manage the safety and privacy of members w.r.t subscribed membership activity. Read</mark> [<mark style="color:purple;">Moderation Policy</mark>](../data-processing/moderation-policy/)
 
-<mark style="color:purple;">b. Please read about</mark> [<mark style="color:purple;">How not to spam</mark>](moderation-policy/how-not-to-spam/) <mark style="color:purple;">the Foundation's public forums.</mark>
+<mark style="color:purple;">b. Please read about</mark> [<mark style="color:purple;">How not to spam</mark>](../data-processing/moderation-policy/how-not-to-spam/) <mark style="color:purple;">the Foundation's public forums.</mark>
 
-<mark style="color:purple;">c. Read more on</mark> [<mark style="color:purple;">Self and Peer Review.</mark>](../open-governance/peer-review.md)
+<mark style="color:purple;">c. Read more on</mark> [<mark style="color:purple;">Self and Peer Review.</mark>](open-governance/peer-review.md)
 
 
 {% endhint %}
 
-**Custodian:** [**Media Council**](../../foundation/media-council/)
+**Custodian:** [**Media Council**](../foundation/media-council/)

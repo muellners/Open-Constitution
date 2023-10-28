@@ -52,7 +52,7 @@ Open Tribunal focuses on both **local and International laws on commerce, financ
 _<mark style="color:red;">**Public Notice:**</mark>_ \
 _**A. Appeal for hearing:** <mark style="color:green;">All cases that are accepted in the Open Tribunal framework must be appealed by the network's subscribed citizens for a hearing.</mark>_&#x20;
 
-_The hearing generally takes place via electronic means, well within the_ [_Code of Conduct_](../charters/code-of-conduct/) _and articles & covenants of this Open Constitution._&#x20;
+_The hearing generally takes place via electronic means, well within the_ [_Code of Conduct_](../charters/code-of-conduct.md) _and articles & covenants of this Open Constitution._&#x20;
 
 _According to the Statutes, a citizen may also transfer Power of attorney to another member or a constitutional body of the Foundation, to represent them in a dispute._
 

@@ -19,7 +19,7 @@ In the case of deletion of public messages, the moderation group should delete m
 1. Disclose NPPI: Non-public personal information e.g. photos, personal information of a member, a government-issued identifier and the like, unless a member expressly waives the right to privacy.
 
 \
-2\. If a member incidentally(not once but through a span of time) violates the [Guiding Principles](../../../guiding-principles.md) and the [Code of Conduct](../).
+2\. If a member incidentally(not once but through a span of time) violates the [Guiding Principles](../../guiding-principles.md) and the [Code of Conduct](../../charters/code-of-conduct.md).
 
 {% hint style="info" %}
 <mark style="color:purple;">The Foundation's community advocates that - "We shall build tolerance in our community." When a member's expressions violate the Guiding principles or the Code of Conduct, Open Constitution's Moderation bots are activated by default.</mark>  \ <mark style="color:purple;">The Foundation's communications system also has privacy drivers to ensure member safety.</mark>\
@@ -45,7 +45,7 @@ In the case of deletion of public messages, the moderation group should delete m
 
 Generally, each public channel has a Moderator/Ambassador who politely flags any violation of the Foundation's code of conduct.&#x20;
 
-Each moderation follows an escalation, which you can also read about in the [Code of Conduct](../).
+Each moderation follows an escalation, which you can also read about in the [Code of Conduct](../../charters/code-of-conduct.md).
 
 **Who are the Moderators?**\
 They can be Media Committee members, Media CWC members, or Steering and CWC members of other committees of the Foundation.

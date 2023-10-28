@@ -41,7 +41,7 @@ Any third-party tool can be added to the Communications Charter.
 
 
 {% hint style="info" %}
-Read the [Code of Conduct](code-of-conduct/) and [Open Access](open-access-charter.md) Charter which applies to the Contributions Delivery Subnet.
+Read the [Code of Conduct](code-of-conduct.md) and [Open Access](open-access-charter.md) Charter which applies to the Contributions Delivery Subnet.
 
 
 
