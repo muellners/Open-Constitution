@@ -7,11 +7,9 @@ The Open Constitution Network is maintained under the legal stewardess of the be
 
 
 {% hint style="info" %}
-Open Constitution AI Network is maintained autonomously i.e without an absolute control by a single natural person, using a novel legal and regulatory approach to the interlinkages between market and non market services, using frameworks of international rule of law.
+Open Constitution AI Network is maintained autonomously, i.e. without absolute control by a single natural person, using a novel legal and regulatory approach to the interlinkages between market and non-market services, using frameworks of international rule of law.
 
-That is commercial exchanges between humans for which regulated markets exist and the ones where the laws in principle have yet not been created.&#x20;
-
-One example is Robots connected to the network are regarded as electronic persons, where legal personhood to electronic persons has yet not been fully constructed in a social, civil or economic jurisdiction of a member state of the U.N.O.\
+That is, commercial exchanges between humans for which regulated markets exist and those where the laws in principle have not yet been created. \
 \
 Relevant Read:&#x20;
 
