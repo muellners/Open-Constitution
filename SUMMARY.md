@@ -122,6 +122,7 @@
 * [📚 Fiscal Hosts](fiscal-hosts/fiscal-hosts.md)
 * [📚 Legal Impressum](fiscal-hosts/legal-impressum/README.md)
   * [📚 Network Fiscal Diagram](fiscal-hosts/legal-impressum/network-fiscal-diagram.md)
+  * [📚 Public Agency Guide](fiscal-hosts/legal-impressum/public-agency-guide.md)
 
 ## Outreach
 
