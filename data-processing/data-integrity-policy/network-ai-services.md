@@ -1,12 +1,13 @@
 ---
 description: >-
-  This page explains the data integrity policy for deploying AI models on
-  computing resources integrating on the Open Constitution network.
+  This page explains the data integrity policy for deployed AI services and
+  models on the computing resources, integrated on the Open Constitution
+  network.
 ---
 
-# 🔏 Data Integrity
+# 🔏 Network AI Services
 
-This page describes provisioning of external or third party comouting resources to run instances of AI models for different use cases deployed on the Open Constitution Network.
+This page describes provisioning of external or third party or inhouse computing resources to run production grade instances of AI models and services for different use cases, deployed on the Open Constitution Network.
 
 **A. Computing Infrastructure to run network intelligence models**
 

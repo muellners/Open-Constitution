@@ -1,11 +1,11 @@
 ---
 description: >-
-  This page explains the usage of external or third party AI tools, services and
-  template models on the Contributions Delivery Subnet of the Open Constitution
-  network.
+  This page explains the data integrity policy while using external or third
+  party AI tools, services and template models on the Contributions Delivery
+  Subnet of the Open Constitution network.
 ---
 
-# 🛠 External AI Services
+# 🛠 Third Party AI Tools
 
 On the Open Constitution network, AI tools and services from third party organizations may be put to use. This page also describes provisioning of external or third party AI tools, services and template models on the Contributions Delivery Subnet of the Open Constitution network.
 

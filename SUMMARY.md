@@ -106,8 +106,9 @@
   * [🔏 Notice: Data Residency Security and Control Policy](data-processing/data-protection/notice-data-residency-security-and-control-policy.md)
   * [🪅 Notice: Data Residency Hosting and Control Policy](data-processing/data-protection/notice-data-residency-hosting-and-control-policy.md)
   * [🌎 Notice: Emeritus Citizen](data-processing/data-protection/notice-emeritus-citizen.md)
-* [🛠 External AI Services](data-processing/external-ai-services.md)
-* [🔏 Data Integrity](data-processing/data-integrity.md)
+* [🔏 Data Integrity Policy](data-processing/data-integrity-policy/README.md)
+  * [🔏 Network AI Services](data-processing/data-integrity-policy/network-ai-services.md)
+  * [🛠 Third Party AI Tools](data-processing/data-integrity-policy/third-party-ai-tools.md)
 * [🎞 Network APIs](data-processing/network-apis.md)
 
 ## Open Source Policies
