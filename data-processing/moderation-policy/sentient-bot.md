@@ -35,5 +35,9 @@ b. Sentient Bot can also moderate Live Conversations on the Foundation's comm sy
 <mark style="color:green;">b. A message containing personal information of a member(not fit for the forum's purpose or a conflict with the Foundation's</mark> [<mark style="color:green;">objectives</mark>](../../articles/objectives.md)<mark style="color:green;">, or</mark> \ <mark style="color:green;">c. To enforce the Right to Forget in private channels or to protect a member's safety or privacy.💁</mark>
 {% endhint %}
 
+Relevant Read:
+
+List of phrases that are banned for generative AI used in the digital public goods and services deployed on the defined Open Constitution Network. This list has been used in the virtual assistant: Sentient Bot. [https://github.com/muellners/Sentient-Bot-bannedphrases](https://github.com/muellners/Sentient-Bot-bannedphrases)
+
 
 
