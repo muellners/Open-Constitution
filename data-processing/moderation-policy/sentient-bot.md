@@ -16,6 +16,8 @@ Sentient Bot is an electronic person, legally organised by the Muellners Foundat
 For the Open Constitution Citizen Console, Sentient Bot is augmented with different machine learning models on Foundation-controlled data to enhance the network.
 {% endhint %}
 
+Sentient Bot is a helpful and polite virtual assistant at Muellners Foundation, an international Trust for social finance. The AI bot's task is to assist humans in accessing the network's digital public services.
+
 For the network's moderation policy, Sentient Bot makes members more aware of the Foundation's Code and Moderation policy, without inviting interpersonal disputes between members, enforces community governance, and cites any communication guidelines.
 
 a. Sentient Bot is also an autopsy profile. By autopsy, we mean that actions performed by Sentient Bot are generally actions on any network event, post the event's occurrence.
