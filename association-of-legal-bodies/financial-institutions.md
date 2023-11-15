@@ -94,56 +94,69 @@ However, the appointment of the Special Representative Appointee(s) shall surviv
 _<mark style="color:purple;">The Open Ballot proceedings govern the termination of the E Tenancy account, akin to the removal of a member from the Foundation, as if a violation of these Articles of Association of Legal Bodies has taken place or as if a voluntary removal from the Association is sought after,</mark>_&#x20;
 {% endhint %}
 
-## **5. Mediation and Arbitration Rights**
+## **5. OPEN TRIBUNAL**
+
+(i) Mediation and appointment of arbitrator:
+
+Any dispute/difference and/or claim arising out of or in connection with the legal interpretation of the Global Statutes or an interpretation of any subsequent agreement between the 'E Tenant' and any registered agent of the Foundation shall be resolved amicably between the authorized representatives of the disputing parties, failing which**:**
 
 {% hint style="info" %}
-(i) Mediation and appointment of arbitrator:&#x20;
+_<mark style="color:purple;">**Authorized Representatives:**</mark>_
 
-Any dispute/difference and/or claim arising out of or in connection with the legal interpretation of the Global Statutes, and any subsequent agreement between the 'E Tenant' of the Open Constitution AI Network, shall be resolved amicably between the authorized representatives of the disputing parties, failing which**:**
+_<mark style="color:purple;">Special Representative Appointee(s) (on behalf of E Tenant) or any other Representative duly appointed by the E-Tenant</mark>_
 
-_<mark style="color:purple;">**Authorized Representatives:**</mark>_&#x20;
-
-_<mark style="color:purple;">Special Representative Appointee(s) (on behalf of E Tenant)</mark>_
-
-_<mark style="color:purple;">Observation Council Body or a Committee(on behalf of the Public Association)</mark>_
-
-such dispute/difference and/or claim shall be resolved by the arbitration of a sole arbitrator, to be nominated and appointed to an [Open Tribunal](../foundation/open-tribunal.md), by the Observation Council of the Foundation, to which authorized representatives of E-Tenant may or may not be a member.&#x20;
-
-The appointment of the arbitrator and subsequent constitution of an [Open Tribunal](../foundation/open-tribunal.md) shall be ratified by the Executive Council.&#x20;
-
-(ii) Reappointment of arbitrator: In the event, that an arbitrator so appointed is unable to proceed with the arbitration proceedings for any reason whatsoever, this Observation Council, to which authorized representatives of E-Tenants may or may not be a member of, shall appoint another single arbitrator in his/her/their place, who shall become entitled to proceed with the arbitration proceeding from the state at which it was left by his predecessor.\
-
-
-(iii) Governing Law(s): The arbitration proceeding shall be governed by the provisions of the business laws in a jurisdiction where the Foundation has a Fiscal host and the E-Tenant is a Tax Resident.
-
-_<mark style="color:purple;">For if an Institution is in European Economic Area, then the Danish Arbitration Act 2005 and any statutory amendments thereof, as the network has a Registered Agent or Fiscal Host in EEA</mark>_
-
-(iv) Location: The venue of arbitration shall be the registered office of the network's Registered Agent or Fiscal Host, in the jurisdiction (where the Foundation has a Fiscal host and the Tenant is a Tax Resident)
-
-and if due to any reason, physical attendance of authorised representatives of both the parties and the appointed arbitrator is not possible, then the arbitration proceedings may take place via a recorded electronic communications system.\
-
-
-(v) Cost and binding arbitration: Any costs and fees other than attorney fees associated with the arbitration shall be shared equally by the disputing parties.&#x20;
-
-The award passed by the arbitrator shall be final and binding on the disputing parties. \
-
-
-Judgment upon the award rendered by the arbitrator([Open Tribunal](../foundation/open-tribunal.md)) may be entered in any court with jurisdiction to do so.
+_<mark style="color:purple;">Independent Board of the Fiscal Host of the Foundation</mark>_
 {% endhint %}
 
-6\. The [Executive Council](../foundation/executive-council.md) reserves the right to update the terms and conditions and policies of the network in consistent legal interpretation of the [Global Statutes](../articles/statutes-muellners-foundation/) from time to time, in compliance with the existing rules and regulations of the public association, including reserving the right to terminate the appointment of the Special Representative Appointee of the E-Tenant to the Observer's Council at any time, without notice and without the due electoral process of removal, explicitle when:
+such dispute/difference and/or claim shall be resolved by the arbitration of a sole arbitrator, to be nominated and appointed to an Open Tribunal, by the Observation Council of the Foundation, to which the authorized representatives of E-Tenant may or may not be a member.
+
+The Executive Council shall ratify the arbitrator's appointment and subsequent constitution of an Open Tribunal.
+
+{% hint style="info" %}
+_<mark style="color:purple;">Self-interest is not more significant than the Union’s interest. To limit the corruption of information integrity due to the bad actors seeping into the system as E-Tenant, it is essential to provide provisions for mediation and arbitration through the Global Statutes: Open Tribunal.</mark>_
+{% endhint %}
+
+(ii) Reappointment of arbitrator: In the event, that an arbitrator so appointed is unable to proceed with the arbitration proceedings for any reason whatsoever, this Observation Council shall appoint another single arbitrator in his/her/their place, who shall become entitled to proceed with the arbitration proceeding from the state at which his predecessor left it.
+
+{% hint style="info" %}
+_<mark style="color:purple;">It is important to note that the constitution of the Open Tribunal takes place from the Observation Council to which authorized representatives of E-Tenants may or may not be a member of, as consistent with the Article 2 above.</mark>_
+{% endhint %}
+
+(iii) Governing Law(s) for Arbitration: The arbitration proceeding shall be governed by the provisions of the business laws in a jurisdiction where the Foundation has a Fiscal host and the E-Tenant is a Tax Resident.
+
+{% hint style="info" %}
+_<mark style="color:purple;">For if an Institution is in European Economic Area, then the Danish Arbitration Act 2005 and any statutory amendments thereof, as the network has a Registered Agent or Fiscal Host in EEA</mark>_
+{% endhint %}
+
+(iv) Location: The venue of arbitration shall be the registered office of the network's Registered Agent or Fiscal Host in the jurisdiction (where the Foundation has a Fiscal host and the Tenant is a Tax Resident)
+
+and if, due to any reason, physical attendance of authorised representatives of both the parties and the appointed arbitrator is not possible, then the arbitration proceedings may take place via a recorded electronic communications system.
+
+(v) Cost and binding arbitration: Any costs and fees other than attorney fees associated with the arbitration shall be shared equally by the disputing parties.
+
+The award passed by the arbitrator shall be final and binding on the disputing parties.
+
+Judgment upon the award rendered by the arbitrator(Open Tribunal) may be entered in any court with jurisdiction to do so.
+
+**6. GOVERNING PROVISIONS:**
+
+The [Executive Council](../foundation/executive-council.md) reserves the right to update the terms and conditions and policies of the network consistent with the legal interpretation of the [Global Statutes](../articles/statutes-muellners-foundation/) from time to time, in compliance with the existing rules and regulations of the public association, including reserving the right to terminate the appointment of the Special Representative Appointee of the E-Tenant to the Observer's Council at any time, without notice and without the due electoral process of removal, explicitly when:
 
 _If the E-Tenant is found convicted of criminal, civil and financial crimes, in any court of competent jurisdiction, across the world, where the Foundation has an active presence, either through a legal body representation or an affiliate network(_where the Foundation has a Fiscal host).
 
+
+
+{% hint style="info" %}
 <mark style="color:purple;">Read more on the</mark> [<mark style="color:purple;">guiding principles & diversity statement</mark>](../guiding-principles.md) <mark style="color:purple;">of the Foundation here.</mark>&#x20;
 
 <mark style="color:purple;">Read more about the Foundation’s</mark> [<mark style="color:purple;">Code of Conduct</mark>](../charters/code-of-conduct.md) <mark style="color:purple;">here.</mark>&#x20;
 
 <mark style="color:purple;">The</mark> [<mark style="color:purple;">statutes</mark>](../articles/statutes-muellners-foundation/) <mark style="color:purple;">of the Foundation and terms and conditions governing its functioning can be found here.</mark>&#x20;
+{% endhint %}
 
-7. The members communicate via cryptographic electronic communications systems and technology tools. In connection with the electronic meetings convened by members of this council, the Foundation or Network's IT infrastructure shall only be used to record meeting minutes.&#x20;
+The members communicate via cryptographic electronic communications systems and technology tools. In connection with the electronic meetings convened by members of this council, the Foundation or Network's IT infrastructure shall only be used to record meeting minutes.&#x20;
 
-If the convention took place outside the Foundation’s communications infrastructure, then the meeting minutes must be brought back to the notice of the Executive Council.&#x20;
+If the Tenancy Convention proceedings took place outside the Contributions Delivery Subnet, then the meeting minutes must be brought back to the notice of the Executive Council, otherwise, the convention proceedings may not be generally admissible in the Global Statutes: Article 1: Open Convention
 
 {% hint style="info" %}
 <mark style="color:red;">**NOTICE:**</mark> [<mark style="color:red;">APPLY FOR ORG TENANCY</mark>](https://www.open-bank.org/organization-tenancy-open-constitution/)
