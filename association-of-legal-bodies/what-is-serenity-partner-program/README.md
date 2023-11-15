@@ -36,7 +36,7 @@ _<mark style="color:green;">Network Tenancy gives the tenants the opportunity to
 ###
 {% endhint %}
 
-### [**For Financial Institutions(FIs)**](financial-institutions.md)
+### [**For Financial Institutions(FIs)**](../financial-institutions.md)
 
 Banks, International Financial Institutions, and Multi-lateral development banks across the world are active financial services providers, through a fintech service.
 
@@ -48,7 +48,7 @@ Banks, International Financial Institutions, and Multi-lateral development banks
 <mark style="color:purple;">b. Loan Portfolio> EUR 100 mil, Asset under management(AUM) Book Size> EUR 500 mil</mark>&#x20;
 {% endhint %}
 
-### [**For Socio-economic Co-operatives**](socio-economic-co-op.md)
+### [**For Socio-economic Co-operatives**](broken-reference)
 
 Not-for-profit companies, voluntary associations, and Co-operatives, across the world get enrolled into the Open Constitution Partner Program. These partners are also eligible to qualify as ["Fiscal Hosts"](broken-reference) for the Foundation.
 
@@ -56,7 +56,7 @@ Not-for-profit companies, voluntary associations, and Co-operatives, across the 
 <mark style="color:purple;">**Eligibility:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">A duly recognised and registered Not-for-profit company with a focus on financial inclusion, social inclusion, and climate protection activities.</mark>
 {% endhint %}
 
-### [**For Educational Institutions**](academic-bodies.md)
+### [**For Educational Institutions**](../academic-bodies.md)
 
 Academic institutions across the world get enrolled in the Open Constitution Network Tenancy Program.
 
@@ -70,7 +70,7 @@ Academic institutions across the world get enrolled in the Open Constitution Net
 
 _Public Agreement: Case-specific agreements are signed and digitalised for public-facing records._
 
-### [For Inter-Government Agencies](public-agencies.md)
+### [For Inter-Government Agencies](../public-agencies.md)
 
 _Inter government agencies on the planet to advance research and development activities, advocacy of guiding principles of the Open Constitution Network._&#x20;
 
@@ -87,7 +87,7 @@ _Write to the Foundation's Help Center_ [_here_](https://openconstitution.atlass
 
 _Public Agreement: Case-specific agreements are signed and digitalised for public-facing records._&#x20;
 
-### [For Governments](public-agencies.md)
+### [For Governments](../public-agencies.md)
 
 Governments and government agencies on the planet, in any jurisdiction, to advance research and development activities, advocacy of guiding principles of the _Open Constitution Network_ and public policy discussions on technology governance.
 
@@ -97,11 +97,11 @@ _<mark style="color:purple;">**Eligibility:**</mark> <mark style="color:purple;"
 
 {% endhint %}
 
-### [**For Digital Services Companies**](digital-services-companies.md)&#x20;
+### [**For Digital Services Companies**](../digital-services-companies.md)&#x20;
 
 **Technology companies, such as Robotics, AI, Data Science, RnD, and Technical Assistance companies.**
 
-### [**For Digital Commerce**](digital-commerce.md)
+### [**For Digital Commerce**](../digital-commerce.md)
 
 Digital companies across the world**, are active financial services providers, and enablers of financial services through fintech, Research and Development, or technical services.**&#x20;
 
@@ -110,11 +110,11 @@ Digital companies across the world**, are active financial services providers, a
 
 Read More on How to Activate Org Tenancy in the knowledge base of [<mark style="color:blue;">**Open Bank here**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/overview)<mark style="color:blue;">**.**</mark>
 
-Also, Read [**Digital Services Credits**](digital-service-credits.md)
+Also, Read [**Digital Services Credits**](../digital-service-credits.md)
 
 &#x20;[**Premium Benefits**](https://docs.muellnersfoundation.info/serenity-partner-program/premium-benefits)
 {% endhint %}
 
 
 
-**Custodian:**  [**Steering Council**](../foundation/steering-council/)
+**Custodian:**  [**Steering Council**](../../foundation/steering-council/)

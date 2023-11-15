@@ -48,9 +48,10 @@
 
 ## Association of Legal Bodies
 
-* [🏅 Org Member: Network Tenancy for legal bodies](association-of-legal-bodies/what-is-serenity-partner-program.md)
+* [🏅 Org Member: Network Tenancy for legal bodies](association-of-legal-bodies/what-is-serenity-partner-program/README.md)
+  * [🏳 Introduction](association-of-legal-bodies/what-is-serenity-partner-program/introduction.md)
+  * [🏦 Governing Articles](association-of-legal-bodies/what-is-serenity-partner-program/financial-institutions.md)
 * [🏦 Financial Institutions](association-of-legal-bodies/financial-institutions.md)
-* [🧑🤝🧑 Socio-economic Co-op](association-of-legal-bodies/socio-economic-co-op.md)
 * [🤝 Digital Commerce](association-of-legal-bodies/digital-commerce.md)
 * [📔 Public Agencies](association-of-legal-bodies/public-agencies.md)
 * [📚 Academic Bodies](association-of-legal-bodies/academic-bodies.md)

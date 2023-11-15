@@ -1,16 +1,10 @@
 ---
 description: >-
-  This page explains articles for the empanelment of Financial Institutions(FI)
-  to Open Constitution AI Network Tenancy.
+  This page outlines the Governing Articles for the empanelment of a group of
+  natural persons(legal body) to Open Constitution AI Network Tenancy.
 ---
 
-# 🏦 Financial Institutions
-
-<mark style="color:red;">**Notice:**</mark> The Foundation invites groups of people: legal bodies such as Banks, International Financial Institutions, Multi-lateral development banks, and Central Banks, who are active financial services providers, regulated within the local law and those who enable one or more fintech services (s) to be empanelled on the Open Constitution AI Network Tenancy Registry.
-
-{% hint style="info" %}
-<mark style="color:purple;">Read about Eligibility and Benefits in th</mark><mark style="color:purple;">**e**</mark> [<mark style="color:purple;">**Open Bank Knowledge Base.**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/pages/36896848/Financial+Institutions+Tenancy)
-{% endhint %}
+# 🏦 Governing Articles
 
 ## Governing Articles:
 
@@ -36,7 +30,7 @@ Any such representation of a duty-bound nominee shall have received signatory ri
 _<mark style="color:purple;">An E-Tenant e.g. an institution may appoint e.g. a Board Committee or an Officer or an employee of the institution to the Observers Council.</mark>_
 {% endhint %}
 
-Any nomination, appointment, or termination of the representative shall follow the Articles of Association of Natural Persons: [Observers Council](../foundation/observers-council.md), and subsequently any change of representation shall also be ratified in accordance with the [Global Statutes](../articles/statutes-muellners-foundation/).
+Any nomination, appointment, or termination of the representative shall follow the Articles of Association of Natural Persons: [Observers Council](../../foundation/observers-council.md), and subsequently any change of representation shall also be ratified in accordance with the [Global Statutes](../../articles/statutes-muellners-foundation/).
 
 **2.1 ROLE OF A SPECIAL REPRESENTATIVE APPOINTEE(S) IN NETWORK TENANCY:**
 
@@ -77,7 +71,7 @@ If the Tenancy Convention proceedings took place outside the Contributions Deliv
 
 The members communicate via cryptographic electronic communications systems and technology tools. In connection with the electronic meetings convened by members of this council, the Foundation or Network's IT infrastructure shall only be used to record meeting minutes.
 
-<mark style="color:red;">**Notice:**</mark> Read the [Acceptable Usage Policy](../open-source-policies/acceptable-usage-policy.md)
+<mark style="color:red;">**Notice:**</mark> Read the [Acceptable Usage Policy](../../open-source-policies/acceptable-usage-policy.md)
 
 Read [Open Source Policy](broken-reference)
 {% endhint %}
@@ -144,18 +138,18 @@ Judgment upon the award rendered by the arbitrator(Open Tribunal) may be entered
 
 **6. GOVERNING PROVISIONS:**
 
-The [Executive Council](../foundation/executive-council.md) reserves the right to update the terms and conditions and policies of the network consistent with the legal interpretation of the [Global Statutes](../articles/statutes-muellners-foundation/) from time to time, in compliance with the existing rules and regulations of the public association, including reserving the right to terminate the appointment of the Special Representative Appointee of the E-Tenant to the Observer's Council at any time, without notice and without the due electoral process of removal, explicitly when:
+The [Executive Council](../../foundation/executive-council.md) reserves the right to update the terms and conditions and policies of the network consistent with the legal interpretation of the [Global Statutes](../../articles/statutes-muellners-foundation/) from time to time, in compliance with the existing rules and regulations of the public association, including reserving the right to terminate the appointment of the Special Representative Appointee of the E-Tenant to the Observer's Council at any time, without notice and without the due electoral process of removal, explicitly when:
 
 _If the E-Tenant is found convicted of criminal, civil and financial crimes, in any court of competent jurisdiction, across the world, where the Foundation has an active presence, either through a legal body representation or an affiliate network(_where the Foundation has a Fiscal host).
 
 
 
 {% hint style="info" %}
-<mark style="color:purple;">Read more on the</mark> [<mark style="color:purple;">guiding principles & diversity statement</mark>](../guiding-principles.md) <mark style="color:purple;">of the Foundation here.</mark>&#x20;
+<mark style="color:purple;">Read more on the</mark> [<mark style="color:purple;">guiding principles & diversity statement</mark>](../../guiding-principles.md) <mark style="color:purple;">of the Foundation here.</mark>&#x20;
 
-<mark style="color:purple;">Read more about the Foundation’s</mark> [<mark style="color:purple;">Code of Conduct</mark>](../charters/code-of-conduct.md) <mark style="color:purple;">here.</mark>&#x20;
+<mark style="color:purple;">Read more about the Foundation’s</mark> [<mark style="color:purple;">Code of Conduct</mark>](../../charters/code-of-conduct.md) <mark style="color:purple;">here.</mark>&#x20;
 
-<mark style="color:purple;">The</mark> [<mark style="color:purple;">statutes</mark>](../articles/statutes-muellners-foundation/) <mark style="color:purple;">of the Foundation and terms and conditions governing its functioning can be found here.</mark>&#x20;
+<mark style="color:purple;">The</mark> [<mark style="color:purple;">statutes</mark>](../../articles/statutes-muellners-foundation/) <mark style="color:purple;">of the Foundation and terms and conditions governing its functioning can be found here.</mark>&#x20;
 {% endhint %}
 
 
@@ -166,4 +160,4 @@ _If the E-Tenant is found convicted of criminal, civil and financial crimes, in 
 
 {% endhint %}
 
-Custodian: [**Executive Council**](../foundation/executive-council.md)&#x20;
+Custodian: [**Executive Council**](../../foundation/executive-council.md)&#x20;
