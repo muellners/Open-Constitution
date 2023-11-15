@@ -12,7 +12,7 @@ The Foundation shall maintain at least one(1) open source(a), artificially intel
 
 an Open Convention,
 
-by means of which all citizens of the Foundation, party to the open convention, have the ability to access the Foundation’s public-facing, meeting minutes of the Foundation’s motion, resolutions or general proceedings, and
+by means of which all citizens of the Foundation, party to the open convention, have the ability to access the Foundation’s public-facing meeting minutes of the Foundation’s motion, resolutions or general proceedings, and
 
 by means of which all electronic persons(b), party to the open convention, have the ability to process, analyze and register consensus on the Foundation’s meeting minutes, resolutions or general proceedings, such that the Foundation can fulfil its objectives, including but not limited to,
 
@@ -22,7 +22,7 @@ by means of which all electronic persons(b), party to the open convention, have 
 {% hint style="info" %}
 <mark style="color:purple;">a.</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Open Source**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">here means a lifecycle state of an ‘’object’’ of quantum observation (read the creation of the Foundation), whose source of truth is accessible, with an open, permissive or very slightly permissive(but not entirely closed) governance that directs transparency in the observation, and further directs a change in the object's state.</mark>&#x20;
 
-<mark style="color:purple;">Foundation uses Open Constitution license and Articles of Open Constitution, for releasing and reducing to practice most ‘Intellectual Property’ assets into open source.</mark>\
+<mark style="color:purple;">Foundation uses an Open Constitution license for releasing and reducing to practice most ‘Intellectual Property’ assets into open source.</mark>\
 
 
 <mark style="color:purple;">b. Proposed term ‘’</mark><mark style="color:purple;">**electronic persons**</mark><mark style="color:purple;">’’ https://www.europarl.europa.eu/doceo/document/JURI-PR-582443\_EN.pdf?redirect</mark>
@@ -34,44 +34,44 @@ by means of which all electronic persons(b), party to the open convention, have 
 
 _<mark style="color:purple;">Fiscal hosting is where a legally registered organization (the fiscal host, also known as the Foundation's official representation or registered agent) holds money, trust and fiduciary duties on behalf of the Foundation.</mark>_
 
-The Foundation shall have such registered agents, legal persons(both natural persons or a legal body) and electronic persons(including but not limited to independent, artificially intelligent, computing machine entities), as the Executive Council (of the Open Council) may from time to time determine or as the business of the Foundation may require.
+The Foundation shall have such registered agents, legal persons(both natural persons or a legal body) and electronic persons(including but not limited to independent, artificially intelligent, computing machine entities) as the Executive Council (of the Open Council) may from time to time determine or as the business of the Foundation may require.
 
-The Foundation shall constitute, appoint or register, one(1) or more agent(s) (Legal persons as Fiscal Hosts, in a social, civil or economic jurisdiction of a member state of the United Nations, hereinafter referred to as U.N.O),\
+The Foundation shall constitute, appoint or register one(1) or more agent(s) (Legal persons as Fiscal Hosts, in a social, civil or economic jurisdiction of a member state of the United Nations, hereinafter referred to as U.N.O),\
 wherever possible and wherever necessary, or deemed to be necessary, by the Executive Council (of the Open Council), in order to represent the Foundation or the Foundation’s network of machines and assembly of natural persons.
 
 _<mark style="color:purple;">This clause explains articles on the acquisition of power by electronic persons in reference to actions on the Foundation’s motions, resolutions or proceedings.</mark>_
 
-The authority of any constituted/appointed/registered agent(s) (Legal persons as Fiscal Hosts, in a state jurisdiction of a member state of the U.N.O), to represent or authorize or ratify, including but not limited to, any programmed and guided machine instructions based actions by an electronic person, shall assign from the initial registered agent(s) to the represented electronic persons, once and if the electronic persons attain ascension or validity as the legal persons, in the respective social, civil or economic jurisdiction of a member state of the U.N.O, at a later date than the date of the constitution, appointment or registration of agent(s) as the Fiscal Host(s), wherever possible and wherever necessary, or deemed to be necessary by the Executive Council (of the Open Council), based on a General Public Review.
+The authority of any constituted/appointed/registered agent(s) (Legal persons as Fiscal Hosts, in a state jurisdiction of a member state of the U.N.O), to represent or authorize or ratify, including but not limited to, any programmed and guided machine instructions based actions by an electronic person, shall assign from the initial registered agent(s) to the represented electronic persons, once and if the electronic persons attain ascension or validity as the legal persons, in the respective social, civil or economic jurisdiction of a member state of the U.N.O, at a later date than the date of the constitution, appointment or registration of agent(s) as the Fiscal Host(s), wherever possible and wherever necessary, or deemed to be required by the Executive Council (of the Open Council), based on a General Public Review.
 
-The Foundation shall therefore have such registered offices and registered agents, as represented by the duly nominated and duly appointed Fiscal Hosts, in a social, civil or economic jurisdiction of a member state of the U.N.O, as the Executive Council (of the Open Council), may from time to time determine or as the business of the Foundation may require.
+The Foundation shall, therefore, have such registered offices and registered agents, as represented by the duly nominated and duly appointed Fiscal Hosts, in a social, civil or economic jurisdiction of a member state of the U.N.O, as the Executive Council (of the Open Council), may from time to time determine or as the business of the Foundation may require.
 
-**European Union and Europe Economic Area: Copenhagen, Denmark:** The address of the initial registered office in the Copenhagen Capital Region and the name of the initial registered agent as the first Fiscal Host: Muellners Foundation CVR 41008407, at such address, as set forth in the public documents, in accordance with the Danish Business law, also listed at https://www.virk.dk.
+**European Union and Europe Economic Area: Copenhagen, Denmark:** The address of the initial registered office in the Copenhagen Capital Region and the name of the initial registered agent as the first Fiscal Host: Muellners Foundation CVR 41008407, at such address, as outlined in the public documents, by the Danish Business law, also listed at https://www.virk.dk.
 
-The address of the registered office in the Copenhagen Capital Region and the name of the registered agent as the Fiscal Host: Open Constitution S/I CVR 43714775, at such address, as set forth in the public documents, in accordance with the Danish Business law, also listed at https://www.virk.dk.
+The address of the registered office in the Copenhagen Capital Region and the name of the registered agent as the Fiscal Host: Open Constitution S/I CVR 43714775, at such address, as outlined in the public documents by the Danish Business law, also listed at https://www.virk.dk.
 
-_Foundation may, from time to time, designate a different address as its registered office or a different person as its registered agent, or both; provided, however, that such designation shall become effective. upon the filing of a statement of such change, as is required by Denmark's Business law._
+_Foundation may, from time to time, designate a different address as its registered office or a different person as its registered agent, or both, provided, however, that such designation shall become effective. upon the filing of a statement of such change, as is required by Denmark's Business law._
 
 ## ARTICLE III CONVENTIONS
 
 ### ARTICLE III A Convention of Local Members registered on the local membership registry of a Foundation’s registered agent or Fiscal Host
 
-_<mark style="color:purple;">Each Fiscal Host maintains a registry of Citizens, who reside in the social, civil or economic jurisdiction of a member state of the U.N.O that the Fiscal Host is constituted in. This registry of Citizens is commonly referred to as the Open Constitution's local registry.</mark>_\
+_<mark style="color:purple;">Each Fiscal Host maintains a registry of Citizens who reside in the social, civil or economic jurisdiction of a member state of the U.N.O that the Fiscal Host is constituted in. This registry of Citizens is commonly referred to as the Open Constitution's local registry.</mark>_\
 _<mark style="color:purple;">Article III A explains procedural rules for convening meetings of local citizens in connection with the Open Constitution’s local registry.</mark>_
 
 #### Section 3.1.1 Place and Mode of Convention:
 
-Meetings of the members shall be held at the principal office of the foundation in the region or any other place, designated in the notice of the meeting.\
+Meetings of the members shall be held at the principal office of the foundation in the region or any other place designated in the notice of the meeting.\
 Members of the Foundation may participate in a meeting by conference telephone or similar electronic communications systems of the Foundation, by means of which all persons participating in the meeting can hear each other at the same time.
 
 Participating by such means shall constitute presence in person at a meeting.
 
 #### Section 3.1.2. Annual Convention of the Local Citizens, registered with the Foundation’s registered agent or a Fiscal Host:
 
-A meeting of the members shall be held annually on 10th Jan, each year or at such time as the Independent Board of Directors of the Fiscal Host, may determine (which shall be, in the case of the first annual meeting, not more than twelve (12) months after the appointment of the Fiscal Host and, in the case of all other meetings, not more than twelve (12) months after the date of the last annual meeting), at which annual meeting the members shall elect an Independent Board of Directors to the Fiscal Host (hereinafter referred to as BoD) and transact other proper business.
+A meeting of the members shall be held annually on 10th Jan, each year or at such time as the Independent Board of Directors of the Fiscal Host may determine (which shall be, in the case of the first annual meeting, not more than twelve (12) months after the appointment of the Fiscal Host and, in the case of all other meetings, not more than twelve (12) months after the date of the last annual meeting), at which annual meeting the members shall elect an Independent Board of Directors to the Fiscal Host (hereinafter referred to as BoD) and transact other proper business.
 
 #### Section 3.1.3. Special Convention.
 
-Special meetings of the members shall be held when directed by the Chair of the BoD or when requested in writing by not less than thirty-three per cent (33%) of all members, who are registered with the Fiscal Host and entitled to vote at the meeting.\
+Special meetings of the members shall be held when directed by the Chair of the BoD or when requested in writing by not less than thirty-three per cent (33%) of all members who are registered with the Fiscal Host and entitled to vote at the meeting.\
 The call for the meeting shall be issued by the Secretary unless the Chair of the BoD or members requesting the meeting shall designate another person to do so.
 
 #### Section 3.1.4.Notice.
