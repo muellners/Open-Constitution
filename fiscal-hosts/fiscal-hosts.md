@@ -19,6 +19,8 @@ description: >-
 
 <mark style="color:green;">Fiscal Hosts also maintain local membership and beneficiary citizen registry.</mark> \ <mark style="color:green;">Fiscal Hosts maintain the Foundation's compliance with local business laws, besides holding trust and funds on behalf of the Muellners Foundation.</mark>
 
+Global Statutes prescribe Articles and instruments to Fiscal Hosts to fully address compliance of constituent legal bodies of this Public Association's activities in the local jurisdictions e.g. in the context of the Information Technology Acts, Cyber Security Laws, Legal Contract Binding Acts, Business Laws etc.
+
 \
 <mark style="color:blue;">Fiscal Host Legal Bodies and their members continue to independently work on the local advocacy of the Foundation's guiding principles.</mark>&#x20;
 

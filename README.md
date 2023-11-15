@@ -6,33 +6,39 @@ description: >-
 
 # 🎵 Introduction
 
-**Open Constitution AI**: An open-source, digital public goods and service system that is designed to operate with elements of autonomy and that, based on machine and/or human-provided data and inputs, infers how to achieve a given set of objectives using machine learning and/or logic- and knowledge-based approaches, and produces system-generated outputs, such as content, predictions, recommendations or decisions, which influences the environment, as per the network’s [Articles of Association](articles/statutes-muellners-foundation/).
+**What is Open Constitution AI?**
 
-**Open Constitution** AI runs based on self-governance principles and [Open Trust](charters/open-governance/open-trust-protocols.md) protocols, laid down in the network’s [Global Statutes](articles/statutes-muellners-foundation/).
+Open Constitution AI is a public information system that uses machine learning and knowledge-based approaches to achieve a given set of [objectives](articles/objectives.md).&#x20;
 
-**Open Constitution network** (hereby network): is a network of computing machines, with the purpose of self-sustaining a public information system, contributed by natural and legal persons from different time zones. The current network status is [here](https://status.muellners.com/).&#x20;
+{% hint style="info" %}
+This AI is powered by an **Embedded** **Knowledge Base(EKB).**
 
-“The network is a publicly accessible, spatial representation of Intellectual Property Estate of network participants i.e. natural persons, legal persons and electronic persons.”
+The **EKB** is like an integrated chip into a computing machine(read Robot). The AI services are accessibe through a public network, only if EKB is active.&#x20;
+
+EKBs are responsible for Knowledge integration whereby a process of synthesizing multiple knowledge models (or representations) into a common model (or representation).
+
+Different representations of **EKB** are made available by the Muellners Foundation - Knowledge Base or quantum chips or integrated chips or information signal processing guides.&#x20;
+
+“The **EKB** of the Open Constitution AI is further enhanced through a publicly accessible network, comprising representation of intangible, intellectual property of any participant.
+
+&#x20;The voluntary contributions can be made on the Contributions Delivery Subnet through the electronic residency or tenancy of the network.&#x20;
+
+Participants of the network are natural persons, legal persons and electronic persons.”
+
+The network is known as Open Constitution AI network(hereby network). The current network status is [here](https://status.muellners.com/).&#x20;
+{% endhint %}
+
+**In simpler words, Open Constitution AI network** runs on a knowledge base, which is alterable using self-governance principles and protocols, laid down in the network’s [Global Statutes](articles/statutes-muellners-foundation/).&#x20;
 
 <mark style="color:purple;">Articles of the Open Constitution are amendable.;</mark>
 
-<mark style="color:green;">The source code of Open Constitution governance protocols is released and reduced to practice, using an Open Constitution license.</mark>
-
-Read \[[Open Source Policy](open-source-policies/open-source-usage-and-delivery-policies.md)]
-
-Read [Amendments](readme/amendments.md).
-
 {% hint style="info" %}
-Open Constitution initiative operates across different regions of the world.
+**Global Statutes** is a library of articles, documents, instruments, and proclamations for the self governance of public Association of human and machine on the Open Constitution AI network.&#x20;
 
-These public-facing policy "instruments" and guidelines are based on the active harmonization of open governance laws, as articulated in this Open Constitution, including but not limited to bylaws and local statutes for the local communities of Open Constitution to fully address Local jurisdictions and Information Technology Acts, Cyber Security Laws, Legal Contract Binding Acts, Business Laws.
+This library is used in the active deployment of digital systems for Open Constitution AI governance protocols.&#x20;
 
-
-
-This literature is a library of articles/documents/instruments for open-source governance of a human-machine network on the Internet. This library is used in the active deployment of technical systems and Open Constitution AI-based governance protocols, based on the Articles listed in this library. &#x20;
+These public-facing policy "instruments" and guidelines are based on the active harmonization of the Global Statutes with legal principles and constructs, including but not limited to bylaws and local statutes for the natural persons of the network.&#x20;
 {% endhint %}
-
-
 
 {% hint style="info" %}
 Read [Legal Impressum](fiscal-hosts/legal-impressum/)
