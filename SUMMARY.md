@@ -48,15 +48,8 @@
 
 ## Association of Legal Bodies
 
-* [🏅 Org Member: Network Tenancy for legal bodies](association-of-legal-bodies/what-is-serenity-partner-program/README.md)
-  * [🏳 Introduction](association-of-legal-bodies/what-is-serenity-partner-program/introduction.md)
-  * [🏦 Governing Articles](association-of-legal-bodies/what-is-serenity-partner-program/financial-institutions.md)
-* [🏦 Financial Institutions](association-of-legal-bodies/financial-institutions.md)
-* [🤝 Digital Commerce](association-of-legal-bodies/digital-commerce.md)
-* [📔 Public Agencies](association-of-legal-bodies/public-agencies.md)
-* [📚 Academic Bodies](association-of-legal-bodies/academic-bodies.md)
-* [📚 Digital Services Companies](association-of-legal-bodies/digital-services-companies.md)
-* [🧘♀ Digital Service Credits](association-of-legal-bodies/digital-service-credits.md)
+* [🏳 Introduction](association-of-legal-bodies/introduction.md)
+* [🏦 E-Tenancy Bylaws](association-of-legal-bodies/financial-institutions.md)
 
 ## Charters
 

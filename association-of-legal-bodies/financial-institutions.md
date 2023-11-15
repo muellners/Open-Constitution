@@ -1,22 +1,16 @@
 ---
 description: >-
-  This page explains articles for the empanelment of Financial Institutions(FI)
-  to Open Constitution AI Network Tenancy.
+  This page outlines the Governing Articles for the empanelment of a group of
+  natural persons(legal body) to Open Constitution AI Network Tenancy.
 ---
 
-# 🏦 Financial Institutions
-
-<mark style="color:red;">**Notice:**</mark> The Foundation invites groups of people: legal bodies such as Banks, International Financial Institutions, Multi-lateral development banks, and Central Banks, who are active financial services providers, regulated within the local law and those who enable one or more fintech services (s) to be empanelled on the Open Constitution AI Network Tenancy Registry.
-
-{% hint style="info" %}
-<mark style="color:purple;">Read about Eligibility and Benefits in th</mark><mark style="color:purple;">**e**</mark> [<mark style="color:purple;">**Open Bank Knowledge Base.**</mark>](https://openconstitution.atlassian.net/wiki/spaces/ER1/pages/36896848/Financial+Institutions+Tenancy)
-{% endhint %}
+# 🏦 E-Tenancy Bylaws
 
 ## Governing Articles:
 
 ## **1. BENEFICIARY ACCESS**
 
-An  E-Tenant shall have an authenticated authorization to the data registry of the network's Embedded Knowledge Base(EKB) for beneficiaries who are natural persons, including but not limited to all of the natural persons who are affiliated with the E-Tenant_, in accordance with the local business laws._
+An  E-Tenant shall be accorded an authenticated authorization to the data registry of the network's Embedded Knowledge Base(EKB) for beneficiaries who are natural persons, including but not limited to all of the natural persons who are affiliated with the E-Tenant_, in accordance with the local business laws._
 
 > Beneficiary of the Institution may be an Officer, A Board Committee member, an employee or customer or consumer of the E-Tenant's international activity/industry code.
 >
@@ -82,7 +76,27 @@ The members communicate via cryptographic electronic communications systems and 
 Read [Open Source Policy](broken-reference)
 {% endhint %}
 
-## **4. DISSOLUTION OF NETWORK TENANCY**
+## 4. TOKENIZATION
+
+Subject to the covenants and provisions of the Article 1 above, the Foundation shall record and account the tokenized and authenticated authorization to the beneficiaries affiliated with the E-Tenants, through the provision of a token. The token shall be stated to expire and its validity shall be exhausted on the network upon the dissolution of the E-Tenancy, as is prescribed in the Article 5 below.
+
+{% hint style="info" %}
+**Digital Services Credits as Tokens:**
+
+_<mark style="color:purple;">Representative Appointees of E-Tenancy bodies shall activate a Project Tenancy Account in the Foundation’s</mark>_ [_<mark style="color:purple;">Open Bank Portal</mark>_](https://open-bank.org) _<mark style="color:purple;">to receive Digital Service Credits.</mark>_
+
+
+
+_<mark style="color:purple;">Digital Credits( hereby credits)</mark>_
+
+1. _<mark style="color:purple;">Credits record the authenticated authorization to the Open Constitution AI Network and the Tenancy Convention.</mark>_
+2. _<mark style="color:purple;">Credits are a record of E-Tenant service requests for availing dedicated and Managed services of the co-operative of the Foundation (read public association or the Open Constitution AI network services).</mark>_
+3. _<mark style="color:purple;">The Special Representative Appointee shall constitute a Tenancy Project whose underwriting, incubation, and</mark>_ _<mark style="color:purple;">governance proceedings shall be convened using the Articles of Association: Open Constitution.</mark>_
+{% endhint %}
+
+
+
+## **5. DISSOLUTION OF NETWORK TENANCY**
 
 It is at the discretion of the Executive Council or Steering Council to remove an E-Tenant from the Open Constitution Network.
 
@@ -98,7 +112,7 @@ However, the appointment of the Special Representative Appointee(s) shall surviv
 _<mark style="color:purple;">The Open Ballot proceedings govern the termination of the E Tenancy account, akin to the removal of a member from the Foundation, as if a violation of these Articles of Association of Legal Bodies has taken place or as if a voluntary removal from the Association is sought after,</mark>_&#x20;
 {% endhint %}
 
-## **5. OPEN TRIBUNAL**
+## **6. OPEN TRIBUNAL**
 
 (i) Mediation and appointment of arbitrator:
 
@@ -142,7 +156,7 @@ The award passed by the arbitrator shall be final and binding on the disputing p
 
 Judgment upon the award rendered by the arbitrator(Open Tribunal) may be entered in any court with jurisdiction to do so.
 
-**6. GOVERNING PROVISIONS:**
+## **7. GOVERNING PROVISIONS:**
 
 The [Executive Council](../foundation/executive-council.md) reserves the right to update the terms and conditions and policies of the network consistent with the legal interpretation of the [Global Statutes](../articles/statutes-muellners-foundation/) from time to time, in compliance with the existing rules and regulations of the public association, including reserving the right to terminate the appointment of the Special Representative Appointee of the E-Tenant to the Observer's Council at any time, without notice and without the due electoral process of removal, explicitly when:
 

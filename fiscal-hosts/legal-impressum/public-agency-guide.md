@@ -27,7 +27,7 @@ Public Facing Records are available [here](https://openconstitution.atlassian.ne
 
 The private, non-disclosable data may be accessible in the following ways:
 
-**Empanelled Public Agency:** If you are a member of a Public Agency which is already empanelled on the Open Constitution Network for [Public Agency Access](../../association-of-legal-bodies/public-agencies.md), any representative of your organisation with verified institutional access can open a ticket at the [Legal Resource Desk](https://help.portal.muellners.com/servicedesk/customer/portal/4) and review the Management Reports, and Foundation Fiscal records in the requested jurisdiction.&#x20;
+**Empanelled Public Agency:** If you are a member of a Public Agency which is already empanelled on the Open Constitution Network for [Public Agency Access](broken-reference), any representative of your organisation with verified institutional access can open a ticket at the [Legal Resource Desk](https://help.portal.muellners.com/servicedesk/customer/portal/4) and review the Management Reports, and Foundation Fiscal records in the requested jurisdiction.&#x20;
 
 **Regulatory Body without registration for network access:** If you are a member of a Public Agency which is not empanelled on the Open Constitution Network for Public Agency Access, you can open a ticket at the Legal Resource Desk for&#x20;
 
