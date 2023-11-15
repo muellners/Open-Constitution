@@ -795,7 +795,7 @@ _b. the Articles and Charter of the Open Constitution: Open Tribunal_,&#x20;
 
 as the same exists or may hereafter be amended, the members appointed to an Independent Board of Directors of a constituent registered agent (read Fiscal Host) of the Foundation shall not be personally liable to the Foundation or its members for monetary damages for breach of fiduciary duty as a director.
 
-### XI B LIMITS ON LIABILITY OF ELECTED MEMBERS OF OPEN COUNCIL BODIES
+### XI B LIMITS THE LIABILITY OF ELECTED MEMBERS OF OPEN COUNCIL BODIES
 
 To the fullest extent permitted by
 
