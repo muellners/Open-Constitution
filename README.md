@@ -6,7 +6,9 @@ description: >-
 
 # 🎵 Introduction
 
-Open Constitution AI is a public information system that uses machine learning and knowledge-based approaches to achieve&#x20;
+Open Constitution AI is a public information system that uses machine learning and knowledge-based approaches to achieve a set of [objectives](articles/objectives.md).
+
+
 
 {% hint style="info" %}
 This AI is powered by an **Embedded** **Knowledge Base(EKB).**
