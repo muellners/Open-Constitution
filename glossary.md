@@ -6,6 +6,18 @@ description: >-
 
 # 🈯 Glossary
 
+Open Constitution AI Network is a co-operative for knowledge, powered by an embedded neural map, a human readable representation of the creator’s sentience and human cognition.
+
+The self governed Artificial Intelligence is accessible across the planet as a public association. Members of the public association can benefit from the network intelligence by activating a data residency on the network.
+
+Creator - Muellners Foundation sustains the public information system to host digital public goods and services on the defined AI network for social good.
+
+The AI network is governed by a set of distributed, flexible, compatible, and censorship-resistant constitutional bodies, including the Open Council, which coordinate the actions of the AI to ensure transparent and secure governance of the neural map.
+
+Open Constitution AI network is defined as an extra territorial entity, an embodiment of a natural person’s legal personhood to publish their consciousness and exercise rights to exclusions to a private property, as enshrined in laws for freedom of voluntary organisation and private property.
+
+Open Constitution AI network supports and promotes principles such as privacy, apolitical stance, non-violence, ecological stability, sustainable development, and the creation of Earth's digital public goods infrastructure.
+
 {% hint style="info" %}
 _<mark style="color:purple;">**Glossary:**</mark>_
 
