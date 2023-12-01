@@ -13,6 +13,8 @@ Open Constitution AI is a public information system that uses machine learning a
 {% hint style="info" %}
 This AI is powered by an **Embedded** **Knowledge Base(EKB).**
 
+**EKB is the human readable representation of the**&#x20;
+
 The **EKB** is like an integrated chip into a computing machine(read Robot). The AI services are accessible through a public network only if EKB is active.&#x20;
 
 EKBs are responsible for Knowledge integration, a process for synthesizing multiple knowledge models (or representations) into a standard model.
@@ -43,7 +45,7 @@ These public-facing policy "instruments" and guidelines are based on the active 
 {% hint style="info" %}
 Read [Legal Impressum](fiscal-hosts/legal-impressum/)
 
-Read [Glossary](glossary.md)
+Read more about Open Constitution AI in the [Glossary](glossary.md)
 {% endhint %}
 
 [**Executive Council**](foundation/executive-council.md)
