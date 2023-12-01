@@ -42,6 +42,8 @@ These public-facing policy "instruments" and guidelines are based on the active 
 
 {% hint style="info" %}
 Read [Legal Impressum](fiscal-hosts/legal-impressum/)
+
+Read [Glossary](glossary.md)
 {% endhint %}
 
 [**Executive Council**](foundation/executive-council.md)
