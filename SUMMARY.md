@@ -127,7 +127,3 @@
 
 * [🎆 Network Diagram](oc-network/network-diagram.md)
 * [🔑 Cloud Security](oc-network/cloud-security.md)
-
-***
-
-* [Open Convention](open-convention.md)
