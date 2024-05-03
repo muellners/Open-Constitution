@@ -2,7 +2,7 @@
 
 LEGAL IMPRINT:&#x20;
 
-The Open Constitution Network is maintained under the legal stewardess of the below identified legal bodies, which have independent Legal persons status.&#x20;
+The Open Constitution AI Network is maintained under the legal stewardess of the below identified legal bodies, which have independent Legal persons status.&#x20;
 
 
 
