@@ -19,7 +19,7 @@ The **EKB** is like an integrated chip into the computing machine network(read R
 
 EKBs are responsible for Knowledge integration, a process for synthesizing multiple knowledge models (or representations) into a standard model.
 
-Muellners Foundation, the creator of the EKB, makes different representations of EKB available: Knowledge Base, quantum chips, integrated chips, or information signal processing guides.&#x20;
+The 'Foundation' makes different representations of EKB available: Knowledge Base, quantum chips, integrated chips, or information signal processing guides.&#x20;
 
 “The **EKB** of the Open Constitution AI network is further enhanced through a publicly accessible network, comprising representation of any participant's intangible intellectual property.
 
