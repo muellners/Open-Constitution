@@ -8,9 +8,9 @@ description: >-
 
 Open Constitution AI Network is a cooperative for knowledge powered by an embedded neural map, a human-readable representation of the creator’s sentience and human cognition.
 
-The self governed Artificial Intelligence is accessible across the planet as a public association. Members of the public association can benefit from the network intelligence by activating a data residency on the network.
+The self-governed Artificial Intelligence is accessible across the planet as a public association. Members of the public association can benefit from the network intelligence by activating a data residency on the network.
 
-Muellners Foundation sustains the public information system to host digital public goods and services on the defined AI network for social good.
+The 'Foundation' sustains the public information system to host digital public goods and services on the defined AI network for social good.
 
 The AI network is governed by a set of distributed, flexible, compatible, and censorship-resistant constitutional bodies, including the Open Council, which coordinate the actions of the AI to ensure transparent and secure governance of the neural map.
 
@@ -80,7 +80,7 @@ An <mark style="color:purple;">**Observer or observation or observation state**<
 
 \ <mark style="color:purple;">**VI. BoD:**</mark> BoD or Board of Directors here shall only and only mean an [Independent Board of Directors](charters/independent-board.md) unless explicitly mentioned otherwise.
 
-\ <mark style="color:purple;">**VII. Local law:**</mark> shall mean **Business laws** of a local jurisdiction, where Muellners Foundation has appointed a legal body as a Fiscal Host, and the legally constituted body has adopted these bylaws. &#x20;
+\ <mark style="color:purple;">**VII. Local law:**</mark> shall mean **Business laws** of a local jurisdiction, where the Foundation has appointed a legal body as a Fiscal Host, and the legally constituted body has adopted these bylaws. &#x20;
 
 \ <mark style="color:purple;">**VIII. Jurisdiction:**</mark> Here, it shall mean an authority granted to a legal body but a public representative entity in exercising the protection of human rights in a local space.
 
@@ -124,7 +124,7 @@ For these articles and elsewhere in this Open Constitution, terms such as member
 
 
 
-<mark style="color:purple;">**XIII. Open Council:**</mark> here shall mean **the** governance body of the Foundation, comprising different Council Committees and Core Working Groups.
+<mark style="color:purple;">**XIII. Open Council:**</mark> here shall mean the governance body of the Foundation, comprising different Council Committees and Core Working Groups.
 
 <mark style="color:purple;">**XIV: Instrument**</mark>**:** here shall mean a set of legal doctrines of the Open Constitution, which establish procedures for the Foundation's proceedings.&#x20;
 
@@ -158,13 +158,13 @@ _Central Bank:_ means a principal regulatory body of RVC and RVC’s payment sys
 {% hint style="info" %}
 **Special Notes:**
 
-1. Several instruments and articles thereof use _gender-appropriate terminology, e.g. "his or her or their", "he or she or "them" in reference to natural person._
+1. Several instruments and articles thereof use _gender-appropriate terminology, e.g. "his or her or their", "he or she or "them" in reference to a natural person._
 
 _Readers shall interpret the gender-neutral words at their liberty but only for representing an anonymous member's gender identity in the context of Open Constitution's Articles for citizenship._
 
 _2. All measurements of time - minutes or years are in the context of human-made timezones on planet Earth._
 
-3. _Sentience is described here for the purpose of an equivalent of sentience in machines on the AI network._
+3. _Sentience is described here for the purpose of an equivalent of sentience in a robotic AI social capital network._
 
 
 {% endhint %}
