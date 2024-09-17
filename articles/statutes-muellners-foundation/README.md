@@ -23,7 +23,7 @@ _<mark style="color:purple;">Each Fiscal Host adopts these bylaws either as a wh
 1. <mark style="color:green;">**Constitution of Fiscal Hosts:**</mark>&#x20;
 
 Empanelment of the legal body - Fiscal Host takes place by the Independent Board of the Foundation, based on the counsel of the [Advisory Committee](../../foundation/advisory-council.md).  \
-The appointment of a Fiscal Host can be subsequently ratified by any of the pre-constituted [Independent Board](../../charters/independent-board.md)s of any of the existing "Fiscal Hosts" of the Muellners Foundation.
+The appointment of a Fiscal Host can be subsequently ratified by any of the pre-constituted [Independent Board](../../charters/independent-board.md)s of any of the existing "Fiscal Hosts" of the Foundation.
 
 <mark style="color:green;">**2. Appointment of Fiscal Host's Independent Board:**</mark>
 
@@ -74,10 +74,7 @@ Please read the **LIVE** public-facing record of the Global Statutes on the next
 {% hint style="info" %}
 * [ ] <mark style="color:purple;">Global Statutes were under Public Review(Request for Comments) from Feb 16, 2022, to March 16, 2022.</mark>&#x20;
 * [ ] <mark style="color:purple;">Global Statutes were under Public Review(Request for Comments) from Dec 9, 2022, to Dec 23, 2022, for an effective date of Dec 23, 2022. (extended to Dec 31st, 2022)</mark>&#x20;
-
-<mark style="color:purple;">Check this relevant link for any General public discussions.</mark>\
-[<mark style="color:purple;">https://muellners.discourse.group/t/public-discussion-and-suggestions-on-global-statutes/30</mark>](https://muellners.discourse.group/t/public-discussion-and-suggestions-on-global-statutes/30)
 {% endhint %}
 
-**Custodian:** [**Independent Board**](../../charters/independent-board.md)**, Muellners Foundation, Denmark**\
+**Custodian:** [**Independent Board**](../../charters/independent-board.md)**, Open Constitution, Denmark**\
 Credits: Articles are inspired by best practices in open-source organisations.\
