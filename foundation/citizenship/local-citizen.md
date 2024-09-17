@@ -11,7 +11,7 @@ description: This page describes the local citizenship on the Open Constitution 
 
 <mark style="color:green;">**Registrar:**</mark> [Steward Groups](../steward-group.md) of a regional [Fiscal Host/Node](broken-reference)
 
-<mark style="color:purple;">**All natural persons, registered with the "Subscription", "Global" and "Local" registries, acquire an "ordinary voluntary membership" status with Foundation's Fiscal Host in a local jurisdiction.**</mark>
+<mark style="color:purple;">**All natural persons, registered with the "Subscription", "Global" and "Local" registries, acquire an "ordinary voluntary membership" status with the Foundation's Fiscal Host in a local jurisdiction.**</mark>
 
 <mark style="color:purple;">"Ordinary voluntary membership" status is strictly based on the residency of the human on the planet Earth.(table below for representation)</mark>
 
@@ -23,7 +23,6 @@ _Note: Local Citizens are also termed as "**Ordinary members**", in this open co
 | ----------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🇪🇺EEA(European Economic Area)                 | Ordinary voluntary membership  | <p><strong>i</strong>ncluding e-residencies and for residents of member states in European Union<br>Fiscal Host: Open Constitution S/I, Denmark<br></p> |
 | 🇮🇳Republic of India                           | Ordinary voluntary membership  | Fiscal Host: Legal Body Registration Change                                                                                                             |
-| 🇺🇬Republic of Uganda                          | Ordinary voluntary membership  | Fiscal Host: KISA, Uganda                                                                                                                               |
 | 🇺🇳For all the other residents of Planet Earth | Subscribed Membership only     |                                                                                                                                                         |
 
 {% hint style="info" %}
