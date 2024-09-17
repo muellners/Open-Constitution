@@ -20,14 +20,14 @@ description: >-
 
 
 
-<mark style="color:red;">Note: Registries are a type of ledger system, where Open Constitution fiscal hosts maintains its records.</mark>\ <mark style="color:red;">Registrar is the official body of the Open Constitution, which maintains these Registry.</mark>
+<mark style="color:red;">Note: Registries are a type of ledger system, where Open Constitution fiscal hosts maintain its records.</mark>\ <mark style="color:red;">Registrar is the official body of the Open Constitution, which maintains these registries.</mark>
 {% endhint %}
 
 {% hint style="info" %}
 
 
 {% hint style="info" %}
-<mark style="color:green;">Citizenship is self regulated within the means and provisions of:</mark>
+<mark style="color:green;">Citizenship is self-regulated within the means and provisions of:</mark>
 
 <mark style="color:green;">a. Fiscal Host's compliance levels with this Open Constitution,</mark>&#x20;
 
@@ -36,15 +36,12 @@ description: >-
 <mark style="color:green;">Read more about</mark> [<mark style="color:green;">**Fiscal Hosts**</mark>](../../fiscal-hosts/fiscal-hosts.md)<mark style="color:green;">.</mark>
 {% endhint %}
 
-\
-The first [**Fiscal Host**](../../fiscal-hosts/fiscal-hosts.md) was incorporated as <mark style="color:green;">Muellners "frivillig forening" Foundation,</mark> a voluntary association, in accordance with the Danish Business Authority in 2019.
 
-<mark style="color:green;">Networked legal bodies have thereafter, self constituted across the planet, in the form of Fiscal Hosts.</mark>&#x20;
+
+<mark style="color:green;">Networked legal bodies are thereafter, self-constituted across the planet, in the form of Fiscal Hosts to document the AI network's activities.</mark>
 {% endhint %}
 
-![An illustration of citizenship type, membership status, & type of registries.](<../../.gitbook/assets/Image from iOS.jpg>)
-
-
+![An illustration of citizenship type, membership status, & type of registries.](../../.gitbook/assets/memberships.jpg)
 
 ### [A. SUBSCRIBED MEMBERS: ](subscription-registry.md)
 
