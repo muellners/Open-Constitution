@@ -6,15 +6,15 @@ description: >-
 
 # ™️ Brand Usage Policy
 
-Most of our work is released with an appropriate open source license.&#x20;
 
-There are still few objects of Intellectual Property which are protected. On this page are these marks, which can be used when citing Muellners Foundation.&#x20;
 
 ## Logos:
 
-&#x20;Please download the following logo for the Muellners Foundation.
+&#x20;Please use the following logo for any Foundation digital public services.
 
-![Foundation Logo](../.gitbook/assets/logo\_final.png)
+<figure><img src="../.gitbook/assets/oclogo-2.png" alt=""><figcaption><p>Foundation logo 1</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/oclogo.png" alt=""><figcaption><p>Foundation Logo 2</p></figcaption></figure>
 
 Please download the following logo for the Finscale project.
 
