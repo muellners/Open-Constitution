@@ -10,7 +10,7 @@ description: >-
 
 ## **1. BENEFICIARY ACCESS**
 
-An  E-Tenant shall be accorded an authenticated authorization to the data registry of the network's Embedded Knowledge Base(EKB) for beneficiaries who are natural persons, including but not limited to all of the natural persons who are affiliated with the E-Tenant_, in accordance with the local business laws._
+An  E-Tenant shall be accorded an authenticated authorization to the data registry of the network's Embedded Knowledge Base(EKB) for beneficiaries who are natural persons, including but not limited to all of the natural persons who are affiliated with the E-Tenan&#x74;_, in accordance with the local business laws._
 
 > Beneficiary of the Institution may be an Officer, A Board Committee member, an employee or customer or consumer of the E-Tenant's international activity/industry code.
 >
@@ -20,7 +20,7 @@ An  E-Tenant shall be accorded an authenticated authorization to the data regist
 
 ## **2. APPOINTMENT OF A SPECIAL REPRESENTATIVE:**&#x20;
 
-An E-Tenant shall nominate and appoint at least one(1) representative member(a natural person or a group of natural persons who are affiliated with the E-Tenant_, in accordance with the local business laws)_ to the Open Constitution body: **Observers Council.**&#x20;
+An E-Tenant shall nominate and appoint at least one(1) representative member(a natural person or a group of natural persons who are affiliated with the E-Tenan&#x74;_, in accordance with the local business laws)_ to the Open Constitution body: **Observers Council.**&#x20;
 
 Any such representation shall be duly authorised by the governing body of the _E-Tenant_ in accordance with the local law.
 
@@ -116,7 +116,7 @@ _<mark style="color:purple;">The Open Ballot proceedings govern the termination 
 
 (i) Mediation and appointment of arbitrator:
 
-Any dispute/difference and/or claim arising out of or in connection with the legal interpretation of the Global Statutes or an interpretation of any subsequent agreement between the 'E Tenant' and any registered agent of the Foundation shall be resolved amicably between the authorized representatives of the disputing parties, failing which**:**
+Any dispute/difference and/or claim arising out of or in connection with the legal interpretation of the Global Statutes or an interpretation of any subsequent agreement between the 'E Tenant' and any registered agent of the Foundation shall be resolved amicably between the authorized representatives of the disputing parties, failing whic&#x68;**:**
 
 {% hint style="info" %}
 _<mark style="color:purple;">**Authorized Representatives:**</mark>_
@@ -160,7 +160,7 @@ Judgment upon the award rendered by the arbitrator(Open Tribunal) may be entered
 
 The [Executive Council](../foundation/executive-council.md) reserves the right to update the terms and conditions and policies of the network consistent with the legal interpretation of the [Global Statutes](../articles/statutes-muellners-foundation/) from time to time, in compliance with the existing rules and regulations of the public association, including reserving the right to terminate the appointment of the Special Representative Appointee of the E-Tenant to the Observer's Council at any time, without notice and without the due electoral process of removal, explicitly when:
 
-_If the E-Tenant is found convicted of criminal, civil and financial crimes, in any court of competent jurisdiction, across the world, where the Foundation has an active presence, either through a legal body representation or an affiliate network(_where the Foundation has a Fiscal host).
+_If the E-Tenant is found convicted of criminal, civil and financial crimes, in any court of competent jurisdiction, across the world, where the Foundation has an active presence, either through a legal body representation or an affiliate network(_&#x77;here the Foundation has a Fiscal host).
 
 
 
@@ -175,7 +175,7 @@ _If the E-Tenant is found convicted of criminal, civil and financial crimes, in 
 
 
 {% hint style="info" %}
-<mark style="color:red;">**NOTICE:**</mark> [<mark style="color:red;">APPLY FOR ORG TENANCY</mark>](https://www.open-bank.org/organization-tenancy-open-constitution/)
+<mark style="color:red;">**NOTICE:**</mark> [<mark style="color:red;">APPLY FOR OPEN-BANKID</mark>](https://open-bank.net) <mark style="color:red;">for Organisations</mark>
 
 
 {% endhint %}
