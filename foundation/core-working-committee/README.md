@@ -57,7 +57,7 @@ _<mark style="color:purple;">**Self Governance:**</mark>_ <mark style="color:pur
 
 <mark style="color:purple;">Treasury CWC(call announced for active Fiscal Hosts)</mark>\
 \
-_<mark style="color:green;">**Primary Role:**</mark>_ <mark style="color:green;"></mark><mark style="color:green;">Members appointed to the Independent CWC, contribute to the core functioning of a specific Open Council Committee.</mark>\
+&#xNAN;_<mark style="color:green;">**Primary Role:**</mark>_ <mark style="color:green;"></mark><mark style="color:green;">Members appointed to the Independent CWC, contribute to the core functioning of a specific Open Council Committee.</mark>\
 \ <mark style="color:green;">Independent CWCs are a self-governing, autonomous constitutional body. The fundamental roles of these</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Independent CWCs</mark>_ <mark style="color:green;"></mark><mark style="color:green;">are listed on the pages further describing each of them.</mark>&#x20;
 
 <mark style="color:green;">Independent CWCs appointed to a specific Open Council Committee also maintain the specific Council Committee's lifecycle.</mark>\
@@ -70,6 +70,6 @@ _<mark style="color:green;">**Self Governance:**</mark>_ <mark style="color:gree
 \ <mark style="color:green;">All the members of a specific Open Council Committee ratify the proposed constitution of an Independent CWC, affiliated with them.</mark>&#x20;
 {% endhint %}
 
-Read [**Community Guidelines**](https://docs.muellnersfoundation.info/open-constitution/cwc-nominations-guide) on CWC Nominations**.**
+Read [**Community Guidelines**](https://docs.muellnersfoundation.info/open-constitution/cwc-nominations-guide) on CWC Nomination&#x73;**.**
 
 **Custodian:** [**Election Council**](../election-council.md)

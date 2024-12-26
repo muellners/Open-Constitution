@@ -62,7 +62,7 @@ a. A Chancellor is responsible for the direction of the Foundation's open-source
 
 b. Council Committees act as counsel to the Chancellor, well within each committee's guidelines roles.
 
-c. A Chancellor is impeachable and if the Executive Committee decides then a Vice Chancellor may also be appointed**.** &#x20;
+c. A Chancellor is impeachable and if the Executive Committee decides then a Vice Chancellor may also be appointe&#x64;**.** &#x20;
 {% endhint %}
 
 

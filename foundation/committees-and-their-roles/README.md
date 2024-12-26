@@ -13,7 +13,7 @@ _<mark style="color:purple;">In the Open Council, representatives of different C
 
 {% endhint %}
 
-**The Open Council** **ensures **_**safe, secure and transparent**_ [**Open Governance**](../../charters/open-governance/)**, maintenance of the Foundation's "**[**Objectives**](../../articles/objectives.md)**" and public-facing documentation of "Project" roadmaps.**
+**The Open Council** **ensures&#x20;**_**safe, secure and transparent**_ [**Open Governance**](../../charters/open-governance/)**, maintenance of the Foundation's "**[**Objectives**](../../articles/objectives.md)**" and public-facing documentation of "Project" roadmaps.**
 
 Open Council members come from diverse fields and sectors and are elected to the Council.&#x20;
 

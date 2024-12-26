@@ -12,7 +12,7 @@ Voting on key change requests is a democratic process w.r.t Muellners Foundation
 
 The vote also takes place when nominations, appointments, removals to Open Council Committees or **Right to Protest** are initiated.
 
-Other issues where Votes take place are <mark style="color:red;">**Impeachment of the Open Council Committee Presidents and Chancellors**</mark>**, **<mark style="color:purple;">**Community Referendums**</mark>, and the <mark style="color:green;">Vote of Confidence</mark>.
+Other issues where Votes take place are <mark style="color:red;">**Impeachment of the Open Council Committee Presidents and Chancellors**</mark>**,&#x20;**<mark style="color:purple;">**Community Referendums**</mark>, and the <mark style="color:green;">Vote of Confidence</mark>.
 
 {% hint style="info" %}
 <mark style="color:purple;">For nominations, appointments and removal of Open Council Committee members, the Foundation is moving towards an Election Schedule by the end of 2023.</mark>&#x20;

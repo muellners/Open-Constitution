@@ -38,7 +38,7 @@ _An Independent Board member may also invoke an Open Council Vote._
 
 <mark style="color:green;">At least 11 members shall participate in the Council Resolution for the "Council Vote" to achieve a quorum. This is the qualifying state for the Council Resolution to be logged on the</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Open Constitution</mark>_ <mark style="color:green;"></mark><mark style="color:green;">public ledger.</mark>\ <mark style="color:green;">For any Council Resolution to be electorally approved, the "Council Vote" should receive at least half of the total votes(required for quorum), in favour of any Council Resolution.</mark>\
 \
-_<mark style="color:green;">So, in this example, six (+1) votes of the participating 11 Council members will do the job.</mark>_<mark style="color:green;">😒</mark> &#x20;
+&#xNAN;_<mark style="color:green;">So, in this example, six (+1) votes of the participating 11 Council members will do the job.</mark>_<mark style="color:green;">😒</mark> &#x20;
 {% endhint %}
 
 Remember to note that the Muellners Foundation is a lateral organised association. \

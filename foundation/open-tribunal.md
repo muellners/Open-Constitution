@@ -81,7 +81,7 @@ _<mark style="color:purple;">Depending on whether a fee is applicable, the case 
 
 
 
-_<mark style="color:purple;">**E1.**</mark>_ <mark style="color:purple;">**For the Foundation's project,**</mark><mark style="color:purple;">** **</mark>_<mark style="color:purple;">**i.e. a commercial activity undertaken or controlled by the Foundation:**</mark>_
+_<mark style="color:purple;">**E1.**</mark>_ <mark style="color:purple;">**For the Foundation's project,**</mark><mark style="color:purple;">**&#x20;**</mark>_<mark style="color:purple;">**i.e. a commercial activity undertaken or controlled by the Foundation:**</mark>_
 
 _<mark style="color:purple;">Depending on the applicable business laws of local jurisdictions, relevant to the case, and structural integrity of the associated local as well as international arbitration laws</mark>_<mark style="color:purple;">**,**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">the</mark> _<mark style="color:purple;">Open Tribunal processes a binding resolution.</mark>_
 

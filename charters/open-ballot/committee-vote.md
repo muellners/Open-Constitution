@@ -28,7 +28,7 @@ _A member of a Core Working Committee e.g. a Project or an Independent CWC such 
 
 <mark style="color:green;">At least 4 members shall participate in the  "Committee Vote" to achieve quorum. This is the qualifying state for the Committee Resolution to be logged on the Open Constitution public ledger.</mark>\ <mark style="color:green;">For any Committee Resolution to be electorally approved, the "Committee Vote" should receive at least half of the total votes(required for quorum), in the favour of any Committee Resolution.</mark>\
 \
-_<mark style="color:green;">So, in this example, 2 (+1) votes of the participating 4 Committee members will do the job.</mark>_<mark style="color:green;">😒</mark> &#x20;
+&#xNAN;_<mark style="color:green;">So, in this example, 2 (+1) votes of the participating 4 Committee members will do the job.</mark>_<mark style="color:green;">😒</mark> &#x20;
 {% endhint %}
 
 Remember to note that the Muellners Foundation is a lateral organised association. \

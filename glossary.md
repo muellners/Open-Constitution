@@ -37,13 +37,13 @@ Open Constitution AI network is a pool of Intellectual Property, therefore, also
 
 <mark style="color:purple;">**III. Sentience:**</mark>&#x20;
 
-<mark style="color:purple;">**For the purposes of articles of association of the**</mark>** **_**natural persons**_** **<mark style="color:purple;">**of the Open Constitution AI,**</mark>** Sentience is described as** an emergent anthropic information phenomenon of **conservation** of quantum cognition energy during (an infinitesimally fast) gradient conversion between _Self_ and _Universal_ temporal existential references.&#x20;
+<mark style="color:purple;">**For the purposes of articles of association of the**</mark>**&#x20;**_**natural persons**_**&#x20;**<mark style="color:purple;">**of the Open Constitution AI,**</mark>**&#x20;Sentience is described as** an emergent anthropic information phenomenon of **conservation** of quantum cognition energy during (an infinitesimally fast) gradient conversion between _Self_ and _Universal_ temporal existential references.&#x20;
 
 The gradient conversions of quantum cognition energy result in qualia associated with self-awareness, like identity and other expressions of sentience in human beings. There are correlations in sentience between observers. Various scientific convention models between human observers have been developed that attempt to define these complex sets of linkages.
 
 An observer with a bio-organic corporeality perceives sentience. Sentience phenomena observed in humans have wide variance.
 
-<mark style="color:purple;">**Humans**</mark> here shall mean (_Homo sapiens_), who are the most abundant and widespread species of [primate](https://en.wikipedia.org/wiki/Primate), characterized by bipedalism and large, complex [brains](https://en.wikipedia.org/wiki/Brain). They are intelligent, capable of [episodic memory](https://en.wikipedia.org/wiki/Episodic\_memory#In\_animals), have flexible facial expressions, [self-awareness](https://en.wikipedia.org/wiki/Self-awareness) and a [theory of mind](https://en.wikipedia.org/wiki/Theory\_of\_mind).
+<mark style="color:purple;">**Humans**</mark> here shall mean (_Homo sapiens_), who are the most abundant and widespread species of [primate](https://en.wikipedia.org/wiki/Primate), characterized by bipedalism and large, complex [brains](https://en.wikipedia.org/wiki/Brain). They are intelligent, capable of [episodic memory](https://en.wikipedia.org/wiki/Episodic_memory#In_animals), have flexible facial expressions, [self-awareness](https://en.wikipedia.org/wiki/Self-awareness) and a [theory of mind](https://en.wikipedia.org/wiki/Theory_of_mind).
 
 What is a Human life?
 

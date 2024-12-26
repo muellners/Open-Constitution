@@ -22,14 +22,14 @@ description: This is the Open Source Policy of the network.
 {% hint style="info" %}
 Muellners Foundation and its affiliate companies, subsidiaries and foreign branches including member bodies from the Open Constitution Network Tenancy Program, independent data processors, make use of and support an ecosystem of open source technologies to deliver and maintain the digital public goods and services on the Open Constitution network.\
 \
-_Some of these services have a direct relationship with Foundation’s open-source initiatives while other services have an indirect dependency on the use of specific open-source projects._\
-_Some services may simply be part of third-party maintained distributions, licensed under one of the open-source licenses. (as indicated in the charter below)_
+&#xNAN;_&#x53;ome of these services have a direct relationship with Foundation’s open-source initiatives while other services have an indirect dependency on the use of specific open-source projects._\
+&#xNAN;_&#x53;ome services may simply be part of third-party maintained distributions, licensed under one of the open-source licenses. (as indicated in the charter below)_
 {% endhint %}
 
 ### A. List of open source projects:
 
 _**A1. Supported/Assessed Third party Open Source Projects: (Since 2019)**_\
-_<mark style="color:purple;">Note for editors to this section: Only those projects listed below where the Foundation maintains Dedicated and Managed Services (post-incubation stage)</mark>_
+&#xNAN;_<mark style="color:purple;">Note for editors to this section: Only those projects listed below where the Foundation maintains Dedicated and Managed Services (post-incubation stage)</mark>_
 
 | Third Party Project   |                                                              Governing License and Maintainer                                                              |                         Governing License for Foundation's Contributions                        |
 | --------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
@@ -39,7 +39,7 @@ _<mark style="color:purple;">Note for editors to this section: Only those projec
 | WooCommerce           |                                                      GNU GPL v3, [Autommatic](https://automattic.com)                                                      |                                               N/a                                               |
 | Moodle                |                                                                           GNU GPL                                                                          |                                               N/a                                               |
 
-_**A2. Foundation maintained open source service/distribution:**                                                                                                      _ &#x20;
+_**A2. Foundation maintained open source service/distribution:**                                                                                                     &#x20;_&#x20;&#x20;
 
 <table><thead><tr><th width="163">Service</th><th>Governing License(s)</th><th width="174">OC License Compatibility with</th><th>Project Governing Body</th></tr></thead><tbody><tr><td><a href="open-source-usage-and-delivery-policies.md#g.-rules-governing-direct-delivery-of-work">Finscale</a> Distribution</td><td><a href="https://license.openconstitution.us/">Open Constitution License</a></td><td>Apache 2.0, Mozilla Public License </td><td>Finscale CWC</td></tr><tr><td><a href="https://www.muellners.org/openpodcast/">Open Podcast</a></td><td><a href="https://license.openconstitution.us/">Open Constitution License </a></td><td>Creative Commons</td><td>Media Council</td></tr><tr><td><a href="https://muellnersfoundation.net">Muellners Foundation School</a></td><td><a href="https://license.openconstitution.us/">Open Constitution License</a></td><td>GNU GPL</td><td>Steering Council</td></tr><tr><td><a href="https://councilpost.org">CouncilPost</a></td><td><a href="https://license.openconstitution.us/">Open Constitution License</a></td><td>Creative Commons</td><td>Media Council</td></tr><tr><td><a href="https://open-bank.org">Open-Bank.org</a></td><td><a href="https://license.openconstitution.us/">Open Constitution License</a><br></td><td>GNU GPL</td><td>Treasury Council</td></tr></tbody></table>
 
@@ -76,7 +76,7 @@ At the application level, source code changes including system re-engineering, f
 
 Creating and publishing documentation such as research papers, and white papers on a part or whole of an OSS project (both engineered or re-engineered) including but not limited to technical architectural diagrams, workflow diagrams, generic business logic documentation, wiki, support forum documentation, assist documentation, helpbook etc.
 
-**WORK 3: **_**Derivative Documentation on**_** Foundation-supported FOSS project**_**:**_&#x20;
+**WORK 3:&#x20;**_**Derivative Documentation on**_**&#x20;Foundation-supported FOSS project**_**:**_&#x20;
 
 Creating and publishing baseline documentation on independently engineered components including but not limited to wiki, support forum documentation, technical architectural diagrams, assist documentation, helpbook etc.
 

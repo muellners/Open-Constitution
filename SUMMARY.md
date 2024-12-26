@@ -1,6 +1,7 @@
 # Table of contents
 
-* [🎵 Introduction](README.md)
+* [Governance Docs](README.md)
+* [🎵 Introduction](<README (1).md>)
   * [🧰 Amendments](readme/amendments.md)
 * [🈯 Glossary](glossary.md)
 * [☮️ Guiding Principles](guiding-principles.md)

@@ -102,7 +102,7 @@ Attendance by a person at a meeting shall constitute a waiver of notice of such 
 #### Section 3.1.7.Fixing Record Date.
 
 \
-_<mark style="color:purple;">Association powers vested in Article III A: Section 3.1.7 Fixing Record Date detail the event of recording any convention proceedings on Open Constitution's Open Convention Registry.</mark>_
+&#xNAN;_<mark style="color:purple;">Association powers vested in Article III A: Section 3.1.7 Fixing Record Date detail the event of recording any convention proceedings on Open Constitution's Open Convention Registry.</mark>_
 
 (a) For the purpose of determining members entitled to notice of or to vote at any meeting of members or any adjournment thereof, the BoD may fix a record date, which record date shall not precede the date upon which the resolution fixing the record date is adopted by the Board of Directors, and which record date shall not be more than 60 nor less than 15 days before the date of such meeting.\
 If no record date is fixed by the BoD, the record date for determining members entitled to notice of or to vote at a meeting of members shall be at the close of business on the day next preceding the day on which notice is given, or, if notice is waived, at the close of business on the day next preceding the day on which the meeting is held.\
@@ -704,7 +704,7 @@ The authority of any constituted/appointed/registered agent(s) (Legal persons as
 ## ARTICLE VII BOOKS, RECORDS AND DIGITAL IDENTITY REGISTRY
 
 \
-_<mark style="color:purple;">Association powers vested in Article VII Section 7.1, 7.2 and 7.3 guide the governance lifecycle of Open Constitution Membership registries.</mark>_
+&#xNAN;_<mark style="color:purple;">Association powers vested in Article VII Section 7.1, 7.2 and 7.3 guide the governance lifecycle of Open Constitution Membership registries.</mark>_
 
 #### &#x20;Section 7.1. Books, Records and Identity Registries on the Open Constitution Network:
 

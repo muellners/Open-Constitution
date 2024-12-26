@@ -8,7 +8,7 @@ description: >-
 
 These ar e the guiding principles for all natural persons, legal persons(bodies), and electronic persons who adopt the Global Statutes: Open Constitution.
 
-> **Read about Humans** (_Homo sapiens_) who are the most abundant and widespread [species](https://en.wikipedia.org/wiki/Species) of [primate](https://en.wikipedia.org/wiki/Primate), characterized by [bipedalism](https://en.wikipedia.org/wiki/Bipedality) and large, complex [brains](https://en.wikipedia.org/wiki/Brain). They are intelligent, capable of [episodic memory](https://en.wikipedia.org/wiki/Episodic\_memory#In\_animals), have flexible facial expressions, [self-awareness](https://en.wikipedia.org/wiki/Self-awareness) and a [theory of mind](https://en.wikipedia.org/wiki/Theory\_of\_mind).&#x20;
+> **Read about Humans** (_Homo sapiens_) who are the most abundant and widespread [species](https://en.wikipedia.org/wiki/Species) of [primate](https://en.wikipedia.org/wiki/Primate), characterized by [bipedalism](https://en.wikipedia.org/wiki/Bipedality) and large, complex [brains](https://en.wikipedia.org/wiki/Brain). They are intelligent, capable of [episodic memory](https://en.wikipedia.org/wiki/Episodic_memory#In_animals), have flexible facial expressions, [self-awareness](https://en.wikipedia.org/wiki/Self-awareness) and a [theory of mind](https://en.wikipedia.org/wiki/Theory_of_mind).&#x20;
 >
 >
 
@@ -61,7 +61,7 @@ Network bases its work against racial discrimination on the “The Declaration o
 
 [United Nations Human Rights](https://www.ohchr.org/en/professionalinterest/pages/cerd.aspx)
 
-[United Nations Declaration of Race and Racial Prejudice](https://www.un.org/en/genocideprevention/documents/atrocity-crimes/Doc.11\_declaration%20on%20race%20and%20racial%20prejudice.pdf)
+[United Nations Declaration of Race and Racial Prejudice](https://www.un.org/en/genocideprevention/documents/atrocity-crimes/Doc.11_declaration%20on%20race%20and%20racial%20prejudice.pdf)
 
 
 {% endhint %}
@@ -90,7 +90,7 @@ Network bases its work against racial discrimination on the “The Declaration o
 [Read more on relevant literature on gender studies here](https://www.digest.ugent.be).
 {% endhint %}
 
-## **IV. **<mark style="color:green;">**Sexual Orientation:**</mark>&#x20;
+## **IV.&#x20;**<mark style="color:green;">**Sexual Orientation:**</mark>&#x20;
 
 <mark style="color:green;">No human should be subjected to any sexual identity-based exclusion.</mark> \ <mark style="color:green;">Network believes that all human beings have the freedom to express their sexual orientation, without fear of hostility.</mark>
 
@@ -161,7 +161,7 @@ _The Foundation is a non-religious organisation and therefore promotes a healthy
 Read [UN Security Council Resolutions here](https://www.un.org/securitycouncil/content/resolutions-0).
 {% endhint %}
 
-## VIII**. Ecological Stability:**
+## VII&#x49;**. Ecological Stability:**
 
 {% hint style="info" %}
 <mark style="color:green;">Not only is adverse climate change real but we are also working towards reversing it by supporting green initiatives and carbon neutrality.</mark>&#x20;
@@ -190,7 +190,7 @@ Foundation asserts and advocates research and development, humanitarian aid acti
 {% hint style="info" %}
 Network bases its research and development work on the United Nations Framework Convention on Climate Change.&#x20;
 
-[Read more here](https://unfccc.int/files/essential\_background/background\_publications\_htmlpdf/application/pdf/conveng.pdf)&#x20;
+[Read more here](https://unfccc.int/files/essential_background/background_publications_htmlpdf/application/pdf/conveng.pdf)&#x20;
 {% endhint %}
 
 {% hint style="info" %}

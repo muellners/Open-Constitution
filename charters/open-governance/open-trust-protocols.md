@@ -31,7 +31,7 @@ There are two types of Staging protocols:
 >
 > _Audit_
 
-> **II. State Staging **_**Protocols (related to state of a community contract)**_&#x20;
+> **II. State Staging&#x20;**_**Protocols (related to state of a community contract)**_&#x20;
 >
 > Active
 >

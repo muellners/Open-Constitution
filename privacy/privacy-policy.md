@@ -261,7 +261,7 @@ More specifically, we may need to process your data or share your personal infor
 * **Other Users.** When you share personal information (for example, by posting comments, contributions or other content to the Sites or Apps) or otherwise interact with public areas of the Sites or Apps, such personal information may be viewed by all users and may be publicly distributed outside the Sites or Apps in perpetuity. If you interact with other users of our Sites or Apps and register through a social network (such as Facebook), your contacts on the social network will see your name, profile photo, and descriptions of your activity. Similarly, other users will be able to view descriptions of your activity, communicate with you within our Sites or Apps, and view your profile.    &#x20;
 
 **4. WHO WILL YOUR INFORMATION BE SHARED WITH?** \
-_**In Short:**_** ** _We only share information with the following third parties._    We only share and disclose your information with the following third parties. We have categorized each party so that you may easily understand the purpose of our data collection and processing practices. If we have processed your data based on your consent and you wish to revoke your consent, please contact us. &#x20;
+&#xNAN;_**In Short:**_**&#x20;** _We only share information with the following third parties._    We only share and disclose your information with the following third parties. We have categorized each party so that you may easily understand the purpose of our data collection and processing practices. If we have processed your data based on your consent and you wish to revoke your consent, please contact us. &#x20;
 
 * **Advertising, Direct Marketing, and Lead Generation**\
   Google AdSense
@@ -367,7 +367,7 @@ If we are relying on your consent to process your personal information, you have
 
 _**If you are a resident of the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority.**_&#x20;
 
-You can find their contact details here: [http://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.htm)&#x20;
+You can find their contact details here: [http://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm)&#x20;
 
 _**If you are a resident of the Republic of India and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority.**_&#x20;
 

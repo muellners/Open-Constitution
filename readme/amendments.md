@@ -23,7 +23,7 @@ description: This page explains how to bring amendments to this Open Constitutio
 > [https://github.com/muellners/Open-Constitution](https://github.com/muellners/Open-Constitution)
 
 _**Open Constitution Global Statutes are divided into different constitutional bodies.**_ \
-_Articles of association for each constitutional body of the Open Constitution are detailed and presented on a single page of this Open Constitution._&#x20;
+&#xNAN;_&#x41;rticles of association for each constitutional body of the Open Constitution are detailed and presented on a single page of this Open Constitution._&#x20;
 
 _Each page is, therefore, known as a single **instrument** of the Open Constitution._&#x20;
 

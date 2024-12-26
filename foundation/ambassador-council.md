@@ -59,7 +59,7 @@ description: >-
 
 {% hint style="info" %}
 <mark style="color:green;">1. All members of the Ambassador Council shall meet at least once a year, to appoint amongst themselves:</mark> \
-_<mark style="color:red;">an "Impeachable" President of the Youth Wing and an "Impeachable" President of the General Wing.</mark>_ \
+&#xNAN;_<mark style="color:red;">an "Impeachable" President of the Youth Wing and an "Impeachable" President of the General Wing.</mark>_ \
 <mark style="color:green;">Presidents of both Wings shall represent the Ambassador Council of the Muellners Foundation</mark>&#x20;
 
 President(s) shall meet the Executive Council of the Open Council, on behalf of the Ambassador Council, on an ongoing basis;\
@@ -122,7 +122,7 @@ A Council Resolution <mark style="color:green;">**"Vote IN"**</mark> is then sch
 
 <mark style="color:green;">At least 11 members shall participate in the Council Resolution for the "Vote IN" to achieve a quorum. This is the qualifying state for the Council Resolution to be logged on the Open Constitution public ledger.</mark>\ <mark style="color:green;">For the appointment to be electorally approved, the "Vote IN" should receive at least half of the total votes(required for quorum), in favour of this Council Resolution.</mark>\
 \
-_<mark style="color:green;">So, in this example, six (+1) votes of the participating 11 Ambassador Council members will do the job.</mark>_<mark style="color:green;">😒</mark> &#x20;
+&#xNAN;_<mark style="color:green;">So, in this example, six (+1) votes of the participating 11 Ambassador Council members will do the job.</mark>_<mark style="color:green;">😒</mark> &#x20;
 {% endhint %}
 
 6.4 Appointment to the Ambassador Council is published on the public-facing records of the Muellners Foundation and members are encouraged to link public affiliations to the Foundation.
@@ -143,7 +143,7 @@ _<mark style="color:green;">So, in this example, six (+1) votes of the participa
 
 <mark style="color:red;">At least 11 members shall participate in the Council Resolution for "Vote OUT" to achieve a quorum. This is the qualifying state for the Council Resolution to be locked on the Open Constitution public ledger.</mark>\ <mark style="color:red;">For the removal to be electorally approved for the next stage, the</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Vote OUT"**</mark> <mark style="color:red;"></mark><mark style="color:red;">should receive at least half of the total votes(required for quorum), in favour of this Council Resolution.</mark>\
 \
-_<mark style="color:red;">So, in this example, six (+1) votes of the participating 11 Ambassador Council members will do the job.</mark>_<mark style="color:red;">😒</mark> &#x20;
+&#xNAN;_<mark style="color:red;">So, in this example, six (+1) votes of the participating 11 Ambassador Council members will do the job.</mark>_<mark style="color:red;">😒</mark> &#x20;
 {% endhint %}
 
 A strong reason for violation of Muellners Foundation’s governing policies and directives must be provided by member(s) initiating the resolution, to support the Ambassador Council resolution “Vote OUT”.&#x20;
