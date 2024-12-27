@@ -31,6 +31,7 @@
   * [🧞‍♂️ Steering CWCs](foundation/steering-council/project-cwcs/README.md)
     * [🐺 Open Bank CWC](foundation/steering-council/project-cwcs/serenity-cwc.md)
     * [🏧 Finscale CWC](foundation/steering-council/project-cwcs/finscale-cwc.md)
+* [Bylaws: Open Council](foundation/bylaws-open-council.md)
 * [🙋 Advisory Council](foundation/advisory-council.md)
 * [🔭 Observers Council](foundation/observers-council.md)
 * [🎓 Legal Council](foundation/legal-council.md)
