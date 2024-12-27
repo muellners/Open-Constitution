@@ -6,7 +6,7 @@ description: >-
 
 # 📵 Data Security Council
 
-**The role of the Data Security Council is to act on the Foundation's citizen privacy, security and enforcement of data protection rights of Muellners Foundation's community on its several public initiatives.** \
+**The role of the Data Security Council is to act on the Foundation's citizen privacy, security and enforcement of data protection rights of the Foundation's community on its several public initiatives.** \
 **This Council works on data security regulations, concerning communications policies.**
 
 {% hint style="info" %}
@@ -21,7 +21,7 @@ These members publish opinion articles on the Foundation's data protection resea
 
 The members appointed to the Data Security Council generally stay on this committee for a fixed period.
 
-The members of the Data Security Council may nominate and appoint several Steward Groups, linked to the Fiscal Hosts of the Muellners Foundation as their fiduciary duty. Read more on the [Steward group here](steward-group.md).
+The members of the Data Security Council may nominate and appoint several Steward Groups, linked to the Fiscal Hosts of the Foundation as their fiduciary duty. Read more on the [Steward group here](steward-group.md).
 
 The members of the Data Security Council shall also participate in forming Independent Core Working Groups like Open Bank CWC or Media CWC.
 
@@ -53,7 +53,7 @@ The Executive Council reserves the right to reject or release the meeting minute
 
 **Open Constitution Governance Framework:**&#x20;
 
-4\. Muellners Foundation runs itself with a decentralised governance system. Therefore, the role of the Data Security Council is to work with the other Open Council bodies in steering the Foundation’s self-governance model, inscribed into the Foundation's Open Constitution.&#x20;
+4\. Foundation runs itself with a decentralised governance system. Therefore, the role of the Data Security Council is to work with the other Open Council bodies in steering the Foundation’s self-governance model, inscribed into the Foundation's Open Constitution.&#x20;
 
 The [Executive Council](executive-council.md) ratifies the Data Security Council’s Resolutions.&#x20;
 
