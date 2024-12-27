@@ -26,7 +26,7 @@ Independent Boards are constituted in different jurisdictions:
 
 | Region                                               | Legal Body Name                                                                                                                     | Board Members                                                                |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| European Economic Area (EEA)                         | [Open Constitution S/I](https://datacvr.virk.dk/enhed/virksomhed/43714775?fritekst=open%20constitution%20S/I\&sideIndex=0\&size=10) | Lara Isabella Muellner, Anka Phoenix Muellner                                |
+| European Economic Area (EEA)                         | [Open Constitution S/I](https://datacvr.virk.dk/enhed/virksomhed/43714775?fritekst=open%20constitution%20S/I\&sideIndex=0\&size=10) | Anka Phoenix Muellner                                                        |
 | [**India**](https://india.muellnersfoundation.org)   | <mark style="color:red;">To be updated</mark>                                                                                       | Ongoing <mark style="color:red;">Compliance Review by 31st March 2024</mark> |
 | [**Uganda**](https://uganda.muellnersfoundation.org) | Fiscal localization not supported anymore                                                                                           | Read more [here](https://or.muellnersfoundation.com/ge/uganda)               |
 
