@@ -47,6 +47,6 @@ General guidelines on appointment of Steward Group is to constitute member compo
 
 
 
-**Custodian:** [**Executive Council**](executive-council.md)
+**Custodian:** [**Executive Council**](../foundation/executive-council.md)
 
 &#x20;

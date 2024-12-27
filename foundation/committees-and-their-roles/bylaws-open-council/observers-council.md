@@ -32,7 +32,7 @@ Generally recorded on a monthly basis through an electronic meeting with the Exe
 
 1.2 When recorded through the member’s presence in the Foundation’s monthly Council meetings, or&#x20;
 
-1.3 When participating through the [Independent Board](../../charters/independent-board.md)'s private mailing list on any Council vote, at least once a month. &#x20;
+1.3 When participating through the [Independent Board](../../../charters/independent-board.md)'s private mailing list on any Council vote, at least once a month. &#x20;
 
 The Observation Council plays a central role in observing, advancing and promoting the Foundation's advocacy of its guiding principles.\
 Therefore, a vote of confidence may be scheduled to register the attendance of the Observation Council members.
@@ -52,9 +52,9 @@ The Executive Council reserves the right to reject or release the meeting minute
 
 Observation Council works with all the Open Council members with respect to the Foundation’s projects, spokesmanship of its advocacy and maintaining open source projects, licensing and infrastructure.&#x20;
 
-The [Executive Council](../executive-council.md) ratifies the Observer Council’s Resolutions.&#x20;
+The [Executive Council](../../executive-council.md) ratifies the Observer Council’s Resolutions.&#x20;
 
-The [Independent Board](../../charters/independent-board.md) then ensures ratification of any amendments to this constitution, governance and steering of the Foundation, based on Executive Counsel’s public reports.
+The [Independent Board](../../../charters/independent-board.md) then ensures ratification of any amendments to this constitution, governance and steering of the Foundation, based on Executive Counsel’s public reports.
 
 The chair of the Observation Council may also get elected to an [Open Tribunal](applewebdata://1A42225F-61F8-4746-A38B-9E37E1F74DC6/o/iUCZA8KkVwLfzEQmzt2z/s/-M7ZWDJpXmmuN-OjdQRl/~/changes/qf7vPuAaGbevpFCeAbez/foundation/open-tribunal), registered on the Open Constitution Governance System for arbitrations between disputing members of the Foundation.
 
@@ -66,13 +66,13 @@ The chair of the Observation Council may also get elected to an [Open Tribunal](
 
 6.1 **Nomination:** The following members can officially nominate an existing member of the Foundation to the Observation Council:&#x20;
 
-6.1 a. An elected member of the [Executive Council](../executive-council.md) or of the [Advisory Council](advisory-council.md) or of this Observers Council.
+6.1 a. An elected member of the [Executive Council](../../executive-council.md) or of the [Advisory Council](advisory-council.md) or of this Observers Council.
 
 6.1 b. A non-Council member can also request a nomination, in the form of a community proposal. The Nomination action shall be officially initiated by the only members mentioned in above 6.1 “a”.&#x20;
 
 6.2 Self-nomination by (an already elected) member of one of the bodies of the Open Council for his/her/their appointment to the Observers Council is not acceptable.
 
-Self-nomination by an existing non-Council member of the Foundation, for his/her/their appointment to the Observation Council is not acceptable. [Please read more](../../charters/open-governance/peer-review.md).\
+Self-nomination by an existing non-Council member of the Foundation, for his/her/their appointment to the Observation Council is not acceptable. [Please read more](../../../charters/open-governance/peer-review.md).\
 \
 6.3 Once the nomination is accepted by the Nominee, the Nominee or the member nominating the nominee, shall file supporting information such as the nominee's literature, publications, and demonstration of social activities on the Foundation's Membership Registry.&#x20;
 
@@ -142,15 +142,15 @@ A member may resign from the Observer Council by stating the reasons for resigna
 
 **Miscellaneous:**
 
-10\. The [Independent Board](../../charters/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate the appointment to this Council at any time, without notice and without the due electoral process of removal, in the following scenario:
+10\. The [Independent Board](../../../charters/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate the appointment to this Council at any time, without notice and without the due electoral process of removal, in the following scenario:
 
 _If the member is found convicted of criminal, civil and financial crimes, in any court of competent jurisdiction, across the world, where the Foundation has an active presence, either through a legal body representation or an affiliate network._
 
-Read more on the [guiding principles & diversity statement](../../guiding-principles.md) of the Foundation here.&#x20;
+Read more on the [guiding principles & diversity statement](../../../guiding-principles.md) of the Foundation here.&#x20;
 
-Read more about the Foundation’s [Code of Conduct](../../charters/code-of-conduct/) here.&#x20;
+Read more about the Foundation’s [Code of Conduct](../../../charters/code-of-conduct/) here.&#x20;
 
-11\. The [statutes](../../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here. The Independent Board reserves the right to dissolve the whole Observers Council and initiate the constitution of a new Observers Council.
+11\. The [statutes](../../../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here. The Independent Board reserves the right to dissolve the whole Observers Council and initiate the constitution of a new Observers Council.
 
 12\. The network members communicate via cryptographic electronic communications systems and technology tools.
 
@@ -163,9 +163,9 @@ If the meeting took place outside the Foundation’s communications infrastructu
 {% hint style="info" %}
 (i) Mediation and appointment of arbitrator:&#x20;
 
-Any dispute/difference and/or claim arising out of or in connection with an agreement between the participant organisations of the [Open Constitution Network Tenancy Program](broken-reference) shall be resolved amicably between the authorized representatives of the disputing parties, failing which such dispute/difference and/or claim shall be resolved by the arbitration of a sole arbitrator, to be nominated and appointed to an [Open Tribunal](../open-tribunal.md), by this Observation Council of the Foundation, to which authorized representatives of participant organisations may or may not be a member of.&#x20;
+Any dispute/difference and/or claim arising out of or in connection with an agreement between the participant organisations of the [Open Constitution Network Tenancy Program](broken-reference) shall be resolved amicably between the authorized representatives of the disputing parties, failing which such dispute/difference and/or claim shall be resolved by the arbitration of a sole arbitrator, to be nominated and appointed to an [Open Tribunal](../../open-tribunal.md), by this Observation Council of the Foundation, to which authorized representatives of participant organisations may or may not be a member of.&#x20;
 
-The appointment of the arbitrator and subsequent constitution of an [Open Tribunal](../open-tribunal.md) shall be ratified by the relevant Independent Board of the Foundation.&#x20;
+The appointment of the arbitrator and subsequent constitution of an [Open Tribunal](../../open-tribunal.md) shall be ratified by the relevant Independent Board of the Foundation.&#x20;
 
 (ii) Reappointment of arbitrator: In the event, that an arbitrator so appointed is unable to proceed with the arbitration proceedings for any reason whatsoever, this Observation Council, to which authorized representatives of participant organisations may or may not be a member, shall appoint another single arbitrator in his/her/their place, who shall become entitled to proceed with the arbitration proceeding from the state at which it was left by his predecessor.\
 
@@ -178,10 +178,10 @@ Danish Arbitration Act 2005 and any statutory amendments thereof.\
 (iv) Location: The venue of arbitration shall be Copenhagen and if due to any reason, physical attendance of authorised representatives of both the parties and the appointed arbitrator is not possible, then the arbitration proceedings may take place via recorded electronic communications system.\
 
 
-(v) Cost and binding arbitration: Any costs and fees other than attorney fees associated with the arbitration shall be shared equally by the disputing parties. The award passed by the arbitrator shall be final and binding on the disputing parties. [Read more on Case Processing Fees here. ](../open-tribunal.md)\
+(v) Cost and binding arbitration: Any costs and fees other than attorney fees associated with the arbitration shall be shared equally by the disputing parties. The award passed by the arbitrator shall be final and binding on the disputing parties. [Read more on Case Processing Fees here. ](../../open-tribunal.md)\
 
 
-Judgment upon the award rendered by the arbitrator([Open Tribunal](../open-tribunal.md)) may be entered in any court with jurisdiction to do so.
+Judgment upon the award rendered by the arbitrator([Open Tribunal](../../open-tribunal.md)) may be entered in any court with jurisdiction to do so.
 
 
 {% endhint %}
@@ -192,4 +192,4 @@ Judgment upon the award rendered by the arbitrator([Open Tribunal](../open-tribu
 <mark style="color:purple;">Upon a successful nomination and having received a passed</mark> <mark style="color:green;">**Council Resolution "Vote IN",**</mark>**&#x20;**<mark style="color:purple;">**a**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">new Open Council member should file their supporting documents to the Open Constitution Membership Registry. A private link is generated by the Open Constitution system.</mark>
 {% endhint %}
 
-**Custodian:** [**Election Council**](../election-council.md)\
+**Custodian:** [**Election Council**](../../election-council.md)\

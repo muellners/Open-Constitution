@@ -16,7 +16,7 @@ Member(s) may feel that they did not receive enough representation from the elec
 <mark style="color:purple;">**To activate "Right to Protest", the eligible conditions are:**</mark>
 
 1. <mark style="color:purple;">Member has floated a community proposal.</mark> &#x20;
-2. <mark style="color:purple;">The community proposal was subscribed to by the</mark> [<mark style="color:purple;">Project CWC</mark>](../../foundation/bylaws-open-council/steering-council/project-cwcs/)<mark style="color:purple;">.</mark>
+2. <mark style="color:purple;">The community proposal was subscribed to by the</mark> [<mark style="color:purple;">Project CWC</mark>](../../foundation/committees-and-their-roles/bylaws-open-council/steering-council/project-cwcs/)<mark style="color:purple;">.</mark>
 3. &#x20;<mark style="color:purple;">The community Proposal was subsequently rejected by the Project CWC and adequate reasons were supplied for the rejection of the proposal.</mark>
 4. <mark style="color:purple;">The community Proposal is "Inactive" and the associated change request is currently in a "Rejected" state.</mark>\
    \ <mark style="color:purple;">If the members feel that their community proposal did not receive a representation then a member can activate the "Right to Protest".</mark>

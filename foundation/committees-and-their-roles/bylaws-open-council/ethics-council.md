@@ -23,7 +23,7 @@ description: >-
 
 1.2 When recorded through the member’s presence in the Foundation’s monthly Council meetings, or&#x20;
 
-1.3 When participating through the [Independent Board](../../charters/independent-board.md)'s private mailing list on any Open Council vote, at least once a month.&#x20;
+1.3 When participating through the [Independent Board](../../../charters/independent-board.md)'s private mailing list on any Open Council vote, at least once a month.&#x20;
 
 2\. The Ethics Council members may choose to meet the Executive Council or other members through an electronic meeting, in addition to the monthly Council meetings, to contribute to their roles and responsibilities.&#x20;
 
@@ -37,9 +37,9 @@ The Executive Council reserves the right to reject or accept the meeting minutes
 
 4\. The Open Constitution network runs itself with a decentralized governance model. The Ethics Committee works with the other Council members concerning the Foundation’s ethics, and social values in the Foundation's initiatives and projects.&#x20;
 
-The [Executive Council](../executive-council.md) ratifies the Ethics Council’s Resolutions.&#x20;
+The [Executive Council](../../executive-council.md) ratifies the Ethics Council’s Resolutions.&#x20;
 
-The [Independent Board](../../charters/independent-board.md) then ensures ratification of any amendments to this constitution, governance and steering of the Foundation, based on the Executive Council’s public reports.
+The [Independent Board](../../../charters/independent-board.md) then ensures ratification of any amendments to this constitution, governance and steering of the Foundation, based on the Executive Council’s public reports.
 
 The chair of the Ethics Council may also get elected to an [Open Tribunal](applewebdata://1A42225F-61F8-4746-A38B-9E37E1F74DC6/o/iUCZA8KkVwLfzEQmzt2z/s/-M7ZWDJpXmmuN-OjdQRl/~/changes/qf7vPuAaGbevpFCeAbez/foundation/open-tribunal), registered on the Open Constitution Governance System for arbitrations between disputing members of the Foundation.
 
@@ -59,7 +59,7 @@ The chair of the Ethics Council may also get elected to an [Open Tribunal](apple
 
 6.2 Self-nomination by an existing member of one of the Open Council bodies for his/her/their appointment to the Ethics Council is not acceptable.
 
-Self-nomination by a non-Council member of the Foundation, for his/her/their appointment to the Ethics Council is not acceptable. [Please read more](../../charters/open-governance/peer-review.md).\
+Self-nomination by a non-Council member of the Foundation, for his/her/their appointment to the Ethics Council is not acceptable. [Please read more](../../../charters/open-governance/peer-review.md).\
 \
 6.3 Once the nomination is accepted by the Nominee, the Nominee or the member nominating the nominee, shall file supporting documentation such as the nominee's literature, publications, and demonstration of social activities on the Foundation's Membership Registry.&#x20;
 
@@ -128,15 +128,15 @@ A member may resign from the Ethics Council by stating the reasons for resignati
 
 **Miscellaneous:**&#x20;
 
-10\. The [Independent Board](../../charters/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate the appointment to this Council at any time, without notice and the due electoral process of removal, in the following scenario:
+10\. The [Independent Board](../../../charters/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate the appointment to this Council at any time, without notice and the due electoral process of removal, in the following scenario:
 
 _If the member is found convicted of criminal, civil and financial crimes, in any court of competent jurisdiction, across the world, where the Foundation has an active presence, either through a legal body representation or an affiliate network._
 
-Read more on the [guiding principles & diversity statement](../../guiding-principles.md) of the Foundation here.&#x20;
+Read more on the [guiding principles & diversity statement](../../../guiding-principles.md) of the Foundation here.&#x20;
 
-Read more about the Foundation’s [Code of Conduct](../../charters/code-of-conduct/) here.&#x20;
+Read more about the Foundation’s [Code of Conduct](../../../charters/code-of-conduct/) here.&#x20;
 
-11\. The [statutes](../../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here.&#x20;
+11\. The [statutes](../../../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here.&#x20;
 
 The Independent Board reserves the right to dissolve the complete Ethics Council and initiate the constitution of a new Ethics Council.
 
@@ -149,5 +149,5 @@ If the meeting took place outside the Foundation’s communications infrastructu
 <mark style="color:purple;">Upon a successful nomination and having received a passed</mark> <mark style="color:green;">**Council Resolution "Vote IN",**</mark>**&#x20;**<mark style="color:purple;">**a**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">new Open Council member should file their supporting documents to the Open Constitution Membership Registry. A private link is generated by the Open Constitution system.</mark>
 {% endhint %}
 
-**Custodian:** [**Election Council**](../election-council.md)
+**Custodian:** [**Election Council**](../../election-council.md)
 

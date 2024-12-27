@@ -17,7 +17,7 @@ These recommendations are generally made by the Chancellor of the Executive Coun
 {% hint style="info" %}
 <mark style="color:purple;">An Independent Board in each jurisdiction guards the Muellners Foundation Member Data Registry.</mark>&#x20;
 
-<mark style="color:purple;">Read more about</mark> [<mark style="color:purple;">Steward Group</mark>](../foundation/steward-group.md)<mark style="color:purple;">.</mark>
+<mark style="color:purple;">Read more about</mark> [<mark style="color:purple;">Steward Group</mark>](../fiscal-hosts/steward-group.md)<mark style="color:purple;">.</mark>
 {% endhint %}
 
 Independent Boards are constituted in different jurisdictions:
@@ -66,7 +66,7 @@ Relevant Read&#x20;
 [Legal Impressum](../fiscal-hosts/legal-impressum/)
 
 [Network Fiscal Diagram](../fiscal-hosts/legal-impressum/network-fiscal-diagram.md)\
-Read more on [Steward Group](../foundation/steward-group.md).
+Read more on [Steward Group](../fiscal-hosts/steward-group.md).
 {% endhint %}
 
 **Custodian:** [**Independent Board**](independent-board.md)

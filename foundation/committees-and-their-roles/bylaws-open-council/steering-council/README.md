@@ -11,7 +11,7 @@ description: >-
 Steering Council members are usually individuals of industry-wide reputation, having had persistent success in steering and contributing to humankind, with major sustainable impact. They can be successful entrepreneurs, social leaders, industry professionals, senior scientists, writers, filmmakers,  musicians and artists.&#x20;
 
 {% hint style="info" %}
-<mark style="color:purple;">The members of the Steering Council have chosen to actively contribute to projects maintained by the Foundation. The Steering Council further appoints each project's</mark>[ <mark style="color:purple;">**Core Working Committees**</mark>](../../core-working-committee/)<mark style="color:purple;">**.**</mark>&#x20;
+<mark style="color:purple;">The members of the Steering Council have chosen to actively contribute to projects maintained by the Foundation. The Steering Council further appoints each project's</mark>[ <mark style="color:purple;">**Core Working Committees**</mark>](../../../bylaws-cwc/core-working-committee/)<mark style="color:purple;">**.**</mark>&#x20;
 
 
 
@@ -24,7 +24,7 @@ Steering Council members are usually individuals of industry-wide reputation, ha
 
 
 
-<figure><img src="../../../.gitbook/assets/Program Config Steering  Proposal.jpeg" alt=""><figcaption><p>Steering Council Program Configuration Resolution</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Program Config Steering  Proposal.jpeg" alt=""><figcaption><p>Steering Council Program Configuration Resolution</p></figcaption></figure>
 
 **The members of the Steering Council work with the following guidelines:**&#x20;
 
@@ -35,13 +35,13 @@ Steering Council members are usually individuals of industry-wide reputation, ha
 
 1.2 When recorded through the member’s presence in the Foundation’s monthly Council meetings, or&#x20;
 
-1.3 When participating through the [Independent Board](../../../charters/independent-board.md)'s private mailing list on any Open Council vote, at least once a month. &#x20;
+1.3 When participating through the [Independent Board](../../../../charters/independent-board.md)'s private mailing list on any Open Council vote, at least once a month. &#x20;
 
 The Steering Council plays a central role in steering the Foundation's roadmap and advocacy of its guiding principles.\
 Therefore, a vote of confidence may be scheduled to register the attendance of the Steering Council members.
 
 {% hint style="info" %}
-**The members of the Steering Council shall also nominate & appoint the** [**Core Working Committee**](../../core-working-committee/)**(CWC) of a project.**
+**The members of the Steering Council shall also nominate & appoint the** [**Core Working Committee**](../../../bylaws-cwc/core-working-committee/)**(CWC) of a project.**
 {% endhint %}
 
 2\. The Steering Council may choose to meet the Executive Council or other members through an electronic meeting, in addition to the monthly Council meetings, to contribute to their roles and responsibilities.
@@ -58,11 +58,11 @@ The Executive Council reserves the right to reject or release the meeting minute
 
 Steering Council works with all the Open Council members with respect to the Foundation’s open source 'projects'.&#x20;
 
-The [**Executive Council**](../../executive-council.md) ratifies the Steering Council’s Resolutions.&#x20;
+The [**Executive Council**](../../../executive-council.md) ratifies the Steering Council’s Resolutions.&#x20;
 
 _Executive Council shall keep the Independent Board informed, as it is the Independent Boards that legally ratify any Open Governance decisions within the limitations of local statutes, in accordance with the Local law._
 
-An [**Independent Board**](../../../charters/independent-board.md) ensures the ratification of any amendments to the constitution, governance and administration of the Foundation's project-based decisions.
+An [**Independent Board**](../../../../charters/independent-board.md) ensures the ratification of any amendments to the constitution, governance and administration of the Foundation's project-based decisions.
 
 **Consideration & Tenure:**&#x20;
 
@@ -82,7 +82,7 @@ Appointments are generally made for one election period.
 
 6.2 Self-nomination by an existing member of one of the organs of the Open Council for his/her/their appointment to the Steering Council is not permitted.
 
-Self-nomination by an existing non-Council member of the Foundation, for his/her/their appointment to the Steering Council, is not acceptable. [Please read more](../../../charters/open-governance/peer-review.md).\
+Self-nomination by an existing non-Council member of the Foundation, for his/her/their appointment to the Steering Council, is not acceptable. [Please read more](../../../../charters/open-governance/peer-review.md).\
 \
 6.3 Once the nomination is accepted by the Nominee, the Nominee or the member nominating the nominee, shall file supporting information such as the nominee's literature, publications, and demonstration of social activities on the Foundation's Membership Registry.&#x20;
 
@@ -153,15 +153,15 @@ The announcement of resignation can be done via electronic means wherever possib
 
 **Miscellaneous:**&#x20;
 
-10\. The [Independent Board](../../../charters/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate the appointment to this Steering Council at any time, without notice and without the due electoral process of removal, in the following scenario:
+10\. The [Independent Board](../../../../charters/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate the appointment to this Steering Council at any time, without notice and without the due electoral process of removal, in the following scenario:
 
 _If the member is found convicted of criminal, civil and financial crimes, in any court of competent jurisdiction, across the world, where the Foundation has an active presence, either through a legal body representation or an affiliate network._
 
-Read more on the [guiding principles & diversity statement](../../../guiding-principles.md) of the Foundation here.&#x20;
+Read more on the [guiding principles & diversity statement](../../../../guiding-principles.md) of the Foundation here.&#x20;
 
-Read more about the Foundation’s [Code of Conduct](../../../charters/code-of-conduct/) here.&#x20;
+Read more about the Foundation’s [Code of Conduct](../../../../charters/code-of-conduct/) here.&#x20;
 
-11\. The [statutes](../../../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here. The Election Council reserves the right to dissolve the whole Steering Council and initiate the constitution of a new Steering Council.&#x20;
+11\. The [statutes](../../../../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here. The Election Council reserves the right to dissolve the whole Steering Council and initiate the constitution of a new Steering Council.&#x20;
 
 Read more on the dissolution of a constitutional body of this Open Constitution.
 
@@ -173,4 +173,4 @@ If the meeting took place outside the Foundation’s communications infrastructu
 <mark style="color:purple;">Upon a successful nomination and having received a passed</mark> <mark style="color:green;">**Council Resolution "Vote IN",**</mark>**&#x20;**<mark style="color:purple;">**a**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">new Open Council member should file their supporting documents to the Open Constitution Membership Registry. A private link is generated by the Open Constitution system.</mark>
 {% endhint %}
 
-**Custodian:** [**Election Council**](../../executive-council.md)
+**Custodian:** [**Election Council**](../../../executive-council.md)

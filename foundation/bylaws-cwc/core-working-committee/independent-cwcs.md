@@ -8,7 +8,7 @@ description: >-
 # 🏑 Independent CWCs
 
 {% hint style="info" %}
-_**Role of Independent CWCs and CWC members in**_ [_**Open Council**_](../committees-and-their-roles/) _**bodies -** Legal, Regulations, Observations, Media, Ethics, and Executive._
+_**Role of Independent CWCs and CWC members in**_ [_**Open Council**_](../../committees-and-their-roles/) _**bodies -** Legal, Regulations, Observations, Media, Ethics, and Executive._
 {% endhint %}
 
 1. Independent CWC is a special task force of the above-listed Council bodies.&#x20;
@@ -59,7 +59,7 @@ CWC members represent the Foundation's initiatives in industry events and activi
 
 <mark style="color:blue;">The Open Council body members shall generally schedule an interview and document the interview for the public facing records of all CWC nominations.</mark>
 
-<mark style="color:green;">**Step 3:**</mark> <mark style="color:green;"></mark><mark style="color:green;">The member is officially appointed to the Independent CWC by the Foundation's Executive Council and further ratified by a jurisdiction-based</mark> [<mark style="color:green;">Independent Board</mark>](../../charters/independent-board.md)<mark style="color:green;">.</mark>
+<mark style="color:green;">**Step 3:**</mark> <mark style="color:green;"></mark><mark style="color:green;">The member is officially appointed to the Independent CWC by the Foundation's Executive Council and further ratified by a jurisdiction-based</mark> [<mark style="color:green;">Independent Board</mark>](../../../charters/independent-board.md)<mark style="color:green;">.</mark>
 {% endhint %}
 
 {% hint style="info" %}
@@ -79,4 +79,4 @@ CWC members represent the Foundation's initiatives in industry events and activi
 8. <mark style="color:purple;">The Council resolution for Removal is further voted by the community referendum to remove a member from a CWC.</mark>
 {% endhint %}
 
-**Custodian:** [**Executive Council**](../executive-council.md)
+**Custodian:** [**Executive Council**](../../executive-council.md)

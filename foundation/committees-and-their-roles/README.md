@@ -44,12 +44,12 @@ _The rules and procedures, governing the membership rights of citizens, who are 
 {% hint style="info" %}
 **About Core Working Committees:**
 
-Besides the above Open Council bodies, autonomous and self-governing [Core Working Committees](../core-working-committee/)(CWCs) are associated with these Councils.&#x20;
+Besides the above Open Council bodies, autonomous and self-governing [Core Working Committees](../bylaws-cwc/core-working-committee/)(CWCs) are associated with these Councils.&#x20;
 
 There are fundamentally two types of CWCs - \
-[Project CWC](../bylaws-open-council/steering-council/project-cwcs/)s contributing to the projects and;
+[Project CWC](bylaws-open-council/steering-council/project-cwcs/)s contributing to the projects and;
 
-[Independent CWC](../core-working-committee/independent-cwcs.md)s contribute to the collective affairs of the Foundation, whether these activities are associated with a specific project or not.
+[Independent CWC](../bylaws-cwc/core-working-committee/independent-cwcs.md)s contribute to the collective affairs of the Foundation, whether these activities are associated with a specific project or not.
 
 
 {% endhint %}
@@ -85,7 +85,7 @@ If you have been successfully nominated to an Open Council Committee, or appoint
 {% hint style="info" %}
 **Read more on relevant constitutional bodies:**
 
-An Independent and autonomous Steward Group is also affiliated with the Open Council.   [Steward Group](../steward-group.md).
+An Independent and autonomous Steward Group is also affiliated with the Open Council.   [Steward Group](../../fiscal-hosts/steward-group.md).
 
 An independent and autonomous Ambassador Council is affiliated with the Open Council. [Ambassador Council](../ambassador-council.md).
 

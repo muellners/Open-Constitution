@@ -16,14 +16,14 @@ CWC members may also come from diverse fields of industry, academia, art and mus
 
 
 
-<figure><img src="../../.gitbook/assets/Project TRL (Change Request) Config Proposal.jpeg" alt=""><figcaption><p>TLR Upgrade Request Workflow</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Project TRL (Change Request) Config Proposal.jpeg" alt=""><figcaption><p>TLR Upgrade Request Workflow</p></figcaption></figure>
 
 **CWCs are classified into two types:**
 
 {% hint style="info" %}
 
 
-1. [**Project CWCs:**](../bylaws-open-council/steering-council/project-cwcs/)&#x20;
+1. [**Project CWCs:**](../../committees-and-their-roles/bylaws-open-council/steering-council/project-cwcs/)&#x20;
 
 <mark style="color:purple;">Each project has a</mark> <mark style="color:purple;"></mark>_<mark style="color:purple;">self-governing and autonomous</mark>_ <mark style="color:purple;"></mark><mark style="color:purple;">Core Working Group.</mark>&#x20;
 
@@ -32,7 +32,7 @@ CWC members may also come from diverse fields of industry, academia, art and mus
 _<mark style="color:purple;">**Primary Role:**</mark>_ <mark style="color:purple;"></mark><mark style="color:purple;">CWC appointed to a "Project" also maintains the project's lifecycle within the Foundation's community.</mark>\
 
 
-_<mark style="color:purple;">**Self Governance:**</mark>_ <mark style="color:purple;"></mark><mark style="color:purple;">Steering Council members, (appointed to a "Project") along with members from the Project CWC, independently decide on the workings and functioning of their Project CWC. These members collectively decide maintain, and observe the protocols of their Project CWC's governance on their own, well within the Foundation's</mark> [<mark style="color:purple;">guiding principles</mark>](../../guiding-principles.md) <mark style="color:purple;">and this Open Constitution.</mark>&#x20;
+_<mark style="color:purple;">**Self Governance:**</mark>_ <mark style="color:purple;"></mark><mark style="color:purple;">Steering Council members, (appointed to a "Project") along with members from the Project CWC, independently decide on the workings and functioning of their Project CWC. These members collectively decide maintain, and observe the protocols of their Project CWC's governance on their own, well within the Foundation's</mark> [<mark style="color:purple;">guiding principles</mark>](../../../guiding-principles.md) <mark style="color:purple;">and this Open Constitution.</mark>&#x20;
 
 <mark style="color:purple;">The CWC chair is the member who leads each</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Project CWC**</mark><mark style="color:purple;">.</mark> \
 \ <mark style="color:purple;">All the members of the Steering Council(appointed to all projects) ratify the proposed constitution of a project's CWC.</mark>
@@ -63,7 +63,7 @@ _<mark style="color:purple;">**Self Governance:**</mark>_ <mark style="color:pur
 <mark style="color:green;">Independent CWCs appointed to a specific Open Council Committee also maintain the specific Council Committee's lifecycle.</mark>\
 
 
-_<mark style="color:green;">**Self Governance:**</mark>_ <mark style="color:green;"></mark><mark style="color:green;">Members of an Independent CWC independently decide the workings and functioning of their group. These members collectively decide, maintain, and observe the protocols of their Independent CWC's constitution on their own, well within the Foundation's</mark> [<mark style="color:green;">guiding principles</mark>](../../guiding-principles.md) <mark style="color:green;">and this Open Constitution.</mark> \
+_<mark style="color:green;">**Self Governance:**</mark>_ <mark style="color:green;"></mark><mark style="color:green;">Members of an Independent CWC independently decide the workings and functioning of their group. These members collectively decide, maintain, and observe the protocols of their Independent CWC's constitution on their own, well within the Foundation's</mark> [<mark style="color:green;">guiding principles</mark>](../../../guiding-principles.md) <mark style="color:green;">and this Open Constitution.</mark> \
 
 
 <mark style="color:green;">The CWC chair is the member who leads each</mark> <mark style="color:green;"></mark>_<mark style="color:green;">**Independent CWC**</mark>_<mark style="color:green;">.</mark> \
@@ -72,4 +72,4 @@ _<mark style="color:green;">**Self Governance:**</mark>_ <mark style="color:gree
 
 Read [**Community Guidelines**](https://docs.muellnersfoundation.info/open-constitution/cwc-nominations-guide) on CWC Nomination&#x73;**.**
 
-**Custodian:** [**Election Council**](../election-council.md)
+**Custodian:** [**Election Council**](../../election-council.md)

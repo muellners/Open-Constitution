@@ -35,7 +35,7 @@ Council memberships are voluntary and pro bono.&#x20;
 
 Council memberships are also term-based to allow for a flexible change of leadership.
 
-Besides Open Council memberships, each project has a [CWC](../../foundation/core-working-committee/), a core Workgroup that exists to ensure the maintenance of projects & initiatives of the Open Constitution.
+Besides Open Council memberships, each project has a [CWC](../../foundation/bylaws-cwc/core-working-committee/), a core Workgroup that exists to ensure the maintenance of projects & initiatives of the Open Constitution.
 
 The subscribed membership activity is governed by a democratically elected [Executive Council](../../foundation/executive-council.md), administrative resolutions of which are vested in the Open Council, and maintained in effect by a judiciary system in the form of an [Open Tribunal](../../foundation/open-tribunal.md).
 

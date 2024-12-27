@@ -9,7 +9,7 @@ description: This page describes the Emeritus Citizenship.
 {% hint style="info" %}
 <mark style="color:green;">**De Registry: Local**</mark>
 
-<mark style="color:green;">**Registrar:**</mark> [<mark style="color:blue;">Steward Group</mark>](../steward-group.md) <mark style="color:green;">of a</mark> [<mark style="color:blue;">Fiscal Host</mark>](broken-reference)<mark style="color:blue;">/Node</mark>
+<mark style="color:green;">**Registrar:**</mark> [<mark style="color:blue;">Steward Group</mark>](../../fiscal-hosts/steward-group.md) <mark style="color:green;">of a</mark> [<mark style="color:blue;">Fiscal Host</mark>](broken-reference)<mark style="color:blue;">/Node</mark>
 
 <mark style="color:purple;">**All natural persons, de-registered from the Local registry, acquire an "emeritus" status on the Open Constitution network.**</mark>&#x20;
 

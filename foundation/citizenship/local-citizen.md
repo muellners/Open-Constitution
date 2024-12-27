@@ -9,7 +9,7 @@ description: This page describes the local citizenship on the Open Constitution 
 {% hint style="info" %}
 <mark style="color:green;">**Registries: Subscription, Global, Local**</mark>
 
-<mark style="color:green;">**Registrar:**</mark> [Steward Groups](../steward-group.md) of a regional [Fiscal Host/Node](broken-reference)
+<mark style="color:green;">**Registrar:**</mark> [Steward Groups](../../fiscal-hosts/steward-group.md) of a regional [Fiscal Host/Node](broken-reference)
 
 <mark style="color:purple;">**All natural persons, registered with the "Subscription", "Global" and "Local" registries, acquire an "ordinary voluntary membership" status with the Foundation's Fiscal Host in a local jurisdiction.**</mark>
 

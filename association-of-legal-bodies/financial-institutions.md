@@ -30,7 +30,7 @@ Any such representation of a duty-bound nominee shall have received signatory ri
 _<mark style="color:purple;">An E-Tenant e.g. an institution may appoint e.g. a Board Committee or an Officer or an employee of the institution to the Observers Council.</mark>_
 {% endhint %}
 
-Any nomination, appointment, or termination of the representative shall follow the Articles of Association of Natural Persons: [Observers Council](../foundation/bylaws-open-council/observers-council.md), and subsequently any change of representation shall also be ratified in accordance with the [Global Statutes](../articles/statutes-muellners-foundation/).
+Any nomination, appointment, or termination of the representative shall follow the Articles of Association of Natural Persons: [Observers Council](../foundation/committees-and-their-roles/bylaws-open-council/observers-council.md), and subsequently any change of representation shall also be ratified in accordance with the [Global Statutes](../articles/statutes-muellners-foundation/).
 
 **2.1 ROLE OF A SPECIAL REPRESENTATIVE APPOINTEE(S) IN NETWORK TENANCY:**
 

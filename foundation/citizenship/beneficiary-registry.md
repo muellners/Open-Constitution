@@ -11,7 +11,7 @@ description: >-
 {% hint style="info" %}
 <mark style="color:green;">**Registry:  Subscription, Global, Local, Beneficiary**</mark>
 
-<mark style="color:green;">**Registrar:**</mark>[Steward Groups](../steward-group.md) of a regional [Fiscal Host/Node](broken-reference)
+<mark style="color:green;">**Registrar:**</mark>[Steward Groups](../../fiscal-hosts/steward-group.md) of a regional [Fiscal Host/Node](broken-reference)
 
 <mark style="color:purple;">**All "Local Citizens", registered with the Global registry and Beneficiary registry, acquire a "beneficiary membership" status on the Open Constitution network.**</mark>\
 

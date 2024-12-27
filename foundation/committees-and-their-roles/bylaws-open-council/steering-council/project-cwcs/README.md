@@ -40,7 +40,7 @@ The Observation Council members are also humans. They may not have a fitting sol
 
 
 
-<figure><img src="../../../../.gitbook/assets/Project TRL (Change Request) Config Proposal.jpeg" alt=""><figcaption><p>Role of Steering CWC in Project Resolutions</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Project TRL (Change Request) Config Proposal.jpeg" alt=""><figcaption><p>Role of Steering CWC in Project Resolutions</p></figcaption></figure>
 
 {% hint style="info" %}
 [**FILE YOUR NOMINATION NOW**](https://govern.open-bank.net/portal/6)

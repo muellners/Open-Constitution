@@ -21,7 +21,7 @@ These members publish opinion articles on the Foundation's data protection resea
 
 The members appointed to the Data Security Council generally stay on this committee for a fixed period.
 
-The members of the Data Security Council may nominate and appoint several Steward Groups, linked to the Fiscal Hosts of the Foundation as their fiduciary duty. Read more on the [Steward group here](steward-group.md).
+The members of the Data Security Council may nominate and appoint several Steward Groups, linked to the Fiscal Hosts of the Foundation as their fiduciary duty. Read more on the [Steward group here](../fiscal-hosts/steward-group.md).
 
 The members of the Data Security Council shall also participate in forming Independent Core Working Groups like Open Bank CWC or Media CWC.
 
@@ -39,7 +39,7 @@ The members of the Data Security Council shall also participate in forming Indep
 2\. The Data Security Council may convene to meet the Executive Council or other members through an electronic meeting, in addition to the monthly Council meetings, to contribute to the Council's roles and responsibilities.
 
 {% hint style="info" %}
-<mark style="color:green;">Data Security</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Council also processes nominations and appointments of members to</mark>_ [_<mark style="color:green;">Steward Groups</mark>_](steward-group.md) _<mark style="color:green;">the Open Bank CWC, andMedia CWC.</mark>_
+<mark style="color:green;">Data Security</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Council also processes nominations and appointments of members to</mark>_ [_<mark style="color:green;">Steward Groups</mark>_](../fiscal-hosts/steward-group.md) _<mark style="color:green;">the Open Bank CWC, andMedia CWC.</mark>_
 
 \
 <mark style="color:green;">Data Security</mark> <mark style="color:green;"></mark>_<mark style="color:green;">Council members build strategic relationships on behalf of the Foundation's community, representing its citizen's data privacy rights in Economic Forums, Regulatory bodies and other industry networks, which may be outside the purview of the Foundation's ongoing programs.</mark>_
@@ -71,7 +71,7 @@ The chair of the Data Security Council may also get elected to an [Open Tribunal
 
 6.1 The following members can officially nominate a new or existing member of the Foundation to the Data Security Committee:&#x20;
 
-6.1 a. An elected member of the [Executive Council](executive-council.md) or the [Advisory Council](bylaws-open-council/advisory-council.md) the Regulations Council or the Data Security Council
+6.1 a. An elected member of the [Executive Council](executive-council.md) or the [Advisory Council](committees-and-their-roles/bylaws-open-council/advisory-council.md) the Regulations Council or the Data Security Council
 
 6.1 b. A non-Councila member can also request a nomination, in the form of a community proposal. The Nomination action shall be officially initiated by the only members mentioned in above 6.1 “a”.&#x20;
 
