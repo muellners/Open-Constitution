@@ -21,7 +21,7 @@ description: >-
 <mark style="color:green;">**b. General Wing**</mark>
 
 \
-<mark style="color:green;">**The primary function and role of the Ambassador Council are to vocalise and promote the Muellners Foundation's public message, statements and public policy advocacy on issues of global interest, within the Foundation's guiding principles.**</mark>&#x20;
+<mark style="color:green;">**The primary function and role of the Ambassador Council are to vocalise and promote the Foundation's public message, statements and public policy advocacy on issues of global interest, within the Foundation's guiding principles.**</mark>&#x20;
 
 
 {% endhint %}
@@ -60,7 +60,7 @@ description: >-
 {% hint style="info" %}
 <mark style="color:green;">1. All members of the Ambassador Council shall meet at least once a year, to appoint amongst themselves:</mark> \
 &#xNAN;_<mark style="color:red;">an "Impeachable" President of the Youth Wing and an "Impeachable" President of the General Wing.</mark>_ \
-<mark style="color:green;">Presidents of both Wings shall represent the Ambassador Council of the Muellners Foundation</mark>&#x20;
+<mark style="color:green;">Presidents of both Wings shall represent the Ambassador Council of the Foundation</mark>&#x20;
 
 President(s) shall meet the Executive Council of the Open Council, on behalf of the Ambassador Council, on an ongoing basis;\
 
