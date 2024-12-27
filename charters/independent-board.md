@@ -15,7 +15,7 @@ These recommendations are generally made by the Chancellor of the Executive Coun
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:purple;">An Independent Board in each jurisdiction guards the Muellners Foundation Member Data Registry.</mark>&#x20;
+<mark style="color:purple;">An Independent Board in each jurisdiction guards the Foundation Member Data Registry.</mark>&#x20;
 
 <mark style="color:purple;">Read more about</mark> [<mark style="color:purple;">Steward Group</mark>](../fiscal-hosts/steward-group.md)<mark style="color:purple;">.</mark>
 {% endhint %}
@@ -24,15 +24,14 @@ Independent Boards are constituted in different jurisdictions:
 
 **Current Independent Board Member List:**
 
-| Region                                               | Legal Body Name                                                                                                                     | Board Members                                                                |
-| ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| European Economic Area (EEA)                         | [Open Constitution S/I](https://datacvr.virk.dk/enhed/virksomhed/43714775?fritekst=open%20constitution%20S/I\&sideIndex=0\&size=10) | Anka Phoenix Muellner                                                        |
-| [**India**](https://india.muellnersfoundation.org)   | <mark style="color:red;">To be updated</mark>                                                                                       | Ongoing <mark style="color:red;">Compliance Review by 31st March 2024</mark> |
-| [**Uganda**](https://uganda.muellnersfoundation.org) | Fiscal localization not supported anymore                                                                                           | Read more [here](https://or.muellnersfoundation.com/ge/uganda)               |
+| Region                                             | Legal Body Name                                                                                                                 | Board Members                                                                |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| European Economic Area (EEA)                       | [Open Constitution](https://datacvr.virk.dk/enhed/virksomhed/43714775?fritekst=open%20constitution%20S/I\&sideIndex=0\&size=10) | Anka Phoenix Muellner                                                        |
+| [**India**](https://india.muellnersfoundation.org) | <mark style="color:red;">To be updated</mark>                                                                                   | Ongoing <mark style="color:red;">Compliance Review by 31st March 2025</mark> |
 
 **What is a Fiscal Host?**
 
-A Fiscal host is a legal representative body, nominated by, and appointed by the Independent Board, Muellners Foundation, EEA based on the counsel of the [Executive Co<mark style="color:purple;">uncil</mark>](../foundation/executive-council.md) of the Open Council.\
+A Fiscal host is a legal representative body, nominated by, and appointed by the Independent Board,  Foundation, EEA based on the counsel of the [Executive Co<mark style="color:purple;">uncil</mark>](../foundation/executive-council.md) of the Open Council.\
 \
 Independent Boards constitutionally represent the Foundation in local jurisdictions, and support the maintenance of the constituent Fiscal body, in compliance with Local Law.
 
