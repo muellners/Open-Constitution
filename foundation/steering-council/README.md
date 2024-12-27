@@ -103,7 +103,7 @@ For the purposes of record keeping on an electronic ledger - Open Convention & C
 &#xNAN;_<mark style="color:green;">So, in this example, six (+1) votes of the participating 11 Council members will do the job.</mark>_<mark style="color:green;">😒</mark> &#x20;
 {% endhint %}
 
-6.4 Appointment to the Steering Council is publicized on the public-facing records of the Muellners Foundation.&#x20;
+6.4 Appointment to the Steering Council is publicized on the public-facing records of the Foundation.&#x20;
 
 **Removal Proceedings:**&#x20;
 
@@ -123,12 +123,12 @@ For the purposes of record keeping on an electronic ledger - Open Convention & C
 &#xNAN;_<mark style="color:red;">So, in this example, six (+1) votes of the participating 11 Council members will do the job.</mark>_<mark style="color:red;">😒</mark> &#x20;
 {% endhint %}
 
-A strong reason for violation of Muellners Foundation’s governing policies and directives must be provided by member(s) initiating the resolution, to support the Council resolution “Vote OUT”.&#x20;
+A strong reason for violation of the Foundation’s governing policies and directives must be provided by member(s) initiating the resolution, to support the Council resolution “Vote OUT”.&#x20;
 
 7.3 **Community Referendum:** The final removal of a member from the Steering Council is subject to a community referendum on the passed Council resolution <mark style="color:red;">“Vote OUT”</mark>, stated in 7.1 & 7.2 above.&#x20;
 
 {% hint style="info" %}
-<mark style="color:purple;">Open Constitution's Community Referendum is generally accessible by all members of the Muellners Foundation - both Council and its CWC members as well as non-Council members.</mark>&#x20;
+<mark style="color:purple;">Open Constitution's Community Referendum is generally accessible by all members of the Foundation - both Council and its CWC members as well as non-Council members.</mark>&#x20;
 
 <mark style="color:purple;">Quorum on the Community Referendum for the Council Resolution - "Vote Out" is achieved when 33% (more than 1/3rd) of all the voluntarily organised subscribed members participate. Of the minimum participating members, the Community Referendum stands as</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Decided**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">when the majority of the quorum populace votes in favour of the stated Council resolution “Vote OUT”.</mark>
 
@@ -149,7 +149,7 @@ A strong reason for violation of Muellners Foundation’s governing policies and
 9\. A member's self-resignation from the Steering Council is a voluntary action.&#x20;
 
 A member may resign from the Steering Council by stating the reasons for resignation. \
-The announcement of resignation can be done via electronic email on the Council's mailing list; board@muellners.org.&#x20;
+The announcement of resignation can be done via electronic means wherever possible.
 
 **Miscellaneous:**&#x20;
 

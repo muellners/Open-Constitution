@@ -21,7 +21,7 @@ These members publish opinion articles on the Foundation's financial technology 
 
 The members appointed to the Regulations Council generally stay on this committee for a fixed period.
 
-The members of the Regulations Council may nominate and appoint several Steward Groups, linked to the Fiscal Hosts of the Muellners Foundation. Read more on the [Steward group here](steward-group.md).
+The members of the Regulations Council may nominate and appoint several Steward Groups, linked to the Fiscal Hosts of the Foundation. Read more on the [Steward group here](steward-group.md).
 
 The members of the Regulations Council shall also appoint Regulations CWC, an Independent Core Working Group.
 

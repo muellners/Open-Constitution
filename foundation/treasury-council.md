@@ -12,7 +12,7 @@ description: >-
 Treasury Council members are generally individuals of industry-wide reputation, having had persistent success in steering and contributing to humankind, with major sustainable impact. They can be successful bankers, investment fund managers, wealth managers, senior financial analysts, scheduled and chartered auditors, accountants, members with background in tax compliance, and public grants. &#x20;
 
 {% hint style="info" %}
-<mark style="color:purple;">The members of the Treasury Council have voluntarily chosen to actively contribute to projects maintained by the Muellners Foundation.</mark>&#x20;
+<mark style="color:purple;">The members of the Treasury Council have voluntarily chosen to actively contribute to projects maintained by the Foundation.</mark>&#x20;
 
 <mark style="color:purple;">**These members contribute to the Open Bank's Fund appropriation, allocation and provisioning to different projects of the Foundation.**</mark> \
 <mark style="color:purple;">Treasury Council members also participate in presenting the Foundation's agenda in local industry forums and chamber networks and build strategic relationships with Hedge Funds, Venture Capital and Private Equity and Crypto Holding Financial Services companies.</mark>
