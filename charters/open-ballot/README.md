@@ -65,7 +65,7 @@ Voting participants are all the Open Council committee members and its CWCs. Pro
 {% endtab %}
 
 {% tab title="CWC" %}
-Voting participants are each Steering[ CWC](../../foundation/steering-council/project-cwcs/) member or each [Independent CWC](../../foundation/core-working-committee/independent-cwcs.md) member.
+Voting participants are each Steering[ CWC](../../foundation/bylaws-open-council/steering-council/project-cwcs/) member or each [Independent CWC](../../foundation/core-working-committee/independent-cwcs.md) member.
 {% endtab %}
 
 {% tab title="Open Tribunal" %}

@@ -24,7 +24,7 @@ Treasury Council members are generally individuals of industry-wide reputation, 
 
 
 
-<figure><img src="../.gitbook/assets/Treasury Request Proposal.jpeg" alt=""><figcaption><p>Treasury Config Proposal Request Workflow</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Treasury Request Proposal.jpeg" alt=""><figcaption><p>Treasury Config Proposal Request Workflow</p></figcaption></figure>
 
 **The members of the Treasury Council work with the following guidelines:**&#x20;
 
@@ -35,14 +35,14 @@ Treasury Council members are generally individuals of industry-wide reputation, 
 
 1.2 When recorded through the member’s presence in the Foundation’s monthly Council meetings, or&#x20;
 
-1.3 When participating through the [Independent Board](../charters/independent-board.md)'s private mailing list on any Open Council vote, at least once a month. &#x20;
+1.3 When participating through the [Independent Board](../../charters/independent-board.md)'s private mailing list on any Open Council vote, at least once a month. &#x20;
 
 Treasury Council plays a central role in fund appropriation, and representing Foundation's investment and Fiscal host relationships. \
 Treasury Council contributes to actively steering the Foundation's roadmap and advocacy of its guiding principles.\
 Therefore, a vote of confidence may be scheduled to register the attendance of the Treasury Council members.
 
 {% hint style="info" %}
-**The members of the Treasury Council shall also nominate members to the** [**Steward Group**](steward-group.md)**.**
+**The members of the Treasury Council shall also nominate members to the** [**Steward Group**](../steward-group.md)**.**
 {% endhint %}
 
 2\. The Treasury Council may convene to meet the Executive Council or other members through an electronic meeting, in addition to the monthly Council meetings, to contribute to their roles and responsibilities.
@@ -59,9 +59,9 @@ The Executive Council reserves the right to reject or release the meeting minute
 
 Treasury Council works with all the Open Council members concerning the Foundation’s open source projects.
 
-The [Executive Council](executive-council.md) ratifies the Treasury Council’s Resolutions.&#x20;
+The [Executive Council](../executive-council.md) ratifies the Treasury Council’s Resolutions.&#x20;
 
-The [Independent Board](../charters/independent-board.md) then ensures ratification of any amendments to the open constitution, and governance of the Open Bank, based on the Executive Council’s public reports.
+The [Independent Board](../../charters/independent-board.md) then ensures ratification of any amendments to the open constitution, and governance of the Open Bank, based on the Executive Council’s public reports.
 
 The chair of the Treasury Council may also get elected to an [Open Tribunal](applewebdata://1A42225F-61F8-4746-A38B-9E37E1F74DC6/o/iUCZA8KkVwLfzEQmzt2z/s/-M7ZWDJpXmmuN-OjdQRl/~/changes/qf7vPuAaGbevpFCeAbez/foundation/open-tribunal), registered on the Open Constitution Governance System for arbitrations between disputing members of the Foundation.
 
@@ -81,7 +81,7 @@ The chair of the Treasury Council may also get elected to an [Open Tribunal](app
 
 6.2 Self-nomination by an existing member of one of the Open Council bodies for his/her/their appointment to the Treasury Council is not acceptable.
 
-Self-nomination by an existing non-Council member of the Foundation, for his/her/their appointment to the Treasury Council, is not acceptable. [Please read more](../charters/open-governance/peer-review.md).\
+Self-nomination by an existing non-Council member of the Foundation, for his/her/their appointment to the Treasury Council, is not acceptable. [Please read more](../../charters/open-governance/peer-review.md).\
 \
 6.3 Once the nomination is accepted by the Nominee, the Nominee or the member nominating the nominee, shall file supporting information such as the nominee's literature, publications, and the the demonstration of social activities on the Foundation's Membership Registry.&#x20;
 
@@ -152,15 +152,15 @@ The announcement of resignation can be done via electronic email on the Council'
 
 **Miscellaneous:**&#x20;
 
-10\. The [Independent Board](../charters/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate the appointment to this Council at any time, without notice and the due electoral process of removal, in the following scenario:
+10\. The [Independent Board](../../charters/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate the appointment to this Council at any time, without notice and the due electoral process of removal, in the following scenario:
 
 _If the member is found convicted of criminal, civil and financial crimes, in any court of competent jurisdiction, across the world, where the Foundation has an active presence, either through a legal body representation or an affiliate network._
 
-Read more on the [guiding principles & diversity statement](../guiding-principles.md) of the Foundation here.&#x20;
+Read more on the [guiding principles & diversity statement](../../guiding-principles.md) of the Foundation here.&#x20;
 
-Read more about the Foundation’s [Code of Conduct](../charters/code-of-conduct/) here.&#x20;
+Read more about the Foundation’s [Code of Conduct](../../charters/code-of-conduct/) here.&#x20;
 
-11\. The [statutes](../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here. The Independent Board reserves the right to dissolve the whole Treasury Council and initiate the constitution of a new Treasury Council.
+11\. The [statutes](../../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here. The Independent Board reserves the right to dissolve the whole Treasury Council and initiate the constitution of a new Treasury Council.
 
 12\. The Foundation members communicate via cryptographic electronic communications systems and technology tools. \
 In connection with the electronic meetings convened by members of this council, the Foundation’s IT infrastructure shall be used.&#x20;
@@ -171,4 +171,4 @@ If the meeting took place outside the Foundation’s communications infrastructu
 <mark style="color:purple;">Upon a successful nomination and having received a passed</mark> <mark style="color:green;">**Council Resolution "Vote IN",**</mark>**&#x20;**<mark style="color:purple;">**a**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">new Open Council member should file their supporting documents to the Open Constitution Membership Registry. A private link is generated by the Open Constitution system.</mark>
 {% endhint %}
 
-**Custodian:** [**Election Council**](election-council.md)
+**Custodian:** [**Election Council**](../election-council.md)

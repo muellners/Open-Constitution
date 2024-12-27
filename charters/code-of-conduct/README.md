@@ -214,4 +214,4 @@ Message retention and deletion policy is by default set at 1 day for all Direct 
 
 {% endhint %}
 
-**Custodian:** [**Media Council**](../../foundation/media-council.md)
+**Custodian:** [**Media Council**](../../foundation/bylaws-open-council/media-council.md)

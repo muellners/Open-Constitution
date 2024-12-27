@@ -25,7 +25,7 @@ Media Council members are individuals with recognised contributions and publicat
 
 1.2 When recorded through the member’s presence in the Foundation’s monthly Council meetings or&#x20;
 
-1.3 When participating through the [Independent Board](../charters/independent-board.md)'s private mailing list on any Open Council vote, at least once in a month. &#x20;
+1.3 When participating through the [Independent Board](../../charters/independent-board.md)'s private mailing list on any Open Council vote, at least once in a month. &#x20;
 
 Media Council plays a central role in publishing, advancing and promoting the Foundation's advocacy of its guiding principles.\
 Therefore, a vote of confidence may be scheduled to register the attendance of the Media Council members.
@@ -33,7 +33,7 @@ Therefore, a vote of confidence may be scheduled to register the attendance of t
 2\. The Media Council may convene to meet the Executive Council or other members through an electronic meeting, in addition to the monthly Council meetings, to contribute to their roles and responsibilities.&#x20;
 
 {% hint style="info" %}
-_<mark style="color:green;">Media Committee also processes nominations and appointments of members to</mark>_ [_<mark style="color:green;">Media CWC</mark>_](broken-reference)_<mark style="color:green;">, an</mark>_ [_<mark style="color:green;">Independent CWC</mark>_](core-working-committee/independent-cwcs.md)_<mark style="color:green;">.</mark>_
+_<mark style="color:green;">Media Committee also processes nominations and appointments of members to</mark>_ [_<mark style="color:green;">Media CWC</mark>_](broken-reference)_<mark style="color:green;">, an</mark>_ [_<mark style="color:green;">Independent CWC</mark>_](../core-working-committee/independent-cwcs.md)_<mark style="color:green;">.</mark>_
 
 \
 _<mark style="color:green;">Media Committee members build strategic relationships on behalf of the Foundation's community, representing its citizen's rights in Media Houses, Industry bodies and networks, which are outside the purview of the Open Constitution Partner Program.</mark>_
@@ -51,9 +51,9 @@ The Executive Council reserves the right to reject or release the meeting minute
 
 &#x20;Media Council works with all the Open Council bodies concerning the Foundation’s media outreach, spokesmanship of its advocacy and presenting open source projects.&#x20;
 
-The [Executive Council](executive-council.md) ratifies the Media Council’s Resolutions.&#x20;
+The [Executive Council](../executive-council.md) ratifies the Media Council’s Resolutions.&#x20;
 
-The [Independent Board](../charters/independent-board.md) then ensures the ratification of any amendments to this constitution, as well as the governance and steering of the Foundation, based on the Executive Council’s public reports.
+The [Independent Board](../../charters/independent-board.md) then ensures the ratification of any amendments to this constitution, as well as the governance and steering of the Foundation, based on the Executive Council’s public reports.
 
 The chair of the Media Council may also get elected to an [Open Tribunal](applewebdata://1A42225F-61F8-4746-A38B-9E37E1F74DC6/o/iUCZA8KkVwLfzEQmzt2z/s/-M7ZWDJpXmmuN-OjdQRl/~/changes/qf7vPuAaGbevpFCeAbez/foundation/open-tribunal), registered on the Open Constitution Governance System for arbitrations between disputing members of the Foundation.
 
@@ -67,13 +67,13 @@ The chair of the Media Council may also get elected to an [Open Tribunal](applew
 
 6.1 **Nomination:** The following members can officially nominate an existing member of the Foundation to the Media Council:&#x20;
 
-6.1 a. An elected member of the [Executive Council](executive-council.md) or the Media Council or the [Advisory Council](advisory-council.md).
+6.1 a. An elected member of the [Executive Council](../executive-council.md) or the Media Council or the [Advisory Council](advisory-council.md).
 
 6.1 b. A non-Council member may also request a nomination, in the form of a community proposal. The Nomination action shall be officially initiated by the only members mentioned in above 6.1 “a”.&#x20;
 
 6.2 Self-nomination by an existing member of one of the Open Council bodies for his/her/their appointment to the Media Council is not acceptable.
 
-Self-nomination by a non-Council member of the Foundation, for his/her/their appointment to the Media Council, is not acceptable. [Please read more](../charters/open-governance/peer-review.md).\
+Self-nomination by a non-Council member of the Foundation, for his/her/their appointment to the Media Council, is not acceptable. [Please read more](../../charters/open-governance/peer-review.md).\
 \
 6.3 Once the nomination is accepted by the Nominee, the Nominee or the member nominating the nominee, shall file supporting information such as the nominee's literature, publications, and demonstration of social activities on the Foundation's Membership Registry.&#x20;
 
@@ -101,7 +101,7 @@ A Council Resolution <mark style="color:green;">**"Vote IN"**</mark> is then sch
 {% hint style="info" %}
 _<mark style="color:purple;">A non-Council member should not initiate a proposal for the removal of a Media Council member.</mark>_&#x20;
 
-_<mark style="color:purple;">Further, if a non-Council member has a dispute with a Media Council member, they shall use the Foundation's</mark>_ [_<mark style="color:purple;">**Observer Council**</mark>_ ](observers-council.md)_<mark style="color:purple;">or the</mark>_ [_<mark style="color:purple;">**Open Tribunal**</mark>_](open-tribunal.md) _<mark style="color:purple;">to enforce the redressal of their dispute.</mark>_
+_<mark style="color:purple;">Further, if a non-Council member has a dispute with a Media Council member, they shall use the Foundation's</mark>_ [_<mark style="color:purple;">**Observer Council**</mark>_ ](observers-council.md)_<mark style="color:purple;">or the</mark>_ [_<mark style="color:purple;">**Open Tribunal**</mark>_](../open-tribunal.md) _<mark style="color:purple;">to enforce the redressal of their dispute.</mark>_
 
 _<mark style="color:purple;">Media Council members play a central role in the Foundation's global advocacy for social good, technology-based governance, Intellectual property, data privacy and shaping public policy.</mark>_
 
@@ -154,15 +154,15 @@ The announcement of resignation can be done via electronic email on the Network'
 
 **Miscellaneous:**&#x20;
 
-10\. The [Independent Board](../charters/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate the appointment to this Council at any time, without notice and the due electoral process of removal, in the following scenario:
+10\. The [Independent Board](../../charters/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate the appointment to this Council at any time, without notice and the due electoral process of removal, in the following scenario:
 
 _If the member is found convicted of criminal, civil and financial crimes, in any court of competent jurisdiction, across the world, where the non-Council Foundationself-resignation has an active presence, either through a legal body representation or an affiliate network._
 
-Read more on the [guiding principles & diversity statement](../guiding-principles.md) of the Foundation here.&#x20;
+Read more on the [guiding principles & diversity statement](../../guiding-principles.md) of the Foundation here.&#x20;
 
-Read more about the Foundation’s [Code of Conduct](../charters/code-of-conduct/) here.&#x20;
+Read more about the Foundation’s [Code of Conduct](../../charters/code-of-conduct/) here.&#x20;
 
-11\. The [statutes](../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here. The Independent Board reserves the right to dissolve the whole Media Council and initiate the constitution of a new Media Council.
+11\. The [statutes](../../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here. The Independent Board reserves the right to dissolve the whole Media Council and initiate the constitution of a new Media Council.
 
 12\. The Foundation members communicate via cryptographic electronic communications systems and technology tools. \
 In connection with the electronic meetings convened by members of this council, the Foundation’s IT infrastructure shall be used.&#x20;
@@ -174,4 +174,4 @@ If the meeting took place outside the Foundation’s communications infrastructu
 
 {% endhint %}
 
-**Custodian:** [**Election Council**](election-council.md)
+**Custodian:** [**Election Council**](../election-council.md)

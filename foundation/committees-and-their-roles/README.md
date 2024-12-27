@@ -47,7 +47,7 @@ _The rules and procedures, governing the membership rights of citizens, who are 
 Besides the above Open Council bodies, autonomous and self-governing [Core Working Committees](../core-working-committee/)(CWCs) are associated with these Councils.&#x20;
 
 There are fundamentally two types of CWCs - \
-[Project CWC](../steering-council/project-cwcs/)s contributing to the projects and;
+[Project CWC](../bylaws-open-council/steering-council/project-cwcs/)s contributing to the projects and;
 
 [Independent CWC](../core-working-committee/independent-cwcs.md)s contribute to the collective affairs of the Foundation, whether these activities are associated with a specific project or not.
 

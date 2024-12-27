@@ -22,7 +22,7 @@ _<mark style="color:purple;">Each Fiscal Host adopts these bylaws either as a wh
 
 1. <mark style="color:green;">**Constitution of Fiscal Hosts:**</mark>&#x20;
 
-Empanelment of the legal body - Fiscal Host takes place by the Independent Board of the Foundation, based on the counsel of the [Advisory Committee](../../foundation/advisory-council.md).  \
+Empanelment of the legal body - Fiscal Host takes place by the Independent Board of the Foundation, based on the counsel of the [Advisory Committee](../../foundation/bylaws-open-council/advisory-council.md).  \
 The appointment of a Fiscal Host can be subsequently ratified by any of the pre-constituted [Independent Board](../../charters/independent-board.md)s of any of the existing "Fiscal Hosts" of the Foundation.
 
 <mark style="color:green;">**2. Appointment of Fiscal Host's Independent Board:**</mark>

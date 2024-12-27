@@ -19,7 +19,7 @@ All Core Working Committee chairs, Open Council chairs, Ambassador Council chair
 Each Council's Privilege Motion is designed such that diversity and representation embodies the decision making. Privilege Motion is a community consensus protocol.
 
 {% hint style="info" %}
-<mark style="color:green;">An example of Privilege Motion is when a</mark> [<mark style="color:green;">Project CWC</mark>](../../foundation/steering-council/project-cwcs/) <mark style="color:green;">chair member decides to apply it for an emergency action on a project.</mark>&#x20;
+<mark style="color:green;">An example of Privilege Motion is when a</mark> [<mark style="color:green;">Project CWC</mark>](../../foundation/bylaws-open-council/steering-council/project-cwcs/) <mark style="color:green;">chair member decides to apply it for an emergency action on a project.</mark>&#x20;
 {% endhint %}
 
 &#x20;**Custodian:** [**Executive Council**](../../foundation/executive-council.md)

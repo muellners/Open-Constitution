@@ -71,7 +71,7 @@ The chair of the Data Security Council may also get elected to an [Open Tribunal
 
 6.1 The following members can officially nominate a new or existing member of the Foundation to the Data Security Committee:&#x20;
 
-6.1 a. An elected member of the [Executive Council](executive-council.md) or the [Advisory Council](advisory-council.md) the Regulations Council or the Data Security Council
+6.1 a. An elected member of the [Executive Council](executive-council.md) or the [Advisory Council](bylaws-open-council/advisory-council.md) the Regulations Council or the Data Security Council
 
 6.1 b. A non-Councila member can also request a nomination, in the form of a community proposal. The Nomination action shall be officially initiated by the only members mentioned in above 6.1 “a”.&#x20;
 

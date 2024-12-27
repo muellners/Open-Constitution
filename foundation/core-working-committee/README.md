@@ -23,7 +23,7 @@ CWC members may also come from diverse fields of industry, academia, art and mus
 {% hint style="info" %}
 
 
-1. [**Project CWCs:**](../steering-council/project-cwcs/)&#x20;
+1. [**Project CWCs:**](../bylaws-open-council/steering-council/project-cwcs/)&#x20;
 
 <mark style="color:purple;">Each project has a</mark> <mark style="color:purple;"></mark>_<mark style="color:purple;">self-governing and autonomous</mark>_ <mark style="color:purple;"></mark><mark style="color:purple;">Core Working Group.</mark>&#x20;
 

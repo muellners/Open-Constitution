@@ -23,7 +23,7 @@ Generally recorded on a monthly basis through an electronic meeting with the Exe
 
 1.2 When recorded through the member’s presence in the Foundation’s monthly Council meetings, or&#x20;
 
-1.3 When participating through the [Independent Board](../charters/independent-board.md)'s private mailing list on any Council vote, at least once a month. &#x20;
+1.3 When participating through the [Independent Board](../../charters/independent-board.md)'s private mailing list on any Council vote, at least once a month. &#x20;
 
 Legal Council plays a central role in publishing, advancing and promoting the Foundation's advocacy of its guiding principles.\
 Therefore, a vote of confidence may be scheduled to register the attendance of the Legal Council members.
@@ -31,7 +31,7 @@ Therefore, a vote of confidence may be scheduled to register the attendance of t
 2\. The Legal Council members may choose to meet the Executive Council or other members through an electronic meeting, in addition to the monthly Council meetings, to contribute to their roles and responsibilities.&#x20;
 
 {% hint style="info" %}
-_<mark style="color:green;">Legal Council also processes nominations and appointments of members to Legal CWC, an</mark>_ [_<mark style="color:green;">Independent CWC</mark>_](core-working-committee/independent-cwcs.md)_<mark style="color:green;">.</mark>_
+_<mark style="color:green;">Legal Council also processes nominations and appointments of members to Legal CWC, an</mark>_ [_<mark style="color:green;">Independent CWC</mark>_](../core-working-committee/independent-cwcs.md)_<mark style="color:green;">.</mark>_
 
 \
 _<mark style="color:green;">Legal Council members build strategic relationships on behalf of the Foundation's community, representing its citizen's rights in Industry bodies and networks, which are outside the purview of the Open Constitution Partner Program.</mark>_
@@ -49,9 +49,9 @@ The Executive Council reserves the right to reject or release the meeting minute
 
 Legal Council works with all the Open Council bodies concerning the Foundation’s legal frameworks and representations.
 
-The [Executive Council](executive-council.md) ratifies the Legal Council’s Resolutions.&#x20;
+The [Executive Council](../executive-council.md) ratifies the Legal Council’s Resolutions.&#x20;
 
-The [Independent Board](../charters/independent-board.md) then ensures ratification of any amendments to this constitution, governance and steering of the Foundation, based on Executive Counsel’s public reports.
+The [Independent Board](../../charters/independent-board.md) then ensures ratification of any amendments to this constitution, governance and steering of the Foundation, based on Executive Counsel’s public reports.
 
 The chair of the Legal Council may also get elected to an [Open Tribunal](applewebdata://1A42225F-61F8-4746-A38B-9E37E1F74DC6/o/iUCZA8KkVwLfzEQmzt2z/s/-M7ZWDJpXmmuN-OjdQRl/~/changes/qf7vPuAaGbevpFCeAbez/foundation/open-tribunal), registered on the Open Constitution Governance System for arbitrations between disputing members of the Foundation.
 
@@ -65,13 +65,13 @@ The chair of the Legal Council may also get elected to an [Open Tribunal](applew
 
 6.1 **Nomination:** The following members can officially nominate an existing member of the Foundation to the Legal Council:&#x20;
 
-6.1 a. An elected member of the [Executive Council](executive-council.md) of the [Advisory Council](advisory-council.md) or the Legal Council.
+6.1 a. An elected member of the [Executive Council](../executive-council.md) of the [Advisory Council](advisory-council.md) or the Legal Council.
 
 6.1 b. A non-Council member can also request a nomination, in the form of a community proposal. The Nomination action shall be officially initiated by the only members mentioned in above 6.1 “a”.&#x20;
 
 6.2 Self-nomination by (an already elected) member of one of the bodies of the Open Council for his/her/their appointment to the Legal Council is not acceptable.
 
-Self-nomination by an existing non-Council member of the Foundation, for his/her/their appointment to the Legal Council is not acceptable. [Please read more](../charters/open-governance/peer-review.md).\
+Self-nomination by an existing non-Council member of the Foundation, for his/her/their appointment to the Legal Council is not acceptable. [Please read more](../../charters/open-governance/peer-review.md).\
 \
 6.3 Once the nomination is accepted by the Nominee, the Nominee or the member nominating the nominee, shall file supporting information such as the and nominee's literature, publications, demonstration of social activities on the Foundation's Membership Registry.&#x20;
 
@@ -150,15 +150,15 @@ The announcement of resignation can be done via electronic email on the Council'
 
 **Miscellaneous:**&#x20;
 
-10\. The [Independent Board](../charters/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate the appointment to this Council at any time, without notice and the due electoral process of removal, in the following scenario:
+10\. The [Independent Board](../../charters/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate the appointment to this Council at any time, without notice and the due electoral process of removal, in the following scenario:
 
 _If the member is found convicted of criminal, civil and financial crimes, in any court of competent jurisdiction, across the world, where the Foundation has an active presence, either through a legal body representation or an affiliate network._
 
-Read more on the [guiding principles & diversity statement](../guiding-principles.md) of the Foundation here.&#x20;
+Read more on the [guiding principles & diversity statement](../../guiding-principles.md) of the Foundation here.&#x20;
 
-Read more about the Foundation’s [Code of Conduct](../charters/code-of-conduct/) here.&#x20;
+Read more about the Foundation’s [Code of Conduct](../../charters/code-of-conduct/) here.&#x20;
 
-11\. The [statutes](../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here. The Independent Board reserves the right to dissolve the whole Legal Council and initiate the constitution of a new Legal Council.
+11\. The [statutes](../../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here. The Independent Board reserves the right to dissolve the whole Legal Council and initiate the constitution of a new Legal Council.
 
 12\. The Foundation members communicate via cryptographic electronic communications systems and technology tools. \
 In connection with the electronic meetings convened by members of this council, the Foundation’s IT infrastructure shall be used.&#x20;
@@ -170,4 +170,4 @@ If the meeting took place outside the Foundation’s communications infrastructu
 <mark style="color:purple;">Upon a successful nomination and having received a passed</mark> <mark style="color:green;">**Council Resolution "Vote IN",**</mark>**&#x20;**<mark style="color:purple;">**a**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">new Open Council member should file their supporting documents to the Open Constitution Membership Registry. A private link is generated by the Open Constitution system.</mark>
 {% endhint %}
 
-**Custodian:** [**Election Council**](election-council.md)
+**Custodian:** [**Election Council**](../election-council.md)
