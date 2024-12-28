@@ -88,5 +88,5 @@ _<mark style="color:green;">`Vote is OPEN for: 72 hours`</mark>_
 <mark style="color:purple;">Therefore, adding well-documented literature is ideal for Council member's review and a positive value that these members can provide back to their community.</mark>
 {% endhint %}
 
-**Custodian:** [**Independent Board**](../independent-board.md)
+**Custodian:** [**Independent Board**](../../fiscal-hosts/fiscal-hosts/independent-board.md)
 

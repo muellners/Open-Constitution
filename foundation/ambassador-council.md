@@ -69,7 +69,7 @@ President(s) shall meet the Executive Council of the Open Council, on behalf of 
 
 1.2 When recorded through the member’s presence in the Foundation’s monthly Council meetings, or&#x20;
 
-1.3 When participating through the [Independent Board](../charters/independent-board.md)'s private mailing list on any Open Council vote, at least once a month.&#x20;
+1.3 When participating through the [Independent Board](../fiscal-hosts/fiscal-hosts/independent-board.md)'s private mailing list on any Open Council vote, at least once a month.&#x20;
 {% endhint %}
 
 2\. The Ambassador Council President(s) may convene to meet the Executive Council or other members of the Open Council through an electronic meeting, in addition to the monthly Council meetings, to contribute to their roles and responsibilities.&#x20;
@@ -88,7 +88,7 @@ The Independent Board reserves the right to reject or accept the meeting minutes
 
 The [Executive Co](executive-council.md)uncil ratifies the Ambassador Council’s Resolutions.
 
-The [Independent Board](../charters/independent-board.md) then ensures ratification of any amendments to the constitution, governance and steering of the Foundation, based on the Executive Council's public reports.
+The [Independent Board](../fiscal-hosts/fiscal-hosts/independent-board.md) then ensures ratification of any amendments to the constitution, governance and steering of the Foundation, based on the Executive Council's public reports.
 
 **Consideration:**&#x20;
 
@@ -172,13 +172,13 @@ If the President (of any of the wings of the Ambassador Council) is resigning, t
 
 **Miscellaneous:**&#x20;
 
-10\. The [Independent Board](../charters/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate a member's appointment to the Ambassador Council at any time, without notice and the due electoral process of removal, in the following scenario:
+10\. The [Independent Board](../fiscal-hosts/fiscal-hosts/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate a member's appointment to the Ambassador Council at any time, without notice and the due electoral process of removal, in the following scenario:
 
 _If the member is found convicted of criminal, civil and financial crimes, in any court of competent jurisdiction, across the world, where the Foundation has an active presence, either through a legal body representation or an affiliate network._
 
 Read more on the [guiding principles & diversity statement](../guiding-principles.md) of the Foundation here.&#x20;
 
-Read more about the Foundation’s [Code of Conduct](../charters/code-of-conduct/) here.&#x20;
+Read more about the Foundation’s [Code of Conduct](broken-reference) here.&#x20;
 
 11\. The [statutes](../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here. The Independent Board reserves the right to dissolve a whole wing of the Ambassador Council and initiate the constitution of a new wing of the Ambassador Council.
 

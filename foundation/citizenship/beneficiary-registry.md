@@ -27,6 +27,6 @@ Note: Beneficiary citizens are also termed as _**Principal Citizens,** in this o
 >
 > ####
 >
-> #### _**`Read`**_ [_**`Electoral Charter`**_](../../charters/electoral-charter.md)_**`for more information on which membership type is eligible for an electoral process.`**_
+> #### _**`Read`**_ [_**`Electoral Charter`**_](broken-reference)_**`for more information on which membership type is eligible for an electoral process.`**_
 
 ###

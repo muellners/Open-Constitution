@@ -59,7 +59,7 @@ CWC members represent the Foundation's initiatives in industry events and activi
 
 <mark style="color:blue;">The Open Council body members shall generally schedule an interview and document the interview for the public facing records of all CWC nominations.</mark>
 
-<mark style="color:green;">**Step 3:**</mark> <mark style="color:green;"></mark><mark style="color:green;">The member is officially appointed to the Independent CWC by the Foundation's Executive Council and further ratified by a jurisdiction-based</mark> [<mark style="color:green;">Independent Board</mark>](../../../charters/independent-board.md)<mark style="color:green;">.</mark>
+<mark style="color:green;">**Step 3:**</mark> <mark style="color:green;"></mark><mark style="color:green;">The member is officially appointed to the Independent CWC by the Foundation's Executive Council and further ratified by a jurisdiction-based</mark> [<mark style="color:green;">Independent Board</mark>](../../../fiscal-hosts/fiscal-hosts/independent-board.md)<mark style="color:green;">.</mark>
 {% endhint %}
 
 {% hint style="info" %}

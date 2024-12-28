@@ -167,7 +167,7 @@ _If the E-Tenant is found convicted of criminal, civil and financial crimes, in 
 {% hint style="info" %}
 <mark style="color:purple;">Read more on the</mark> [<mark style="color:purple;">guiding principles & diversity statement</mark>](../guiding-principles.md) <mark style="color:purple;">of the Foundation here.</mark>&#x20;
 
-<mark style="color:purple;">Read more about the Foundation’s</mark> [<mark style="color:purple;">Code of Conduct</mark>](../charters/code-of-conduct/) <mark style="color:purple;">here.</mark>&#x20;
+<mark style="color:purple;">Read more about the Foundation’s</mark> [<mark style="color:purple;">Code of Conduct</mark>](broken-reference) <mark style="color:purple;">here.</mark>&#x20;
 
 <mark style="color:purple;">The</mark> [<mark style="color:purple;">statutes</mark>](../articles/statutes-muellners-foundation/) <mark style="color:purple;">of the Foundation and terms and conditions governing its functioning can be found here.</mark>&#x20;
 {% endhint %}

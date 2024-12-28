@@ -22,4 +22,4 @@ If you are an individual member with a keen interest in attaining a [Council mem
 
 
 
-**Custodian:** [**Independent Board**](../../charters/independent-board.md)
+**Custodian:** [**Independent Board**](../../fiscal-hosts/fiscal-hosts/independent-board.md)

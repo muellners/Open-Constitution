@@ -29,7 +29,7 @@ _Note: Local Citizens are also termed as "**Ordinary members**", in this open co
 <mark style="color:red;">**Public Notice:**</mark>\
 <mark style="color:green;">1. The annual membership fee for all Local Citizens has been waived for the first three years from the date of the Foundation's first Fiscal Host incorporation. (14 Dec 2019 to 14 Dec 2022).</mark>
 
-2\. <mark style="color:green;">All Local citizens gain</mark> <mark style="color:green;"></mark><mark style="color:green;">**citizen-level**</mark> <mark style="color:green;"></mark><mark style="color:green;">access, in accordance with the</mark> [<mark style="color:blue;">**Open Access**</mark>](../../charters/open-access-charter.md) <mark style="color:green;">**Charter**</mark> <mark style="color:green;"></mark><mark style="color:green;">and</mark> [<mark style="color:blue;">**Communications Charter**</mark>](../../charters/communications-charter.md)<mark style="color:green;">.</mark>
+2\. <mark style="color:green;">All Local citizens gain</mark> <mark style="color:green;"></mark><mark style="color:green;">**citizen-level**</mark> <mark style="color:green;"></mark><mark style="color:green;">access, in accordance with the</mark> [<mark style="color:blue;">**Open Access**</mark>](broken-reference) <mark style="color:green;">**Charter**</mark> <mark style="color:green;"></mark><mark style="color:green;">and</mark> [<mark style="color:blue;">**Communications Charter**</mark>](broken-reference)<mark style="color:green;">.</mark>
 
 <mark style="color:green;">3. All Local Citizens are naturally Global Citizens. All ordinary members therefore</mark> <mark style="color:green;">also have a subscribed membership status as a derived right.</mark>&#x20;
 

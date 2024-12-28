@@ -78,7 +78,7 @@ An <mark style="color:purple;">**Observer or observation or observation state**<
 
 <mark style="color:purple;">**Interstellar Space:**</mark> here shall mean space beyond the gravitational influence of Planet Earth, measured using an information signal at or above the escape velocity.
 
-\ <mark style="color:purple;">**VI. BoD:**</mark> BoD or Board of Directors here shall only and only mean an [Independent Board of Directors](charters/independent-board.md) unless explicitly mentioned otherwise.
+\ <mark style="color:purple;">**VI. BoD:**</mark> BoD or Board of Directors here shall only and only mean an [Independent Board of Directors](fiscal-hosts/fiscal-hosts/independent-board.md) unless explicitly mentioned otherwise.
 
 \ <mark style="color:purple;">**VII. Local law:**</mark> shall mean **Business laws** of a local jurisdiction, where the Foundation has appointed a legal body as a Fiscal Host, and the legally constituted body has adopted these bylaws. &#x20;
 

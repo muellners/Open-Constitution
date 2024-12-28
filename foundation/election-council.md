@@ -19,7 +19,7 @@ It is also the organizing body for affairs related to Elections in the Foundatio
 {% hint style="info" %}
 ### Relevant Read: <a href="#all-citizens-can-join-foundations-constitutional-bodies-through-the-open-constitutions-electoral-pro" id="all-citizens-can-join-foundations-constitutional-bodies-through-the-open-constitutions-electoral-pro"></a>
 
-1. [Electoral Charter](../charters/electoral-charter.md)
+1. [Electoral Charter](broken-reference)
 2. [Open Ballot](../charters/open-ballot/)
 3. [Open Governance](../charters/open-governance/)
 {% endhint %}

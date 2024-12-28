@@ -35,7 +35,7 @@ Steering Council members are usually individuals of industry-wide reputation, ha
 
 1.2 When recorded through the member’s presence in the Foundation’s monthly Council meetings, or&#x20;
 
-1.3 When participating through the [Independent Board](../../../../charters/independent-board.md)'s private mailing list on any Open Council vote, at least once a month. &#x20;
+1.3 When participating through the [Independent Board](../../../../fiscal-hosts/fiscal-hosts/independent-board.md)'s private mailing list on any Open Council vote, at least once a month. &#x20;
 
 The Steering Council plays a central role in steering the Foundation's roadmap and advocacy of its guiding principles.\
 Therefore, a vote of confidence may be scheduled to register the attendance of the Steering Council members.
@@ -62,7 +62,7 @@ The [**Executive Council**](../../../executive-council.md) ratifies the Steering
 
 _Executive Council shall keep the Independent Board informed, as it is the Independent Boards that legally ratify any Open Governance decisions within the limitations of local statutes, in accordance with the Local law._
 
-An [**Independent Board**](../../../../charters/independent-board.md) ensures the ratification of any amendments to the constitution, governance and administration of the Foundation's project-based decisions.
+An [**Independent Board**](../../../../fiscal-hosts/fiscal-hosts/independent-board.md) ensures the ratification of any amendments to the constitution, governance and administration of the Foundation's project-based decisions.
 
 **Consideration & Tenure:**&#x20;
 
@@ -153,13 +153,13 @@ The announcement of resignation can be done via electronic means wherever possib
 
 **Miscellaneous:**&#x20;
 
-10\. The [Independent Board](../../../../charters/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate the appointment to this Steering Council at any time, without notice and without the due electoral process of removal, in the following scenario:
+10\. The [Independent Board](../../../../fiscal-hosts/fiscal-hosts/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate the appointment to this Steering Council at any time, without notice and without the due electoral process of removal, in the following scenario:
 
 _If the member is found convicted of criminal, civil and financial crimes, in any court of competent jurisdiction, across the world, where the Foundation has an active presence, either through a legal body representation or an affiliate network._
 
 Read more on the [guiding principles & diversity statement](../../../../guiding-principles.md) of the Foundation here.&#x20;
 
-Read more about the Foundation’s [Code of Conduct](../../../../charters/code-of-conduct/) here.&#x20;
+Read more about the Foundation’s [Code of Conduct](broken-reference) here.&#x20;
 
 11\. The [statutes](../../../../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here. The Election Council reserves the right to dissolve the whole Steering Council and initiate the constitution of a new Steering Council.&#x20;
 

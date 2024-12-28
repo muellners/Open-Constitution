@@ -27,5 +27,5 @@ description: >-
 
 <mark style="color:blue;">Subscribed members are covered by Foundation's data protection regime, regardless of whether a data protection law is active in the context of Local jurisdiction.</mark>
 
-_<mark style="color:red;">All subscribed members gain a</mark> <mark style="color:red;"></mark><mark style="color:red;">**Guest or Member access**</mark><mark style="color:red;">, according to the</mark>_ [_<mark style="color:red;">**Open Access Charter**</mark>_](../../charters/open-access-charter.md)_<mark style="color:red;">**,**</mark>_ and depending on Self verificatio&#x6E;_._
+_<mark style="color:red;">All subscribed members gain a</mark> <mark style="color:red;"></mark><mark style="color:red;">**Guest or Member access**</mark><mark style="color:red;">, according to the</mark>_ [_<mark style="color:red;">**Open Access Charter**</mark>_](broken-reference)_<mark style="color:red;">**,**</mark>_ and depending on Self verificatio&#x6E;_._
 {% endhint %}

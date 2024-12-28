@@ -17,7 +17,7 @@ description: This page describes bylaws of any organ/body of the Open Council.
 
 1.2 When recorded through the member’s presence in the Foundation’s monthly Council meetings, or&#x20;
 
-1.3 When participating through the [Independent Board](../../../charters/independent-board.md)'s private mailing list on any Open Council vote, at least once a month. &#x20;
+1.3 When participating through the [Independent Board](../../../fiscal-hosts/fiscal-hosts/independent-board.md)'s private mailing list on any Open Council vote, at least once a month. &#x20;
 
 A vote of confidence may be scheduled to register the attendance of the Council members.
 
@@ -41,7 +41,7 @@ The [**Executive Council**](../../executive-council.md) ratifies any Council’s
 
 _Executive Council shall keep the Independent Board informed, as it is the Independent Boards that legally ratify any Open Governance decisions within the stipulations of local statutes, in accordance with the Local law._
 
-An [**Independent Board**](../../../charters/independent-board.md) ensures the ratification of any amendments to the constitution, governance and administration of the Foundation's project-based decisions.
+An [**Independent Board**](../../../fiscal-hosts/fiscal-hosts/independent-board.md) ensures the ratification of any amendments to the constitution, governance and administration of the Foundation's project-based decisions.
 
 **Consideration & Tenure:**&#x20;
 
@@ -132,7 +132,7 @@ The announcement of resignation can be done through electronic means.
 
 **Miscellaneous:**&#x20;
 
-10\. The [Independent Board](../../../charters/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate the appointment to this Council at any time, without notice and without the due electoral process of removal, in the following scenario:
+10\. The [Independent Board](../../../fiscal-hosts/fiscal-hosts/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate the appointment to this Council at any time, without notice and without the due electoral process of removal, in the following scenario:
 
 _If the member is found convicted of criminal, civil and financial crimes, in any court of competent jurisdiction, across the world, where the Foundation has an active presence, either through a legal body representation or an affiliate network._
 

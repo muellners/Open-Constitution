@@ -52,7 +52,8 @@
 
 ## Fiscal Hosts
 
-* [📚 Fiscal Hosts](fiscal-hosts/fiscal-hosts.md)
+* [📚 Fiscal Hosts](fiscal-hosts/fiscal-hosts/README.md)
+  * [💂 Independent Board](fiscal-hosts/fiscal-hosts/independent-board.md)
 * [👩‍💻 Steward Group](fiscal-hosts/steward-group.md)
 * [📔 Fiscal Host AoA](fiscal-hosts/fiscal-host-aoa.md)
 * [📚 Legal Impressum](fiscal-hosts/legal-impressum/README.md)
@@ -61,7 +62,6 @@
 
 ## Charters
 
-* [💂 Independent Board](charters/independent-board.md)
 * [📔 Governance Protocols](charters/open-governance/README.md)
   * [‼️ Open Trust Protocols](charters/open-governance/open-trust-protocols.md)
   * [👿 Anti Incumbency Staging](charters/open-governance/incumbency-and-nepotism.md)
@@ -77,19 +77,9 @@
   * [😴 Lazy Consensus](charters/open-governance/lazy-motion.md)
   * [⏭️ Causality Protocol](charters/open-governance/causality-protocol.md)
   * [🌋 Decisioning Pyramid](charters/open-governance/decisioning-pyramid.md)
-* [🚪 Open Access Charter](charters/open-access-charter.md)
-* [📻 Open Communications Charter](charters/communications-charter.md)
 * [🗳️ Open Ballot](charters/open-ballot/README.md)
   * [🗳️ Voting](charters/open-ballot/voting.md)
   * [📓 Committee Vote](charters/open-ballot/committee-vote.md)
   * [📖 Community Referendum](charters/open-ballot/community-referendum.md)
   * [📔 Open Council Vote](charters/open-ballot/open-council-vote.md)
   * [📔 Council Vote](charters/open-ballot/council-vote.md)
-* [📓 Electoral Charter](charters/electoral-charter.md)
-* [🤓 Code of Conduct](charters/code-of-conduct/README.md)
-  * [🤚 Moderation Policy](charters/code-of-conduct/moderation-policy/README.md)
-    * [🤖 Sentient Bot](charters/code-of-conduct/moderation-policy/sentient-bot.md)
-    * [☮️ How not to Spam?](charters/code-of-conduct/moderation-policy/how-not-to-spam/README.md)
-      * [👊 List of Sensitivity](charters/code-of-conduct/moderation-policy/how-not-to-spam/list-of-sensitivity.md)
-* [🏳️ Whistleblower Policy](charters/whistleblower-policy.md)
-* [🖥️ IP Lifecycle Charter](charters/ip-lifecycle-charter.md)

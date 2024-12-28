@@ -60,7 +60,7 @@ There are fundamentally two types of CWCs - \
 
 A nomination is generally initiated by existing members of the Council. Any Open Council member can nominate any other member of the Foundation's community.&#x20;
 
-Members can also nominate any person from outside the network's ecosystem, as long as the [Open Access](../../charters/open-access-charter.md) guidelines of this Open Constitution have been followed.
+Members can also nominate any person from outside the network's ecosystem, as long as the [Open Access](broken-reference) guidelines of this Open Constitution have been followed.
 
 _Self-nomination is unfortunately not acceptable_.  \
 \
@@ -72,7 +72,7 @@ Each body of the Open Council governs itself using this Open Constitution.&#x20;
 Read more on [Committee Vote](../../charters/open-ballot/committee-vote.md), and [Council Vote](../../charters/open-ballot/open-council-vote.md) which the Council members and Core Working Committees(CWCs) use for their proceedings.
 
 {% hint style="info" %}
-&#x20;[Independent Board](../../charters/independent-board.md) is the ratification agency for the appointment of the Executive Committee and its President. \
+&#x20;[Independent Board](../../fiscal-hosts/fiscal-hosts/independent-board.md) is the ratification agency for the appointment of the Executive Committee and its President. \
 
 
 For more detailed text on the functioning of these Council Committees, please visit specific pages on each Committee.

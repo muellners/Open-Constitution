@@ -23,7 +23,7 @@ _<mark style="color:purple;">Each Fiscal Host adopts these bylaws either as a wh
 1. <mark style="color:green;">**Constitution of Fiscal Hosts:**</mark>&#x20;
 
 Empanelment of the legal body - Fiscal Host takes place by the Independent Board of the Foundation, based on the counsel of the [Advisory Committee](../../foundation/committees-and-their-roles/bylaws-open-council/advisory-council.md).  \
-The appointment of a Fiscal Host can be subsequently ratified by any of the pre-constituted [Independent Board](../../charters/independent-board.md)s of any of the existing "Fiscal Hosts" of the Foundation.
+The appointment of a Fiscal Host can be subsequently ratified by any of the pre-constituted [Independent Board](../../fiscal-hosts/fiscal-hosts/independent-board.md)s of any of the existing "Fiscal Hosts" of the Foundation.
 
 <mark style="color:green;">**2. Appointment of Fiscal Host's Independent Board:**</mark>
 
@@ -50,7 +50,7 @@ _Terms and headings used have meanings derived from the Glossary._
 \
 Read more on [Citizenship](../../foundation/citizenship/).&#x20;
 
-Read more on [Fiscal Host](../../fiscal-hosts/fiscal-hosts.md).
+Read more on [Fiscal Host](../../fiscal-hosts/fiscal-hosts/).
 
 <mark style="color:red;">Public Notice: Public Efforts are underway for the Foundation's citizens to be registered on the Open Constitution Public Registry.</mark>
 {% endhint %}
@@ -76,5 +76,5 @@ Please read the **LIVE** public-facing record of the Global Statutes on the next
 * [ ] <mark style="color:purple;">Global Statutes were under Public Review(Request for Comments) from Dec 9, 2022, to Dec 23, 2022, for an effective date of Dec 23, 2022. (extended to Dec 31st, 2022)</mark>&#x20;
 {% endhint %}
 
-**Custodian:** [**Independent Board**](../../charters/independent-board.md)**, Open Constitution, Denmark**\
+**Custodian:** [**Independent Board**](../../fiscal-hosts/fiscal-hosts/independent-board.md)**, Open Constitution, Denmark**\
 Credits: Articles are inspired by best practices in open-source organisations.\

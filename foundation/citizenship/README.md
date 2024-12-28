@@ -33,7 +33,7 @@ description: >-
 
 <mark style="color:green;">b. Fiscal Host's compliance levels with local business laws.</mark>
 
-<mark style="color:green;">Read more about</mark> [<mark style="color:green;">**Fiscal Hosts**</mark>](../../fiscal-hosts/fiscal-hosts.md)<mark style="color:green;">.</mark>
+<mark style="color:green;">Read more about</mark> [<mark style="color:green;">**Fiscal Hosts**</mark>](../../fiscal-hosts/fiscal-hosts/)<mark style="color:green;">.</mark>
 {% endhint %}
 
 
@@ -55,7 +55,7 @@ description: >-
 >
 > ####
 >
-> #### _**`Read`**_ [_**`Electoral Charter`**_](../../charters/electoral-charter.md)_**`for more information on which membership type is eligible for an electoral process.`**_
+> #### _**`Read`**_ [_**`Electoral Charter`**_](broken-reference)_**`for more information on which membership type is eligible for an electoral process.`**_
 
 ### [E. EMERITUS CITIZEN](emeritus-citizen.md)
 

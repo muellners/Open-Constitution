@@ -27,7 +27,7 @@ _**Meetings:**_
 
 1.2 When recorded through the member’s presence in the Foundation’s monthly Council meetings, or&#x20;
 
-1.3 When participating through the [Independent Board](../../../charters/independent-board.md)'s private mailing list on any Council vote, at least once a month. &#x20;
+1.3 When participating through the [Independent Board](../../../fiscal-hosts/fiscal-hosts/independent-board.md)'s private mailing list on any Council vote, at least once a month. &#x20;
 
 The Advisory Council plays a central role in advising, advancing and promoting the Foundation's advocacy of its guiding principles.\
 Therefore, a vote of confidence may be scheduled to register the attendance of the Advisory Council members.
@@ -48,7 +48,7 @@ The primary function of the Advisory Council is to work with the other Council m
 
 The [Executive Council](../../executive-council.md) ratifies the Advisory Committee’s Resolutions.&#x20;
 
-The [Independent Board](../../../charters/independent-board.md) then ensures ratification of any amendments to this constitution, governance and steering of the Foundation, based on Executive Counsel’s public reports.
+The [Independent Board](../../../fiscal-hosts/fiscal-hosts/independent-board.md) then ensures ratification of any amendments to this constitution, governance and steering of the Foundation, based on Executive Counsel’s public reports.
 
 The chair of the Advisory Council may also get elected to an [Open Tribunal](applewebdata://1A42225F-61F8-4746-A38B-9E37E1F74DC6/o/iUCZA8KkVwLfzEQmzt2z/s/-M7ZWDJpXmmuN-OjdQRl/~/changes/qf7vPuAaGbevpFCeAbez/foundation/open-tribunal), registered on the Open Constitution Governance System for arbitrations between disputing members of the Foundation.
 
@@ -142,13 +142,13 @@ A member may resign from the Advisory Council by stating the reasons for resigna
 
 **Miscellaneous:**
 
-10\. The [Independent Board](../../../charters/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate the appointment to this Council at any time, without notice and without the due electoral process of removal, in the following scenario:
+10\. The [Independent Board](../../../fiscal-hosts/fiscal-hosts/independent-board.md) reserves the right to update the terms and conditions, and statutes from time to time, in compliance with the existing rules and regulations of the association, including reserving the right to terminate the appointment to this Council at any time, without notice and without the due electoral process of removal, in the following scenario:
 
 _If the member is found convicted of criminal, civil and financial crimes, in any court of competent jurisdiction, across the world, where the Foundation has an active presence, either through a legal body representation or an affiliate network._
 
 Read more on the [guiding principles & diversity statement](../../../guiding-principles.md) of the Foundation here.&#x20;
 
-Read more about the Foundation’s [Code of Conduct](../../../charters/code-of-conduct/) here.&#x20;
+Read more about the Foundation’s [Code of Conduct](broken-reference) here.&#x20;
 
 11\. The [statutes](../../../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here.&#x20;
 

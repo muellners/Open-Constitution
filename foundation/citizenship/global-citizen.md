@@ -19,7 +19,7 @@ _Global Citizens are also termed as **"transnational citizens"**, in this Open C
 
 {% endhint %}
 
-Global Citizens organise themselves and Foundation's initiatives, activities and community projects on several Internet based public forums and member spaces. This is an open source intelligence collective. Read [<mark style="color:blue;">**Communications Charter**</mark>](../../charters/communications-charter.md)<mark style="color:blue;">**.**</mark>
+Global Citizens organise themselves and Foundation's initiatives, activities and community projects on several Internet based public forums and member spaces. This is an open source intelligence collective. Read [<mark style="color:blue;">**Communications Charter**</mark>](broken-reference)<mark style="color:blue;">**.**</mark>
 
 {% hint style="info" %}
 <mark style="color:red;">**Public Notice:**</mark>
@@ -29,5 +29,5 @@ Global Citizens organise themselves and Foundation's initiatives, activities and
 
 <mark style="color:blue;">Global Citizens are covered by Foundation's data protection regime, regardless of whether a data protection law is active in the context of limitations of Local jurisdiction.</mark>
 
-_<mark style="color:red;">All Global Citizens gain a</mark> <mark style="color:red;"></mark><mark style="color:red;">**Guest or Member access**</mark><mark style="color:red;">, according to the</mark>_ [_<mark style="color:red;">**Open Access Charter**</mark>_](../../charters/open-access-charter.md) _<mark style="color:red;">**and depending on Self verification.**</mark>_
+_<mark style="color:red;">All Global Citizens gain a</mark> <mark style="color:red;"></mark><mark style="color:red;">**Guest or Member access**</mark><mark style="color:red;">, according to the</mark>_ [_<mark style="color:red;">**Open Access Charter**</mark>_](broken-reference) _<mark style="color:red;">**and depending on Self verification.**</mark>_
 {% endhint %}
