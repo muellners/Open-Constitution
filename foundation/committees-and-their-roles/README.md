@@ -13,7 +13,7 @@ _<mark style="color:purple;">In the Open Council, representatives of different C
 
 {% endhint %}
 
-**The Open Council** **ensures&#x20;**_**safe, secure and transparent**_ [**Open Governance**](../../charters/open-governance/)**, maintenance of the Foundation's "**[**Objectives**](../../articles/objectives.md)**" and public-facing documentation of "Project" roadmaps.**
+**The Open Council** **ensures&#x20;**_**safe, secure and transparent**_ [**Open Governance**](broken-reference)**, maintenance of the Foundation's "**[**Objectives**](../../articles/objectives.md)**" and public-facing documentation of "Project" roadmaps.**
 
 Open Council members come from diverse fields and sectors and are elected to the Council.&#x20;
 
@@ -69,7 +69,7 @@ The Chancellor of the Open Council shall counsel the Independent Board of a Fisc
 
 Each body of the Open Council governs itself using this Open Constitution.&#x20;
 
-Read more on [Committee Vote](../../charters/open-ballot/committee-vote.md), and [Council Vote](../../charters/open-ballot/open-council-vote.md) which the Council members and Core Working Committees(CWCs) use for their proceedings.
+Read more on [Committee Vote](broken-reference), and [Council Vote](broken-reference) which the Council members and Core Working Committees(CWCs) use for their proceedings.
 
 {% hint style="info" %}
 &#x20;[Independent Board](../../fiscal-hosts/fiscal-hosts/independent-board.md) is the ratification agency for the appointment of the Executive Committee and its President. \

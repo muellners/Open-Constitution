@@ -79,7 +79,7 @@ The chair of the Regulations Council may also get elected to an [Open Tribunal](
 
 6.2 Self-nomination by (an already elected) member of one of the bodies of the Open Council for his/her/their appointment to the Regulations Council is not acceptable.
 
-Self-nomination by an existing non-Council member of the Foundation, for his/her/their appointment to the Regulations Council is not acceptable. [Please read more](../../../charters/open-governance/peer-review.md).\
+Self-nomination by an existing non-Council member of the Foundation, for his/her/their appointment to the Regulations Council is not acceptable. [Please read more](broken-reference).\
 
 
 6.3 Once the nomination is accepted by the Nominee, the Nominee or the member nominating the nominee, shall file supporting documentation such as the nominee's literature, publications, and demonstration of social activities on the Foundation's Membership Registry.&#x20;

@@ -81,7 +81,7 @@ The chair of the Treasury Council may also get elected to an [Open Tribunal](app
 
 6.2 Self-nomination by an existing member of one of the Open Council bodies for his/her/their appointment to the Treasury Council is not acceptable.
 
-Self-nomination by an existing non-Council member of the Foundation, for his/her/their appointment to the Treasury Council, is not acceptable. [Please read more](../../../charters/open-governance/peer-review.md).\
+Self-nomination by an existing non-Council member of the Foundation, for his/her/their appointment to the Treasury Council, is not acceptable. [Please read more](broken-reference).\
 \
 6.3 Once the nomination is accepted by the Nominee, the Nominee or the member nominating the nominee, shall file supporting information such as the nominee's literature, publications, and the the demonstration of social activities on the Foundation's Membership Registry.&#x20;
 

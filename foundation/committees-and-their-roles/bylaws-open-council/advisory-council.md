@@ -72,7 +72,7 @@ After a member has served on this Council in the preceding year, the community s
 
 6.2 Self-nomination by (an already elected) member of one of the bodies of the Open Council for his/her/their appointment to the Advisory Council is not acceptable.
 
-Self nomination by an individual member of the Foundation, for his/her/their appointment to the Advisory Council is not acceptable. [Please read more](../../../charters/open-governance/peer-review.md).\
+Self nomination by an individual member of the Foundation, for his/her/their appointment to the Advisory Council is not acceptable. [Please read more](broken-reference).\
 \
 6.3 Once the nomination is registered by the Nominee, the Nominee or the member nominating the nominee, shall file supporting information such as the nominee's literature, publications, and demonstration of social activities on the Foundation's Membership Registry.&#x20;
 
