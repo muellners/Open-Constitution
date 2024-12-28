@@ -71,7 +71,7 @@ If the Tenancy Convention proceedings took place outside the Contributions Deliv
 
 The members communicate via cryptographic electronic communications systems and technology tools. In connection with the electronic meetings convened by members of this council, the Foundation or Network's IT infrastructure shall only be used to record meeting minutes.
 
-<mark style="color:red;">**Notice:**</mark> Read the [Acceptable Usage Policy](../open-source-policies/acceptable-usage-policy.md)
+<mark style="color:red;">**Notice:**</mark> Read the [Acceptable Usage Policy](broken-reference)
 
 Read [Open Source Policy](broken-reference)
 {% endhint %}

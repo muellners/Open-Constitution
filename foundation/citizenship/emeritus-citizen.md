@@ -28,6 +28,6 @@ Note: Emeritus Citizens are also termed as **"former members"**, in this Open Co
 {% endhint %}
 
 {% hint style="info" %}
-Read [Data Protection Rights of Emeritus Citizen](../../data-processing/data-protection/notice-emeritus-citizen.md)\
+Read [Data Protection Rights of Emeritus Citizen](broken-reference)\
 
 {% endhint %}

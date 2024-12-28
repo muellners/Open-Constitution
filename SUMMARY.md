@@ -93,39 +93,3 @@
       * [👊 List of Sensitivity](charters/code-of-conduct/moderation-policy/how-not-to-spam/list-of-sensitivity.md)
 * [🏳️ Whistleblower Policy](charters/whistleblower-policy.md)
 * [🖥️ IP Lifecycle Charter](charters/ip-lifecycle-charter.md)
-
-## Privacy Compliance <a href="#privacy" id="privacy"></a>
-
-* [🍪 Cookie Policy](privacy/cookie-policy/README.md)
-  * [🍪 Property specific Cookie List](privacy/cookie-policy/property-specific-cookie-list.md)
-* [🔏 Privacy Policy/Notice](privacy/privacy-policy.md)
-
-## Data Residency Policies <a href="#data-processing" id="data-processing"></a>
-
-* [🔐 Data Security & Handling Agreement](data-processing/data-security-and-handling-agreement.md)
-* [🧘‍♀️ Data Processing Agreement](data-processing/data-processing-agreement.md)
-* [👮‍♀️ Data Protection](data-processing/data-protection/README.md)
-  * [🌐 Notice:Data Processing and Control](data-processing/data-protection/notice-data-processing-and-control.md)
-  * [🔏 Notice: Data Residency Security and Control Policy](data-processing/data-protection/notice-data-residency-security-and-control-policy.md)
-  * [🪅 Notice: Data Residency Hosting and Control Policy](data-processing/data-protection/notice-data-residency-hosting-and-control-policy.md)
-  * [🌎 Notice: Emeritus Citizen](data-processing/data-protection/notice-emeritus-citizen.md)
-* [🔏 Data Integrity Policy](data-processing/data-integrity-policy/README.md)
-  * [🔏 Network AI Services](data-processing/data-integrity-policy/network-ai-services.md)
-  * [🛠️ Third Party AI Tools](data-processing/data-integrity-policy/third-party-ai-tools.md)
-* [🎞️ Network APIs](data-processing/network-apis.md)
-
-## Open Source Policies
-
-* [🆓 Open Source Policy](open-source-policies/open-source-usage-and-delivery-policies.md)
-* [📟 Acceptable Usage Policy](open-source-policies/acceptable-usage-policy.md)
-* [🦓 IP Lifecycle Policy](open-source-policies/ip-lifecycle-policy.md)
-* [🖇️ Beneficiary License](open-source-policies/beneficiary-license.md)
-
-## Outreach
-
-* [™️ Brand Usage Policy](outreach/brand-usage-policy.md)
-
-## OC Network
-
-* [🎆 Network Diagram](oc-network/network-diagram.md)
-* [🔑 Cloud Security](oc-network/cloud-security.md)

@@ -54,7 +54,7 @@ Global Statutes prescribe Articles and instruments to Fiscal Hosts to fully addr
 {% hint style="info" %}
 **Relevant:** [Fiscal Hosts](broken-reference) or Fiscal Nodes on the Open Constitution Network.&#x20;
 
-Each Fiscal Node deploys and maintains a nodal ledger. See the Open Constitution [Network Diagram](../oc-network/network-diagram.md). &#x20;
+Each Fiscal Node deploys and maintains a nodal ledger. See the Open Constitution [Network Diagram](broken-reference). &#x20;
 
 Also, See the Open Constitution [Network Fiscal Diagram](legal-impressum/network-fiscal-diagram.md).&#x20;
 {% endhint %}

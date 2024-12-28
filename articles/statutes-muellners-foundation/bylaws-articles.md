@@ -287,7 +287,7 @@ The initial founding members of the Foundation shall be admitted upon the affirm
 
 {% hint style="info" %}
 Also, Read [Emeritus Citizen](../../foundation/citizenship/emeritus-citizen.md)\
-[Data Protection of Emeritus Citizen](../../data-processing/data-protection/notice-emeritus-citizen.md)
+[Data Protection of Emeritus Citizen](broken-reference)
 {% endhint %}
 
 An emeritus member is a former member, whose membership has been suspended and converted to emeritus status, either voluntarily or by the action of the members, such that all membership rights of the emeritus member, including the right to vote and be counted for purposes of quorum, are suspended and terminated until the emeritus member's membership is reinstated by subsequent action of the members.

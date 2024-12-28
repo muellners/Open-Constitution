@@ -16,4 +16,4 @@ The following controls and checks are placed on the Open Constitution AI network
 TRL Level Transition of Project Deployments
 {% endfile %}
 
-Relevant Read: [I.P. Lifecycle Policy](../open-source-policies/ip-lifecycle-policy.md)
+Relevant Read: [I.P. Lifecycle Policy](broken-reference)
