@@ -8,9 +8,9 @@ Now that you are here, you are welcome to join the borderless Trust network as f
 
 {% stepper %}
 {% step %}
-### Activate [Open-BankID](https://open-bank.org)
+### Activate [Open-BankID](https://www.open-bank.org)
 
-Create an E residency or Org residency account. This is your universal access to the network.
+Create an E residency account. This is your universal access to the network.
 {% endstep %}
 
 {% step %}
