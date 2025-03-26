@@ -16,6 +16,7 @@
 
 ## Association of Natural Persons <a href="#foundation" id="foundation"></a>
 
+* [E Residency Trust Flow](foundation/e-residency-trust-flow.md)
 * [🤝 Citizenship](foundation/citizenship/README.md)
   * [🧗 Local Citizen](foundation/citizenship/local-citizen.md)
   * [🙋 Global Citizen](foundation/citizenship/global-citizen.md)
