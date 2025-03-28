@@ -20,7 +20,7 @@ description: This page explains how to bring amendments to this Open Constitutio
 >
 > You may use the design principles of this library to run your private network, node or community. You can use the content, by simply attributing to the Open Constitution license.
 >
-> [https://github.com/muellners/Open-Constitution](https://github.com/muellners/Open-Constitution)
+> [https://github.com/openbanknetwork/Open-Constitution](https://github.com/openbanknetwork/Open-Constitution)
 
 _**Open Constitution Global Statutes are divided into different constitutional bodies.**_ \
 &#xNAN;_&#x41;rticles of association for each constitutional body of the Open Constitution are detailed and presented on a single page of this Open Constitution._&#x20;
@@ -47,9 +47,9 @@ Each **instrument** is bound by a specific custodian, an Open Council body which
 {% hint style="info" %}
 Read governance guidelines before bringing about an Amendment to the Open Constitution.&#x20;
 
-Visit [Trust Governance Center](https://govern.open-bank.net)
+Visit [Trust Governance Center](https://eresidency.open-bank.org)
 
-File an [Amendment Proposal](https://govern.open-bank.net/portal/1)
+File an Amendment Proposal
 {% endhint %}
 
 
