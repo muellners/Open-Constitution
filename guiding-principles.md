@@ -6,7 +6,7 @@ description: >-
 
 # ☮️ Guiding Principles
 
-These ar e the guiding principles for all natural persons, legal persons(bodies), and electronic persons who adopt the Global Statutes: Open Constitution.
+These are the guiding principles for all natural persons, legal persons(bodies), and electronic persons who adopt the Global Statutes: Open Constitution.
 
 > **Read about Humans** (_Homo sapiens_) who are the most abundant and widespread [species](https://en.wikipedia.org/wiki/Species) of [primate](https://en.wikipedia.org/wiki/Primate), characterized by [bipedalism](https://en.wikipedia.org/wiki/Bipedality) and large, complex [brains](https://en.wikipedia.org/wiki/Brain). They are intelligent, capable of [episodic memory](https://en.wikipedia.org/wiki/Episodic_memory#In_animals), have flexible facial expressions, [self-awareness](https://en.wikipedia.org/wiki/Self-awareness) and a [theory of mind](https://en.wikipedia.org/wiki/Theory_of_mind).&#x20;
 >
@@ -27,13 +27,13 @@ These ar e the guiding principles for all natural persons, legal persons(bodies)
 {% hint style="info" %}
 <mark style="color:red;">**DIVERSITY EQUITY & INCLUSION(DEI):**</mark>
 
-<mark style="color:red;">Ignorance about diversity in human cognition phenomenon and epistemic boundaries in describing the human consciousness into narrow classifiers generally tends to a temporal reality of minority exclusions and large-scale polarisations of 'theory of mind'.</mark>&#x20;
+<mark style="color:red;">Ignorance about diversity in human cognition phenomena and epistemic boundaries in describing the human consciousness into narrow classifiers generally tends to a temporal reality of minority exclusions and large-scale polarisations of 'theory of mind'.</mark>&#x20;
 
 <mark style="color:red;">''Such a temporal reality works as a contravening principle for an evolving and enlightened human intelligence in the observable universe."</mark>
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:red;">The network bases its work against any form of "identity" based discrimination - including but not limited to religion, ethnicity, caste, sex, gender, politics, culture, nationality, or livelihood.</mark>
+<mark style="color:red;">The network bases its work against any form of "identity" based discrimination, including but not limited to religion, ethnicity, caste, sex, gender, politics, culture, nationality, or livelihood.</mark>
 
 <mark style="color:red;">**Racism:**</mark> <mark style="color:red;"></mark><mark style="color:red;">The network strictly condemns any form of racism.</mark>
 
@@ -47,14 +47,14 @@ These ar e the guiding principles for all natural persons, legal persons(bodies)
 
 <mark style="color:red;">**Culturism:**</mark> <mark style="color:red;"></mark><mark style="color:red;">The network advocates multiculturalism in an open-minded, higher-intelligence human society.</mark>
 
-<mark style="color:red;">All diverse ethnic heritage endowed in the present human society is fundamental to humankind and the sentience of human life.</mark>&#x20;
+<mark style="color:red;">All diverse ethnic heritages endowed in the present human society are fundamental to humankind and the sentience of human life.</mark>&#x20;
 
 <mark style="color:red;">The network respects all diverse cultural identities.</mark>\
 
 {% endhint %}
 
 {% hint style="info" %}
-Network bases its work against racial discrimination on the “The Declaration on the Elimination of All Forms of Racial Discrimination” by the United Nations, first adopted on 20 November 1963.
+The network bases its work against racial discrimination on the “The Declaration on the Elimination of All Forms of Racial Discrimination” by the United Nations, first adopted on 20 November 1963.
 
 \
 **Read more below.**&#x20;
@@ -92,10 +92,10 @@ Network bases its work against racial discrimination on the “The Declaration o
 
 ## **IV.&#x20;**<mark style="color:green;">**Sexual Orientation:**</mark>&#x20;
 
-<mark style="color:green;">No human should be subjected to any sexual identity-based exclusion.</mark> \ <mark style="color:green;">Network believes that all human beings have the freedom to express their sexual orientation, without fear of hostility.</mark>
+<mark style="color:green;">No human should be subjected to any sexual identity-based exclusion.</mark> \ <mark style="color:green;">The network believes that all human beings have the freedom to express their sexual orientation without fear of hostility.</mark>
 
 {% hint style="info" %}
-<mark style="color:green;">The network supports and promotes equity for all human beings and conserve the freedom of those who identify with any sexual orientation.</mark> \
+<mark style="color:green;">The network supports and promotes equity for all human beings and conserves the freedom of those who identify with any sexual orientation.</mark> \
 \
 [Read more here.](https://www.ohchr.org/EN/Issues/LGBTI/Pages/UNResolutions.aspx)&#x20;
 {% endhint %}
@@ -246,7 +246,7 @@ Network bases its research and development work on the Convention on Biological 
 ## XI. Advanced Intelligence&#x20;
 
 {% hint style="info" %}
-<mark style="color:purple;">**Space Exploration:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">The Network supports and advocates space research and development for humankind’s welfare and scientific pursuit and to augment the lives of differently-abled humans.</mark>
+<mark style="color:purple;">**Non-ProliferationSpace Exploration:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">The Network supports and advocates space research and development for humankind’s welfare and scientific pursuit and to augment the lives of differently-abled humans.</mark>
 
 
 
