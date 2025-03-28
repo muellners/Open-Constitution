@@ -14,7 +14,7 @@ The 'Foundation' sustains the public information system by hosting digital publi
 
 The AI network is governed by a set of distributed, flexible, compatible, and censorship-resistant constitutional bodies, including the Open Council, which coordinate the actions of the AI to ensure transparent and secure governance of the neural map.
 
-Open Constitution AI network is defined as an extra-territorial entity, an embodiment of a natural person’s legal personhood to publish their consciousness and exercise rights to exclusions to private property, as enshrined in laws for freedom of voluntary organisation and private property.
+Open Constitution AI network is defined as an extra-territorial entity, an embodiment of a natural person’s legal personhood to publish their consciousness and exercise rights to exclusions to private property(source of truth of consciousness), as enshrined in laws for freedom of voluntary organisation and private property in a society of rule of law.
 
 The Open Constitution AI network supports and promotes principles such as privacy, apolitical stance, nonviolence, ecological stability, sustainable development, and the creation of Earth's digital public goods infrastructure.
 
@@ -70,36 +70,44 @@ Sometimes Self is construed as the Observer. In the scope of these articles,&#x2
 
 <mark style="color:purple;">**V.**</mark> \ <mark style="color:purple;">**Local Space:**</mark> here shall mean local geographical space(land, water and airspace), governed by local jurisdiction.
 
-<mark style="color:purple;">**Cyber Space:**</mark> here shall mean Internet space hosted on all the networked computing machines on earth.
+<mark style="color:purple;">**Cyber Space:**</mark> here shall mean any virtual representation of Internet accessibility, hosted on two or more networked computing machines on Earth.
 
-<mark style="color:purple;">**International Space:**</mark> here shall mean international geographical space(land, water, and airspace), including disputed geographical territories, non-registered UN member states, etc.
+<mark style="color:purple;">**International Space:**</mark> here shall mean international geographical space(land, water, and airspace), including disputed geographical territories, non-UNO General Assembly member states, etc.
 
-<mark style="color:purple;">**Interstellar Space:**</mark> here shall mean space beyond the gravitational influence of Planet Earth, measured using an information signal at or above the escape velocity.
+<mark style="color:purple;">**Interstellar Space:**</mark> here shall mean space beyond the gravitational influence of Planet Earth, measured using an information signal at or above the escape velocity associated with Earth's gravity.
 
 \ <mark style="color:purple;">**VI. BoD:**</mark> BoD or Board of Directors here shall only and only mean an [Independent Board of Directors](fiscal-hosts/fiscal-hosts/independent-board.md) unless explicitly mentioned otherwise.
 
-\ <mark style="color:purple;">**VII. Local law:**</mark> shall mean **Business laws** of a local jurisdiction, where the Foundation has appointed a legal body as a Fiscal Host, and the legally constituted body has adopted these bylaws. &#x20;
+\ <mark style="color:purple;">**VII. Local law:**</mark> shall mean **Business laws** of a local jurisdiction where the Foundation has appointed a legal body as a Fiscal Host, and the legally constituted body is incorporated within the scope of these laws. &#x20;
 
-\ <mark style="color:purple;">**VIII. Jurisdiction:**</mark> Here, it shall mean an authority granted to a legal body but a public representative entity in exercising the protection of human rights in a local space.
+\ <mark style="color:purple;">**VIII. Jurisdiction:**</mark> Here, it shall mean a legal authority granted to a body but a public representative entity in exercising the protection of human rights in a local space.
 
 \ <mark style="color:purple;">**Types of Jurisdictions:**</mark>
 
-<mark style="color:purple;">**Local**</mark> <mark style="color:purple;">**Jurisdiction:**</mark> shall mean a legal authority of people's representation within a geographical region granted to a public authority.&#x20;
+<mark style="color:purple;">**Local**</mark> <mark style="color:purple;">**Jurisdiction:**</mark> shall mean a legal authority of a natural person's representation of their sentience, within a geographical region on Planet Earth, granted to a public authority by the natural person.&#x20;
 
-These global statutes recognise that all UN member state Governments have sovereign local jurisdictions on the geographically located space and airspace above it.
+These global statutes recognise that all UNO member state governments have sovereign local jurisdictions on the geographically located space and airspace above it.
 
-<mark style="color:purple;">**Cyber Jurisdiction:**</mark> shall mean a declared legal authority of people's representation in cyberspace and which has been granted to a public authority or a public ledger or a network of computing machines(whether located in local or international or interstellar space) by virtue of a representative public authority.&#x20;
+<mark style="color:purple;">**Cyber Jurisdiction:**</mark> shall mean a natural person's declared legal authority of public representation of their Sentience in cyberspace and which has been granted to a public authority by the natural person.&#x20;
 
-<mark style="color:purple;">**Global Jurisdiction:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">shall mean a natural person's declared legal authority over public representation of their Sentience beyond the reasonable limits of the local and cyber jurisdictions and above and over the conflicts with local and cyber jurisdictions.</mark>
+<mark style="color:purple;">**Global Jurisdiction:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">shall mean a natural person's declared legal authority over public representation of their Sentience beyond the reasonable limits</mark>&#x20;
 
-These global statutes consider <mark style="color:purple;">no single public authority</mark> having absolute **international jurisdiction** over the metadata but only significantly limit local jurisdiction over hosted metadata in connection with each natural person's sentience in the context of local jurisdiction laws.
+<mark style="color:purple;">of the local and cyber jurisdictions AND</mark>&#x20;
 
-<mark style="color:purple;">**Interstellar Jurisdiction:**</mark> shall mean a natural person's declared legal authority over public representation of their Sentience beyond the reasonable limits of the local, cyber and global jurisdictions and above and over the conflicts with local, cyber and global jurisdictions.
+<mark style="color:purple;">above and over the conflicts between local and cyber jurisdictions.</mark>
 
-\ <mark style="color:purple;">**IX. Foundation:**</mark> unless explicitly mentioned, Foundation shall mean constituent Fiscal Hosts - registered legally organised voluntary associations or co-operatives in different parts of the world.&#x20;
+These global statutes consider <mark style="color:purple;">no single public authority</mark> having absolute global **jurisdiction** over the public representation of a natural person's sentience but only significantly reduce local jurisdiction over hosted metadata in connection with each natural person's sentience, in the context of global jurisdiction.
 
-**The term “Foundation” is foremost a set of underlying design principles or basis for a responsive union of entities, e.g. by following a set of guiding principles.**\
-[**https://docs.muellners.info/guiding-principles**](https://docs.muellners.info/guiding-principles)
+<mark style="color:purple;">**Interstellar Jurisdiction:**</mark> shall mean a natural person's declared legal authority over public representation of their Sentience beyond the reasonable limits&#x20;
+
+of the local, cyber and global jurisdictions AND&#x20;
+
+above and over the conflicts between local, cyber and global jurisdictions.
+
+\ <mark style="color:purple;">**IX. Foundation:**</mark> unless explicitly mentioned, Foundation shall mean constituent Fiscal Hosts - registered, legally organised voluntary associations or co-operatives in different parts of the world.&#x20;
+
+**The term “Foundation” is foremost a set of underlying** [**design principles**](guiding-principles.md) **or basis for a responsive union of entities, e.g. by following a set of guiding principles.**\
+
 
 \ <mark style="color:purple;">**X.**</mark>&#x20;
 
@@ -107,13 +115,13 @@ These global statutes consider <mark style="color:purple;">no single public auth
 
 <mark style="color:purple;">**Electronic Persons:**</mark> shall mean artificial machines or computing entities whose legal capacity is performed through an institutional unit of this Foundation and whose activities are governed by a set of Statutes. mutatis mutandis, whether or not they are an organizational unit.
 
-<mark style="color:purple;">**XI. Legal Body:**</mark> shall mean a legally organised voluntary association or a co-operative or a private limited or a public limited body, or such legal entities, registered according to Local law.
+<mark style="color:purple;">**XI. Legal Body:**</mark> shall mean a legally organised voluntary association or a co-operative or a private limited or a public limited body, or similar such legal entities, registered according to Local law.
 
-\ <mark style="color:purple;">**XII. Citizens:**</mark> shall mean **Natural Persons** who have **at least** subscribed to the Foundation's community and have acquired a subscription account on the Foundation's decentralised communications systems.&#x20;
+\ <mark style="color:purple;">**XII. Citizens:**</mark> shall mean **Natural Persons** who have **at least** subscribed to the Foundation and have acquired an electronic residency account on the Foundation's decentralised communications systems.&#x20;
 
 For these articles and elsewhere in this Open Constitution, terms such as members, constituents, and human beings shall all mean "citizens".&#x20;
 
-**Global Citizen:** shall mean citizens registered on Open Constitution's global registry. All ordinary members, as well as subscribed members of the Open Constitution, therefore, are commonly referred to as Global Citizens in the Open Constitution literature.
+**Global Citizen:** shall mean citizens registered on Open Constitution's global registry. All ordinary members, as well as subscribed members of the Open Constitution, therefore, are therefore commonly referred to as Global Citizens in the Open Constitution literature.
 
 **Local Citizen:** shall mean citizens registered with any of the Open Constitution's local registry linked to a Fiscal Host.&#x20;
 
@@ -132,7 +140,7 @@ Several covenants of the Open Constitution are publicly listed on specific pages
 
 <mark style="color:purple;">**XVII:**</mark>&#x20;
 
-<mark style="color:purple;">**State:**</mark> means a legal construct of collective geopolitical responsibility and self-governance, as defined by Articles of Association between two or more natural person(s) or legal bodies within the limits of a geographical planetary space, existing as a consequence of rules of international law.&#x20;
+<mark style="color:purple;">**State:**</mark> means a legal construct of collective geopolitical responsibility and self-governance, as defined by Articles of Association between two or more natural person(s) within the limits of a geographical planetary space, existing as a consequence of rules of international law.&#x20;
 
 <mark style="color:purple;">**Union:**</mark> means a legal construct of collective responsibility and self-governance, as defined by Articles of Association between two or more natural person(s) or legal bodies or “sovereign” states, existing as a consequence of rules of international law.&#x20;
 
@@ -158,11 +166,11 @@ _Central Bank:_ means a principal regulatory body of RVC and RVC’s payment sys
 
 1. Several instruments and articles thereof use _gender-appropriate terminology, e.g. "his or her or their", "he or she or "them" in reference to a natural person._
 
-_Readers shall interpret the gender-neutral words at their liberty but only for representing an anonymous member's gender identity in the context of Open Constitution's Articles for citizenship._
+_Readers shall interpret the gender-neutral words at their liberty but only for representing an anonymous member's gender identity in the context of the Open Constitution's Articles for citizenship._
 
 _2. All measurements of time - minutes or years are in the context of human-made timezones on planet Earth._
 
-3. _Sentience is described here for the purpose of an equivalent of sentience in a robotic AI social capital network._
+3. _Sentience is described here to imbibe sentient neural knowledge in the Open Constitution AI social capital network._
 
 
 {% endhint %}
