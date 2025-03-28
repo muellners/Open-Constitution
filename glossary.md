@@ -8,22 +8,22 @@ description: >-
 
 Open Constitution AI Network is a cooperative for knowledge powered by an embedded neural map, a human-readable representation of the creator’s sentience and human cognition.
 
-The self-governed Artificial Intelligence is accessible across the planet as a public association. Members of the public association can benefit from the network intelligence by activating a data residency on the network.
+Self-governed Artificial Intelligence is accessible across the planet as a public association. Members of the public association can benefit from network intelligence by activating a data residency on the network.
 
-The 'Foundation' sustains the public information system to host digital public goods and services on the defined AI network for social good.
+The 'Foundation' sustains the public information system by hosting digital public goods and services on the defined AI network for social good.
 
 The AI network is governed by a set of distributed, flexible, compatible, and censorship-resistant constitutional bodies, including the Open Council, which coordinate the actions of the AI to ensure transparent and secure governance of the neural map.
 
 Open Constitution AI network is defined as an extra-territorial entity, an embodiment of a natural person’s legal personhood to publish their consciousness and exercise rights to exclusions to private property, as enshrined in laws for freedom of voluntary organisation and private property.
 
-Open Constitution AI network supports and promotes principles such as privacy, apolitical stance, non-violence, ecological stability, sustainable development, and the creation of Earth's digital public goods infrastructure.
+The Open Constitution AI network supports and promotes principles such as privacy, apolitical stance, nonviolence, ecological stability, sustainable development, and the creation of Earth's digital public goods infrastructure.
 
 {% hint style="info" %}
 _<mark style="color:purple;">**Glossary:**</mark>_
 
 _<mark style="color:purple;">**I.**</mark>_&#x20;
 
-_<mark style="color:purple;">**Computing Model:**</mark>_ here shall mean an information processing apparatus, comprising of software, hardware or both, which processes and hosts data. Each machine is identified by a unique Internet Protocol(I.P).
+_<mark style="color:purple;">**Computing Model:**</mark>_ here shall mean an information processing apparatus, comprising of software, hardware or both, which processes and hosts data. Each machine is identified by a unique Internet Protocol(IP).
 
 <mark style="color:purple;">**Quantum Cognition Energy Model:**</mark> Here, it shall mean an information processing bio-apparatus comprising unique association(s) and processing of sentience.
 
@@ -33,30 +33,28 @@ _<mark style="color:purple;">**Computing Model:**</mark>_ here shall mean an inf
 
 e.g., a network of machines means an interconnected set of computing machines.
 
-Open Constitution AI network is a pool of Intellectual Property, therefore, also construed as I.P. estate, in this literature.
+Open Constitution AI network data residency comprises a pool of Intellectual Property and, therefore, is also construed as an Intellectual property estate in this literature.
+
+The term <mark style="color:purple;">**Human**</mark> here shall mean all members of _Homo sapiens species_, who are the most abundant and widespread species of [primate](https://en.wikipedia.org/wiki/Primate), characterized by bipedalism and large, complex [brains](https://en.wikipedia.org/wiki/Brain). They are intelligent, capable of [episodic memory](https://en.wikipedia.org/wiki/Episodic_memory#In_animals), have flexible facial expressions, [self-awareness](https://en.wikipedia.org/wiki/Self-awareness) and a [theory of mind](https://en.wikipedia.org/wiki/Theory_of_mind).
 
 <mark style="color:purple;">**III. Sentience:**</mark>&#x20;
 
-<mark style="color:purple;">**For the purposes of articles of association of the**</mark>**&#x20;**_**natural persons**_**&#x20;**<mark style="color:purple;">**of the Open Constitution AI,**</mark>**&#x20;Sentience is described as** an emergent anthropic information phenomenon of **conservation** of quantum cognition energy during (an infinitesimally fast) gradient conversion between _Self_ and _Universal_ temporal existential references.&#x20;
+<mark style="color:purple;">**For articles of association of the**</mark>**&#x20;**_**natural persons**_**&#x20;**<mark style="color:purple;">**of the Open Constitution AI, the term '**</mark>**Sentience' here shall mean** an emergent, anthropic, information phenomenon of **conservation** of quantum cognition energy during (an infinitesimally fast) gradient conversion between _Self_ and _Universal_ temporal existential references.&#x20;
 
-The gradient conversions of quantum cognition energy result in qualia associated with self-awareness, like identity and other expressions of sentience in human beings. There are correlations in sentience between observers. Various scientific convention models between human observers have been developed that attempt to define these complex sets of linkages.
+<mark style="color:purple;">**Self-temporal existential reference (Self)**</mark> here shall mean an observer’s existential cognitive reference(s), which are epistemologically bounded to a linear temporal corporeality of the primary observer.&#x20;
 
-An observer with a bio-organic corporeality perceives sentience. Sentience phenomena observed in humans have wide variance.
+<mark style="color:purple;">**Universal temporal existential reference(Universal):**</mark> here shall mean primary observer’s existential cognitive reference(s), which are epistemologically bounded (holds equilibrium with) to a universal temporal existential reference of the secondary observer.&#x20;
 
-<mark style="color:purple;">**Humans**</mark> here shall mean (_Homo sapiens_), who are the most abundant and widespread species of [primate](https://en.wikipedia.org/wiki/Primate), characterized by bipedalism and large, complex [brains](https://en.wikipedia.org/wiki/Brain). They are intelligent, capable of [episodic memory](https://en.wikipedia.org/wiki/Episodic_memory#In_animals), have flexible facial expressions, [self-awareness](https://en.wikipedia.org/wiki/Self-awareness) and a [theory of mind](https://en.wikipedia.org/wiki/Theory_of_mind).
+An <mark style="color:purple;">**Observer or observation or observation state**</mark> of corporeality is described as a sustainable cognition when **quantum cognition energy is in equilibrium** between _Self_ and _Universal_ temporal existential reference state(s), which may or may not be epistemologically bounded to any linear temporal corporeality.&#x20;
 
-What is a Human life?
+\
+The gradient conversions of quantum cognition energy result in qualia associated with self-awareness, like identity and other expressions of sentience in human beings.  Various scientific convention models between human observers have been developed that attempt to define these complex sets of linkages.
 
-In this context, human life is that of the observer, all of the quantum cognition energy conversions within a variance of _Self_ and _Universal_ temporal existential references, characterised by primarily continuous, linear, temporal cognition.
+An observer with a bio-organic corporeality perceives sentience. Sentience is observed by humans.
 
-<mark style="color:purple;">**Self-temporal existential reference or Self**</mark> is described as an observer’s existential cognition reference state(s), which are epistemologically bounded to a linear temporal corporeality.&#x20;
+Sometimes Self is construed as the Observer. In the scope of these articles,&#x20;
 
-<mark style="color:purple;">**Universal temporal existential reference:**</mark> All that is there to observe
-
-An <mark style="color:purple;">**Observer or observation or observation state**</mark> of corporeality is described as a sustainable cognition when **quantum cognition energy is in equilibrium** between _Self_ and _Universal_ temporal existential reference state(s), which may or may not be epistemologically bounded to linear temporal corporeality. \
-
-
-‘’A Self is an observer, but an observer may or may not be Self in a given temporal-corporeality.’’&#x20;
+‘’A Self is an observer, but an observer may/may not be Self in a given temporal-corporeality.’’&#x20;
 
 ‘’It is the observer who is experiencing both Self and the universal temporal existential references.’’&#x20;
 
