@@ -14,7 +14,7 @@ A Fiscal Host legal body, statutorily registered in any socio-economic jurisdict
 
 The Articles in the sections are the only legal wording for Articles of the Association.
 
-The Help Text (in blue) is only provided to describe a summary of the section or, in some cases - to simplify the Articles or the section for laypersons. The Help text can be altered, or republished to simplify the language further.
+The Help Text is only provided to describe a summary of the section or, in some cases - to simplify the Articles or the section for laypersons. The Help text can be altered, or republished to simplify the language further.
 
 The Articles of Association are also available in other languages; however, English is the language to be used in preference for any legal interpretation.
 
@@ -67,7 +67,7 @@ b. maintaining an intellectual property artefact registry on behalf of its membe
 
 c. organising and supporting conferences, symposiums and seminars in any fiscal year and other events in accordance with the association’s purposes as described in §2 Purpose Article 1 a,b above
 
-d. organising disinformation campaigns in public spaces by means of exercising the Association’s purpose as described in §2 Purpose Article 1. a, b, c above.
+d. organising awareness campaigns in public spaces by means of exercising the Association’s purpose as described in §2 Purpose Article 1. a, b, c above.
 
 e. organizing public interest litigations against human rights violations, including but not only limited to any litigation against any public body affiliated with a state’s governance in the appropriate Court of jurisdiction, in accordance with the United Nations Convention on Human Rights.
 
