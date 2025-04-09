@@ -19,7 +19,7 @@ description: >-
 
 <mark style="color:green;">A fiscal Host is a legal fiduciary body of the extraterritorial Trust network in a local jurisdiction. The Foundation that runs the network is an extra territorial entity. Therefore, fiscal bodies constitute the Foundation, in accordance with Article II, IIIA, VIII, V A, VI A, XI A, XII.</mark>
 
-<mark style="color:green;">The initial members in the jurisdiction adopt the Fiscal Host AoAs, specific to each jurisdiction. These are listed</mark> [<mark style="color:green;">here</mark>](../fiscal-host-aoa.md)<mark style="color:green;">.</mark>
+<mark style="color:green;">The initial members in the jurisdiction adopt the Fiscal Host AoAs, specific to each jurisdiction. These are listed</mark> [<mark style="color:green;">here</mark>](../local-statutes-1.md)<mark style="color:green;">.</mark>
 
 <mark style="color:green;">Muellners Foundation is the lessor entity that awards the right to use assets to each Fiscal Host for claiming the Trust Network's beneficiary licenses.</mark>
 
