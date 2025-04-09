@@ -4,11 +4,16 @@ description: This page is the Preamble of the Open Constitution.
 
 # ♻️ Preamble
 
-<mark style="color:blue;">WE, THE CITIZENS OF PLANET EARTH, having solemnly resolved to constitute Earth into a</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**UNION**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">and to secure all its citizens:</mark>
+### PREAMBLE: 
 
-<mark style="color:green;">A socially sustainable, carbon-neutral, and peaceful humankind based on principles of</mark> <mark style="color:green;"></mark>_<mark style="color:green;">inclusive fairness.</mark>_
+WE, THE CITIZENS OF PLANET EARTH, having solemnly resolved to constitute Earth into a SOVEREIGN AND DEMOCRATIC UNION to secure to all its citizens,&#x20;
 
-<mark style="color:orange;">In Our Open Convention this tenth day of January 2020, do Hereby Adopt, Enact And Give To Ourselves This Open Constitution.</mark>\
+a social and ecologically sustainable planet earth, based on the principles of Equity and Inclusion, for sharing a peaceful future.
+
+On this tenth day of January, 2020, do Hereby Adopt, Enact And Give To Ourselves this Open Constitution.
+
+\
+\
 
 
 **Read** [**Guiding Principles**](../guiding-principles.md)
