@@ -436,7 +436,7 @@ The fiscal year of the Association shall be determined and fixed by resolution o
 
 ### Section 13.3. Loans.&#x20;
 
-No loans shall be contracted on behalf of the Association and no evidence of indebtedness shall be issued in its name unless authorized by a resolution of the Board of Association. Such authority may be general or confined to specific instances.
+,No loans shall be contracted on behalf of the Association and no evidence of indebtedness shall be issued in its name unless authorized by a resolution of the Board of Association. Such authority may be general or confined to specific instances.
 
 ### Section 13.4. Deposits.&#x20;
 
@@ -450,7 +450,7 @@ The Executive Council may authorize any officer or officers, agent or agents, to
 
 Facsimile Execution. Any document requiring the signature of the directors and/or members may be executed in any number of counterparts with the same effect as if all of the required signatories had signed the same document. Such executions may be transmitted to the Association and/or the other directors and/or members by facsimile and such facsimile execution shall have the full force and effect of an original signature. All fully executed counterparts, whether original executions or facsimile executions or a combination, shall be construed together and shall constitute one and the same agreement.
 
-THESE BYLAWS WERE READ, APPROVED AND ADOPTED BY THE OPEN CONSTITUTION S/I ON THE 10th DAY OF DECEMBER, 2022.
+THESE BYLAWS WERE READ, APPROVED AND ADOPTED BY THE OPEN CONSTITUTION ON THE 10th DAY OF DECEMBER, 2022.
 
 \
 \
