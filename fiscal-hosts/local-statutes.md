@@ -316,11 +316,11 @@ Any officer or agent and any member of any Board Committee elected or appointed 
 
 The removal of Chairs of any Board Committee, including but not limited to the Chair of Board is conditional to a vote by all or a class of members.
 
-### Section 6.6.Vacancies.&#x20;
+### Section 6.5.Vacancies.&#x20;
 
 Any vacancy, however occurring, in any office or any Board Committee may be filled by the Board of Directors.
 
-### Section 6.7.Compensation.&#x20;
+### Section 6.6.Compensation.&#x20;
 
 The compensation, if any, of all officers of the Association shall be fixed by the Board and may be changed from time to time by a majority vote of the Board.&#x20;
 
