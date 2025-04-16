@@ -56,7 +56,6 @@
 * [📚 Fiscal Hosts](fiscal-hosts/fiscal-hosts/README.md)
   * [💂 Independent Board](fiscal-hosts/fiscal-hosts/independent-board.md)
 * [👩‍💻 Steward Group](fiscal-hosts/steward-group.md)
-* [📔 Local Statutes 1](fiscal-hosts/local-statutes-1.md)
 * [Local Statutes](fiscal-hosts/local-statutes.md)
 * [📚 Legal Impressum](fiscal-hosts/legal-impressum/README.md)
   * [📚 Network Fiscal Diagram](fiscal-hosts/legal-impressum/network-fiscal-diagram.md)

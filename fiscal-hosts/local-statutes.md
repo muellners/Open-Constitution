@@ -1,6 +1,10 @@
+---
+description: This page describes the AoA of
+---
+
 # Local Statutes
 
-These bylaws are read, agreed and adopted by each Association(s) of the Open Constitution network. &#x20;
+These bylaws are read, agreed and adopted by fiscal Association of the Open Constitution network for Europe Economic area. &#x20;
 
 ## ARTICLE I  PURPOSE
 
