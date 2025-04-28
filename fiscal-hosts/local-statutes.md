@@ -1,5 +1,5 @@
 ---
-description: This page describes the AoA of
+description: This page describes the AoA of Fiscal Host in EU.
 ---
 
 # Local Statutes
@@ -51,8 +51,6 @@ If digitally issued in Association's Open Convention forum, such notice shall be
 If electronically mailed, such notice shall be deemed to be delivered when addressed to the member at his or her or their email address as it appears in the membership records of the Association.
 
 Notwithstanding the above paragraph, the Association shall not be required to give notice of a members' meeting to any member, to whom notice of two consecutive annual meetings, and all notices of meetings, during the period between such two consecutive annual meetings, have been delivered under the procedures outlined above and have been returned undeliverable.
-
-
 
 Any action or meeting which shall be taken or held without notice to such member shall have the same force and effect as if such notice had been duly given.&#x20;
 
@@ -114,7 +112,7 @@ Each member (except emeritus members) shall be entitled to one vote on each matt
 
 A member may vote either in person or electronically or by proxy executed in writing by the member or his or her or their duly authorized attorney-in-fact.
 
-### Section 3.1.11. Proxies.&#x20;
+### Section 3.1.11.Proxies.&#x20;
 
 Every member entitled to vote at a meeting of members or to express consent or dissent to corporate action in writing without a meeting, or a member's duly authorized attorney-in-fact, may authorize another person or persons to act for him/her by proxy.
 
@@ -136,8 +134,6 @@ Prompt notice of the corporate action without a meeting by less than unanimous e
 
 Any natural person who has reached the age of 15, any legal person who supports the association's purpose can be accepted as a member if they fulfil the conditions for membership as set forth below.
 
-
-
 1. the To be eligible for membership, a person must complete a membership application, in such form, as published on Association’s artificially intelligent informatics system, (as described in Article 1) for generating a person's representation against a social capital index, as adopted by the Board, during any membership year.
 2. The board may exclude a person from admission to the Association, whose score is below a threshold on the social capital index, as adopted by the Board, during any membership year, in order to grant membership authorization to Association’s intellectual property artefact registry, for the purpose of preserving the non for profit status of the association( as described in Article 8).
 
@@ -147,8 +143,7 @@ The annual general meeting determines the membership fee.
 
 The membership year follows the period from 1 January to 31 December or a fiscal year as decided by the Association’s Board of Directors.
 
-The membership fee must be paid to the association’s secretariat and applies to the current membership year.\
-
+The membership fee must be paid to the association’s secretariat and applies to the current membership year.
 
 The nomination must be included in an electronic notice to the members, if any, of the Association at least seven (7) days prior to any vote on the applicant's admission, which notice may be by electronic means.&#x20;
 
@@ -160,7 +155,7 @@ Upon the effective date of conversion of the membership of any member to emeritu
 
 References in these Bylaws to a "member" or to the "members" of the Association shall not include any emeritus member unless explicitly provided otherwise.
 
-### Section 4.3.Voluntary Conversion of Membership to Emeritus Status. 
+### Section 4.3.Voluntary Conversion of Membership to Emeritus Status.&#x20;
 
 Members may convert their membership to emeritus status at any time upon ten (10) days' written, signed notice delivered to an officer of the Association.
 
@@ -169,8 +164,6 @@ Members may convert their membership to emeritus status at any time upon ten (10
 Upon an affirmative vote of a two-thirds majority of the members of the Association, the membership of a member shall be converted into an emeritus membership.
 
 ### Section 4.5.Reinstatement of Membership of Emeritus Members.&#x20;
-
-
 
 Upon receipt of a written request and a new membership application from an emeritus member and upon an affirmative vote of a majority of the members of the Association approving such membership application, such emeritus member membership shall be reinstated as a full member of the Association, and shall be entitled to exercise all rights as a member of the Association, including all related voting rights.
 
@@ -450,7 +443,7 @@ The Executive Council may authorize any officer or officers, agent or agents, to
 
 Facsimile Execution. Any document requiring the signature of the directors and/or members may be executed in any number of counterparts with the same effect as if all of the required signatories had signed the same document. Such executions may be transmitted to the Association and/or the other directors and/or members by facsimile and such facsimile execution shall have the full force and effect of an original signature. All fully executed counterparts, whether original executions or facsimile executions or a combination, shall be construed together and shall constitute one and the same agreement.
 
-THESE BYLAWS WERE READ, APPROVED AND ADOPTED BY THE OPEN CONSTITUTION ON THE 10th DAY OF DECEMBER, 2022.
+THESE BYLAWS WERE READ, APPROVED AND ADOPTED BY THE OPEN CONSTITUTION ON THE 16th DAY OF DECEMBER, 2022.
 
 \
 \
