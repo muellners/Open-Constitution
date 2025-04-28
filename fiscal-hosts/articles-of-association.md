@@ -1,8 +1,4 @@
----
-description: This page describes the AoA of Fiscal Host in EU.
----
-
-# Local Statutes
+# Articles of Association
 
 These bylaws are read, agreed and adopted by fiscal Association of the Open Constitution network for Europe Economic area. &#x20;
 
