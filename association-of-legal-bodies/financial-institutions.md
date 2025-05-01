@@ -4,7 +4,7 @@ description: >-
   natural persons(legal body) to Open Constitution AI Network Tenancy.
 ---
 
-# 🏦 E-Tenancy Bylaws
+# E-Tenancy Bylaws
 
 ## Governing Articles:
 

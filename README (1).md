@@ -4,7 +4,7 @@ description: >-
   persons and electronic persons.
 ---
 
-# 🎵 Introduction
+# Introduction
 
 Open Constitution AI is a public information system that uses machine learning and knowledge-based approaches to achieve a set of [objectives](articles/objectives.md).
 

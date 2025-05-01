@@ -2,7 +2,7 @@
 description: This page is the Preamble of the Open Constitution.
 ---
 
-# ♻️ Preamble
+# Preamble
 
 ### PREAMBLE: 
 

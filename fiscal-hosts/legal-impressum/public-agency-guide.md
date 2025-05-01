@@ -4,7 +4,7 @@ description: >-
   social, civil or economic jurisdiction of a member state of U.N.O
 ---
 
-# 📚 Public Agency Guide
+# Public Agency Guide
 
 
 

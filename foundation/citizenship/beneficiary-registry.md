@@ -4,7 +4,7 @@ description: >-
   Network.
 ---
 
-# 🙅 Beneficiary Registry
+# Beneficiary Registry
 
 ### BENEFICIARY CITIZEN:
 

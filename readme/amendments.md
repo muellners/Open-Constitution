@@ -2,7 +2,7 @@
 description: This page explains how to bring amendments to this Open Constitution.
 ---
 
-# 🧰 Amendments
+# Amendments
 
 
 

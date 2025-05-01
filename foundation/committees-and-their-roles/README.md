@@ -4,7 +4,7 @@ description: >-
   network, also shape the protocols of the Self Governance system.
 ---
 
-# 🦉 Open Council
+# Open Council
 
 The Open Constitution Network constitutes an Open Council, which depends on pillars of "_representational democracy" and is governed by these Articles of Open Constitution._
 

@@ -4,7 +4,7 @@ description: >-
   indemnification, when serving at the request of the Foundation.
 ---
 
-# 🎗️ Right to Indemnification
+# Right to Indemnification
 
 {% hint style="info" %}
 <mark style="color:green;">Foundation maintains an active Legal, Regulations and Steward Committee for enforcement of citizen's Right to Indemnification, both in defense or when in pursuit of the Foundation's rights.</mark>  \ <mark style="color:green;">Read Article XII of</mark> [<mark style="color:green;">**Global Statutes**</mark>](./)<mark style="color:green;">.</mark>

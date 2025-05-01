@@ -1,4 +1,4 @@
-# 📚 Legal Impressum
+# Legal Impressum
 
 LEGAL IMPRINT:&#x20;
 

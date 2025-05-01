@@ -2,7 +2,7 @@
 description: This page describes the local citizenship on the Open Constitution Network.
 ---
 
-# 🧗 Local Citizen
+# Local Citizen
 
 ### **LOCAL CITIZEN:**
 

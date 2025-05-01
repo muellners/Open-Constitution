@@ -4,7 +4,7 @@ description: >-
   body.
 ---
 
-# 🗞️ Trustee Council Config
+# Trustee Council Config
 
 The foundation promotes outstanding socially inclined individuals from all corridors of human life and supports sentient leadership in its community. &#x20;
 

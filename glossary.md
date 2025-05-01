@@ -4,7 +4,7 @@ description: >-
   articles.
 ---
 
-# 🈯 Glossary
+# Glossary
 
 Open Constitution AI Network is a cooperative for knowledge powered by an embedded neural map, a human-readable representation of the creator’s sentience and human cognition.
 

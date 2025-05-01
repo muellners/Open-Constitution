@@ -4,7 +4,7 @@ description: >-
   AI.
 ---
 
-# ☮️ Guiding Principles
+# Guiding Principles
 
 These are the guiding principles for all natural persons, legal persons(bodies), and electronic persons who adopt the Global Statutes: Open Constitution.
 

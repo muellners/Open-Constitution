@@ -2,7 +2,7 @@
 description: This page details the objectives of the members of this Open Constitution.
 ---
 
-# 🏹 Objectives
+# Objectives
 
 {% hint style="info" %}
 

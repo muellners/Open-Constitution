@@ -2,7 +2,7 @@
 description: GLOBAL STATUTES
 ---
 
-# 🤝 Bylaws articles
+# Bylaws articles
 
 These bylaws are read, agreed and adopted by each registered agent or Fiscal Host(s) on the Open Constitution network.
 

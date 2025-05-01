@@ -4,7 +4,7 @@ description: >-
   Constitution network.
 ---
 
-# 📚 Fiscal Hosts
+# Fiscal Hosts
 
 
 

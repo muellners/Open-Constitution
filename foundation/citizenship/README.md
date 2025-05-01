@@ -4,7 +4,7 @@ description: >-
   co-operative of Open Constitution network.
 ---
 
-# 🤝 Citizenship
+# Citizenship
 
 {% hint style="info" %}
 <mark style="color:purple;">Before we begin, readers shall know that there are following types of registry, where Open Constitution's census is registered or de registered.</mark>\

@@ -4,7 +4,7 @@ description: >-
   appointed by a Council Vote of the Open Council.
 ---
 
-# 🕵️‍♀️ Executive Council
+# Executive Council
 
 Executive Council members play a vital role in executing **governance** of Foundation's initiatives.
 

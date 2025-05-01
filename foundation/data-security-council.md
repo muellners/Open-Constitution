@@ -4,7 +4,7 @@ description: >-
   appointed by a Council Vote of the Open Council.
 ---
 
-# 📵 Data Security Council
+# Data Security Council
 
 **The role of the Data Security Council is to act on the Foundation's citizen privacy, security and enforcement of data protection rights of the Foundation's community on its several public initiatives.** \
 **This Council works on data security regulations, concerning communications policies.**

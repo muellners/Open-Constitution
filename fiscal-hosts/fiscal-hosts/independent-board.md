@@ -4,7 +4,7 @@ description: >-
   Foundation's Global Statutes.
 ---
 
-# 💂 Independent Board
+# Independent Board
 
 A jurisdiction-based Independent Board acts as a **ratification agency** of the Executive Council's Resolutions; community recommendations, appointments to Council, and Amendments to Open Constitution, including but not limited to decisions made by the Steering Council members w.r.t community movement.&#x20;
 

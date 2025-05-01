@@ -4,7 +4,7 @@ description: >-
   Network.
 ---
 
-# 👩‍🎨 Subscription Registry
+# Subscription Registry
 
 ### SUBSCRIBED MEMBERS:&#x20;
 

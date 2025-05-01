@@ -4,7 +4,7 @@ description: >-
   Open Constitution Network.
 ---
 
-# 🏨 Election Council
+# Election Council
 
 {% hint style="info" %}
 The <mark style="color:green;">Election Council is an autonomous body in the Open Constitution network's global community. It is a standalone and independent Council with its own powers of constitutional governance.</mark>&#x20;

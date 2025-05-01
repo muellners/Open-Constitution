@@ -5,7 +5,7 @@ description: >-
   Council.
 ---
 
-# 👩‍💻 Steward Group
+# Steward Group
 
 In addition to assisting functions defined by the Treasury and Regulations Councils, Steward Groups are organised as Special Action Task Forces linked to a Fiscal Host/Node.
 

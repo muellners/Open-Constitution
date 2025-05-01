@@ -5,7 +5,7 @@ description: >-
   region's local Business laws.
 ---
 
-# ✍️ Global Statutes:
+# Global Statutes:
 
 {% hint style="info" %}
 <mark style="color:green;">A few notes before we start:</mark>

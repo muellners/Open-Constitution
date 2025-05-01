@@ -2,7 +2,7 @@
 description: This page describes the global citizenship on the Open Constitution Network.
 ---
 
-# 🙋 Global Citizen
+# Global Citizen
 
 ### **GLOBAL CITIZEN:**
 

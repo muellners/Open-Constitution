@@ -2,7 +2,7 @@
 description: This page describes the Emeritus Citizenship.
 ---
 
-# 🤹 Emeritus Citizen
+# Emeritus Citizen
 
 ### EMERITUS CITIZEN:
 

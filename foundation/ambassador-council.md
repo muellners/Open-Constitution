@@ -4,7 +4,7 @@ description: >-
   Open Constitution network.
 ---
 
-# 🏳️ Ambassador Council
+# Ambassador Council
 
 {% hint style="info" %}
 
