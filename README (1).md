@@ -45,11 +45,11 @@ The network is known as the Open Constitution AI network.
 <mark style="color:purple;">Articles of the Open Constitution are amendable.;</mark>
 
 {% hint style="info" %}
-**Global Statute** is a library of articles, documents, instruments, and proclamations for the self-governance of the public Association of humans and machines on the Open Constitution AI network.&#x20;
+**Global Statute** is a library of articles, documents, instruments, and proclamations for the self-governance of the public Association of humans and machines as described as the Open Constitution AI network.&#x20;
 
-This library is used to deploy digital systems for Open Constitution AI resource governance actively.&#x20;
+This library is used to deploy digital resources for Open Constitution AI network governance actively.&#x20;
 
-These public-facing policy "instruments" and guidelines are based on the active harmonization of the Global Statutes with legal principles and constructs, including, but not limited to, bylaws and local statutes for the network's natural persons.&#x20;
+These public-facing policy "instruments" and guidelines are based on the active harmonization of the Global Statutes with legal principles and constructs, including, but not limited to, bylaws and local statutes for the network's natural persons in local jurisdictions.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
