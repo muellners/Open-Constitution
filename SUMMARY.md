@@ -44,7 +44,7 @@
 * [Ambassador Council](foundation/ambassador-council.md)
 * [Data Security Council](foundation/data-security-council.md)
 * [Election Council](foundation/election-council.md)
-* [⚖️ Open Tribunal](foundation/open-tribunal.md)
+* [Open Tribunal](foundation/open-tribunal.md)
 
 ## Association of Legal Bodies
 
