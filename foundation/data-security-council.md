@@ -157,7 +157,7 @@ Read more on the [guiding principles & diversity statement](../guiding-principle
 
 Read more about the Foundation’s [Code of Conduct](broken-reference) here.&#x20;
 
-11\. The [statutes](../articles/statutes-open-bank-foundation/) of the Foundation and terms and conditions governing its functioning can be found here. The Independent Board reserves the right to dissolve the whole Data Security Council and initiate the constitution of a new Data Security Council.
+11\. The [statutes](../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here. The Independent Board reserves the right to dissolve the whole Data Security Council and initiate the constitution of a new Data Security Council.
 
 12\. The Foundation members communicate via cryptographic electronic communications systems and technology tools. \
 In connection with the electronic meetings convened by members of this council, the Foundation’s IT infrastructure shall be used.&#x20;

@@ -8,13 +8,17 @@ description: >-
 
 Open Constitution AI is a public information system that uses machine learning and knowledge-based approaches to achieve a set of [objectives](articles/objectives.md).
 
-> A ‘Foundation’ is described in this literature that is responsible for maintaining the Trust network.&#x20;
+> A ‘Foundation’ is described in this literature that is responsible for maintaining the Open Constitution AI network.&#x20;
 >
-> The ‘Foundation’ is a legal construct which defines protocols, deployed into the Artificial General Intelligence network.&#x20;
+> ‘Foundation’ is a legal construct which defines protocols, deployed into the Artificial General Intelligence network.&#x20;
 >
-> Foundation's Articles of Association are known as [Global Statutes](articles/statutes-open-bank-foundation/).
+> We call it Open-Bank Foundation. It has a non for profit, extra territorial characteristics due to the nature the Trust network maintains a pool of financial data residency.
 >
-> The activities of this defined 'Foundation' in different tax residencies are regulated by means of fiscal hosts.&#x20;
+> Open-Bank Foundation's Articles of Association are known as [Global Statutes](articles/statutes-muellners-foundation/).
+>
+> Any economic activities of this defined Open-Bank 'Foundation' in different tax residencies are regulated by means of fiscal hosts.&#x20;
+>
+> Each Fiscal host runs a fiscal node.
 >
 > See Network Fiscal Diagram.
 
@@ -36,7 +40,7 @@ The network's participants are natural, legal, and electronic persons.”
 The network is known as the Open Constitution AI network.
 {% endhint %}
 
-**In simpler words,** the Open Constitution AI network runs on an alterable knowledge base, using self-governance principles and protocols laid down in the network’s [Global Statutes](articles/statutes-open-bank-foundation/).&#x20;
+**In simpler words,** the Open Constitution AI network runs on an alterable knowledge base, using self-governance principles and protocols laid down in the network’s [Global Statutes](articles/statutes-muellners-foundation/).&#x20;
 
 <mark style="color:purple;">Articles of the Open Constitution are amendable.;</mark>
 
