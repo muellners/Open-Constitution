@@ -4,7 +4,7 @@ description: >-
   by a Council Vote of the Open Council.
 ---
 
-# 🔦 Regulations Council
+# Regulations Council
 
 **The role of the Regulations Council is to provide counsel to the Open Constitution network's community on its various initiatives.** \
 **This Council works on regulations concerning monetary policies, inter-governmental agencies, governmental agencies and the Foundation's statutory maintenance.**

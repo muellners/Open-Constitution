@@ -4,7 +4,7 @@ description: >-
   defined in this Open Constitution.
 ---
 
-# 🚣‍♀️ Core Working Committee
+# Core Working Committee
 
 Foundation's community shall appoint and constitute several Core Working Committees(CWCs), as member bodies within the Foundation's Open Constitution.
 

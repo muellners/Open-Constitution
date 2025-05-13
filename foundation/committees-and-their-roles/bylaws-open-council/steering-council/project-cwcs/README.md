@@ -4,7 +4,7 @@ description: >-
   Groups, including community guidelines to how to join them.
 ---
 
-# 🧞‍♂️ Steering CWCs
+# Steering CWCs
 
 ### **Role of Steering CWCs and its members:**
 

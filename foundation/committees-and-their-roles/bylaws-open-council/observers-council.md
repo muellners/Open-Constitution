@@ -5,7 +5,7 @@ description: >-
   Council.
 ---
 
-# 🔭 Observers Council
+# Observers Council
 
 **As the name suggests, the role of the Observer Council is to observe the Open Constitution network's various initiatives and ensure that the Foundation is in compliance with its vision & purpose.**
 

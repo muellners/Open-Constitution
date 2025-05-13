@@ -4,7 +4,7 @@ description: >-
   appointed by Steering Council members.
 ---
 
-# 🏧 Finscale CWC
+# Finscale CWC
 
 Finscale CWC comprises an active group of members working with the open-source project [Finscale](https://finscale.org):
 

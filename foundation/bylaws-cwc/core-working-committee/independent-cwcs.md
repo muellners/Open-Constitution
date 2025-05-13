@@ -5,7 +5,7 @@ description: >-
   Observations, Media, Ethics, Executive.
 ---
 
-# 🏑 Independent CWCs
+# Independent CWCs
 
 {% hint style="info" %}
 _**Role of Independent CWCs and CWC members in**_ [_**Open Council**_](../../committees-and-their-roles/) _**bodies -** Legal, Regulations, Observations, Media, Ethics, and Executive._

@@ -4,7 +4,7 @@ description: >-
   appointed by a Council Vote of the Open Council.
 ---
 
-# 🍯 Treasury Council
+# Treasury Council
 
 **The role of the Treasury Council is to steer the Open Constitution network's various initiatives with fund appropriations, and governance rules on co-operative owned fund management.**
 

@@ -4,7 +4,7 @@ description: >-
   Council Vote of the Open Council.
 ---
 
-# 🎓 Legal Council
+# Legal Council
 
 **The role of the Legal Council is to advise the Open Constitution network on legally protecting the Foundation's activities.**
 

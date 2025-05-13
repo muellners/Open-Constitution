@@ -4,7 +4,7 @@ description: >-
   Steering Council members.
 ---
 
-# 🐺 Open Bank CWC
+# Open Bank CWC
 
 Open Bank CWC comprises an active group of members working to further the technical deployments of these human-readable Articles of Association for the  Open Constitution AI self-governance system:
 

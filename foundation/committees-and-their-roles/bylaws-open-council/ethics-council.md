@@ -4,7 +4,7 @@ description: >-
   Council Vote of the Open Council.
 ---
 
-# ☮️ Ethics Council
+# Ethics Council
 
 **The role of the Ethics Council is to advise, observe and steer the human values upon which the Open Constitution network or the  Foundation rests.**
 

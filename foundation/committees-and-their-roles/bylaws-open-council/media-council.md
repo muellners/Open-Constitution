@@ -4,7 +4,7 @@ description: >-
   Council Vote of the Open Council.
 ---
 
-# 📡 Media Council
+# Media Council
 
 **The role of the Global Media Council is to counsel, observe, and steer the Open Constitution network's community on media outreach regarding the Foundation's activities.**
 

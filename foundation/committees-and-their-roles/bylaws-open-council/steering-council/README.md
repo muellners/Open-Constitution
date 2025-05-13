@@ -4,7 +4,7 @@ description: >-
   by the Foundation's community members.
 ---
 
-# 🌱 Steering Council
+# Steering Council
 
 **The role of the Steering Council is to steer the Open Constitution network's various initiatives.**
 

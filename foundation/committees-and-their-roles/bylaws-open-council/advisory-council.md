@@ -4,7 +4,7 @@ description: >-
   appointed by a Council Vote of the Open Council.
 ---
 
-# 🙋 Advisory Council
+# Advisory Council
 
 **The role of the Advisory Council is to advise the Open Constitution network to achieve its goals.**
 
