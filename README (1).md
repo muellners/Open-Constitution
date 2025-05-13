@@ -12,11 +12,11 @@ Open Constitution AI is a public information system that uses machine learning a
 >
 > ‘Foundation’ is a legal construct which defines protocols, deployed into the Artificial General Intelligence network.&#x20;
 >
-> We call it Open-Bank Foundation. It has a non for profit, extra territorial characteristics due to the nature the Trust network maintains a pool of financial data residency.
+> Known as Open-Bank Foundation, it has a non for profit, extra territorial characteristics due to the nature that the Open Constitution AI network maintains a pool of data residency across jurisdictions.
 >
 > Open-Bank Foundation's Articles of Association are known as [Global Statutes](articles/statutes-muellners-foundation/).
 >
-> Any economic activities of this defined Open-Bank 'Foundation' in different tax residencies are regulated by means of fiscal hosts.&#x20;
+> Economic activities of this public institution i.e. Open-Bank 'Foundation' are regulated by means of fiscal hosts in different tax residencies.&#x20;
 >
 > Each Fiscal host runs a fiscal node.
 >
