@@ -8,9 +8,13 @@ description: >-
 
 Open Constitution AI is a public information system that uses machine learning and knowledge-based approaches to achieve a set of [objectives](articles/objectives.md).
 
-> An extra territorial ‘Foundation’ runs the extra territorial Trust network.&#x20;
+> A ‘Foundation’ is described as a legal construct and a set of principles in this literature that runs the Trust network.&#x20;
 >
-> The ‘Foundation’ is a legal construct which defines protocols, deployed into the Artificial General Intelligence network.
+> The ‘Foundation’ is a legal construct which defines protocols, deployed into the Artificial General Intelligence network.&#x20;
+>
+> Foundation's Articles of Association are known as Global Statutes.
+>
+> The activities of this defined 'Foundation' in different tax residencies are regulated by means of fiscal hosts.
 
 {% hint style="info" %}
 The Open Constitution AI network governance is powered by an **Embedded** **Knowledge Base(EKB).**
