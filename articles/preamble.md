@@ -20,4 +20,4 @@ On this tenth day of January, 2020, do Hereby Adopt, Enact And Give To Ourselves
 
 **Read** [**Glossary**](../glossary.md)
 
-**Read** [**Global Statutes**](statutes-muellners-foundation/)
+**Read** [**Global Statutes**](statutes-open-bank-foundation/)

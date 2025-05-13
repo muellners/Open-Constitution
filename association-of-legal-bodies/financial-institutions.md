@@ -30,7 +30,7 @@ Any such representation of a duty-bound nominee shall have received signatory ri
 _<mark style="color:purple;">An E-Tenant e.g. an institution may appoint e.g. a Board Committee or an Officer or an employee of the institution to the Observers Council.</mark>_
 {% endhint %}
 
-Any nomination, appointment, or termination of the representative shall follow the Articles of Association of Natural Persons: [Observers Council](../foundation/committees-and-their-roles/bylaws-open-council/observers-council.md), and subsequently any change of representation shall also be ratified in accordance with the [Global Statutes](../articles/statutes-muellners-foundation/).
+Any nomination, appointment, or termination of the representative shall follow the Articles of Association of Natural Persons: [Observers Council](../foundation/committees-and-their-roles/bylaws-open-council/observers-council.md), and subsequently any change of representation shall also be ratified in accordance with the [Global Statutes](../articles/statutes-open-bank-foundation/).
 
 **2.1 ROLE OF A SPECIAL REPRESENTATIVE APPOINTEE(S) IN NETWORK TENANCY:**
 
@@ -158,14 +158,14 @@ Judgment upon the award rendered by the arbitrator(Open Tribunal) may be entered
 
 ## **7. GOVERNING PROVISIONS:**
 
-The [Executive Council](../foundation/executive-council.md) reserves the right to update the terms and conditions and policies of the network consistent with the legal interpretation of the [Global Statutes](../articles/statutes-muellners-foundation/) from time to time, in compliance with the existing rules and regulations of the public association, including reserving the right to terminate the appointment of the Special Representative Appointee of the E-Tenant to the Observer's Council at any time, without notice and without the due electoral process of removal, explicitly when:
+The [Executive Council](../foundation/executive-council.md) reserves the right to update the terms and conditions and policies of the network consistent with the legal interpretation of the [Global Statutes](../articles/statutes-open-bank-foundation/) from time to time, in compliance with the existing rules and regulations of the public association, including reserving the right to terminate the appointment of the Special Representative Appointee of the E-Tenant to the Observer's Council at any time, without notice and without the due electoral process of removal, explicitly when:
 
 _If the E-Tenant is found convicted of criminal, civil and financial crimes, in any court of competent jurisdiction, across the world, where the Foundation has an active presence, either through a legal body representation or an affiliate network(_&#x77;here the Foundation has a Fiscal host).
 
 
 
 {% hint style="info" %}
-<mark style="color:purple;">The</mark> [<mark style="color:purple;">statutes</mark>](../articles/statutes-muellners-foundation/) <mark style="color:purple;">of the Foundation and terms and conditions governing its functioning can be found here.</mark>&#x20;
+<mark style="color:purple;">The</mark> [<mark style="color:purple;">statutes</mark>](../articles/statutes-open-bank-foundation/) <mark style="color:purple;">of the Foundation and terms and conditions governing its functioning can be found here.</mark>&#x20;
 {% endhint %}
 
 

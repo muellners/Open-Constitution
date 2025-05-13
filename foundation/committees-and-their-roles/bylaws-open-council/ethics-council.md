@@ -136,7 +136,7 @@ Read more on the [guiding principles & diversity statement](../../../guiding-pri
 
 Read more about the Foundation’s [Code of Conduct](broken-reference) here.&#x20;
 
-11\. The [statutes](../../../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here.&#x20;
+11\. The [statutes](../../../articles/statutes-open-bank-foundation/) of the Foundation and terms and conditions governing its functioning can be found here.&#x20;
 
 The Independent Board reserves the right to dissolve the complete Ethics Council and initiate the constitution of a new Ethics Council.
 

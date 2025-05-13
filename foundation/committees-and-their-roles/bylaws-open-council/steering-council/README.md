@@ -161,7 +161,7 @@ Read more on the [guiding principles & diversity statement](../../../../guiding-
 
 Read more about the Foundation’s [Code of Conduct](broken-reference) here.&#x20;
 
-11\. The [statutes](../../../../articles/statutes-muellners-foundation/) of the Foundation and terms and conditions governing its functioning can be found here. The Election Council reserves the right to dissolve the whole Steering Council and initiate the constitution of a new Steering Council.&#x20;
+11\. The [statutes](../../../../articles/statutes-open-bank-foundation/) of the Foundation and terms and conditions governing its functioning can be found here. The Election Council reserves the right to dissolve the whole Steering Council and initiate the constitution of a new Steering Council.&#x20;
 
 Read more on the dissolution of a constitutional body of this Open Constitution.
 

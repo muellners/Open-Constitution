@@ -42,7 +42,7 @@ Each **instrument** is bound by a specific custodian, an Open Council body which
 >
 > No alteration, amendment or repeal of these Bylaws shall be effective unless and until the Foundation attempts, in good faith, to issue notice to the members of the Foundation of such alteration, amendment or repeal at least fifteen (15) days prior to the effective date of such alteration, amendment or repeal, which notice may be by electronic means.
 >
-> Read Bylaws [here](../articles/statutes-muellners-foundation/).
+> Read Bylaws [here](../articles/statutes-open-bank-foundation/).
 
 {% hint style="info" %}
 Read governance guidelines before bringing about an Amendment to the Open Constitution.&#x20;

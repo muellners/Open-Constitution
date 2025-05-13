@@ -10,9 +10,9 @@
 
 * [Preamble](articles/preamble.md)
 * [Objectives](articles/objectives.md)
-* [Global Statutes:](articles/statutes-muellners-foundation/README.md)
-  * [Bylaws articles](articles/statutes-muellners-foundation/bylaws-articles.md)
-  * [Right to Indemnification](articles/statutes-muellners-foundation/right-to-indemnification.md)
+* [Global Statutes:](articles/statutes-open-bank-foundation/README.md)
+  * [Bylaws articles](articles/statutes-open-bank-foundation/bylaws-articles.md)
+  * [Right to Indemnification](articles/statutes-open-bank-foundation/right-to-indemnification.md)
 
 ## Association of Natural Persons <a href="#foundation" id="foundation"></a>
 

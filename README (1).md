@@ -8,13 +8,15 @@ description: >-
 
 Open Constitution AI is a public information system that uses machine learning and knowledge-based approaches to achieve a set of [objectives](articles/objectives.md).
 
-> A ‘Foundation’ is described as a legal construct and a set of principles in this literature that runs the Trust network.&#x20;
+> A ‘Foundation’ is described in this literature that is responsible for maintaining the Trust network.&#x20;
 >
 > The ‘Foundation’ is a legal construct which defines protocols, deployed into the Artificial General Intelligence network.&#x20;
 >
-> Foundation's Articles of Association are known as Global Statutes.
+> Foundation's Articles of Association are known as [Global Statutes](articles/statutes-open-bank-foundation/).
 >
-> The activities of this defined 'Foundation' in different tax residencies are regulated by means of fiscal hosts.
+> The activities of this defined 'Foundation' in different tax residencies are regulated by means of fiscal hosts.&#x20;
+>
+> See Network Fiscal Diagram.
 
 {% hint style="info" %}
 The Open Constitution AI network governance is powered by an **Embedded** **Knowledge Base(EKB).**
@@ -34,7 +36,7 @@ The network's participants are natural, legal, and electronic persons.”
 The network is known as the Open Constitution AI network.
 {% endhint %}
 
-**In simpler words,** the Open Constitution AI network runs on an alterable knowledge base, using self-governance principles and protocols laid down in the network’s [Global Statutes](articles/statutes-muellners-foundation/).&#x20;
+**In simpler words,** the Open Constitution AI network runs on an alterable knowledge base, using self-governance principles and protocols laid down in the network’s [Global Statutes](articles/statutes-open-bank-foundation/).&#x20;
 
 <mark style="color:purple;">Articles of the Open Constitution are amendable.;</mark>
 
